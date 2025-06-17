@@ -1,0 +1,48 @@
+
+
+## One-Minute Daily AI News June 17, 2025
+News
+
+A.I. Might Take Your Job. Here Are 22 New Ones It Could Give You. - The New York Times[1]
+
+Geoffrey Hinton: These Jobs Will Be Replaced Due to AI - Entrepreneur[2]
+
+The Godfather of AI reveals which jobs are safest — and where 'everybody' will get replaced - Business Insider[3]
+
+Timbaland's AI music project is a ghost in a misguided machine - NPR[4]
+
+Reddit stock jumps after company rolls out new AI advertising tools - CNBC[5]
+
+More people turning to AI bots for news: Poll - The Hill[6]
+
+AI Scraping Bots Are Breaking Open Libraries, Archives, and Museums - 404 Media[7]
+
+Poll finds public turning to AI bots for news updates - Yahoo[8]
+
+AI is rapidly transforming customer experiences - here's 8x8's vision for the future of CX - ZDNet[9]
+
+Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ[10]
+
+
+Sources:
+
+[1] https://news.google.com/rss/articles/CBMibEFVX3lxTE1mRm82SDFLZ1NTQUNqbURUQURIYlV0dEdONkRVbFpiMHl3bjcxMmw4Uk9iNFRqeEVfRGlWSEREZXNIRV8tTllHNmdrLXp3d243d0liYkZVU2JWR09rR25uTGxiV3BvdU5kTWNNMQ?oc=5
+
+[2] https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1BzemJ1NV80Q2dreW82SkJGZDNBNW9uLVRPRENObWJYVHROdm95TjBjd2M1SG1KSzc3YmpMQ2pabUhocHhnYkkyc0JWZjg1TkxXVDZIOFo1T3ZsbUdVYVZvRmQ3UFhWbm8xcnlkYWlSZUdac2M0ZDRvdzF0azdTVjlndjg0N2g4bXp0Ymdya0lmdklVbV9DbW51ZnFIRmhPaTRvNEdR?oc=5
+
+[3] https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkUwNDR4dzZMSGhZdXVzdkdUQUwyS2x3ZFE4QXhJeWpNeWQ3NVlGamdnSUVRSmExeFkweXlzNTllUTM2QkpUQ05sYlBkOGVWdXRlYkotbGZjWEIzZzhDREp4cDhPMDl2bzZRb0ZSTDN2WkNKR05CY2lxNEc2Y3l3MFBYeFE1WWc?oc=5
+
+[4] https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGFzcnJwRHlaRGdqUl80YzRmTDJOZ29UWVprbkZUTmRJc1ZObjlEcXJYa1NkN0Vid2tnakpMY3dReVM1YUxtTXF1N0tTcDg0N2VsNDU2VC1ycUtyNXB5VTdFNFd4Q1J4c0pNRkNMSUpyVi01c21hSi1EY00tTjY4NjBMei0wUGVkS1FBVXVMcUtpVXZHWmhPV1laYw?oc=5
+
+[5] https://news.google.com/rss/articles/CBMickFVX3lxTE4wWUp4RGJhQnVHcUdSSXpMVVAwcGUtMEQzeEd3ZnhQS2ZwdXJFX0pfZnk0SWJQNDBDb2k5eS13REd0cnlKUjZvanhldVRrOTBjNzdYcGZTX0ZrTVNLY25ZcVc4STB0WFNvUkxlVldpVEkzZw?oc=5
+
+[6] https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXRCWlVCbWJ0S3VCd0hlQzN5R3FGbkJpazd3ak0tMmpkMXhvWlotWC1GYXdLbmdVamZZMGJ4N2g1WEw0WGhhR1I5ekxBTTVPVWZYMUlEbm9qUlEzb2luRGMycGdtbHAyTjUwV213M3doSjF4am01WUtNMmFCVkZ1LVRTT0FtbFlnY0FOR3BNemljUdIBlwFBVV95cUxQLXdvSUJrSDBlZWZQeEljd05XUlAtQ1hHUG1Eem1JMHhmRGxRcFZaOUVHcHdjTlhnSUpmSEJMQnVYN1FJcy1MaTE3OTU0YmRuVFlkWkFBU0VjSVJ2VXNxU1hiMVRVRzV0bUNZYTA3WlpfWXVXa0c2Mms5UjJkbm5tOHVidHBhREU5bDNLY1N1M2dOZU1vMi1B?oc=5
+
+[7] https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzNqY1dQWVhCZm1RN1JaSEE4MUs2dGE0bDcwUVhJWlo5bVl0UlVrVGI0NDQ4MXV2RzVsZFRvbmtYcm1XVzJmTGZwZ2FNOFprd1lYQWN4eWdZUExvM09EQ2J2WG8tb3lqYkF2TU5XR2RIQ2prQXRmRnZTaW02Z3hZY3B3TjB4X1BoM0RnNkFpNDNZR1Yw?oc=5
+
+[8] https://news.google.com/rss/articles/CBMiekFVX3lxTE53bDdFSnRncjRkUXJKempIcExkYngxbmNUMFJYUUh2SThCZTJxMmtUTU5BQWV5Y0p1SEZ1RkV0akdXekRKc1A1aXFObjZkdU9ydkFFX2FZb1JjRE1yODBzOFlnR1Z5cTVVdk5WNm9kV2tjVm9tZTZTVzF3?oc=5
+
+[9] https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzJfbkVOcWZCVEk0TGhLMFg4Rmo4UEtwSlZib3BRT3VnM1BTS3VRSTg3Mm5ObG1VSU05cG5ROEx4ZXBHZDdJbVNFeXRIWWxVSXNtT3dueTEwSlJYLXZOZlByWnEwYmg1a1ppOEpFWTRtU1dwSHVfckVkLU50cG5ud3FIQmxkVk5HekFPeUtrb3FjVUF0LU55QUprcGtCRVFaUXItaVNJRTM3REkwSmtZb0tXbW1UbExa?oc=5
+
+[10] https://news.google.com/rss/articles/CBMioANBVV95cUxON1VseGpEQUZqQjBkYjR0b3B6WkZzanRPcVpZbmFPS1RKbjVxSkttZ3BXeTV5dzBTT0NpczdqbF9wVW95LUhuY1BNV3o4elBDNzhZbUU1eEhieEp3YnBnbEZHd3M1THdHZjNQRFA5bk1JQmFRem1nalhaM1dpX01HUlRBb3VYNHBaMXNqU0FzRUdjSi0wMl9zX3FQdUluWm9rTjFqdG9BVkpqTC0tekJvU3pjQkhjaTRkZTI2THE2NUNQbVRuNmRvYVJxemgtZ0Q5cDRXSC1zX3d4VXRPUmdwS29Pd3p4YW1mU2ZycmpUUnVwdTdJaUdyY1J3ZEgtRk5MOWQtY1cwLVFRUWN1VWFid3JYWVlDNDZrNDBMeWtVX0EzMml3RTN2RHpRN2lGVDg0QUJ2VlpDYVplbXhNYkE5VHMwSHVoaTNYMER0OFRmcXNjQWVtY0pKMTNYQmRRZDNXVmVHRkYyMUl2MzEyUjE0MG5wb0FwRUVkYmRCYllmM0xmTFFEVDloMXptWHRXNWdnbGZocmo2X2Nra3MxUk5weg?oc=5
+
