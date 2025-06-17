@@ -5,6 +5,7 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import urllib.parse
+import re
 
 # Target file path
 FILE_PATH = "tools/blogs-and-news.md"
@@ -98,28 +99,36 @@ for _, link in top_news:
     short_links.append(shorten_url(link))
     time.sleep(0.5)  # avoid rate limiting
 
-# Read existing content
+# Read existing content and remove today's section if present
 try:
     with open(FILE_PATH, "r") as f:
         existing = f.read()
 except FileNotFoundError:
     existing = "# 🔗 Blog Posts / News Articles\n"
 
-# Format today's section
 date_today = datetime.date.today()
-header = f"\n\n## One-Minute Daily AI News {date_today.strftime('%B %d, %Y')}\nNews\n\n"
+date_str = date_today.strftime('%B %d, %Y')
+
+# Remove any existing section for today
+pattern = re.compile(rf"## Quick Daily AI News {re.escape(date_str)}.*?(?=\n## |\Z)", re.DOTALL)
+existing = re.sub(pattern, '', existing).strip()
+
+# Format today's section
+header = f"\n\n## Quick Daily AI News {date_str}\nNews\n\n"
 news_lines = ""
 sources_lines = "\nSources:\n\n"
 for i, ((title, _), short_url) in enumerate(zip(top_news, short_links), start=1):
     news_lines += f"{i}. {title} [[{i}]]({short_url})\n\n"
     sources_lines += f"[{i}]: {short_url}\n\n"
 
-# Combine all
-section = header + news_lines + sources_lines
-updated_content = section + existing
+# Combine all, prepend today's news, add horizontal rule after each day
+section = header + news_lines + sources_lines + '\n---\n'
+updated_content = section + '\n' + existing.lstrip('#').strip()  # keep top heading only once
+if not updated_content.startswith('#'):
+    updated_content = '# 🔗 Blog Posts / News Articles\n' + updated_content
 
 # Save updated file
-with open(FILE_PATH, "w") as f:
+with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(updated_content)
 
 print("✅ blogs-and-news.md updated successfully.")
