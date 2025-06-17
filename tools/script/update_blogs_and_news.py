@@ -116,13 +116,13 @@ existing = re.sub(pattern, '', existing).strip()
 # Format today's section
 header = f"\n\n## Quick Daily AI News {date_str}\nNews\n\n"
 news_lines = ""
-sources_lines = "\nSources:\n\n"
-for i, ((title, _), short_url) in enumerate(zip(top_news, short_links), start=1):
-    news_lines += f"{i}. {title} [[{i}]]({short_url})\n\n"
-    sources_lines += f"[{i}]: {short_url}\n\n"
+for i, (title, _) in enumerate(top_news, start=1):
+    news_lines += f"{i}. {title} [{i}]\n\n"
+# Sources in a single line
+sources_line = "Sources:\n" + " ".join([f"[{i+1}] {short_links[i]}" for i in range(len(short_links))]) + "\n"
 
 # Combine all, prepend today's news, add horizontal rule after each day
-section = header + news_lines + sources_lines + '\n---\n'
+section = header + news_lines + sources_line + '\n---\n'
 updated_content = section + '\n' + existing.lstrip('#').strip()  # keep top heading only once
 if not updated_content.startswith('#'):
     updated_content = '# 🔗 Blog Posts / News Articles\n' + updated_content
