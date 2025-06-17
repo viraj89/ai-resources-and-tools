@@ -3,6 +3,8 @@
 import datetime
 import requests
 import xml.etree.ElementTree as ET
+import time
+import urllib.parse
 
 # Target file path
 FILE_PATH = "tools/blogs-and-news.md"
@@ -10,7 +12,7 @@ FILE_PATH = "tools/blogs-and-news.md"
 # RSS feed for Google News on AI
 RSS_FEED_URL = "https://news.google.com/rss/search?q=AI&hl=en-US&gl=US&ceid=US:en"
 
-# Keywords to search for
+# Expanded keywords for broader AI news coverage
 KEYWORDS = [
     # Major AI Companies
     "OpenAI", "Anthropic", "Google AI", "Microsoft AI", "Meta AI", "DeepMind", "Stability AI", "Midjourney", "Cohere",
@@ -25,8 +27,28 @@ KEYWORDS = [
     "AI Code Generation", "AI Writing", "AI Translation", "AI Research", "AI Development",
     # Industry Terms
     "AGI", "Artificial General Intelligence", "Narrow AI", "Supervised Learning", "Unsupervised Learning",
-    "Reinforcement Learning", "Transfer Learning", "Few-shot Learning", "Zero-shot Learning"
+    "Reinforcement Learning", "Transfer Learning", "Few-shot Learning", "Zero-shot Learning",
+    # New: Startups, Investments, Funds, Regions
+    "AI startup", "AI startups", "AI investment", "AI investments", "VC fund", "Venture Capital", "Hedge Fund",
+    "AI funding", "AI IPO", "AI acquisition", "AI regulation", "AI merger", "AI India", "AI US", "AI United States", "AI America"
 ]
+
+# Severity keywords for prioritization
+SEVERITY_KEYWORDS = [
+    "breakthrough", "investment", "funding", "regulation", "acquisition", "IPO", "ban", "lawsuit", "record", "exclusive", "crisis", "merger",
+    "AI startup", "AI startups", "VC fund", "Venture Capital", "Hedge Fund", "OpenAI", "Anthropic", "India", "US", "United States", "America"
+]
+
+# Helper: Shorten URLs using TinyURL API
+def shorten_url(url):
+    try:
+        api_url = f"https://tinyurl.com/api-create.php?url={urllib.parse.quote(url)}"
+        res = requests.get(api_url, timeout=5)
+        if res.status_code == 200:
+            return res.text.strip()
+    except Exception:
+        pass
+    return url  # fallback to original if failed
 
 # Helper to fetch news from a Google News RSS feed URL
 def fetch_rss_items(feed_url):
@@ -59,8 +81,22 @@ for title, link in all_news:
     if link not in seen_links:
         unique_news.append((title, link))
         seen_links.add(link)
-    if len(unique_news) >= 10:
-        break
+
+# Prioritize by severity
+def severity_score(title):
+    t = title.lower()
+    return sum(1 for kw in SEVERITY_KEYWORDS if kw.lower() in t)
+
+unique_news.sort(key=lambda x: severity_score(x[0]), reverse=True)
+
+# Limit to top 10
+top_news = unique_news[:10]
+
+# Shorten URLs for citations
+short_links = []
+for _, link in top_news:
+    short_links.append(shorten_url(link))
+    time.sleep(0.5)  # avoid rate limiting
 
 # Read existing content
 try:
@@ -74,9 +110,9 @@ date_today = datetime.date.today()
 header = f"\n\n## One-Minute Daily AI News {date_today.strftime('%B %d, %Y')}\nNews\n\n"
 news_lines = ""
 sources_lines = "\nSources:\n\n"
-for i, (title, link) in enumerate(unique_news, start=1):
-    news_lines += f"{title}[{i}]\n\n"
-    sources_lines += f"[{i}] {link}\n\n"
+for i, ((title, _), short_url) in enumerate(zip(top_news, short_links), start=1):
+    news_lines += f"{i}. {title} [[{i}]]({short_url})\n\n"
+    sources_lines += f"[{i}]: {short_url}\n\n"
 
 # Combine all
 section = header + news_lines + sources_lines
