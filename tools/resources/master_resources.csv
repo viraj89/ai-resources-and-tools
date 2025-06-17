@@ -1,2 +1,17 @@
 Sr. No.,Tool Name,Category,URL,What it does,Free/Paid
-1,ChatGPT,Chatbot,https://chat.openai.com/,Conversational AI assistant,Free/Paid 
+1,ChatGPT,Text / Chat Assistants,https://chat.openai.com,AI chatbot for writing and Q&A,Freemium
+2,Perplexity,Search / Research,https://www.perplexity.ai,AI search engine with citations,Freemium
+3,Claude,Text / Chat Assistants,https://claude.ai,AI assistant by Anthropic,Freemium
+4,Cursor,Code / Developer Tools,https://www.cursor.so,AI-first code editor,Freemium
+5,GitHub Copilot,Code / Developer Tools,https://github.com/features/copilot,AI pair programmer in IDE,Paid
+6,Loveable,Code / Developer Tools,https://lovable.dev,AI that explains and debugs code,Freemium
+7,Notion AI,Productivity / Writing,https://www.notion.so/product/ai,AI writing assistant built into Notion,Freemium
+8,Krea AI,Design / Image Generation,https://www.krea.ai,AI for image generation and editing,Freemium
+9,Runway ML,Video / Creative Tools,https://runwayml.com,AI video editing and creative tools,Paid
+10,ElevenLabs,Voice / Audio Tools,https://www.elevenlabs.io,AI voice cloning and text-to-speech,Freemium
+11,Gamma,Presentations,https://gamma.app,AI-generated presentation builder,Freemium
+12,Poe,Text / Chat Assistants,https://poe.com,Hub for chatting with multiple AI models,Freemium
+13,HeyGen,Video / Creative Tools,https://www.heygen.com,AI avatar-based video creation,Paid
+14,Tome,Presentations,https://tome.app,AI tool for storytelling and slides,Freemium
+15,Leonardo AI,Design / Image Generation,https://www.leonardo.ai,AI for game art and image creation,Freemium
+16,Veo 3,Video / Creative Tools,https://veo.google,Google's experimental video generation model,N/A 
