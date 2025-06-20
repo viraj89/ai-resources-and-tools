@@ -1,6 +1,5 @@
+import { content } from '@/data/content';
 import { Inter } from "next/font/google";
-import fs from 'fs';
-import path from 'path';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -57,10 +56,6 @@ const DailyUpdate = ({ update }: { update: any }) => (
 );
 
 export default function Home() {
-  // Read the content.json file directly from the filesystem
-  const contentPath = path.join(process.cwd(), 'src/data/content.json');
-  const contentFile = fs.readFileSync(contentPath, 'utf8');
-  const content = JSON.parse(contentFile);
   const { daily_updates } = content;
 
   return (
@@ -69,9 +64,7 @@ export default function Home() {
     >
       <div className="max-w-5xl w-full">
         <header className="text-center mb-16">
-          <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">
-            Auto-News AI
-          </h1>
+          <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">Auto-News AI</h1>
           <p className="text-lg text-gray-500 dark:text-gray-400 mt-2">
             Your daily digest of trending AI tools and news, updated automatically.
           </p>
