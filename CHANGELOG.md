@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.1.0] - 2025-01-27
+## [3.1.0] - 2025-06-20
 
 ### Added
 - **Modern Website Interface**: Complete Next.js 15.3.4 website with React 19
@@ -36,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [3.0.0] - 2025-01-26
+## [3.0.0] - 2025-06-20
 
 ### Added
 - **Next.js Application**: Modern React-based website
@@ -67,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [2.2.0] - 2025-01-25
+## [2.2.0] - 2025-06-20
 
 ### Added
 - **Dynamic Keyword Learning**: AI-powered keyword extraction and learning system
@@ -271,9 +271,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Major Features |
 |---------|------|----------------|
-| 3.1.0 | 2025-01-27 | Modern website with Next.js 15.3.4 and React 19 |
-| 3.0.0 | 2025-01-26 | Complete web platform with Next.js and TypeScript |
-| 2.2.0 | 2025-01-25 | AI-powered keyword learning and adaptation |
+| 3.1.0 | 2025-06-20 | Modern website with Next.js 15.3.4 and React 19 |
+| 3.0.0 | 2025-06-20 | Complete web platform with Next.js and TypeScript |
+| 2.2.0 | 2025-06-20 | AI-powered keyword learning and adaptation |
 | 2.1.0 | 2025-06-20 | AI tools directory, smart content filtering, improved project structure |
 | 2.0.0 | 2025-06-20 | Daily AI tools digest, trending scoring, enhanced Reddit integration |
 | 1.0.0 | 2025-06-19 | Initial news aggregation system and manual tools database |

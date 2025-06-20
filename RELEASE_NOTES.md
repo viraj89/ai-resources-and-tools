@@ -2,7 +2,7 @@
 
 ## v3.1.0 - The Polish & Refine Update (Current)
 
-**Release Date**: January 27, 2025  
+**Release Date**: June 20, 2025  
 **Status**: Current Release
 
 ### 🌟 Major Features
@@ -49,7 +49,7 @@ npm run dev
 
 ## v3.0.0 - The Website
 
-**Release Date**: January 26, 2025  
+**Release Date**: June 20, 2025  
 **Status**: Released
 
 ### 🌐 Web Platform
@@ -83,7 +83,7 @@ npm run dev
 
 ## v2.2.0 - Dynamic Keyword Learning
 
-**Release Date**: January 25, 2025  
+**Release Date**: June 20, 2025  
 **Status**: Released
 
 ### 🧠 Intelligent Keyword System
@@ -265,9 +265,9 @@ tools-directory    # Generate tools directory
 
 | Version | Date | Focus | Key Achievement |
 |---------|------|-------|-----------------|
-| v3.1.0 | 2025-01-27 | Polish & Refine | Modern website with Next.js 15.3.4 and React 19 |
-| v3.0.0 | 2025-01-26 | The Website | Complete web platform with Next.js and TypeScript |
-| v2.2.0 | 2025-01-25 | Dynamic Keywords | AI-powered keyword learning and adaptation |
+| v3.1.0 | 2025-06-20 | Polish & Refine | Modern website with Next.js 15.3.4 and React 19 |
+| v3.0.0 | 2025-06-20 | The Website | Complete web platform with Next.js and TypeScript |
+| v2.2.0 | 2025-06-20 | Dynamic Keywords | AI-powered keyword learning and adaptation |
 | v2.1.0 | 2025-06-20 | Enhanced Directory | Clean tools directory and project restructure |
 | v2.0.0 | 2025-06-20 | Major Restructure | Daily digest and enhanced discovery system |
 | v1.0.0 | 2025-06-19 | Initial Release | Basic news aggregation and tools database |
@@ -319,4 +319,4 @@ For support and questions:
 ---
 
 **AI Insights Daily Team**  
-**Last Updated**: January 27, 2025 
+**Last Updated**: June 20, 2025 

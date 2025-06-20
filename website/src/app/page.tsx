@@ -17,7 +17,7 @@
  * 
  * Author: AI Insights Daily Team
  * Version: 3.1.0
- * Last Updated: January 2025
+ * Last Updated: June 2025
  */
 
 import { content } from '@/data/content';
