@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import VisitorCounter from "@/components/VisitorCounter";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,7 +22,6 @@ export default function RootLayout({
           <p className="text-gray-500 dark:text-gray-400">
             Powered by Auto-News AI
           </p>
-          <VisitorCounter />
         </footer>
       </body>
     </html>
