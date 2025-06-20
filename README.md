@@ -1,29 +1,30 @@
-# Auto News Aggregator
+# AI Resources and Tools
 
-An automated tool that aggregates and updates AI-related news and blog posts daily. The tool fetches news from various sources, prioritizes important updates, and maintains a clean, organized markdown file with the latest AI news.
+An automated tool that aggregates AI-related news and maintains a comprehensive collection of AI tools and resources. The project fetches news from various sources, prioritizes important updates, and maintains both a clean, organized markdown file with the latest AI news and a curated CSV database of AI tools and resources.
 
 ## Features
 
-- 🔄 **Automated Updates**: Runs daily at 7 AM IST via GitHub Actions
-- 📰 **Comprehensive Coverage**: Aggregates news from multiple sources including:
+- 🔄 **Automated News Updates**: Runs daily at 7 AM IST via GitHub Actions
+- 📰 **Comprehensive News Coverage**: Aggregates news from multiple sources including:
   - Google News RSS feeds
   - Major AI companies and startups
   - Industry developments and breakthroughs
-- 🎯 **Smart Filtering**: Uses an extensive keyword list to ensure relevant content
-- ⚡ **Priority Sorting**: Highlights important news based on severity keywords
-- 🔗 **Clean Formatting**: Maintains a well-organized markdown file with:
+- 🎯 **Smart News Filtering**: Uses an extensive keyword list to ensure relevant content
+- ⚡ **Priority News Sorting**: Highlights important news based on severity keywords
+- 🔗 **Clean News Formatting**: Maintains a well-organized markdown file with:
   - Daily news sections
   - Numbered entries
   - Shortened URLs for better readability
   - Clear source citations
-- 📒 **Master Resources List**: Maintains a comprehensive, curated CSV file of AI tools, apps, and resources, including their categories, descriptions, and pricing.
+- 📒 **AI Resources Database**: Maintains a comprehensive, curated CSV file of AI tools, apps, and resources, including their categories, descriptions, and pricing
+- 🛠️ **Tool Discovery**: Easy-to-browse collection of AI tools organized by category
 
 ## Project Structure
 
 ```
 .
+├── blogs-and-news.md        # Main output file with aggregated news (updated daily)
 ├── tools/
-│   ├── blogs-and-news.md    # Main output file with aggregated news (updated daily)
 │   ├── resources/
 │   │   └── master_resources.csv  # Comprehensive list of AI tools, apps, and resources
 │   └── script/
@@ -35,13 +36,18 @@ An automated tool that aggregates and updates AI-related news and blog posts dai
 
 ## How It Works
 
+### News Aggregation
 1. The script runs daily at 7 AM IST
 2. Fetches news from Google News RSS feeds using multiple AI-related keywords
 3. Processes and deduplicates the news items
 4. Prioritizes important updates using severity keywords
 5. Formats the content with proper markdown structure
 6. Updates the `blogs-and-news.md` file with the latest news
-7. Maintains a growing, curated `master_resources.csv` file with AI tools and resources
+
+### Resources Collection
+- Maintains a growing, curated `master_resources.csv` file with AI tools and resources
+- Each entry includes tool name, category, URL, description, and pricing information
+- Organized by categories like Text/Chat Assistants, Code/Developer Tools, Design/Image Generation, etc.
 
 ## Master Resources CSV
 

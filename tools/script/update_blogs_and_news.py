@@ -8,7 +8,7 @@ import urllib.parse
 import re
 
 # Target file path
-FILE_PATH = "tools/blogs-and-news.md"
+FILE_PATH = "blogs-and-news.md"
 
 # RSS feed for Google News on AI
 RSS_FEED_URL = "https://news.google.com/rss/search?q=AI&hl=en-US&gl=US&ceid=US:en"
