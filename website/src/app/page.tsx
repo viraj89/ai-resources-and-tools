@@ -1,4 +1,4 @@
-import content from "@/data/content.json";
+import content from "../data/content.json";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
