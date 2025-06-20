@@ -57,34 +57,42 @@ def parse_daily_tools(content):
 
 def parse_news(content):
     """Parse the blogs-and-news.md file."""
-    sections = re.split(r'### (.*?)\n\n', content)
-    if not sections:
-        return []
-
     daily_updates = []
-    for i in range(1, len(sections), 2):
-        date_str = sections[i].strip()
+    
+    # Find all date sections
+    date_sections = re.findall(r'## Quick Daily AI News (.*?)\n(.*?)(?=\n##|\Z)', content, re.S)
+    
+    for date_str, section_content in date_sections:
         try:
-            date = datetime.strptime(date_str, '%Y-%m-%d').isoformat()
+            date = datetime.strptime(date_str.strip(), '%B %d, %Y').isoformat()
         except ValueError:
             continue
 
-        news_content = sections[i+1]
-        news_items = re.findall(r'\s\*(.*?)\s-\s\[Source\]\((.*?)\)\s\*(.*?)\*', news_content)
+        # Find all numbered list items and their sources
+        news_items = re.findall(r'\d+\.\s(.*?)\s-\s(.*?)\s\[\d+\]', section_content)
+        
+        # Find all source links at the bottom
+        sources_block = re.search(r'Sources:\n(.*?)(?=\n---|\Z)', section_content, re.S)
+        if not sources_block:
+            continue
+        
+        links = re.findall(r'\[\d+\]\s(https.*?)\s', sources_block.group(1))
 
         articles = []
-        for item in news_items:
-            articles.append({
-                "title": item[0].strip(),
-                "url": item[1].strip(),
-                "source": item[2].strip()
-            })
+        # Combine titles and links, assuming they are in the same order
+        for i, (title, source) in enumerate(news_items):
+            if i < len(links):
+                articles.append({
+                    "title": title.strip(),
+                    "url": links[i].strip(),
+                    "source": source.strip()
+                })
         
         if articles:
             daily_updates.append({
                 "date": date,
                 "type": "news",
-                "title": f"AI News for {date_str}",
+                "title": f"AI News for {date_str.strip()}",
                 "data": articles
             })
             

@@ -1,81 +1,58 @@
 import { content } from '@/data/content';
 import { Inter } from "next/font/google";
+import { DailyUpdateSection } from '@/components/DailyUpdateSection';
 
 const inter = Inter({ subsets: ["latin"] });
-
-// Helper to format date
-const formatDate = (dateString: string) => {
-  return new Date(dateString).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-};
-
-// Component for a single tool
-const ToolCard = ({ tool }: { tool: { name: string; url: string; description: string } }) => (
-  <div className="p-4 border border-gray-200 rounded-lg transition-all hover:shadow-md hover:border-gray-300 dark:border-gray-700 dark:hover:border-gray-600">
-    <a href={tool.url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400 font-semibold">
-      {tool.name}
-    </a>
-    <p className="text-gray-600 dark:text-gray-400 mt-1 text-sm">{tool.description}</p>
-  </div>
-);
-
-// Component for a single news article
-const NewsCard = ({ article }: { article: { title:string; url: string; source: string } }) => (
-  <div className="p-4 border border-gray-200 rounded-lg transition-all hover:shadow-md hover:border-gray-300 dark:border-gray-700 dark:hover:border-gray-600">
-    <a href={article.url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400 font-semibold">
-      {article.title}
-    </a>
-    <p className="text-gray-600 dark:text-gray-400 mt-1 text-sm">Source: {article.source}</p>
-  </div>
-);
-
-// Component for a daily update section
-const DailyUpdate = ({ update }: { update: any }) => (
-  <section className="mb-12">
-    <div className="relative">
-      <div className="absolute left-0 top-0 h-full w-px bg-gray-200 dark:bg-gray-700 -translate-x-8" />
-      <div className="absolute left-0 top-2 w-4 h-4 rounded-full bg-gray-300 dark:bg-gray-600 -translate-x-10" />
-      <h2 className="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-2">
-        {formatDate(update.date)}
-      </h2>
-      <h3 className="text-xl font-semibold text-gray-700 dark:text-gray-300 mb-4">{update.title}</h3>
-    </div>
-
-    <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-      {update.type === "tools" && update.data.map((tool: any, index: number) => (
-        <ToolCard key={index} tool={tool} />
-      ))}
-      {update.type === "news" && update.data.map((article: any, index: number) => (
-        <NewsCard key={index} article={article} />
-      ))}
-    </div>
-  </section>
-);
 
 export default function Home() {
   const { daily_updates } = content;
 
+  // Group all updates by a clean date string (e.g., "Fri Jun 20 2025")
+  const updatesByDate = daily_updates.reduce((acc, update) => {
+    const dateKey = new Date(update.date).toDateString();
+    if (!acc[dateKey]) {
+      acc[dateKey] = { date: update.date, news: [], tools: [] };
+    }
+    if (update.type === 'news') {
+      acc[dateKey].news.push(...update.data);
+    } else if (update.type === 'tools') {
+      acc[dateKey].tools.push(...update.data);
+    }
+    return acc;
+  }, {} as Record<string, { date: string; news: any[]; tools: any[] }>);
+
+  // Convert the grouped object back into a sorted array for rendering
+  const sortedDailyUpdates = Object.values(updatesByDate)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
   return (
     <main
-      className={`flex min-h-screen flex-col items-center justify-between p-8 md:p-16 lg:p-24 ${inter.className}`}
+      className={`min-h-screen bg-slate-100 dark:bg-slate-950 text-slate-800 dark:text-slate-200 flex flex-col items-center p-4 sm:p-6 md:p-8 ${inter.className}`}
     >
-      <div className="max-w-5xl w-full">
-        <header className="text-center mb-16">
-          <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight">Auto-News AI</h1>
-          <p className="text-lg text-gray-500 dark:text-gray-400 mt-2">
+      <div className="max-w-4xl w-full">
+        <header className="text-center my-12 md:my-16">
+          <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100">
+            AI Insights Daily
+          </h1>
+          <p className="text-lg text-slate-600 dark:text-slate-400 mt-4 max-w-2xl mx-auto">
             Your daily digest of trending AI tools and news, updated automatically.
           </p>
         </header>
 
-        <div className="relative">
-          <div className="absolute left-4 top-0 h-full w-px bg-gray-200 dark:bg-gray-700" />
-          {daily_updates.map((update, index) => (
-            <DailyUpdate key={index} update={update} />
+        <div className="w-full">
+          {sortedDailyUpdates.map((day, index) => (
+            <DailyUpdateSection key={index} day={day} initiallyOpen={index === 0} />
           ))}
         </div>
+
+        <footer className="text-center my-16 text-sm">
+            <p className="text-slate-500 dark:text-slate-400">
+                Maintained by Auto-News AI &copy; {new Date().getFullYear()}
+            </p>
+             <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-sky-500 dark:hover:text-sky-400 transition-colors mt-2 block">
+                View Source on GitHub
+            </a>
+        </footer>
       </div>
     </main>
   );
