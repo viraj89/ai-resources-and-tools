@@ -25,7 +25,9 @@ import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 from src.utils.keyword_manager import KeywordManager
 
-ROOT_MD_PATH = "ai-tools-daily.md"
+# Define paths
+ARTIFACTS_DIR = "artifacts"
+ROOT_MD_PATH = os.path.join(ARTIFACTS_DIR, "ai-tools-daily.md")
 MASTER_CSV_PATH = "data/master_resources.csv"
 CACHE_FILE = "data/cache/tools_cache.json"
 
@@ -442,7 +444,12 @@ def append_to_master_csv(tool_info):
 
 # Helper: Write today's markdown section with master CSV link
 def write_daily_markdown(tools):
-    today = datetime.date.today().strftime('%B %d, %Y')
+    """Append a daily markdown section to the main file."""
+    # Ensure artifacts directory exists
+    os.makedirs(os.path.dirname(ROOT_MD_PATH), exist_ok=True)
+    
+    # Get current date
+    today = datetime.datetime.now().strftime("%B %d, %Y")
     section_title = f"## AI Tools and Apps of the Day: {today}\n---\n"
     lines = []
     for i, tool in enumerate(tools, 1):

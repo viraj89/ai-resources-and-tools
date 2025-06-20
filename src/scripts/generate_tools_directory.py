@@ -13,8 +13,9 @@ import os
 from datetime import datetime
 
 # File paths
+ARTIFACTS_DIR = "artifacts"
 CSV_PATH = "data/master_resources.csv"
-OUTPUT_PATH = "ai-tools-directory.md"
+OUTPUT_PATH = os.path.join(ARTIFACTS_DIR, "ai-tools-directory.md")
 
 # Keywords that indicate actual tools/apps (not posts or articles)
 TOOL_INDICATORS = [
@@ -169,6 +170,9 @@ The complete, deduplicated database is available in [master_resources.csv](data/
 def main():
     """Main function to generate the tools directory"""
     print("🔍 Generating AI Tools Directory...")
+    
+    # Ensure artifacts directory exists
+    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     
     # Read and clean CSV data
     tools_by_category = {category: [] for category in VALID_CATEGORIES}

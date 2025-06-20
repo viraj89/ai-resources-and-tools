@@ -14,8 +14,9 @@ from datetime import datetime
 
 # Define paths
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-DAILY_TOOLS_MD = os.path.join(ROOT_DIR, "ai-tools-daily.md")
-NEWS_MD = os.path.join(ROOT_DIR, "blogs-and-news.md")
+ARTIFACTS_DIR = os.path.join(ROOT_DIR, "artifacts")
+DAILY_TOOLS_MD = os.path.join(ARTIFACTS_DIR, "ai-tools-daily.md")
+NEWS_MD = os.path.join(ARTIFACTS_DIR, "blogs-and-news.md")
 MASTER_CSV = os.path.join(ROOT_DIR, "data/master_resources.csv")
 OUTPUT_TS = os.path.join(ROOT_DIR, "website/src/data/content.ts")
 
@@ -122,6 +123,9 @@ def parse_master_tools():
 def main():
     """Main function to generate the website data."""
     print("🚀 Starting website data preparation...")
+
+    # Create artifacts directory if it doesn't exist
+    os.makedirs(ARTIFACTS_DIR, exist_ok=True)
 
     # Read source files
     try:
