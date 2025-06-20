@@ -6,7 +6,7 @@
 
 ---
 
-This project automatically discovers, aggregates, and displays the latest in AI tools and news. Originally a set of data scripts, it has evolved into a full-fledged application with a public-facing website built on Next.js and deployed with Vercel.
+This project automatically discovers, aggregates, and displays the latest in AI tools and news. Originally a set of data scripts, it has now evolved into a full-fledged application with a public-facing website built on Next.js and deployed with Vercel.
 
 ## 🚀 The Website
 
@@ -57,12 +57,12 @@ While the main product is the website, the underlying Python scripts and data ar
     cd ai-resources-and-tools
     ```
 2.  **Install Python dependencies**:
-    ```bash
+   ```bash
     pip install -e .
-    ```
+   ```
 3.  **Run scripts manually**:
     You can use the command-line tools defined in `setup.py`:
-    ```bash
+   ```bash
     # Run the full daily pipeline
     daily-tools
     news-aggregator
