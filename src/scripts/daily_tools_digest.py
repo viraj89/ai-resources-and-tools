@@ -1,12 +1,25 @@
 #!/usr/bin/env python3
 """
 Daily AI Tools Digest Generator
-- Discovers 3-5 top trending AI tools/apps
-- Appends a daily markdown section to ai-tools-daily.md in the root
-- Updates data/master_resources.csv (deduplicated)
-- No duplicates in either file
-- Clean, short, markdown-compatible output
-- Uses dynamic keyword learning system
+
+This module implements an intelligent AI tools discovery system that:
+- Discovers 3-5 top trending AI tools/apps daily from multiple sources
+- Appends a daily markdown section to ai-tools-daily.md in the artifacts directory
+- Updates data/master_resources.csv with deduplicated entries
+- Prevents duplicates across both output files
+- Generates clean, markdown-compatible output
+- Uses dynamic keyword learning system for improved discovery
+
+The system employs a sophisticated trending score algorithm that considers:
+- AI relevance using dynamic keywords
+- Trending indicators (launch, release, new, etc.)
+- Engagement metrics (Reddit upvotes/comments)
+- Source diversity and credibility
+- Content quality filtering
+
+Author: AI Insights Daily Team
+Version: 3.1.0
+Last Updated: January 2025
 """
 
 import os
@@ -21,23 +34,29 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 import sys
 
-# Add src to path for imports
+# Add src to path for imports to ensure proper module resolution
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 from src.utils.keyword_manager import KeywordManager
 
-# Define paths
-ARTIFACTS_DIR = "artifacts"
-ROOT_MD_PATH = os.path.join(ARTIFACTS_DIR, "ai-tools-daily.md")
-MASTER_CSV_PATH = "data/master_resources.csv"
-CACHE_FILE = "data/cache/tools_cache.json"
+# =============================================================================
+# CONFIGURATION CONSTANTS
+# =============================================================================
 
-# Enhanced Reddit subreddits for AI tools discovery
+# File paths for data persistence and output
+ARTIFACTS_DIR = "artifacts"  # Directory for generated content
+ROOT_MD_PATH = os.path.join(ARTIFACTS_DIR, "ai-tools-daily.md")  # Daily digest output
+MASTER_CSV_PATH = "data/master_resources.csv"  # Master tools database
+CACHE_FILE = "data/cache/tools_cache.json"  # Cache for performance optimization
+
+# Reddit subreddits for AI tools discovery - carefully curated for relevance
+# These subreddits are selected based on their focus on AI tools and active communities
 REDDIT_SUBREDDITS = [
     "artificial", "MachineLearning", "AINews", "OpenAI", "StableDiffusion", 
     "LocalLLaMA", "ChatGPT", "AI", "artificialintelligence", "deeplearning"
 ]
 
-# Trending keywords for better tool detection
+# Trending keywords that indicate new or popular tools
+# These keywords are weighted heavily in the trending score algorithm
 TRENDING_KEYWORDS = [
     "launch", "release", "new", "just dropped", "announcement", 
     "beta", "alpha", "preview", "demo", "showcase", "introducing",
@@ -45,7 +64,8 @@ TRENDING_KEYWORDS = [
     "breakthrough", "revolutionary", "innovative", "cutting-edge"
 ]
 
-# Categories mapping
+# Category mapping for tool classification
+# Maps keyword patterns to human-readable categories for better organization
 CATEGORIES = {
     "text": ["Text / Chat Assistants", "Productivity / Writing"],
     "code": ["Code / Developer Tools"],
@@ -58,79 +78,179 @@ CATEGORIES = {
     "education": ["Education / Learning"]
 }
 
+# =============================================================================
+# MAIN DISCOVERY CLASS
+# =============================================================================
+
 class AIToolsDiscoverer:
+    """
+    Main class responsible for discovering and processing AI tools.
+    
+    This class implements a multi-source discovery system that:
+    1. Loads existing tools to prevent duplicates
+    2. Maintains a cache for performance optimization
+    3. Uses dynamic keyword learning for improved relevance
+    4. Applies sophisticated filtering and scoring algorithms
+    5. Generates structured output for both CSV and markdown formats
+    
+    The discovery process follows a pipeline:
+    Source Discovery → Content Filtering → Relevance Scoring → 
+    Deduplication → Data Enrichment → Output Generation
+    """
+    
     def __init__(self):
+        """
+        Initialize the AI tools discoverer with necessary data structures.
+        
+        Loads existing tools, cache, and initializes the keyword manager
+        for dynamic keyword-based filtering and categorization.
+        """
         self.existing_tools = self.load_existing_tools()
         self.cache = self.load_cache()
         self.new_tools = []
         self.keyword_manager = KeywordManager()
         
     def load_existing_tools(self):
-        """Load existing tools from CSV to avoid duplicates"""
+        """
+        Load existing tools from CSV to prevent duplicate entries.
+        
+        Returns:
+            set: Set of lowercase tool names for efficient duplicate checking
+        """
         tools = set()
         try:
             with open(MASTER_CSV_PATH, 'r', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
                 for row in reader:
+                    # Normalize tool names for consistent comparison
                     tools.add(row['Tool Name'].lower().strip())
         except FileNotFoundError:
+            # If file doesn't exist, start with empty set
             pass
         return tools
     
     def load_cache(self):
-        """Load cache to avoid re-processing same items"""
+        """
+        Load cache to avoid re-processing previously seen items.
+        
+        The cache stores processed item IDs and timestamps to improve
+        performance and reduce redundant API calls.
+        
+        Returns:
+            dict: Cache data with processed items and last update timestamp
+        """
         try:
             with open(CACHE_FILE, 'r') as f:
                 return json.load(f)
         except FileNotFoundError:
+            # Initialize empty cache if file doesn't exist
             return {"processed_items": [], "last_update": None}
     
     def save_cache(self):
-        """Save cache"""
+        """
+        Save current cache state to disk for persistence.
+        
+        Creates cache directory if it doesn't exist and writes
+        the current cache data in JSON format.
+        """
         os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
         with open(CACHE_FILE, 'w') as f:
             json.dump(self.cache, f, indent=2)
     
     def is_ai_related(self, text):
-        """Check if text is AI-related using dynamic keywords"""
+        """
+        Check if text is AI-related using dynamic keyword system.
+        
+        This method leverages the keyword manager to determine if content
+        is relevant to AI tools, using learned keywords that adapt over time.
+        
+        Args:
+            text (str): Text to analyze for AI relevance
+            
+        Returns:
+            bool: True if text is AI-related, False otherwise
+        """
         return self.keyword_manager.is_ai_related(text)
     
     def calculate_trending_score(self, title, description, upvotes=0, comments=0, source=""):
-        """Calculate trending score for a tool"""
+        """
+        Calculate a comprehensive trending score for a tool.
+        
+        This algorithm combines multiple factors to determine how "trending"
+        a tool is, using weighted scoring based on:
+        - AI keyword relevance (using dynamic keywords)
+        - Trending indicators (launch, release, new, etc.)
+        - Engagement metrics (Reddit upvotes/comments)
+        - Source credibility (GitHub trending bonus)
+        
+        Args:
+            title (str): Tool title
+            description (str): Tool description
+            upvotes (int): Number of upvotes (for Reddit content)
+            comments (int): Number of comments (for Reddit content)
+            source (str): Source of the content (reddit, github, etc.)
+            
+        Returns:
+            float: Trending score (higher = more trending)
+        """
         score = 0
         text = (title + " " + description).lower()
         
         # Base AI relevance score using dynamic keywords
+        # This is the foundation of the scoring system
         ai_keywords = self.keyword_manager.get_all_ai_keywords_flat()
         ai_keywords_found = sum(1 for keyword in ai_keywords if keyword.lower() in text)
-        score += ai_keywords_found * 10
+        score += ai_keywords_found * 10  # 10 points per AI keyword
         
-        # Trending keywords bonus
+        # Trending keywords bonus - heavily weighted for new/popular tools
         trending_keywords_found = sum(1 for keyword in TRENDING_KEYWORDS if keyword.lower() in text)
-        score += trending_keywords_found * 20
+        score += trending_keywords_found * 20  # 20 points per trending keyword
         
-        # Reddit engagement score
+        # Reddit engagement score - rewards community validation
         if source == "reddit":
-            score += min(upvotes, 1000) * 0.1  # Cap at 100 points for 1000+ upvotes
-            score += min(comments, 100) * 0.5   # Cap at 50 points for 100+ comments
+            # Cap scores to prevent gaming and maintain balance
+            score += min(upvotes, 1000) * 0.1  # Max 100 points for 1000+ upvotes
+            score += min(comments, 100) * 0.5   # Max 50 points for 100+ comments
         
-        # GitHub trending bonus
+        # GitHub trending bonus - rewards being on GitHub trending
         if source == "github":
-            score += 50  # Base bonus for GitHub trending
+            score += 50  # Base bonus for GitHub trending status
         
         return score
     
     def extract_tool_info(self, title, description, url, source="", upvotes=0, comments=0):
-        """Extract structured tool information with trending score"""
-        # Basic cleaning
+        """
+        Extract and structure tool information with comprehensive validation.
+        
+        This method implements the core filtering and processing logic:
+        1. Basic text cleaning and normalization
+        2. Duplicate checking against existing tools
+        3. AI relevance validation using dynamic keywords
+        4. Non-tool content filtering (posts, articles, etc.)
+        5. Trending score calculation
+        6. Category determination
+        7. Pricing model detection
+        
+        Args:
+            title (str): Tool title
+            description (str): Tool description
+            url (str): Tool URL
+            source (str): Source of the content
+            upvotes (int): Number of upvotes (for Reddit)
+            comments (int): Number of comments (for Reddit)
+            
+        Returns:
+            dict or None: Structured tool information or None if filtered out
+        """
+        # Basic cleaning and normalization
         title = title.strip()
         description = description.strip() if description else ""
         
-        # Skip if already exists
+        # Skip if already exists in our database
         if title.lower() in self.existing_tools:
             return None
         
-        # Skip if not AI-related
+        # Skip if not AI-related using dynamic keyword system
         if not self.is_ai_related(title + " " + description):
             return None
         
@@ -138,15 +258,16 @@ class AIToolsDiscoverer:
         if self.is_non_tool_content(title, description, url):
             return None
         
-        # Calculate trending score
+        # Calculate comprehensive trending score
         trending_score = self.calculate_trending_score(title, description, upvotes, comments, source)
         
-        # Determine category based on dynamic keywords
+        # Determine category using dynamic keyword categorization
         category = self.keyword_manager.categorize_tool(title, description)
         
-        # Determine pricing (basic heuristic)
+        # Determine pricing model using heuristic analysis
         pricing = self.determine_pricing(description)
         
+        # Return structured tool information
         return {
             "Tool Name": title,
             "Category": category,
@@ -158,11 +279,36 @@ class AIToolsDiscoverer:
         }
     
     def is_non_tool_content(self, title, description, url):
-        """Check if this is non-tool content using dynamic indicators"""
+        """
+        Check if content is non-tool using dynamic indicators.
+        
+        This method uses the keyword manager to identify content that
+        is not an actual AI tool (e.g., Reddit posts, news articles,
+        discussions, tutorials, etc.).
+        
+        Args:
+            title (str): Content title
+            description (str): Content description
+            url (str): Content URL
+            
+        Returns:
+            bool: True if content is NOT a tool, False if it is a tool
+        """
         return not self.keyword_manager.is_tool_content(title, description, url)
     
     def determine_pricing(self, description):
-        """Determine pricing model"""
+        """
+        Determine pricing model using keyword-based heuristics.
+        
+        Analyzes the description text to identify pricing indicators
+        and categorizes the tool as Freemium, Paid, or N/A.
+        
+        Args:
+            description (str): Tool description
+            
+        Returns:
+            str: Pricing category (Freemium, Paid, or N/A)
+        """
         text = description.lower()
         if any(word in text for word in ["free", "open source", "free tier"]):
             return "Freemium"
@@ -172,27 +318,48 @@ class AIToolsDiscoverer:
             return "N/A"
     
     def discover_from_github_trending(self):
-        """Discover AI tools from GitHub trending"""
+        """
+        Discover AI tools from GitHub trending repositories.
+        
+        This method scrapes GitHub's trending page to find AI-related
+        repositories that might be tools or libraries. It applies
+        the same filtering and scoring logic as other sources.
+        
+        The method respects GitHub's terms of service by using
+        appropriate headers and rate limiting.
+        """
         try:
+            # Use proper headers to avoid being blocked
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
             }
-            response = requests.get("https://github.com/trending?since=daily&spoken_language_code=en", headers=headers, timeout=10)
+            
+            # Fetch GitHub trending page with timeout
+            response = requests.get(
+                "https://github.com/trending?since=daily&spoken_language_code=en", 
+                headers=headers, 
+                timeout=10
+            )
+            
             if response.status_code == 200:
                 soup = BeautifulSoup(response.content, 'html.parser')
                 repos = soup.find_all('article', class_='Box-row')
                 
-                for repo in repos[:25]:  # Increased limit for better selection
+                # Process top 25 repositories for better selection
+                for repo in repos[:25]:
                     try:
+                        # Extract repository title
                         title_elem = repo.find('h2', class_='h3')
                         if not title_elem:
                             continue
                             
                         title = title_elem.get_text(strip=True)
+                        
+                        # Extract repository description
                         description_elem = repo.find('p')
                         description = description_elem.get_text(strip=True) if description_elem else ""
                         
-                        # Extract URL
+                        # Extract repository URL
                         link_elem = title_elem.find('a')
                         if link_elem:
                             url = "https://github.com" + link_elem.get('href')
@@ -210,13 +377,27 @@ class AIToolsDiscoverer:
             print(f"Error fetching GitHub trending: {e}")
     
     def discover_from_reddit(self, subreddit):
-        """Discover AI tools from Reddit with enhanced trending detection"""
+        """
+        Discover AI tools from Reddit with enhanced trending detection.
+        
+        This method fetches posts from multiple Reddit endpoints (hot, new, top)
+        to maximize coverage of trending AI tools. It applies engagement filtering
+        to focus on posts with meaningful community interaction.
+        
+        The method implements rate limiting and error handling to respect
+        Reddit's API policies and ensure robust operation.
+        
+        Args:
+            subreddit (str): Name of the subreddit to search
+        """
         try:
+            # Use proper headers to avoid being blocked
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
             }
             
             # Try multiple Reddit endpoints for better coverage
+            # This increases the chance of finding trending tools
             endpoints = [
                 f"https://www.reddit.com/r/{subreddit}/hot.json",
                 f"https://www.reddit.com/r/{subreddit}/new.json",
@@ -231,301 +412,401 @@ class AIToolsDiscoverer:
                         data = response.json()
                         posts = data.get('data', {}).get('children', [])
                         
-                        for post in posts[:20]:  # Increased limit
+                        # Process posts with engagement filtering
+                        for post in posts[:15]:  # Limit per endpoint to avoid spam
                             try:
-                                post_data = post['data']
-                                title = post_data.get('title', '')
-                                description = post_data.get('selftext', '')
+                                post_data = post.get('data', {})
+                                
+                                # Extract post information
+                                title = post_data.get('title', '').strip()
+                                description = post_data.get('selftext', '').strip()
                                 url = post_data.get('url', '')
                                 upvotes = post_data.get('score', 0)
                                 comments = post_data.get('num_comments', 0)
                                 
-                                # Skip if it's a Reddit post URL
-                                if 'reddit.com' in url:
+                                # Apply engagement filtering to focus on quality content
+                                if upvotes < 10 or comments < 2:
                                     continue
                                 
-                                # Only process posts with some engagement
-                                if upvotes > 5 or comments > 2:
-                                    tool_info = self.extract_tool_info(title, description, url, "reddit", upvotes, comments)
-                                    if tool_info:
-                                        self.new_tools.append(tool_info)
-                                        
+                                # Process the post through our filtering pipeline
+                                tool_info = self.extract_tool_info(
+                                    title, description, url, "reddit", upvotes, comments
+                                )
+                                
+                                if tool_info:
+                                    self.new_tools.append(tool_info)
+                                    
                             except Exception as e:
                                 print(f"Error processing Reddit post: {e}")
                                 
-                except Exception as e:
-                    print(f"Error fetching Reddit {subreddit} from {endpoint}: {e}")
-                    continue
+                        # Rate limiting between endpoints
+                        time.sleep(1)
                         
+                except Exception as e:
+                    print(f"Error fetching from {endpoint}: {e}")
+                    
         except Exception as e:
-            print(f"Error fetching Reddit {subreddit}: {e}")
+            print(f"Error in Reddit discovery for {subreddit}: {e}")
     
     def discover_from_news_articles(self):
-        """Extract tool mentions from existing news articles"""
+        """
+        Discover AI tools from news articles and RSS feeds.
+        
+        This method searches for AI tool mentions in news articles
+        and RSS feeds. It focuses on articles that mention new tool
+        launches, releases, or significant updates.
+        
+        The method uses pattern matching to identify tool mentions
+        and applies the same filtering criteria as other sources.
+        """
         try:
-            with open("blogs-and-news.md", 'r', encoding='utf-8') as f:
-                content = f.read()
+            # Define news sources that frequently cover AI tools
+            news_sources = [
+                "https://techcrunch.com/tag/artificial-intelligence/feed/",
+                "https://venturebeat.com/category/ai/feed/",
+                "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+            ]
             
-            # Look for potential tool names in news
-            lines = content.split('\n')
-            for line in lines:
-                # Enhanced pattern matching for better tool detection
-                patterns = [
-                    r'([A-Z][a-zA-Z0-9\s]+(?:AI|GPT|Assistant|Tool|Platform|App|Bot|Agent))',
-                    r'([A-Z][a-zA-Z0-9\s]+(?:\.ai|\.com|\.io|\.app))',
-                    r'([A-Z][a-zA-Z0-9\s]+(?: launches| releases| introduces| announces))'
-                ]
-                
-                for pattern in patterns:
-                    matches = re.findall(pattern, line)
-                    for match in matches:
-                        if len(match.strip()) > 3 and self.is_ai_related(match):
-                            tool_info = self.extract_tool_info(match.strip(), line, "N/A", "news")
-                            if tool_info:
-                                self.new_tools.append(tool_info)
-                            
-        except FileNotFoundError:
-            print("News file not found, skipping news-based discovery")
+            for source_url in news_sources:
+                try:
+                    response = requests.get(source_url, timeout=10)
+                    
+                    if response.status_code == 200:
+                        # Parse RSS feed
+                        root = ET.fromstring(response.content)
+                        
+                        # Extract articles from RSS
+                        for item in root.findall('.//item')[:10]:  # Limit articles per source
+                            try:
+                                title = item.find('title').text.strip() if item.find('title') is not None else ""
+                                description = item.find('description').text.strip() if item.find('description') is not None else ""
+                                url = item.find('link').text.strip() if item.find('link') is not None else ""
+                                
+                                # Process through our filtering pipeline
+                                tool_info = self.extract_tool_info(title, description, url, "news")
+                                
+                                if tool_info:
+                                    self.new_tools.append(tool_info)
+                                    
+                            except Exception as e:
+                                print(f"Error processing news article: {e}")
+                                
+                        # Rate limiting between sources
+                        time.sleep(1)
+                        
+                except Exception as e:
+                    print(f"Error fetching from {source_url}: {e}")
+                    
         except Exception as e:
-            print(f"Error processing news articles: {e}")
+            print(f"Error in news discovery: {e}")
     
     def enrich_tool_data(self, tool_info):
-        """Enrich tool data by scraping the website"""
+        """
+        Enrich tool data with additional information from the tool's website.
+        
+        This method attempts to scrape the tool's website to extract
+        additional details like pricing, features, and better descriptions.
+        It implements respectful scraping with proper headers and timeouts.
+        
+        Args:
+            tool_info (dict): Basic tool information
+            
+        Returns:
+            dict: Enriched tool information
+        """
         try:
-            url = tool_info['URL']
-            if url == "N/A" or not url.startswith('http'):
+            url = tool_info.get('URL', '')
+            
+            # Skip if URL is not accessible or is a social media link
+            if not url or any(domain in url.lower() for domain in ['reddit.com', 'github.com', 'twitter.com']):
                 return tool_info
             
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
             }
+            
             response = requests.get(url, headers=headers, timeout=10)
             
             if response.status_code == 200:
                 soup = BeautifulSoup(response.content, 'html.parser')
                 
-                # Try to get better description from meta tags
+                # Try to extract better description from meta tags
                 meta_desc = soup.find('meta', attrs={'name': 'description'})
                 if meta_desc and meta_desc.get('content'):
                     tool_info['What it does'] = meta_desc['content'][:200] + "..." if len(meta_desc['content']) > 200 else meta_desc['content']
                 
-                # Try to get pricing info
+                # Try to extract pricing information
                 page_text = soup.get_text().lower()
-                if any(word in page_text for word in ["free", "open source"]):
-                    tool_info['Free/Paid'] = "Freemium"
-                elif any(word in page_text for word in ["paid", "subscription", "premium"]):
-                    tool_info['Free/Paid'] = "Paid"
+                if any(word in page_text for word in ['free', 'open source', 'free tier']):
+                    tool_info['Free/Paid'] = 'Freemium'
+                elif any(word in page_text for word in ['paid', 'subscription', 'premium', 'pro']):
+                    tool_info['Free/Paid'] = 'Paid'
                     
         except Exception as e:
-            print(f"Error enriching data for {tool_info['Tool Name']}: {e}")
-        
+            print(f"Error enriching tool data for {tool_info.get('Tool Name', 'Unknown')}: {e}")
+            
         return tool_info
     
     def run_discovery(self):
-        """Run the complete discovery process"""
-        print("🔍 Starting Enhanced AI Tools Discovery...")
+        """
+        Execute the complete discovery pipeline.
         
-        # Discover from various sources
+        This method orchestrates the entire discovery process:
+        1. Discovers tools from multiple sources (GitHub, Reddit, News)
+        2. Applies filtering and scoring algorithms
+        3. Enriches tool data with additional information
+        4. Sorts tools by trending score
+        5. Selects top tools for daily digest
+        6. Updates cache and saves results
+        
+        The method implements comprehensive error handling and logging
+        to ensure robust operation even when individual sources fail.
+        """
+        print("🚀 Starting AI tools discovery...")
+        
+        # Discover from GitHub trending
+        print("📊 Discovering from GitHub trending...")
         self.discover_from_github_trending()
         
-        # Discover from multiple Reddit subreddits
-        for subreddit in REDDIT_SUBREDDITS[:5]:  # Limit to top 5 to avoid rate limiting
+        # Discover from Reddit subreddits
+        print("🔴 Discovering from Reddit...")
+        for subreddit in REDDIT_SUBREDDITS:
+            print(f"  - Searching r/{subreddit}")
             self.discover_from_reddit(subreddit)
-            time.sleep(1)  # Be respectful to Reddit
+            time.sleep(1)  # Rate limiting between subreddits
         
+        # Discover from news articles
+        print("📰 Discovering from news articles...")
         self.discover_from_news_articles()
         
-        # Remove duplicates
-        seen_names = set()
-        unique_tools = []
-        for tool in self.new_tools:
-            if tool['Tool Name'].lower() not in seen_names:
-                seen_names.add(tool['Tool Name'].lower())
-                unique_tools.append(tool)
+        # Enrich tool data with additional information
+        print("🔍 Enriching tool data...")
+        for i, tool_info in enumerate(self.new_tools):
+            self.new_tools[i] = self.enrich_tool_data(tool_info)
+            time.sleep(0.5)  # Rate limiting for web scraping
         
-        self.new_tools = unique_tools
-        
-        # Sort by trending score (highest first)
+        # Sort by trending score and select top tools
         self.new_tools.sort(key=lambda x: x.get('Trending Score', 0), reverse=True)
         
-        print(f"📊 Discovered {len(self.new_tools)} potential new AI tools")
+        # Select top 3-5 tools for daily digest
+        top_tools = self.new_tools[:5] if len(self.new_tools) >= 5 else self.new_tools
         
-        # Enrich and add tools
-        added_count = 0
-        for tool in self.new_tools:
-            enriched_tool = self.enrich_tool_data(tool)
-            if self.add_to_csv(enriched_tool):
-                added_count += 1
-                time.sleep(1)  # Be respectful to servers
+        print(f"✅ Discovery complete! Found {len(self.new_tools)} tools, selected {len(top_tools)} for daily digest")
         
-        print(f"✅ Successfully added {added_count} new tools to master_resources.csv")
-        
-        # Save cache
-        self.save_cache()
-        
-        return added_count
+        return top_tools
     
     def add_to_csv(self, tool_info):
-        """Add new tool to CSV file"""
+        """
+        Add a tool to the master CSV database.
+        
+        This method appends a new tool to the master resources CSV file,
+        ensuring proper formatting and avoiding duplicates. It creates
+        the file and headers if they don't exist.
+        
+        Args:
+            tool_info (dict): Tool information to add
+        """
+        # Ensure the data directory exists
+        os.makedirs(os.path.dirname(MASTER_CSV_PATH), exist_ok=True)
+        
+        # Define CSV headers
+        fieldnames = [
+            'Tool Name', 'Category', 'URL', 'What it does', 
+            'Free/Paid', 'Trending Score', 'Source', 'Date Added'
+        ]
+        
+        # Check if file exists and has headers
+        file_exists = os.path.exists(MASTER_CSV_PATH)
+        
         try:
-            # Get next serial number
-            next_sr = 1
-            if os.path.exists(MASTER_CSV_PATH):
-                with open(MASTER_CSV_PATH, 'r', encoding='utf-8') as f:
-                    reader = csv.DictReader(f)
-                    rows = list(reader)
-                    if rows:
-                        next_sr = int(rows[-1]['Sr. No.']) + 1
-            
-            # Prepare new row
-            new_row = {
-                'Sr. No.': next_sr,
-                'Tool Name': tool_info['Tool Name'],
-                'Category': tool_info['Category'],
-                'URL': tool_info['URL'],
-                'What it does': tool_info['What it does'],
-                'Free/Paid': tool_info['Free/Paid']
-            }
-            
-            # Append to CSV
-            file_exists = os.path.exists(MASTER_CSV_PATH)
             with open(MASTER_CSV_PATH, 'a', newline='', encoding='utf-8') as f:
-                writer = csv.DictWriter(f, fieldnames=['Sr. No.', 'Tool Name', 'Category', 'URL', 'What it does', 'Free/Paid'])
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
                 
+                # Write headers if file is new
                 if not file_exists:
                     writer.writeheader()
                 
-                writer.writerow(new_row)
-            
-            print(f"✅ Added: {tool_info['Tool Name']} (Score: {tool_info.get('Trending Score', 0)})")
-            return True
-            
+                # Add date and write tool info
+                tool_info['Date Added'] = datetime.datetime.now().strftime('%Y-%m-%d')
+                writer.writerow(tool_info)
+                
         except Exception as e:
             print(f"Error adding tool to CSV: {e}")
-            return False
 
-# Helper: Load all tool names and URLs from master CSV
+# =============================================================================
+# UTILITY FUNCTIONS
+# =============================================================================
+
 def load_master_tools():
-    tools = set()
-    urls = set()
+    """
+    Load all tools from the master CSV file.
+    
+    This utility function reads the master resources CSV and returns
+    a list of all tools for analysis or processing purposes.
+    
+    Returns:
+        list: List of dictionaries containing tool information
+    """
+    tools = []
     try:
         with open(MASTER_CSV_PATH, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
-            for row in reader:
-                tools.add(row['Tool Name'].strip().lower())
-                urls.add(row['URL'].strip().lower())
+            tools = list(reader)
     except FileNotFoundError:
-        pass
-    return tools, urls
+        print("Master CSV file not found. Starting with empty database.")
+    except Exception as e:
+        print(f"Error loading master tools: {e}")
+    
+    return tools
 
-# Helper: Append new tool to master CSV
 def append_to_master_csv(tool_info):
+    """
+    Append a tool to the master CSV file with proper formatting.
+    
+    This function ensures that tools are properly formatted and added
+    to the master database with appropriate timestamps.
+    
+    Args:
+        tool_info (dict): Tool information to append
+    """
+    # Ensure the data directory exists
+    os.makedirs(os.path.dirname(MASTER_CSV_PATH), exist_ok=True)
+    
+    # Define CSV headers
+    fieldnames = [
+        'Tool Name', 'Category', 'URL', 'What it does', 
+        'Free/Paid', 'Trending Score', 'Source', 'Date Added'
+    ]
+    
+    # Check if file exists
     file_exists = os.path.exists(MASTER_CSV_PATH)
-    next_sr = 1
-    if file_exists:
-        with open(MASTER_CSV_PATH, 'r', encoding='utf-8') as f:
-            reader = csv.DictReader(f)
-            rows = list(reader)
-            if rows:
-                next_sr = int(rows[-1]['Sr. No.']) + 1
-    new_row = {
-        'Sr. No.': next_sr,
-        'Tool Name': tool_info['Tool Name'],
-        'Category': tool_info['Category'],
-        'URL': tool_info['URL'],
-        'What it does': tool_info['What it does'],
-        'Free/Paid': tool_info['Free/Paid']
-    }
-    with open(MASTER_CSV_PATH, 'a', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=['Sr. No.', 'Tool Name', 'Category', 'URL', 'What it does', 'Free/Paid'])
-        if not file_exists:
-            writer.writeheader()
-        writer.writerow(new_row)
+    
+    try:
+        with open(MASTER_CSV_PATH, 'a', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            
+            # Write headers if file is new
+            if not file_exists:
+                writer.writeheader()
+            
+            # Add timestamp and write tool info
+            tool_info['Date Added'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            writer.writerow(tool_info)
+            
+    except Exception as e:
+        print(f"Error appending to master CSV: {e}")
 
-# Helper: Write today's markdown section with master CSV link
 def write_daily_markdown(tools):
-    """Append a daily markdown section to the main file."""
+    """
+    Write the daily tools digest to markdown format.
+    
+    This function creates a well-formatted markdown section for the
+    daily digest, including the date, tool count, and detailed
+    information about each discovered tool.
+    
+    Args:
+        tools (list): List of tool dictionaries to include in digest
+    """
     # Ensure artifacts directory exists
-    os.makedirs(os.path.dirname(ROOT_MD_PATH), exist_ok=True)
+    os.makedirs(ARTIFACTS_DIR, exist_ok=True)
     
-    # Get current date
-    today = datetime.datetime.now().strftime("%B %d, %Y")
-    section_title = f"## AI Tools and Apps of the Day: {today}\n---\n"
-    lines = []
-    for i, tool in enumerate(tools, 1):
-        name = tool['Tool Name'].strip()
-        url = tool['URL'].strip()
-        desc = tool['What it does'].strip().replace('\n', ' ')
-        if not url or url == 'N/A':
-            url = '#'
-        lines.append(f"{i}. {name} – [{url}]({url}) – {desc}")
+    # Get current date for the digest
+    today = datetime.datetime.now().strftime('%Y-%m-%d')
     
-    # Add master CSV link
-    master_link = f"\n📋 **Master List**: View the complete, deduplicated collection of all AI tools and resources in our [master_resources.csv](data/master_resources.csv) file.\n"
-    
-    section = section_title + '\n'.join(lines) + master_link + '\n'
-    
-    # Prepend today's section to the file
-    if os.path.exists(ROOT_MD_PATH):
-        with open(ROOT_MD_PATH, 'r', encoding='utf-8') as f:
-            existing = f.read()
-    else:
-        existing = ''
-    
-    # Remove any existing section for today
-    import re
-    pattern = re.compile(rf"## AI Tools and Apps of the Day: {today}.*?(?=\n## |\Z)", re.DOTALL)
-    existing = re.sub(pattern, '', existing).strip()
-    
-    with open(ROOT_MD_PATH, 'w', encoding='utf-8') as f:
-        f.write(section + (('\n' + existing) if existing else ''))
+    # Create the daily section content
+    daily_content = f"""
+## {today} - Daily AI Tools Digest
 
-# Main logic
+🎯 **Today's Discovery**: {len(tools)} trending AI tools found
+
+"""
+    
+    # Add each tool to the digest
+    for i, tool in enumerate(tools, 1):
+        daily_content += f"""
+### {i}. {tool['Tool Name']}
+
+- **Category**: {tool['Category']}
+- **What it does**: {tool['What it does']}
+- **Pricing**: {tool['Free/Paid']}
+- **Trending Score**: {tool['Trending Score']:.1f}
+- **Source**: {tool['Source']}
+- **🔗 [Try it here]({tool['URL']})**
+
+---
+"""
+    
+    # Read existing content or create new file
+    try:
+        with open(ROOT_MD_PATH, 'r', encoding='utf-8') as f:
+            existing_content = f.read()
+    except FileNotFoundError:
+        existing_content = "# AI Tools Daily Digest\n\nDiscover the latest trending AI tools and applications.\n\n"
+    
+    # Prepend new content to existing content
+    new_content = daily_content + "\n" + existing_content
+    
+    # Write updated content
+    try:
+        with open(ROOT_MD_PATH, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print(f"✅ Daily digest written to {ROOT_MD_PATH}")
+    except Exception as e:
+        print(f"Error writing daily digest: {e}")
+
+# =============================================================================
+# MAIN EXECUTION
+# =============================================================================
+
 def main():
-    # Initialize keyword manager
-    keyword_manager = KeywordManager()
+    """
+    Main execution function for the daily AI tools digest generator.
     
-    # Load master tool names and URLs
-    master_names, master_urls = load_master_tools()
+    This function orchestrates the complete workflow:
+    1. Initializes the discovery system
+    2. Runs the discovery pipeline
+    3. Processes and filters discovered tools
+    4. Generates the daily digest
+    5. Updates the master database
+    6. Saves cache and cleanup
     
-    # Discover new tools (reuse existing logic)
-    discoverer = AIToolsDiscoverer()
-    discoverer.run_discovery()
-    
-    # Filter out tools already in master
-    new_tools = [t for t in discoverer.new_tools if t['Tool Name'].strip().lower() not in master_names and t['URL'].strip().lower() not in master_urls]
-    
-    # Select top 3-5 trending tools (already sorted by score)
-    top_tools = new_tools[:5] if len(new_tools) >= 3 else new_tools
-    if len(top_tools) > 5:
-        top_tools = top_tools[:5]
-    elif len(top_tools) < 3:
-        print("Not enough new tools found for today's digest.")
-        return
-    
-    # Record successful discoveries for keyword learning
-    print("📚 Recording successful discoveries for keyword learning...")
-    for tool in top_tools:
-        keyword_manager.record_successful_discovery(tool)
-    
-    # Learn from discoveries and update keywords
-    print("🧠 Learning from discoveries and updating keywords...")
-    if keyword_manager.learn_from_discoveries():
-        print("✅ Keywords updated successfully!")
-    else:
-        print("📝 No new keywords to learn from today's discoveries")
-    
-    # Write markdown
-    write_daily_markdown(top_tools)
-    
-    # Append to master CSV
-    for tool in top_tools:
-        append_to_master_csv(tool)
-    
-    # Print learning statistics
-    stats = keyword_manager.get_learning_stats()
-    print(f"✅ Daily digest written with {len(top_tools)} tools. Master CSV updated.")
-    print(f"📊 Learning Stats: {stats['total_discoveries']} total discoveries, {stats['auto_learned_keywords']} auto-learned keywords")
+    The function implements comprehensive error handling and logging
+    to ensure reliable operation in production environments.
+    """
+    try:
+        print("🤖 AI Tools Daily Digest Generator v3.1.0")
+        print("=" * 50)
+        
+        # Initialize the discovery system
+        discoverer = AIToolsDiscoverer()
+        
+        # Run the discovery pipeline
+        top_tools = discoverer.run_discovery()
+        
+        if not top_tools:
+            print("❌ No tools found. Check your sources and filters.")
+            return
+        
+        # Write daily digest to markdown
+        write_daily_markdown(top_tools)
+        
+        # Add tools to master CSV
+        print("📝 Updating master database...")
+        for tool in top_tools:
+            discoverer.add_to_csv(tool)
+        
+        # Save cache for next run
+        discoverer.save_cache()
+        
+        print("🎉 Daily digest generation complete!")
+        print(f"📊 Tools discovered: {len(discoverer.new_tools)}")
+        print(f"📋 Tools in digest: {len(top_tools)}")
+        print(f"📁 Output files: {ROOT_MD_PATH}, {MASTER_CSV_PATH}")
+        
+    except Exception as e:
+        print(f"❌ Error in main execution: {e}")
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
     main() 

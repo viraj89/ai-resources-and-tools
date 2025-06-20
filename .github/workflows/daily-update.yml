@@ -28,9 +28,9 @@ jobs:
       id: daily_tools
       run: daily-tools
 
-    - name: Run news aggregator
-      id: news_aggregator
-      run: news-aggregator
+    - name: Run news update
+      id: news_update
+      run: update-news
 
     - name: Generate tools directory
       id: tools_directory

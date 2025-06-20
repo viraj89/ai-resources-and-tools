@@ -45,11 +45,12 @@ setup(
     entry_points={
         "console_scripts": [
             "daily-tools=src.scripts.daily_tools_digest:main",
-            "news-aggregator=src.scripts.news_aggregator:main",
+            "update-news=src.scripts.update_blogs_and_news:main",
             "tools-directory=src.scripts.generate_tools_directory:main",
             "keyword-manager=src.scripts.manage_keywords:main",
             "test-keywords=src.scripts.test_keyword_learning:main",
             "prepare-website-data=src.scripts.prepare_website_data:main",
+            "discover-tools=src.scripts.auto_discover_ai_tools:main",
         ],
     },
     include_package_data=True,

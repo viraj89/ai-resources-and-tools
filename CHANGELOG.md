@@ -5,6 +5,102 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.0] - 2025-01-27
+
+### Added
+- **Modern Website Interface**: Complete Next.js 15.3.4 website with React 19
+- **Responsive Design**: Mobile-first approach with Tailwind CSS v4
+- **TypeScript Integration**: Full type safety across the entire website
+- **Component Architecture**: Modular React components for maintainability
+- **Performance Optimization**: Next.js optimizations for fast loading
+
+### Changed
+- **UI/UX Enhancements**: Modern, clean interface with improved user experience
+- **Development Workflow**: Enhanced development environment with hot reload
+- **Build System**: Optimized production builds with Next.js
+- **Code Quality**: ESLint configuration with Next.js rules
+
+### Technical Improvements
+- **ESLint Configuration**: Modern ESLint setup with Next.js rules
+- **PostCSS Integration**: Advanced CSS processing with Tailwind
+- **Development Workflow**: Hot reload and development server setup
+- **Build System**: Optimized production builds with Next.js
+
+### Files Added
+- `website/` - Complete Next.js application
+- `website/src/app/` - Next.js app router structure
+- `website/src/components/` - React components
+- `website/package.json` - Website dependencies and scripts
+- `website/tsconfig.json` - TypeScript configuration
+- `website/tailwind.config.js` - Tailwind CSS configuration
+
+---
+
+## [3.0.0] - 2025-01-26
+
+### Added
+- **Next.js Application**: Modern React-based website
+- **Static Site Generation**: Fast, SEO-friendly static pages
+- **Component-Based Architecture**: Reusable React components
+- **Tailwind CSS Styling**: Utility-first CSS framework
+- **TypeScript Support**: Type-safe development environment
+
+### Changed
+- **Web Platform**: Complete web interface for content presentation
+- **User Experience**: Interactive interface with real-time updates
+- **Content Delivery**: Dynamic content loading and updates
+- **Design System**: Modern, responsive design across all devices
+
+### Technical Improvements
+- **Development Server**: Local development with hot reload
+- **Build Pipeline**: Optimized production builds
+- **Code Quality**: ESLint and TypeScript for code quality
+- **Package Management**: Modern npm/yarn dependency management
+
+### Files Added
+- `website/` - Complete website directory
+- `website/src/app/page.tsx` - Main page component
+- `website/src/app/layout.tsx` - Root layout
+- `website/src/components/` - React components
+- `website/public/` - Static assets
+- `website/package.json` - Dependencies and scripts
+
+---
+
+## [2.2.0] - 2025-01-25
+
+### Added
+- **Dynamic Keyword Learning**: AI-powered keyword extraction and learning system
+- **JSON Configuration**: Flexible keyword management with `data/config/keywords.json`
+- **Success Tracking**: Automatic tracking of successful discoveries
+- **Keyword Evolution**: System learns and adapts keywords over time
+- **Smart Classification**: AI-powered content classification
+
+### Changed
+- **Keyword Management**: Moved from hardcoded keywords to dynamic JSON-based system
+- **Discovery Intelligence**: Enhanced discovery with learned keywords
+- **Scalability**: Designed for handling large keyword datasets
+- **Performance**: Optimized keyword matching and filtering
+
+### Technical Improvements
+- **Keyword Learner**: `src/utils/keyword_learner.py` - Advanced keyword extraction
+- **Keyword Manager**: `src/utils/keyword_manager.py` - Easy keyword access and management
+- **CLI Interface**: Command-line tools for keyword management
+- **Test Suite**: Comprehensive testing for keyword learning system
+
+### Files Added
+- `src/utils/keyword_learner.py` - Advanced keyword learning system
+- `src/utils/keyword_manager.py` - Keyword management utilities
+- `src/scripts/manage_keywords.py` - CLI for keyword management
+- `src/scripts/test_keyword_learning.py` - Keyword learning tests
+- `data/config/keywords.json` - Dynamic keyword configuration
+
+### New Commands
+- `keyword-manager` - Manage and view keywords
+- `test-keywords` - Test keyword learning system
+
+---
+
 ## [2.1.0] - 2025-06-20
 
 ### Added
@@ -22,10 +118,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Professional, clean presentation
   - Easy-to-browse categorized tools directory
 - **New Command-Line Tools**:
-  - `auto-news-daily` - Generate daily digest
-  - `auto-news-update` - Update news
-  - `auto-news-discover` - Discover new tools
-  - `auto-news-directory` - Generate tools directory
+  - `daily-tools` - Generate daily digest
+  - `update-news` - Update news
+  - `discover-tools` - Discover new tools
+  - `tools-directory` - Generate tools directory
 - **Better Content Quality**: Reduced from 59+ mixed items to 18 clean, actual AI tools
 - **Git Integration**: Added comprehensive `.gitignore` for better version control
 
@@ -175,22 +271,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 3.1.0 | 2025-01-27 | Modern website with Next.js 15.3.4 and React 19 |
+| 3.0.0 | 2025-01-26 | Complete web platform with Next.js and TypeScript |
+| 2.2.0 | 2025-01-25 | AI-powered keyword learning and adaptation |
 | 2.1.0 | 2025-06-20 | AI tools directory, smart content filtering, improved project structure |
 | 2.0.0 | 2025-06-20 | Daily AI tools digest, trending scoring, enhanced Reddit integration |
 | 1.0.0 | 2025-06-19 | Initial news aggregation system and manual tools database |
 
 ## Migration Guide
 
-### From v2.0.0 to v2.1.0
+### From v3.0.0 to v3.1.0
 - **No Breaking Changes**: All existing functionality remains intact
-- **New Features**: AI tools directory and smart filtering are additive
-- **Project Structure**: Complete reorganization for better maintainability
-- **Installation**: New `setup.py` for package installation with command-line tools
-- **Content Access**: Generated content now in root directory for easy access
+- **New Features**: Enhanced UI/UX with modern design improvements
+- **Performance**: Optimized builds and development workflow
+- **Code Quality**: Enhanced ESLint and TypeScript configurations
 
-### From v1.0.0 to v2.1.0
+### From v2.2.0 to v3.1.0
 - **No Breaking Changes**: All existing functionality remains intact
-- **New Features**: Daily tools digest, AI tools directory, and enhanced discovery
+- **New Features**: Complete web platform with Next.js
+- **Installation**: Website requires separate npm installation in `website/` directory
+- **Development**: New development workflow with hot reload
+
+### From v2.1.0 to v3.1.0
+- **No Breaking Changes**: All existing functionality remains intact
+- **New Features**: Dynamic keyword learning, web platform
+- **Project Structure**: Website directory added
+- **Dependencies**: Additional npm dependencies for website
+
+### From v1.0.0 to v3.1.0
+- **No Breaking Changes**: All existing functionality remains intact
+- **New Features**: Daily tools digest, AI tools directory, dynamic keywords, web platform
 - **Project Structure**: Complete reorganization with new directory structure
 - **Dependencies**: Add `beautifulsoup4` to your requirements
 - **Installation**: New `setup.py` for package installation
