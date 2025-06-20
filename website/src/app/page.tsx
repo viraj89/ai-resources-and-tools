@@ -52,6 +52,9 @@ export default function Home() {
              <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-sky-500 dark:hover:text-sky-400 transition-colors mt-2 block">
                 View Source on GitHub
             </a>
+            <p className="text-xs text-slate-400 dark:text-slate-500 mt-4 max-w-lg mx-auto">
+                Disclaimer: This content is aggregated automatically. Information may be outdated or inaccurate. Please verify all information and use at your own risk.
+            </p>
         </footer>
       </div>
     </main>
