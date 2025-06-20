@@ -1,5 +1,6 @@
-import content from "../data/content.json";
 import { Inter } from "next/font/google";
+import fs from 'fs';
+import path from 'path';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -55,8 +56,11 @@ const DailyUpdate = ({ update }: { update: any }) => (
   </section>
 );
 
-
 export default function Home() {
+  // Read the content.json file directly from the filesystem
+  const contentPath = path.join(process.cwd(), 'src/data/content.json');
+  const contentFile = fs.readFileSync(contentPath, 'utf8');
+  const content = JSON.parse(contentFile);
   const { daily_updates } = content;
 
   return (
