@@ -1,5 +1,32 @@
 # Release Notes
 
+## Version 4.0.0 - The Polish & Refine Update (June 21, 2025)
+
+This major version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch, this update focuses on clean design, structural integrity, and user-friendly interaction.
+
+### ✨ Key Features & Enhancements
+
+-   **Complete UI Redesign**: The website has been rebuilt from the ground up to be more modern, clean, and intuitive.
+    -   **Expandable Sections**: Content is now grouped by date into elegant, expandable/collapsible accordion sections.
+    -   **Unified Content**: News and Tools for each day are now presented under a single, clear date heading, removing all repetition.
+    -   **Modern Aesthetics**: The design now features a refined color palette, improved typography, subtle icons, and smooth animations.
+
+-   **Intelligent Data Parsing**: The data processing script has been significantly improved to correctly parse news sources from article titles, providing cleaner and more accurate attribution.
+
+-   **Major Project Refactoring**: The entire codebase has been reorganized for clarity and maintainability.
+    -   **New `artifacts/` Directory**: All generated data files (markdown, CSV) are now stored in a dedicated `artifacts/` directory, de-cluttering the project root.
+    -   **Updated Script Paths**: All Python scripts have been updated to use the new, cleaner file structure.
+
+-   **Simplified Documentation**: The `README.md` has been rewritten to be more concise and now reflects the final, polished project structure.
+
+-   **Stability and Performance Fixes**:
+    -   Resolved numerous Vercel deployment issues by moving from an unreliable file-based data import to a robust TypeScript-based approach.
+    -   Disabled the unstable Turbopack engine in favor of the stable Webpack build system for Next.js.
+
+This release marks the final, mature version of the AI Insights Daily platform, delivering on the promise of a truly automated and professional news and tools aggregator.
+
+---
+
 ## Version 3.0.0 - The Website (June 22, 2025)
 
 This is a landmark release for the Auto-News AI project, transitioning it from a collection of data scripts into a full-fledged public-facing web application. The primary goal of this version is to provide a rich, accessible, and modern user experience for consuming the daily AI news and tools we discover.
@@ -83,6 +110,33 @@ This release marks a significant step forward in the project's maturity, providi
 - **Additive Features**: New capabilities build on existing system
 - **Updated Dependencies**: Add `beautifulsoup4` to requirements
 - **Enhanced Documentation**: Comprehensive README updates
+
+---
+
+## Version 2.1.0 - Enhanced Tools Directory (June 19, 2025)
+
+### New Features
+- **Clean Tools Directory**: Generated `ai-tools-directory.md` with categorized markdown table.
+- **Smart Filtering**: Filters out Reddit posts, news articles, and non-tool content.
+- **Category Organization**: Tools organized by type (Text/Chat, Code, Design, etc.).
+- **Pricing Information**: Includes free/paid status for each tool.
+
+### Technical Changes
+- Integrated `generate_tools_directory.py` into the daily GitHub Actions workflow.
+- Enhanced CSV processing with better filtering and deduplication.
+
+---
+
+## Version 2.0.0 - Major Restructure (June 18, 2025)
+
+### Project Reorganization
+- **New Structure**: Moved from a flat `tools/` directory to a standard `src/` organization.
+- **Package Setup**: Added `setup.py` for proper package installation and command-line entry points.
+- **Data & Docs**: Organized project files into `data/` and `docs/` directories.
+
+### Enhanced Discovery System
+- Implemented an advanced trending score algorithm.
+- Added smart deduplication and a cache system to prevent reprocessing.
 
 ---
 

@@ -2,6 +2,33 @@
 
 All notable changes to the Auto News AI Tools Discovery project will be documented in this file.
 
+## [4.0.0] - 2025-06-21
+
+### ✨ Added - Version 4.0: The Polish & Refine Update
+
+This major version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch, this update focuses on clean design, structural integrity, and user-friendly interaction.
+
+#### Core Features
+-   **Complete UI Redesign**: The website has been rebuilt from the ground up to be more modern, clean, and intuitive.
+    -   **Expandable Sections**: Content is now grouped by date into elegant, expandable/collapsible accordion sections using `framer-motion`.
+    -   **Unified Content**: News and Tools for each day are now presented under a single, clear date heading, removing all repetition.
+    -   **Modern Aesthetics**: The design now features a refined color palette, improved typography, subtle icons, and smooth animations.
+
+-   **Intelligent Data Parsing**: The data processing script (`prepare_website_data.py`) has been significantly improved to correctly parse news sources from article titles, providing cleaner and more accurate attribution.
+
+-   **Major Project Refactoring**: The entire codebase has been reorganized for clarity and maintainability.
+    -   **New `artifacts/` Directory**: All generated data files (markdown, CSV) are now stored in a dedicated `artifacts/` directory, de-cluttering the project root.
+    -   **Updated Script Paths**: All Python scripts have been updated to use the new, cleaner file structure.
+
+-   **Simplified Documentation**: The `README.md` has been rewritten to be more concise and now reflects the final, polished project structure.
+
+#### Technical Changes
+-   **Stability and Performance Fixes**:
+    -   Resolved numerous Vercel deployment issues by moving from an unreliable file-based data import to a robust TypeScript-based approach (`content.ts`).
+    -   Disabled the unstable `--turbopack` engine in favor of the stable Webpack build system for Next.js in `package.json`.
+-   **Footer and Layout Fixes**: Corrected a duplicated footer issue in `layout.tsx` and added a project disclaimer.
+-   **Finalized `.gitignore`**: Ensured `node_modules` and other unnecessary files are correctly ignored.
+
 ## [3.0.0] - 2025-06-22
 
 ### 🎉 Added - Version 3.0: The Website
@@ -202,6 +229,7 @@ This major version introduces a public-facing website as the primary interface f
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 4.0.0 | 2025-06-21 | ✨ Version 4.0: The Polish & Refine Update |
 | 3.0.0 | 2025-06-22 | 🎉 Version 3.0: The Website |
 | 2.2.0 | 2025-06-20 | 🧠 Dynamic Keyword Learning System |
 | 2.1.0 | 2025-06-19 | 🎯 Enhanced Tools Directory |
