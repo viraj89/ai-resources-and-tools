@@ -49,6 +49,7 @@ setup(
             "tools-directory=src.scripts.generate_tools_directory:main",
             "keyword-manager=src.scripts.manage_keywords:main",
             "test-keywords=src.scripts.test_keyword_learning:main",
+            "prepare-website-data=src.scripts.prepare_website_data:main",
         ],
     },
     include_package_data=True,

@@ -15,6 +15,8 @@ Auto-News is an automated system that fetches, deduplicates, and publishes daily
 - Eliminate manual effort in news aggregation and publishing.
 - Ensure news freshness, variety, and minimal duplication across days.
 - Enable transparency and traceability of news updates via version control.
+- **New Goal**: Present the aggregated content on a beautiful, modern, and responsive public-facing website.
+- **New Goal**: Increase user engagement by providing a web interface instead of just markdown files.
 
 ---
 
@@ -34,6 +36,15 @@ Auto-News is an automated system that fetches, deduplicates, and publishes daily
   - Uses GitHub Actions to run the update script daily and on-demand.
 - **Change Tracking:**
   - Commits and pushes updates to the repository with clear commit messages.
+
+### 3.1 Website Features (New)
+
+- **Single-Page Application (SPA)**: A modern, responsive website built with Next.js and Tailwind CSS.
+- **Dynamic Content**: Displays daily AI tools and news updates chronologically.
+- **Preserves History**: All previous updates remain accessible on the single page, similar to a blog feed.
+- **Automatic Deployment**: Deploys automatically to Vercel daily at 7:30 AM IST (2:00 UTC).
+- **Unique Visitor Counter**: A footer counter to track page visits, powered by Vercel KV and Serverless Functions.
+- **Free Hosting**: Entirely hosted and deployed using Vercel's free tier.
 
 ---
 
@@ -61,6 +72,18 @@ Auto-News is an automated system that fetches, deduplicates, and publishes daily
   4. News prioritized and formatted.
   5. Markdown file updated and committed.
   6. Cache updated.
+
+### 5.1 Website Architecture (New)
+
+- **Framework**: Next.js with TypeScript.
+- **Styling**: Tailwind CSS for responsive and modern design.
+- **Data Source**: A `content.json` file generated daily by a Python script (`src/scripts/prepare_website_data.py`), which parses the project's markdown files and CSV.
+- **Visitor Counter**:
+    - **Backend**: A Vercel Serverless Function (`/api/views`).
+    - **Database**: Vercel KV for storing the visitor count.
+- **Deployment**:
+    - **Platform**: Vercel (Free Tier).
+    - **Trigger**: Automatic deployments triggered by commits to the `main` branch via the Vercel for GitHub integration.
 
 ---
 
@@ -118,7 +141,9 @@ Auto-News is an automated system that fetches, deduplicates, and publishes daily
 - No duplicate news within a 7-day window
 - News is relevant and timely (within 24 hours of publication)
 - System uptime and workflow success rate > 99%
-- Positive feedback from users/readers
+- **New Metric**: The Vercel website is successfully updated daily.
+- **New Metric**: Positive user feedback on the website's design and usability.
+- **New Metric**: Growth in unique visitor counts.
 
 ---
 

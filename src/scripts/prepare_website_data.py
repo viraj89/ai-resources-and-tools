@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+"""
+Prepare Website Data
+- Parses generated markdown files and CSV to create a structured JSON for the website.
+- Combines daily tools, news, and the master tool directory.
+- This script is run before the website is built.
+"""
+
+import os
+import json
+import csv
+import re
+from datetime import datetime
+
+# Define paths
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+DAILY_TOOLS_MD = os.path.join(ROOT_DIR, "ai-tools-daily.md")
+NEWS_MD = os.path.join(ROOT_DIR, "blogs-and-news.md")
+MASTER_CSV = os.path.join(ROOT_DIR, "data/master_resources.csv")
+OUTPUT_JSON = os.path.join(ROOT_DIR, "website/src/data/content.json")
+
+def parse_daily_tools(content):
+    """Parse the ai-tools-daily.md file."""
+    sections = re.split(r'## AI Tools and Apps of the Day: (.*?)\n---', content)
+    if not sections:
+        return []
+
+    daily_updates = []
+    # Skip the first empty section
+    for i in range(1, len(sections), 2):
+        date_str = sections[i].strip()
+        try:
+            date = datetime.strptime(date_str, '%B %d, %Y').isoformat()
+        except ValueError:
+            continue
+
+        tools_content = sections[i+1]
+        tool_items = re.findall(r'\d+\.\s(.*?)\s–\s\[(.*?)\]\((.*?)\)\s–\s(.*?)\n', tools_content)
+
+        tools = []
+        for item in tool_items:
+            tools.append({
+                "name": item[0].strip(),
+                "url": item[2].strip(),
+                "description": item[3].strip()
+            })
+        
+        if tools:
+            daily_updates.append({
+                "date": date,
+                "type": "tools",
+                "title": f"AI Tools of the Day: {date_str}",
+                "data": tools
+            })
+
+    return daily_updates
+
+def parse_news(content):
+    """Parse the blogs-and-news.md file."""
+    sections = re.split(r'### (.*?)\n\n', content)
+    if not sections:
+        return []
+
+    daily_updates = []
+    for i in range(1, len(sections), 2):
+        date_str = sections[i].strip()
+        try:
+            date = datetime.strptime(date_str, '%Y-%m-%d').isoformat()
+        except ValueError:
+            continue
+
+        news_content = sections[i+1]
+        news_items = re.findall(r'\s\*(.*?)\s-\s\[Source\]\((.*?)\)\s\*(.*?)\*', news_content)
+
+        articles = []
+        for item in news_items:
+            articles.append({
+                "title": item[0].strip(),
+                "url": item[1].strip(),
+                "source": item[2].strip()
+            })
+        
+        if articles:
+            daily_updates.append({
+                "date": date,
+                "type": "news",
+                "title": f"AI News for {date_str}",
+                "data": articles
+            })
+            
+    return daily_updates
+
+def parse_master_tools():
+    """Parse the master_resources.csv file."""
+    if not os.path.exists(MASTER_CSV):
+        return []
+    
+    tools_by_category = {}
+    with open(MASTER_CSV, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            category = row.get("Category", "Other").strip()
+            if category not in tools_by_category:
+                tools_by_category[category] = []
+            
+            tools_by_category[category].append({
+                "name": row.get("Tool Name", "").strip(),
+                "url": row.get("URL", "").strip(),
+                "description": row.get("What it does", "").strip(),
+                "pricing": row.get("Free/Paid", "N/A").strip()
+            })
+    return tools_by_category
+
+def main():
+    """Main function to generate the website data."""
+    print("🚀 Starting website data preparation...")
+
+    # Read source files
+    try:
+        with open(DAILY_TOOLS_MD, 'r', encoding='utf-8') as f:
+            daily_tools_content = f.read()
+    except FileNotFoundError:
+        daily_tools_content = ""
+        print("🟡 ai-tools-daily.md not found, skipping.")
+
+    try:
+        with open(NEWS_MD, 'r', encoding='utf-8') as f:
+            news_content = f.read()
+    except FileNotFoundError:
+        news_content = ""
+        print("🟡 blogs-and-news.md not found, skipping.")
+
+    # Parse data
+    daily_tools = parse_daily_tools(daily_tools_content)
+    daily_news = parse_news(news_content)
+    all_tools = parse_master_tools()
+
+    # Combine and sort daily updates
+    all_updates = sorted(daily_tools + daily_news, key=lambda x: x['date'], reverse=True)
+
+    # Prepare final JSON structure
+    website_data = {
+        "last_updated": datetime.now().isoformat(),
+        "daily_updates": all_updates,
+        "tools_directory": all_tools
+    }
+
+    # Write output JSON
+    os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
+    with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+        json.dump(website_data, f, indent=2, ensure_ascii=False)
+
+    print(f"✅ Website data successfully generated at {OUTPUT_JSON}")
+    print(f"   - {len(all_updates)} daily updates processed.")
+    print(f"   - {len(all_tools)} tool categories processed.")
+
+if __name__ == "__main__":
+    main() 
