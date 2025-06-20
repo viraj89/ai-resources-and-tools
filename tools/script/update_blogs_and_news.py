@@ -6,9 +6,12 @@ import xml.etree.ElementTree as ET
 import time
 import urllib.parse
 import re
+import json
+import os
 
 # Target file path
 FILE_PATH = "blogs-and-news.md"
+CACHE_FILE = "tools/resources/news_cache.json"
 
 # RSS feed for Google News on AI
 RSS_FEED_URL = "https://news.google.com/rss/search?q=AI&hl=en-US&gl=US&ceid=US:en"
@@ -40,6 +43,52 @@ SEVERITY_KEYWORDS = [
     "AI startup", "AI startups", "VC fund", "Venture Capital", "Hedge Fund", "OpenAI", "Anthropic", "India", "US", "United States", "America"
 ]
 
+# Cache management functions
+def load_news_cache():
+    """Load the news cache from file"""
+    try:
+        if os.path.exists(CACHE_FILE):
+            with open(CACHE_FILE, 'r') as f:
+                cache = json.load(f)
+                # Clean old entries (older than 7 days)
+                today = datetime.date.today()
+                cleaned_cache = {}
+                for date_str, urls in cache.items():
+                    try:
+                        cache_date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+                        if (today - cache_date).days <= 7:
+                            cleaned_cache[date_str] = urls
+                    except ValueError:
+                        continue
+                return cleaned_cache
+    except Exception as e:
+        print(f"Warning: Could not load cache: {e}")
+    return {}
+
+def save_news_cache(cache):
+    """Save the news cache to file"""
+    try:
+        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+        with open(CACHE_FILE, 'w') as f:
+            json.dump(cache, f, indent=2)
+    except Exception as e:
+        print(f"Warning: Could not save cache: {e}")
+
+def get_recent_urls(cache, days=7):
+    """Get all URLs from the last N days"""
+    recent_urls = set()
+    today = datetime.date.today()
+    
+    for date_str, urls in cache.items():
+        try:
+            cache_date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+            if (today - cache_date).days <= days:
+                recent_urls.update(urls)
+        except ValueError:
+            continue
+    
+    return recent_urls
+
 # Helper: Shorten URLs using TinyURL API
 def shorten_url(url):
     try:
@@ -65,6 +114,10 @@ def fetch_rss_items(feed_url):
         news_items.append((title, link))
     return news_items
 
+# Load existing cache
+news_cache = load_news_cache()
+recent_urls = get_recent_urls(news_cache, days=7)
+
 # Fetch from main AI RSS feed
 main_rss_news = fetch_rss_items(RSS_FEED_URL)
 
@@ -78,8 +131,9 @@ for kw in KEYWORDS:
 all_news = main_rss_news + keyword_news
 seen_links = set()
 unique_news = []
+
 for title, link in all_news:
-    if link not in seen_links:
+    if link not in seen_links and link not in recent_urls:
         unique_news.append((title, link))
         seen_links.add(link)
 
@@ -101,10 +155,17 @@ for _, link in top_news:
 
 # Read existing content and remove today's section if present
 try:
-    with open(FILE_PATH, "r") as f:
+    with open(FILE_PATH, "r", encoding="utf-8") as f:
         existing = f.read()
 except FileNotFoundError:
     existing = "# 🔗 Blog Posts / News Articles\n"
+except UnicodeDecodeError:
+    # Fallback for encoding issues
+    try:
+        with open(FILE_PATH, "r", encoding="latin-1") as f:
+            existing = f.read()
+    except:
+        existing = "# 🔗 Blog Posts / News Articles\n"
 
 date_today = datetime.date.today()
 date_str = date_today.strftime('%B %d, %Y')
@@ -131,4 +192,10 @@ if not updated_content.startswith('#'):
 with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(updated_content)
 
+# Update cache with today's URLs
+today_str = date_today.strftime('%Y-%m-%d')
+news_cache[today_str] = [link for _, link in top_news]
+save_news_cache(news_cache)
+
 print("✅ blogs-and-news.md updated successfully.")
+print(f"📊 Added {len(top_news)} new articles, filtered out {len(recent_urls)} recent duplicates.")

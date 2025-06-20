@@ -14,4 +14,81 @@ Sr. No.,Tool Name,Category,URL,What it does,Free/Paid
 13,HeyGen,Video / Creative Tools,https://www.heygen.com,AI avatar-based video creation,Paid
 14,Tome,Presentations,https://tome.app,AI tool for storytelling and slides,Freemium
 15,Leonardo AI,Design / Image Generation,https://www.leonardo.ai,AI for game art and image creation,Freemium
-16,Veo 3,Video / Creative Tools,https://veo.google,Google's experimental video generation model,N/A 
+16,Veo 3,Video / Creative Tools,https://veo.google,Google's experimental video generation model,N/A 17,dail8859 /NotepadNext,Other,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++. Contribute to dail8859/NotepadNext development by creating an account on GitHub.",Freemium
+17,automatisch /automatisch,Other,https://github.com/automatisch/automatisch,The open source Zapier alternative. Build workflow automation without spending time and money. - automatisch/automatisch,Freemium
+18,mindsdb /mindsdb,Search / Research,https://github.com/mindsdb/mindsdb,AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need - mindsdb/mindsdb,Freemium
+19,PaperMC /Paper,Other,https://github.com/PaperMC/Paper,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies - PaperMC/Paper",Freemium
+20,cocos /cocos-engine,Code / Developer Tools,https://github.com/cocos/cocos-engine,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games ...",Freemium
+21,microsoft /onnxruntime,Other,https://github.com/microsoft/onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator - microsoft/onnxruntime",Freemium
+22,huggingface /transformers,Text / Chat Assistants,https://github.com/huggingface/transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  - GitHub - huggingface/tran...",Freemium
+23,windmill-labs /windmill,Code / Developer Tools,https://github.com/windmill-labs/windmill,"Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. -...",Freemium
+24,n8n-io /n8n,Code / Developer Tools,https://github.com/n8n-io/n8n,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. - n8n-io/n8n",Freemium
+25,[R] Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought,Other,https://arxiv.org/pdf/2505.12514,,N/A
+26,The Pig in Yellow: Part 2,Design / Image Generation,https://i.redd.it/e4m0oz92808f1.png,"**II.**
+&gt; *“His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire.”*
+
+**II.i**
+
+A user inputs an idea, a question, a belief.
+
+A sy...",Freemium
+27,Is artificial intelligence (AI) smart or just efficient?,Design / Image Generation,https://alpha.leofinance.io/@badbitch/is-artificial-intelligence-ai-smart-or-just-efficient-9wp,I came across a tweet today where an individual talks about how he believes chatGPT is much smarter...,N/A
+28,"OpenAI's Greg Brockman expects AIs to go from AI coworkers to AI managers: ""the AI gives you ideas and gives you tasks to do""",Other,https://v.redd.it/ssf04g7dnw7f1,,N/A
+29,Meta in talks to hire former GitHub CEO Nat Friedman as part of AI push – report,Code / Developer Tools,https://www.proactiveinvestors.co.uk/companies/news/1073286/meta-in-talks-to-hire-former-github-ceo-nat-friedman-as-part-of-ai-push-report-1073286.html,,Paid
+30,Quick Daily AI,Other,N/A,"## Quick Daily AI News June 20, 2025",N/A
+31,OpenAI,Design / Image Generation,N/A,2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [2],N/A
+32,Bank of America shrinks workforce by leveraging AI,Other,N/A,"3. Bank of America shrinks workforce by leveraging AI, tech investments to boost efficiency - The Business Journals [3]",N/A
+33,Starlink and Bans State AI,Other,N/A,6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6],Paid
+34,Following months of record high AI,Other,N/A,"7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]",Paid
+35,Prosus report says applications will drive the next wave of AI,Other,N/A,"7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]",Paid
+36,OpenAI urges US to prioritize AI,Other,N/A,"8. OpenAI urges US to prioritize AI funding, regulation to stay ahead of China - Reuters [8]",N/A
+37,Tesla CEO Elon Musk calls OpenAI,Other,N/A,10. Here's what made Tesla CEO Elon Musk calls OpenAI CEO as SCAM Altman - Times of India [10],N/A
+38,dail8859 /NotepadNext,Other,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++. Contribute to dail8859/NotepadNext development by creating an account on GitHub.",Freemium
+39,Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters,Other,https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer,"Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",N/A
+40,🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line),Text / Chat Assistants,https://i.redd.it/wvoahuqcb08f1.jpeg,"Most people picture a neural network like this:
+
+Input → Hidden → Output  
+   ● → ● → ●
+
+Clean. Linear. Predictable.
+
+But real neural networks—especially massive transformer models like GPT—don’t thin...",N/A
+41,Does anyone know anything about context windows on longer (20-30 second) Wan videos?,Text / Chat Assistants,https://i.redd.it/keexq04rms7f1.gif,"**TLDR:**
+
+**1. From 481 frames with 160 context windows and 4 stride and overlap what would make a video with less visual anomalies (white smudgey halo around character) than we see at 10, 15 and 20 ...",Paid
+42,lancedb /lance,Code / Developer Tools,https://github.com/lancedb/lance,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD...",Freemium
+43,microsoft /playwright,Other,https://github.com/microsoft/playwright,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  - GitHub - microsoft/playwright: Playwright is a framework for Web Testing ...",Freemium
+44,modelscope /FunASR,Text / Chat Assistants,https://github.com/modelscope/FunASR,"A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc. - modelscope/FunASR",Freemium
+45,YouTube CEO announces Google's Veo 3 AI video tech is coming to Shorts,Video / Creative Tools,https://www.pcguide.com/news/youtube-ceo-announces-googles-veo-3-ai-video-tech-is-coming-to-shorts/,"At the Cannes Lions 2025 International Festival of Creativity, Neal Mohan discusses 20 years of YouTube and what's next for the platform.",N/A
+46,8 Depth Estimation Models Tested with the Highest Settings on ComfyUI,Design / Image Generation,https://i.redd.it/noifyjoitw7f1.jpeg,"I tested all 8 available depth estimation models on ComfyUI on different types of images. I used the largest versions, highest precision and settings available that would fit on 24GB VRAM. 
+
+The model...",Paid
+47,Wan 2.1 I2V 14B 480p - my first video stitching test,Design / Image Generation,https://v.redd.it/xz4nn241uu7f1,"Simple movements, I know, but I was pleasantly surprised by how well it fits together for my first try. I'm sure my workflows have lots of room for optimization - altogether this took nearly 20 minute...",Paid
+48,Enter the Swamp,Design / Image Generation,https://i.redd.it/6z4otjjnlx7f1.png,"Prompt:
+```
+A haunted, mist-shrouded swamp at twilight, with twisted, moss-covered trees, eerie will-o'-the-wisps hovering over stagnant water, and the ruins of a sunken chapel half-submerged in mud, ...",Paid
+49,Quick tip for anyone generating videos with Hailuo 2 or Midjourney Video since they don't generate with any sound. You can generate sound effects for free using MMAUDIO via huggingface.,Design / Image Generation,https://v.redd.it/v4k33g4u908f1,,Freemium
+50,WAN2.1 Why all my clowns look so scary? Any tips to make him look more friendly?,Video / Creative Tools,https://v.redd.it/86v1ceynsy7f1,"The prompt is always ""a man wearing a yellow and red clown costume."" but he looks straight out of a horror movie",Paid
+51,Replacing Everyone with AI,Other,https://youtu.be/THfBccihkVQ,"*Our first longform animation is finally here!*Toxic CEO is back! This time, he's got a genius plan to boost productivity: fire everyone and replace the offi...",N/A
+52,"""We find that AI models can accurately guide users through the recovery of live poliovirus.""",Other,https://i.redd.it/8fn2mhf4qp7f1.png,[https://arxiv.org/abs/2506.13798](https://arxiv.org/abs/2506.13798),N/A
+53,Hips don't lie,Design / Image Generation,https://v.redd.it/k7a2s06wwy7f1,"I made this video by stitching together two 7-second clips made with FusionX (Q8 GGUF model). Each little 7-second clip took about 10 minutes to render on RTX 3090. Base image made with FLUX Dev
+
+It w...",N/A
+54,The OpenAI Files: a comprehensive and concerning look at the inner workings of the leading AI lab,Other,https://www.openaifiles.org,"The OpenAI Files is the most comprehensive collection to date of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI.
+
+
+",N/A
+55,Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters,Other,https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer,"Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",N/A
+56,🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line),Text / Chat Assistants,https://i.redd.it/wvoahuqcb08f1.jpeg,"Most people picture a neural network like this:
+
+Input → Hidden → Output  
+   ● → ● → ●
+
+Clean. Linear. Predictable.
+
+But real neural networks—especially massive transformer models like GPT—don’t thin...",N/A
+57,Does anyone know anything about context windows on longer (20-30 second) Wan videos?,Text / Chat Assistants,https://i.redd.it/keexq04rms7f1.gif,"**TLDR:**
+
+**1. From 481 frames with 160 context windows and 4 stride and overlap what would make a video with less visual anomalies (white smudgey halo around character) than we see at 10, 15 and 20 ...",Paid
+58,lancedb /lance,Code / Developer Tools,https://github.com/lancedb/lance,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD...",Freemium
+59,microsoft /playwright,Other,https://github.com/microsoft/playwright,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  - GitHub - microsoft/playwright: Playwright is a framework for Web Testing ...",Freemium

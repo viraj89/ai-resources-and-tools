@@ -1,0 +1,38 @@
+name: Auto-Discover AI Tools
+
+on:
+  schedule:
+    # Runs daily at 7:15 AM IST (1:45 UTC)
+    - cron: '45 1 * * *'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  discover-tools:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+        
+    - name: Run AI tools discovery
+      run: |
+        python tools/script/auto_discover_ai_tools.py
+    - name: Run daily tools digest
+      run: |
+        python tools/script/daily_tools_digest.py
+        
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add tools/resources/master_resources.csv tools/resources/tools_cache.json ai-tools-daily.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-discover new AI tools and daily digest [skip ci]" && git push) 

@@ -25,8 +25,8 @@ News
 10. Here's what made Tesla CEO Elon Musk calls OpenAI CEO as SCAM Altman - Times of India [10]
 
 Sources:
-[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/27s32bgc [3] https://tinyurl.com/25wnq4d8 [4] https://tinyurl.com/29l6wvqz [5] https://tinyurl.com/2cul9ek5 [6] https://tinyurl.com/2dk8hr2o [7] https://tinyurl.com/2dzhvdpq [8] https://tinyurl.com/29mk33c7 [9] https://tinyurl.com/2alckht2 [10] https://tinyurl.com/2akharo3
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/27s32bgc [3] https://tinyurl.com/25wnq4d8 [4] https://tinyurl.com/29l6wvqz [5] https://tinyurl.com/2cul9ek5 [6] https://tinyurl.com/2dk8hr2o [7] https://tinyurl.com/2dzhvdpq [8] https://tinyurl.com/29mk33c7 [9] https://tinyurl.com/27eo76xl [10] https://tinyurl.com/2akharo3
 
 ---
 
-ðŸ”— Blog Posts / News Articles
+🔗 Blog Posts / News Articles
