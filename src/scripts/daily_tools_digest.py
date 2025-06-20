@@ -6,6 +6,7 @@ Daily AI Tools Digest Generator
 - Updates data/master_resources.csv (deduplicated)
 - No duplicates in either file
 - Clean, short, markdown-compatible output
+- Uses dynamic keyword learning system
 """
 
 import os
@@ -18,17 +19,20 @@ import re
 from urllib.parse import urlparse, urljoin
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
+import sys
+
+# Add src to path for imports
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+from src.utils.keyword_manager import KeywordManager
 
 ROOT_MD_PATH = "ai-tools-daily.md"
 MASTER_CSV_PATH = "data/master_resources.csv"
 CACHE_FILE = "data/cache/tools_cache.json"
 
-# AI-related keywords for filtering
-AI_KEYWORDS = [
-    "AI", "artificial intelligence", "machine learning", "ML", "GPT", "ChatGPT", "Claude", "DALL-E",
-    "Stable Diffusion", "Midjourney", "generative", "neural", "deep learning", "LLM", "large language model",
-    "computer vision", "NLP", "natural language", "automation", "intelligent", "smart", "assistant",
-    "chatbot", "transformer", "diffusion", "generation", "synthesis", "analysis", "prediction"
+# Enhanced Reddit subreddits for AI tools discovery
+REDDIT_SUBREDDITS = [
+    "artificial", "MachineLearning", "AINews", "OpenAI", "StableDiffusion", 
+    "LocalLLaMA", "ChatGPT", "AI", "artificialintelligence", "deeplearning"
 ]
 
 # Trending keywords for better tool detection
@@ -37,12 +41,6 @@ TRENDING_KEYWORDS = [
     "beta", "alpha", "preview", "demo", "showcase", "introducing",
     "trending", "viral", "popular", "hot", "must-try", "game-changer",
     "breakthrough", "revolutionary", "innovative", "cutting-edge"
-]
-
-# Enhanced Reddit subreddits for AI tools discovery
-REDDIT_SUBREDDITS = [
-    "artificial", "MachineLearning", "AINews", "OpenAI", "StableDiffusion", 
-    "LocalLLaMA", "ChatGPT", "AI", "artificialintelligence", "deeplearning"
 ]
 
 # Categories mapping
@@ -63,6 +61,7 @@ class AIToolsDiscoverer:
         self.existing_tools = self.load_existing_tools()
         self.cache = self.load_cache()
         self.new_tools = []
+        self.keyword_manager = KeywordManager()
         
     def load_existing_tools(self):
         """Load existing tools from CSV to avoid duplicates"""
@@ -91,17 +90,17 @@ class AIToolsDiscoverer:
             json.dump(self.cache, f, indent=2)
     
     def is_ai_related(self, text):
-        """Check if text is AI-related"""
-        text_lower = text.lower()
-        return any(keyword.lower() in text_lower for keyword in AI_KEYWORDS)
+        """Check if text is AI-related using dynamic keywords"""
+        return self.keyword_manager.is_ai_related(text)
     
     def calculate_trending_score(self, title, description, upvotes=0, comments=0, source=""):
         """Calculate trending score for a tool"""
         score = 0
         text = (title + " " + description).lower()
         
-        # Base AI relevance score
-        ai_keywords_found = sum(1 for keyword in AI_KEYWORDS if keyword.lower() in text)
+        # Base AI relevance score using dynamic keywords
+        ai_keywords = self.keyword_manager.get_all_ai_keywords_flat()
+        ai_keywords_found = sum(1 for keyword in ai_keywords if keyword.lower() in text)
         score += ai_keywords_found * 10
         
         # Trending keywords bonus
@@ -140,8 +139,8 @@ class AIToolsDiscoverer:
         # Calculate trending score
         trending_score = self.calculate_trending_score(title, description, upvotes, comments, source)
         
-        # Determine category based on keywords
-        category = self.categorize_tool(title, description)
+        # Determine category based on dynamic keywords
+        category = self.keyword_manager.categorize_tool(title, description)
         
         # Determine pricing (basic heuristic)
         pricing = self.determine_pricing(description)
@@ -157,73 +156,8 @@ class AIToolsDiscoverer:
         }
     
     def is_non_tool_content(self, title, description, url):
-        """Check if this is non-tool content (posts, articles, etc.)"""
-        
-        # Skip if no URL or invalid URL
-        if not url or url == "N/A" or not url.startswith('http'):
-            return True
-        
-        # Skip if it's clearly a Reddit post or social media
-        if any(indicator in url.lower() for indicator in ["reddit.com", "redd.it", "twitter.com", "youtu.be", "youtube.com"]):
-            return True
-        
-        # Skip if it's a news article or research paper
-        if any(indicator in url.lower() for indicator in ["arxiv.org", "news", "article", "blog", "medium.com"]):
-            return True
-        
-        # Skip if name contains non-tool indicators
-        name_lower = title.lower()
-        non_tool_indicators = [
-            "reddit", "post", "article", "news", "report", "discussion", "question", 
-            "how to", "tutorial", "guide", "analysis", "review", "announcement", 
-            "update", "release", "launch", "introducing", "new feature", "research",
-            "paper", "study", "analysis", "tweet", "thread", "video", "image"
-        ]
-        
-        if any(indicator in name_lower for indicator in non_tool_indicators):
-            return True
-        
-        # Skip if it's a GitHub repository without clear tool indicators
-        if "github.com" in url.lower():
-            tool_indicators = [
-                "ai", "gpt", "claude", "assistant", "tool", "platform", "app", "bot", "agent",
-                "generator", "creator", "studio", "hub", "workspace", "lab", "kit", "suite",
-                "api", "sdk", "framework", "library", "engine", "model", "service", "solution"
-            ]
-            if not any(indicator in name_lower for indicator in tool_indicators):
-                return True
-        
-        # Skip if description is too short or contains non-tool content
-        if not description or len(description) < 10:
-            return True
-        
-        # Skip if description contains non-tool indicators
-        desc_lower = description.lower()
-        if any(indicator in desc_lower for indicator in non_tool_indicators):
-            return True
-        
-        return False
-    
-    def categorize_tool(self, title, description):
-        """Categorize tool based on keywords"""
-        text = (title + " " + description).lower()
-        
-        if any(word in text for word in ["chat", "assistant", "writing", "text", "gpt", "claude"]):
-            return "Text / Chat Assistants"
-        elif any(word in text for word in ["code", "programming", "developer", "github", "copilot"]):
-            return "Code / Developer Tools"
-        elif any(word in text for word in ["image", "photo", "art", "design", "dall", "midjourney", "stable diffusion"]):
-            return "Design / Image Generation"
-        elif any(word in text for word in ["video", "animation", "movie", "runway", "pika"]):
-            return "Video / Creative Tools"
-        elif any(word in text for word in ["voice", "audio", "speech", "music", "elevenlabs"]):
-            return "Voice / Audio Tools"
-        elif any(word in text for word in ["presentation", "slide", "pitch", "gamma", "tome"]):
-            return "Presentations"
-        elif any(word in text for word in ["search", "research", "perplexity", "query"]):
-            return "Search / Research"
-        else:
-            return "Other"
+        """Check if this is non-tool content using dynamic indicators"""
+        return not self.keyword_manager.is_tool_content(title, description, url)
     
     def determine_pricing(self, description):
         """Determine pricing model"""
@@ -541,13 +475,19 @@ def write_daily_markdown(tools):
 
 # Main logic
 def main():
+    # Initialize keyword manager
+    keyword_manager = KeywordManager()
+    
     # Load master tool names and URLs
     master_names, master_urls = load_master_tools()
+    
     # Discover new tools (reuse existing logic)
     discoverer = AIToolsDiscoverer()
     discoverer.run_discovery()
+    
     # Filter out tools already in master
     new_tools = [t for t in discoverer.new_tools if t['Tool Name'].strip().lower() not in master_names and t['URL'].strip().lower() not in master_urls]
+    
     # Select top 3-5 trending tools (already sorted by score)
     top_tools = new_tools[:5] if len(new_tools) >= 3 else new_tools
     if len(top_tools) > 5:
@@ -555,12 +495,30 @@ def main():
     elif len(top_tools) < 3:
         print("Not enough new tools found for today's digest.")
         return
+    
+    # Record successful discoveries for keyword learning
+    print("📚 Recording successful discoveries for keyword learning...")
+    for tool in top_tools:
+        keyword_manager.record_successful_discovery(tool)
+    
+    # Learn from discoveries and update keywords
+    print("🧠 Learning from discoveries and updating keywords...")
+    if keyword_manager.learn_from_discoveries():
+        print("✅ Keywords updated successfully!")
+    else:
+        print("📝 No new keywords to learn from today's discoveries")
+    
     # Write markdown
     write_daily_markdown(top_tools)
+    
     # Append to master CSV
     for tool in top_tools:
         append_to_master_csv(tool)
+    
+    # Print learning statistics
+    stats = keyword_manager.get_learning_stats()
     print(f"✅ Daily digest written with {len(top_tools)} tools. Master CSV updated.")
+    print(f"📊 Learning Stats: {stats['total_discoveries']} total discoveries, {stats['auto_learned_keywords']} auto-learned keywords")
 
 if __name__ == "__main__":
     main() 

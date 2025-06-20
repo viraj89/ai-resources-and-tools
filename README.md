@@ -1,217 +1,302 @@
-# AI Resources and Tools
+# Auto News AI Tools Discovery
 
-An automated system that discovers, aggregates, and maintains a comprehensive collection of trending AI tools, apps, and news. The project fetches the latest AI tools from multiple sources, generates a daily markdown digest, and maintains a deduplicated master CSV database of all tools and resources.
-
-**Version**: 2.1.0
+An intelligent, automated system that discovers, aggregates, and maintains a comprehensive collection of trending AI tools, apps, and news using **dynamic keyword learning**.
 
 ## 🚀 Features
 
-- 🔄 **Automated News & Tools Updates**: Runs daily via GitHub Actions
-- 📰 **Comprehensive News Coverage**: Aggregates news from Google News RSS feeds and major AI sources
-- 🤖 **AI Tools Discovery**: Automatically discovers trending AI tools and apps from GitHub, Reddit, and more
-- 🏆 **Daily Markdown Digest**: Generates a daily markdown file with 3–5 top trending AI tools/apps
-- 📒 **AI Resources Database**: Maintains a deduplicated, curated CSV file of all discovered AI tools
-- 📋 **AI Tools Directory**: Clean, readable markdown table of all AI tools organized by category
-- 🚫 **No Duplicates**: Ensures no duplicate tools in either the daily digest or the master CSV
-- 🛠️ **Tool Categorization & Enrichment**: Categorizes and enriches tool data with descriptions and pricing
-- 🎯 **Trending Score Algorithm**: Uses advanced scoring to identify the most trending tools
-- 🔗 **Master List Integration**: Each daily digest includes a link to the complete master CSV
-- 🧹 **Smart Filtering**: Automatically filters out Reddit posts, news articles, and non-tool content
+### Core Functionality
+- **Daily AI Tools Discovery**: Automatically finds 3-5 trending AI tools daily
+- **News Aggregation**: Collects and summarizes AI-related news and blog posts
+- **Smart Deduplication**: Prevents duplicate entries across all sources
+- **Trending Score Algorithm**: Ranks tools based on engagement and relevance
+- **Clean Output**: Generates readable markdown and CSV formats
+
+### 🧠 Phase 2: Dynamic Keyword Learning System
+- **JSON-based Configuration**: All keywords stored in `data/config/keywords.json`
+- **Auto-learning**: System learns from successful discoveries and updates keywords
+- **Smart Categorization**: Automatically categorizes tools based on learned patterns
+- **Keyword Extraction**: Extracts new keywords from tool names, descriptions, and URLs
+- **Learning Statistics**: Tracks discovery success and keyword evolution
+- **CLI Management**: Command-line interface for keyword management
 
 ## 📁 Project Structure
 
 ```
 auto-news/
-├── 📄 README.md                    # This file
-├── 📄 requirements.txt             # Python dependencies
-├── 📄 LICENSE                      # MIT License
-├── 📄 VERSION                      # Current version
-├── 📄 CHANGELOG.md                 # Version history
-├── 📄 RELEASE_NOTES.md             # Release notes
-├── 📄 setup.py                     # Package installation
-├── 📄 .gitignore                   # Git exclusions
-│
-├── 📰 ai-tools-daily.md            # Daily AI tools digest (auto-generated)
-├── 📰 blogs-and-news.md            # Daily news aggregation (auto-generated)
-├── 📋 ai-tools-directory.md        # Clean AI tools directory (auto-generated)
-│
-├── 🔧 src/                         # Source code
-│   ├── 📜 scripts/                 # Main Python scripts
-│   │   ├── daily_tools_digest.py   # Daily AI tools digest generator
-│   │   ├── update_blogs_and_news.py # News aggregation script
-│   │   ├── auto_discover_ai_tools.py # AI tools discovery
-│   │   └── enhanced_ai_discovery.py # Enhanced discovery with AI categorization
-│   └── 🛠️ utils/                   # Utility functions (future use)
-│
-├── 📊 data/                        # Data files
-│   ├── 📋 master_resources.csv     # Master database of all AI tools
-│   └── 📁 cache/                   # Cache files
-│       ├── tools_cache.json        # Tools discovery cache
-│       ├── news_cache.json         # News aggregation cache
-│       └── enhanced_tools_cache.json # Enhanced discovery cache
-│
-├── 📚 docs/                        # Documentation
-│   ├── PRD.md                      # Product Requirements Document
-│   ├── README_AUTO_DISCOVERY.md    # Auto-discovery system documentation
-│   └── issue_body.md               # Issue templates
-│
-└── ⚙️ .github/                     # GitHub configuration
-    └── workflows/                  # GitHub Actions workflows
-        ├── daily-news-update.yml   # Daily news update workflow
-        ├── auto-discover-tools.yml # AI tools discovery workflow
-        └── daily-news.yml          # Alternative news workflow
+├── src/
+│   ├── scripts/
+│   │   ├── daily_tools_digest.py      # Daily AI tools discovery
+│   │   ├── news_aggregator.py         # News aggregation
+│   │   ├── generate_tools_directory.py # Generate tools directory
+│   │   ├── manage_keywords.py         # Keyword management CLI
+│   │   └── test_keyword_learning.py   # Test keyword system
+│   └── utils/
+│       ├── keyword_manager.py         # Keyword management utilities
+│       └── keyword_learner.py         # Keyword learning system
+├── data/
+│   ├── config/
+│   │   └── keywords.json              # Dynamic keyword configuration
+│   ├── cache/
+│   │   └── tools_cache.json           # Discovery cache
+│   └── master_resources.csv           # Master tools database
+├── docs/
+│   └── CHANGELOG.md                   # Version history
+├── ai-tools-daily.md                  # Daily digest output
+├── blogs-and-news.md                  # News aggregation output
+├── ai-tools-directory.md              # Tools directory
+└── setup.py                          # Package installation
 ```
 
-## ⏰ Automation Schedule
+## 🛠️ Installation
 
-### **Daily News Update Workflow**
-- **Time**: 7:00 AM IST (1:30 UTC)
-- **Frequency**: Daily
-- **Purpose**: Aggregates AI news from RSS feeds and updates `blogs-and-news.md`
-
-### **AI Tools Discovery & Daily Digest Workflow**
-- **Time**: 7:15 AM IST (1:45 UTC)
-- **Frequency**: Daily
-- **Purpose**: Discovers trending AI tools and generates daily digest in `ai-tools-daily.md`
-
-## 🔧 How It Works
-
-### News Aggregation
-- Fetches news from Google News RSS feeds using multiple AI-related keywords
-- Processes, deduplicates, and prioritizes news items
-- Updates the `blogs-and-news.md` file with the latest news
-
-### AI Tools Discovery & Daily Digest
-- Discovers trending AI tools and apps from multiple sources (GitHub, Reddit, etc.)
-- Uses advanced trending score algorithm to rank tools by popularity
-- Deduplicates against the master CSV and previous markdowns
-- Selects 3–5 top trending tools daily
-- Appends a new section to `ai-tools-daily.md` in the following format:
-
-  ```markdown
-  ## AI Tools and Apps of the Day: June 20, 2025
-  ---
-  1. Tool Name – [URL](https://example.com) – One-line description
-  2. Tool Name – [URL](https://example.com) – One-line description
-  3. Tool Name – [URL](https://example.com) – One-line description
-
-  📋 **Master List**: View the complete, deduplicated collection of all AI tools and resources in our [master_resources.csv](data/master_resources.csv) file.
-  ```
-- Each new tool is also added to the deduplicated master CSV
-
-### Master Resources CSV
-- The `data/master_resources.csv` file is a comprehensive, deduplicated list of all discovered AI tools, apps, and resources
-- Each entry includes tool name, category, URL, description, and pricing information
-
-## 🛠️ Setup
-
-### Option 1: Quick Setup (Recommended)
-1. **Clone the repository**
+1. **Clone the repository**:
    ```bash
    git clone <repository-url>
    cd auto-news
    ```
 
-2. **Install required Python packages**
+2. **Install the package**:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the scripts manually (optional)**
-   ```bash
-   # Update news
-   python src/scripts/update_blogs_and_news.py
-   
-   # Discover AI tools and generate daily digest
-   python src/scripts/daily_tools_digest.py
-   ```
-
-### Option 2: Install as Package
-1. **Clone and install**
-   ```bash
-   git clone <repository-url>
-   cd auto-news
    pip install -e .
    ```
 
-2. **Use command-line tools**
+3. **Verify installation**:
    ```bash
-   # Update news
-   auto-news-update
-   
-   # Generate daily digest
-   auto-news-daily
-   
-   # Discover new tools
-   auto-news-discover
-   
-   # Generate tools directory
-   auto-news-directory
+   keyword-manager stats
    ```
 
-## 🤖 Automation
+## 🚀 Quick Start
 
-The project uses GitHub Actions to automatically run the scripts daily. Both workflows can also be triggered manually from the GitHub Actions tab.
+### Daily AI Tools Discovery
+```bash
+# Run daily discovery (finds 3-5 trending tools)
+daily-tools
 
-## 📊 Output Format
+# Or use the Python script directly
+python src/scripts/daily_tools_digest.py
+```
 
-- **`ai-tools-daily.md`**: Daily sections with date, horizontal rule, numbered list of 3–5 trending AI tools/apps, and master CSV link
-- **`ai-tools-directory.md`**: Clean, categorized markdown table of all AI tools with descriptions and pricing
-- **`data/master_resources.csv`**: Deduplicated, growing file for all AI tools and resources
-- **`blogs-and-news.md`**: Daily AI news updates
+### News Aggregation
+```bash
+# Aggregate news and blog posts
+news-aggregator
 
-## 🎯 Trending Score Algorithm
+# Or use the Python script directly
+python src/scripts/news_aggregator.py
+```
 
-The system uses an advanced scoring algorithm to identify the most trending tools:
+### Generate Tools Directory
+```bash
+# Generate categorized tools directory
+tools-directory
 
-- **AI Relevance Score**: Based on AI-related keywords found
-- **Trending Keywords Bonus**: Bonus for launch, release, new, viral, etc.
-- **Reddit Engagement Score**: Based on upvotes and comments
-- **GitHub Trending Bonus**: Bonus for GitHub trending repositories
-- **Source Diversity**: Tools mentioned across multiple sources get higher scores
+# Or use the Python script directly
+python src/scripts/generate_tools_directory.py
+```
 
-## 📝 Scripts Overview
+## 🧠 Keyword Learning System
 
-### `src/scripts/daily_tools_digest.py`
-- Main script for generating daily AI tools digest
-- Discovers trending tools from multiple sources
-- Appends to daily digest and updates master CSV
+### Overview
+The system now uses a **dynamic keyword learning approach** that automatically improves over time:
 
-### `src/scripts/update_blogs_and_news.py`
-- Aggregates AI news from RSS feeds
-- Updates the daily news markdown file
-- Handles deduplication and formatting
+1. **JSON Configuration**: All keywords stored in `data/config/keywords.json`
+2. **Auto-learning**: System learns from successful discoveries
+3. **Smart Extraction**: Extracts new keywords from tool names, descriptions, URLs
+4. **Category Learning**: Learns category-specific keywords
+5. **Confidence Scoring**: Uses frequency analysis for keyword confidence
 
-### `src/scripts/auto_discover_ai_tools.py`
-- Standalone AI tools discovery script
-- Can be run independently for tool discovery
-- Updates master CSV with new discoveries
+### Managing Keywords
 
-### `src/scripts/enhanced_ai_discovery.py`
-- Enhanced version with AI-powered categorization
-- Optional integration with AI APIs for better tool classification
-- More sophisticated filtering and scoring
+#### View Keywords
+```bash
+# List all keywords
+keyword-manager list
 
-### `src/scripts/generate_tools_directory.py`
-- Generates clean, readable AI tools directory from CSV data
-- Filters out Reddit posts, news articles, and non-tool content
-- Creates categorized markdown tables with pricing information
-- Automatically updated daily with new discoveries
+# Verbose listing
+keyword-manager list --verbose
+```
+
+#### Add Keywords
+```bash
+# Add to category
+keyword-manager add --keyword "quantum_ai" --category "Business / Analytics"
+
+# Add to keyword type
+keyword-manager add --keyword "automation" --type "technologies"
+```
+
+#### Remove Keywords
+```bash
+# Remove from category
+keyword-manager remove --keyword "old_keyword" --category "Code / Developer Tools"
+
+# Remove from keyword type
+keyword-manager remove --keyword "deprecated" --type "models"
+```
+
+#### View Statistics
+```bash
+# Show learning statistics
+keyword-manager stats
+```
+
+#### Export/Import
+```bash
+# Export keywords
+keyword-manager export --file my_keywords.json
+
+# Import keywords
+keyword-manager import --file my_keywords.json
+```
+
+#### Test System
+```bash
+# Test keyword functionality
+keyword-manager test
+
+# Run comprehensive tests
+test-keywords
+```
+
+### Keyword Configuration Structure
+
+The `data/config/keywords.json` file contains:
+
+```json
+{
+  "ai_keywords": {
+    "companies": ["openai", "anthropic", "google ai", ...],
+    "models": ["gpt", "claude", "llama", ...],
+    "technologies": ["ai", "machine learning", "deep learning", ...],
+    "applications": ["ai tool", "ai platform", "text generation", ...],
+    "tool_indicators": ["ai", "gpt", "assistant", "tool", ...]
+  },
+  "non_tool_indicators": ["reddit", "twitter", "article", ...],
+  "categories": {
+    "Text / Chat Assistants": ["chat", "assistant", "writing", ...],
+    "Code / Developer Tools": ["code", "programming", "developer", ...],
+    "Design / Image Generation": ["image", "photo", "art", ...],
+    ...
+  },
+  "learning_config": {
+    "enabled": true,
+    "min_confidence_score": 0.7,
+    "max_keywords_per_category": 50,
+    "auto_update_frequency": "daily"
+  },
+  "metadata": {
+    "last_updated": "2025-06-20",
+    "version": "1.0.0",
+    "total_keywords": 0,
+    "successful_discoveries": 0,
+    "auto_learned_keywords": 0
+  }
+}
+```
+
+## 🔄 GitHub Actions
+
+The system includes automated workflows:
+
+- **Daily Discovery**: Runs every day at 6 AM UTC
+- **News Aggregation**: Runs every 6 hours
+- **Tools Directory**: Generated daily with the discovery
+- **Keyword Learning**: Integrated into daily discovery process
+
+## 📊 Output Files
+
+### Generated Files
+- `ai-tools-daily.md`: Daily digest of 3-5 trending AI tools
+- `blogs-and-news.md`: Aggregated news and blog posts
+- `ai-tools-directory.md`: Categorized directory of all discovered tools
+- `data/master_resources.csv`: Master database of all tools
+
+### Configuration Files
+- `data/config/keywords.json`: Dynamic keyword configuration
+- `data/cache/tools_cache.json`: Discovery cache to prevent duplicates
+
+## 🧪 Testing
+
+### Test Keyword Learning System
+```bash
+# Run comprehensive tests
+python src/scripts/test_keyword_learning.py
+
+# Or use the installed command
+test-keywords
+```
+
+### Test Individual Components
+```bash
+# Test keyword management
+keyword-manager test
+
+# Test daily discovery
+python src/scripts/daily_tools_digest.py
+```
+
+## 📈 Learning Statistics
+
+The system tracks learning progress:
+
+- **Total Discoveries**: Number of successful tool discoveries
+- **Auto-learned Keywords**: Keywords automatically added by the system
+- **Last Updated**: When keywords were last updated
+- **Config Version**: Current configuration version
+
+## 🔧 Configuration
+
+### Learning Configuration
+```json
+{
+  "learning_config": {
+    "enabled": true,
+    "min_confidence_score": 0.7,
+    "max_keywords_per_category": 50,
+    "auto_update_frequency": "daily",
+    "successful_discovery_threshold": 3,
+    "keyword_extraction_methods": [
+      "title_analysis",
+      "description_analysis", 
+      "url_analysis",
+      "category_patterns"
+    ]
+  }
+}
+```
+
+### Customization
+- Adjust confidence thresholds
+- Modify keyword extraction methods
+- Set maximum keywords per category
+- Configure update frequency
 
 ## 🤝 Contributing
 
-Feel free to:
-- Add more sources for tool discovery
-- Improve the categorization and enrichment logic
-- Suggest new features for the daily digest
-- Add new AI tools, apps, and resources to the master CSV file
-- Improve the project structure and documentation
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test with `test-keywords`
+5. Submit a pull request
 
-## 📈 Version History
+## 📝 Changelog
 
-- **v2.0.0**: Enhanced trending detection, daily digest with master CSV link, improved Reddit integration
-- **v1.0.0**: Initial release with news aggregation and basic tools discovery
+See [CHANGELOG.md](docs/CHANGELOG.md) for version history.
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🆘 Support
+
+For issues and questions:
+1. Check the [CHANGELOG.md](docs/CHANGELOG.md)
+2. Run `keyword-manager test` to verify system health
+3. Check the generated output files for issues
+4. Open an issue on GitHub
+
+---
+
+**Version**: 2.2.0  
+**Last Updated**: June 2025  
+**Status**: Active Development with Dynamic Learning

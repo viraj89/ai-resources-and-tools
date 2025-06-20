@@ -1,34 +1,20 @@
 #!/usr/bin/env python3
 """
-Setup script for AI Resources and Tools
+Setup script for Auto News AI Tools Discovery
 """
 
 from setuptools import setup, find_packages
-import os
 
-# Read the README file
-def read_readme():
-    with open("README.md", "r", encoding="utf-8") as fh:
-        return fh.read()
-
-# Read requirements
-def read_requirements():
-    with open("requirements.txt", "r", encoding="utf-8") as fh:
-        return [line.strip() for line in fh if line.strip() and not line.startswith("#")]
-
-# Read version
-def read_version():
-    with open("VERSION", "r", encoding="utf-8") as fh:
-        return fh.read().strip()
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
 
 setup(
-    name="auto-news",
-    version=read_version(),
-    author="Auto-News Team",
-    description="An automated system that discovers, aggregates, and maintains a comprehensive collection of trending AI tools, apps, and news",
-    long_description=read_readme(),
+    name="auto-news-ai-tools",
+    version="2.2.0",
+    author="Auto News AI Tools",
+    description="AI-powered news aggregation and AI tools discovery system",
+    long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/auto-news",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -44,15 +30,30 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     python_requires=">=3.8",
-    install_requires=read_requirements(),
+    install_requires=[
+        "requests>=2.25.1",
+        "beautifulsoup4>=4.9.3",
+        "lxml>=4.6.3",
+        "feedparser>=6.0.8",
+        "pandas>=1.3.0",
+        "openpyxl>=3.0.7",
+        "markdown>=3.3.4",
+        "pyyaml>=5.4.1",
+        "schedule>=1.1.0",
+        "python-dateutil>=2.8.2",
+    ],
     entry_points={
         "console_scripts": [
-            "auto-news-daily=src.scripts.daily_tools_digest:main",
-            "auto-news-update=src.scripts.update_blogs_and_news:main",
-            "auto-news-discover=src.scripts.auto_discover_ai_tools:main",
-            "auto-news-directory=src.scripts.generate_tools_directory:main",
+            "daily-tools=src.scripts.daily_tools_digest:main",
+            "news-aggregator=src.scripts.news_aggregator:main",
+            "tools-directory=src.scripts.generate_tools_directory:main",
+            "keyword-manager=src.scripts.manage_keywords:main",
+            "test-keywords=src.scripts.test_keyword_learning:main",
         ],
     },
     include_package_data=True,
+    package_data={
+        "": ["*.json", "*.yaml", "*.yml"],
+    },
     zip_safe=False,
 ) 
