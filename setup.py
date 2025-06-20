@@ -10,9 +10,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="auto-news-ai-tools",
-    version="2.2.0",
-    author="Auto News AI Tools",
-    description="AI-powered news aggregation and AI tools discovery system",
+    version="3.0.0",
+    author="Auto-News AI",
+    description="An automated system to discover and display trending AI tools and news on a public-facing website.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),

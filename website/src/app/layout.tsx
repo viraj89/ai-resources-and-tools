@@ -22,6 +22,16 @@ export default function RootLayout({
           <p className="text-gray-500 dark:text-gray-400">
             Powered by Auto-News AI
           </p>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-2">
+            <a 
+              href="https://github.com/viraj89/ai-resources-and-tools" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="hover:underline"
+            >
+              View the source and raw markdown files on GitHub
+            </a>
+          </p>
         </footer>
       </body>
     </html>

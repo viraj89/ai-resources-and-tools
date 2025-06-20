@@ -1,6 +1,35 @@
 # Release Notes
 
-## v2.0.0 - Enhanced AI Tools Discovery & Daily Digest (2025-06-20)
+## Version 3.0.0 - The Website (June 22, 2025)
+
+This is a landmark release for the Auto-News AI project, transitioning it from a collection of data scripts into a full-fledged public-facing web application. The primary goal of this version is to provide a rich, accessible, and modern user experience for consuming the daily AI news and tools we discover.
+
+### Key Features & Enhancements
+
+- **Public-Facing Website**: The core of this release is a new single-page website built with Next.js and hosted on Vercel. It features a clean, responsive design that presents a chronological feed of all discovered news and tools.
+
+- **Automated Daily Deployments**: The website is automatically rebuilt and deployed every day at 7:30 AM IST (2:00 UTC). A new, consolidated GitHub Actions workflow now orchestrates the entire data pipeline:
+  1.  Fetches new tools and news.
+  2.  Generates the markdown and CSV artifacts.
+  3.  Runs a new `prepare-website-data.py` script to create a structured `content.json` file.
+  4.  Commits all changes to GitHub, which in turn triggers a new deployment on Vercel.
+
+- **Simplified Deployment**: The initial plan for a visitor counter was removed to streamline the deployment process on Vercel, eliminating the need for environment variables or a Vercel KV store.
+
+- **Documentation Overhaul**:
+  - The project's `README.md` has been rewritten to reflect the website-first approach.
+  - The `CHANGELOG.md` and `docs/PRD.md` have been updated with all the details of this new version.
+
+### For Developers
+
+- **Decoupled Frontend/Backend**: The website in the `/website` directory is a standard Next.js application. The Python backend scripts in `/src` are responsible for feeding it data via the generated `content.json`.
+- **Streamlined CI/CD**: The GitHub Actions workflows have been simplified into a single `daily-update.yml` file, making the automation process easier to manage.
+
+This release marks a significant step forward in the project's maturity, providing a much-improved experience for our end-users.
+
+---
+
+## Version 2.2.0 - Dynamic Keyword Learning (June 20, 2025)
 
 ### 🚀 Major New Features
 

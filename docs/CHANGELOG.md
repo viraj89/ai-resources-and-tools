@@ -2,6 +2,28 @@
 
 All notable changes to the Auto News AI Tools Discovery project will be documented in this file.
 
+## [3.0.0] - 2025-06-22
+
+### 🎉 Added - Version 3.0: The Website
+
+This major version introduces a public-facing website as the primary interface for the project, making the content more accessible and engaging. The markdown files are now primarily data sources for the website.
+
+#### Core Features
+- **Public Website**: A modern, responsive single-page website built with Next.js and Tailwind CSS, hosted on Vercel.
+- **Dynamic Content Feed**: The website displays a chronological feed of daily AI tools and news updates.
+- **Automated Daily Deployment**: A consolidated GitHub Actions workflow runs daily at 7:30 AM IST (2:00 UTC) to fetch data, prepare it, and trigger a website redeployment on Vercel.
+- **Simplified Project Structure**: The backend scripts and frontend website are now clearly delineated.
+
+#### Technical Changes
+- **Website Framework**: Added a `website/` directory containing a full Next.js application.
+- **Data Preparation Script**: Introduced `src/scripts/prepare_website_data.py` to generate a `content.json` file that feeds the website, decoupling the frontend from the raw markdown files.
+- **Consolidated GitHub Actions**: Merged multiple workflow files into a single, efficient `daily-update.yml` to orchestrate the entire data pipeline and deployment trigger.
+- **Removed Visitor Counter**: The visitor counter feature was removed to simplify deployment and eliminate the need for Vercel KV setup.
+
+#### Documentation
+- **README Overhaul**: The `README.md` has been completely rewritten to focus on the website as the main product.
+- **PRD Update**: The Product Requirements Document (`docs/PRD.md`) was updated to reflect the new website architecture and goals.
+
 ## [2.2.0] - 2025-06-20
 
 ### 🧠 Added - Phase 2: Dynamic Keyword Learning System
@@ -180,6 +202,7 @@ All notable changes to the Auto News AI Tools Discovery project will be document
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 3.0.0 | 2025-06-22 | 🎉 Version 3.0: The Website |
 | 2.2.0 | 2025-06-20 | 🧠 Dynamic Keyword Learning System |
 | 2.1.0 | 2025-06-19 | 🎯 Enhanced Tools Directory |
 | 2.0.0 | 2025-06-18 | 🚀 Major Restructure & Enhanced Discovery |

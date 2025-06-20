@@ -1,302 +1,95 @@
-# Auto News AI Tools Discovery
+# Auto-News AI
 
-An intelligent, automated system that discovers, aggregates, and maintains a comprehensive collection of trending AI tools, apps, and news using **dynamic keyword learning**.
+**Version 3.0.0** | Your daily digest of trending AI tools and news, now on a modern web platform.
 
-## 🚀 Features
-
-### Core Functionality
-- **Daily AI Tools Discovery**: Automatically finds 3-5 trending AI tools daily
-- **News Aggregation**: Collects and summarizes AI-related news and blog posts
-- **Smart Deduplication**: Prevents duplicate entries across all sources
-- **Trending Score Algorithm**: Ranks tools based on engagement and relevance
-- **Clean Output**: Generates readable markdown and CSV formats
-
-### 🧠 Phase 2: Dynamic Keyword Learning System
-- **JSON-based Configuration**: All keywords stored in `data/config/keywords.json`
-- **Auto-learning**: System learns from successful discoveries and updates keywords
-- **Smart Categorization**: Automatically categorizes tools based on learned patterns
-- **Keyword Extraction**: Extracts new keywords from tool names, descriptions, and URLs
-- **Learning Statistics**: Tracks discovery success and keyword evolution
-- **CLI Management**: Command-line interface for keyword management
-
-## 📁 Project Structure
-
-```
-auto-news/
-├── src/
-│   ├── scripts/
-│   │   ├── daily_tools_digest.py      # Daily AI tools discovery
-│   │   ├── news_aggregator.py         # News aggregation
-│   │   ├── generate_tools_directory.py # Generate tools directory
-│   │   ├── manage_keywords.py         # Keyword management CLI
-│   │   └── test_keyword_learning.py   # Test keyword system
-│   └── utils/
-│       ├── keyword_manager.py         # Keyword management utilities
-│       └── keyword_learner.py         # Keyword learning system
-├── data/
-│   ├── config/
-│   │   └── keywords.json              # Dynamic keyword configuration
-│   ├── cache/
-│   │   └── tools_cache.json           # Discovery cache
-│   └── master_resources.csv           # Master tools database
-├── docs/
-│   └── CHANGELOG.md                   # Version history
-├── ai-tools-daily.md                  # Daily digest output
-├── blogs-and-news.md                  # News aggregation output
-├── ai-tools-directory.md              # Tools directory
-└── setup.py                          # Package installation
-```
-
-## 🛠️ Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd auto-news
-   ```
-
-2. **Install the package**:
-   ```bash
-   pip install -e .
-   ```
-
-3. **Verify installation**:
-   ```bash
-   keyword-manager stats
-   ```
-
-## 🚀 Quick Start
-
-### Daily AI Tools Discovery
-```bash
-# Run daily discovery (finds 3-5 trending tools)
-daily-tools
-
-# Or use the Python script directly
-python src/scripts/daily_tools_digest.py
-```
-
-### News Aggregation
-```bash
-# Aggregate news and blog posts
-news-aggregator
-
-# Or use the Python script directly
-python src/scripts/news_aggregator.py
-```
-
-### Generate Tools Directory
-```bash
-# Generate categorized tools directory
-tools-directory
-
-# Or use the Python script directly
-python src/scripts/generate_tools_directory.py
-```
-
-## 🧠 Keyword Learning System
-
-### Overview
-The system now uses a **dynamic keyword learning approach** that automatically improves over time:
-
-1. **JSON Configuration**: All keywords stored in `data/config/keywords.json`
-2. **Auto-learning**: System learns from successful discoveries
-3. **Smart Extraction**: Extracts new keywords from tool names, descriptions, URLs
-4. **Category Learning**: Learns category-specific keywords
-5. **Confidence Scoring**: Uses frequency analysis for keyword confidence
-
-### Managing Keywords
-
-#### View Keywords
-```bash
-# List all keywords
-keyword-manager list
-
-# Verbose listing
-keyword-manager list --verbose
-```
-
-#### Add Keywords
-```bash
-# Add to category
-keyword-manager add --keyword "quantum_ai" --category "Business / Analytics"
-
-# Add to keyword type
-keyword-manager add --keyword "automation" --type "technologies"
-```
-
-#### Remove Keywords
-```bash
-# Remove from category
-keyword-manager remove --keyword "old_keyword" --category "Code / Developer Tools"
-
-# Remove from keyword type
-keyword-manager remove --keyword "deprecated" --type "models"
-```
-
-#### View Statistics
-```bash
-# Show learning statistics
-keyword-manager stats
-```
-
-#### Export/Import
-```bash
-# Export keywords
-keyword-manager export --file my_keywords.json
-
-# Import keywords
-keyword-manager import --file my_keywords.json
-```
-
-#### Test System
-```bash
-# Test keyword functionality
-keyword-manager test
-
-# Run comprehensive tests
-test-keywords
-```
-
-### Keyword Configuration Structure
-
-The `data/config/keywords.json` file contains:
-
-```json
-{
-  "ai_keywords": {
-    "companies": ["openai", "anthropic", "google ai", ...],
-    "models": ["gpt", "claude", "llama", ...],
-    "technologies": ["ai", "machine learning", "deep learning", ...],
-    "applications": ["ai tool", "ai platform", "text generation", ...],
-    "tool_indicators": ["ai", "gpt", "assistant", "tool", ...]
-  },
-  "non_tool_indicators": ["reddit", "twitter", "article", ...],
-  "categories": {
-    "Text / Chat Assistants": ["chat", "assistant", "writing", ...],
-    "Code / Developer Tools": ["code", "programming", "developer", ...],
-    "Design / Image Generation": ["image", "photo", "art", ...],
-    ...
-  },
-  "learning_config": {
-    "enabled": true,
-    "min_confidence_score": 0.7,
-    "max_keywords_per_category": 50,
-    "auto_update_frequency": "daily"
-  },
-  "metadata": {
-    "last_updated": "2025-06-20",
-    "version": "1.0.0",
-    "total_keywords": 0,
-    "successful_discoveries": 0,
-    "auto_learned_keywords": 0
-  }
-}
-```
-
-## 🔄 GitHub Actions
-
-The system includes automated workflows:
-
-- **Daily Discovery**: Runs every day at 6 AM UTC
-- **News Aggregation**: Runs every 6 hours
-- **Tools Directory**: Generated daily with the discovery
-- **Keyword Learning**: Integrated into daily discovery process
-
-## 📊 Output Files
-
-### Generated Files
-- `ai-tools-daily.md`: Daily digest of 3-5 trending AI tools
-- `blogs-and-news.md`: Aggregated news and blog posts
-- `ai-tools-directory.md`: Categorized directory of all discovered tools
-- `data/master_resources.csv`: Master database of all tools
-
-### Configuration Files
-- `data/config/keywords.json`: Dynamic keyword configuration
-- `data/cache/tools_cache.json`: Discovery cache to prevent duplicates
-
-## 🧪 Testing
-
-### Test Keyword Learning System
-```bash
-# Run comprehensive tests
-python src/scripts/test_keyword_learning.py
-
-# Or use the installed command
-test-keywords
-```
-
-### Test Individual Components
-```bash
-# Test keyword management
-keyword-manager test
-
-# Test daily discovery
-python src/scripts/daily_tools_digest.py
-```
-
-## 📈 Learning Statistics
-
-The system tracks learning progress:
-
-- **Total Discoveries**: Number of successful tool discoveries
-- **Auto-learned Keywords**: Keywords automatically added by the system
-- **Last Updated**: When keywords were last updated
-- **Config Version**: Current configuration version
-
-## 🔧 Configuration
-
-### Learning Configuration
-```json
-{
-  "learning_config": {
-    "enabled": true,
-    "min_confidence_score": 0.7,
-    "max_keywords_per_category": 50,
-    "auto_update_frequency": "daily",
-    "successful_discovery_threshold": 3,
-    "keyword_extraction_methods": [
-      "title_analysis",
-      "description_analysis", 
-      "url_analysis",
-      "category_patterns"
-    ]
-  }
-}
-```
-
-### Customization
-- Adjust confidence thresholds
-- Modify keyword extraction methods
-- Set maximum keywords per category
-- Configure update frequency
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test with `test-keywords`
-5. Submit a pull request
-
-## 📝 Changelog
-
-See [CHANGELOG.md](docs/CHANGELOG.md) for version history.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the [CHANGELOG.md](docs/CHANGELOG.md)
-2. Run `keyword-manager test` to verify system health
-3. Check the generated output files for issues
-4. Open an issue on GitHub
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fviraj89%2Fai-resources-and-tools&root-directory=website&project-name=auto-news-ai&repository-name=auto-news-ai)
 
 ---
 
-**Version**: 2.2.0  
-**Last Updated**: June 2025  
-**Status**: Active Development with Dynamic Learning
+This project automatically discovers, aggregates, and displays the latest in AI tools and news. Originally a set of data scripts, it has evolved into a full-fledged application with a public-facing website built on Next.js and deployed with Vercel.
+
+## 🚀 The Website
+
+The primary interface for this project is now a live, single-page website that is updated automatically every day.
+
+- **Live Updates**: New content is fetched and deployed daily at **7:30 AM IST (2:00 UTC)**.
+- **Responsive Design**: Fully accessible on desktop and mobile devices.
+- **Historical Content**: Scroll through a chronological feed of all past news and tool discoveries.
+
+## 📁 Project Structure
+
+To address the "noise", the project is now conceptually simpler. The Python backend's sole purpose is to feed data to the Next.js frontend.
+
+```
+/
+├── website/              # The Next.js frontend application
+│   └── src/data/
+│       └── content.json  # (Auto-generated) The single source of truth for the website
+│
+├── src/                  # The Python backend scripts
+│   ├── scripts/          # All data-fetching and processing scripts
+│   └── utils/            # Shared utilities like the keyword learner
+│
+├── data/                 # Raw data and configuration for the backend
+│   ├── config/
+│   │   └── keywords.json # Dynamic keywords for the discovery engine
+│   └── master_resources.csv # (Auto-generated) The master tool list
+│
+├── .github/workflows/    # GitHub Actions for automation
+│   └── daily-update.yml  # A single, consolidated workflow
+│
+├── ai-tools-daily.md     # (Artifact) Raw markdown output for daily tools
+├── blogs-and-news.md     # (Artifact) Raw markdown output for news
+└── ai-tools-directory.md # (Artifact) Raw markdown of the complete tool directory
+```
+
+**Key Takeaway**: The Python scripts in `src/` run daily to produce the raw `.md` and `.csv` files. Then, `prepare_website_data.py` creates `website/src/data/content.json`, which the Next.js app in `website/` uses to build the web page.
+
+## 🛠️ For Developers
+
+While the main product is the website, the underlying Python scripts and data are still accessible.
+
+### Installation & Setup
+
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/viraj89/ai-resources-and-tools.git
+    cd ai-resources-and-tools
+    ```
+2.  **Install Python dependencies**:
+    ```bash
+    pip install -e .
+    ```
+3.  **Run scripts manually**:
+    You can use the command-line tools defined in `setup.py`:
+    ```bash
+    # Run the full daily pipeline
+    daily-tools
+    news-aggregator
+    tools-directory
+    prepare-website-data
+
+    # Manage keywords
+    keyword-manager stats
+    ```
+
+### Deploying Your Own Version
+
+You can deploy your own instance of this project with a single click using the Vercel Deploy Button at the top of this README.
+
+## 🔄 Automation Flow
+
+The entire project is automated by a single GitHub Actions workflow defined in `.github/workflows/daily-update.yml`:
+
+1.  **Scheduled Trigger**: The workflow runs automatically every day at 7:30 AM IST (2:00 UTC).
+2.  **Run Python Scripts**: It executes all the necessary Python scripts in order to fetch the latest data and generate the `content.json` for the website.
+3.  **Commit Changes**: It commits all the changed files (markdown, CSV, and the final JSON) back to the repository.
+4.  **Trigger Vercel Deployment**: This commit automatically triggers a new deployment on Vercel, ensuring the website is always up-to-date.
+
+## 📝 Changelog
+
+Detailed changes for each version are documented in the `RELEASE_NOTES.md` and `docs/CHANGELOG.md`.
+
+## 📄 License
+
+This project is licensed under the MIT License.
