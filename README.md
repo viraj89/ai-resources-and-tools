@@ -4,7 +4,7 @@ An automated platform that discovers and showcases trending AI tools and news. C
 
 ## 🌐 Live Website
 
-**🔗 Link to Website**: [https://ai-resources-and-tools-21rbgoogm-viraj89s-projects.vercel.app](https://ai-resources-and-tools-21rbgoogm-viraj89s-projects.vercel.app)
+**🔗 Link to Website**: [https://ai-resources-and-tools.vercel.app](https://ai-resources-and-tools.vercel.app)
 
 - **🌍 Live Updates**: New content every day
 - **📱 Responsive**: Works perfectly on all devices

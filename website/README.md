@@ -2,6 +2,10 @@
 
 This is the frontend application for AI Insights Daily, built with [Next.js](https://nextjs.org) 15.3.4 and React 19.
 
+## 🌐 Live Website
+
+**🔗 Live URL**: [https://ai-resources-and-tools.vercel.app](https://ai-resources-and-tools.vercel.app)
+
 ## 🚀 Features
 
 - **Modern UI**: Clean, responsive design with Tailwind CSS v4
