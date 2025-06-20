@@ -118,4 +118,23 @@ Thumbs.db
 # Project specific
 # Keep cache files but ignore temporary ones
 data/cache/*.tmp
-data/cache/*.temp 
+data/cache/*.temp
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Local Environment Variables
+.env
+.env*.local
+
+# Build outputs
+/.next/
+/out/
+
+# Other
+/coverage
+.DS_Store
+*.pem
+*.log 
