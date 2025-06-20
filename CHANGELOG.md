@@ -5,6 +5,68 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.0] - 2025-06-20
+
+### Added
+- **AI Tools Directory**: New clean, readable markdown table (`ai-tools-directory.md`) with categorized AI tools
+- **Smart Content Filtering**: Advanced filtering system to exclude Reddit posts, news articles, and non-tool content
+- **Improved Project Structure**: Complete reorganization with better separation of concerns:
+  - `src/scripts/` - All Python scripts in one location
+  - `data/` - Separated data, cache, and outputs
+  - `docs/` - Centralized documentation
+  - Root-level generated content for easy access
+- **Package Installation**: Added `setup.py` for easy package installation with command-line tools
+- **Enhanced User Experience**: 
+  - No more manual CSV downloads required
+  - Direct markdown viewing of all content
+  - Professional, clean presentation
+  - Easy-to-browse categorized tools directory
+- **New Command-Line Tools**:
+  - `auto-news-daily` - Generate daily digest
+  - `auto-news-update` - Update news
+  - `auto-news-discover` - Discover new tools
+  - `auto-news-directory` - Generate tools directory
+- **Better Content Quality**: Reduced from 59+ mixed items to 18 clean, actual AI tools
+- **Git Integration**: Added comprehensive `.gitignore` for better version control
+
+### Changed
+- **Project Structure**: Complete reorganization for better maintainability and user experience
+- **Content Accessibility**: Moved generated content files to root directory for easy access
+- **Script Paths**: Updated all scripts and workflows to use new `src/scripts/` structure
+- **Discovery Logic**: Enhanced filtering to only include actual AI tools/apps, not posts or articles
+- **Documentation**: Completely rewritten README with emojis, better organization, and comprehensive guides
+- **Automation**: Updated GitHub Actions to generate tools directory daily
+
+### Technical Improvements
+- **Code Organization**: Proper Python package structure with `__init__.py` files
+- **Error Handling**: Better filtering and validation in discovery scripts
+- **Content Cleaning**: Advanced markdown cleaning and formatting
+- **URL Validation**: Stricter URL validation to exclude social media and news sites
+- **Category Filtering**: Only include valid tool categories, exclude "Other"
+
+### Files Added
+- `src/scripts/generate_tools_directory.py` - Tools directory generator
+- `src/__init__.py` - Package initialization
+- `src/scripts/__init__.py` - Scripts package initialization
+- `src/utils/__init__.py` - Utils package initialization
+- `setup.py` - Package installation script
+- `.gitignore` - Git exclusions
+- `ai-tools-directory.md` - Clean tools directory output
+
+### Files Moved/Reorganized
+- All scripts moved from `tools/script/` to `src/scripts/`
+- Documentation moved from `documentation/` to `docs/`
+- Data files organized in `data/` structure
+- Generated content moved to root directory for easy access
+
+### Files Modified
+- All discovery scripts updated with smart filtering
+- All GitHub Actions workflows updated with new paths
+- README completely rewritten with new structure and features
+- Requirements and dependencies updated
+
+---
+
 ## [2.0.0] - 2025-06-20
 
 ### Added
@@ -113,17 +175,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 2.1.0 | 2025-06-20 | AI tools directory, smart content filtering, improved project structure |
 | 2.0.0 | 2025-06-20 | Daily AI tools digest, trending scoring, enhanced Reddit integration |
 | 1.0.0 | 2025-06-19 | Initial news aggregation system and manual tools database |
 
 ## Migration Guide
 
-### From v1.0.0 to v2.0.0
+### From v2.0.0 to v2.1.0
 - **No Breaking Changes**: All existing functionality remains intact
-- **New Features**: Daily tools digest and enhanced discovery are additive
-- **Schedule Update**: Tools discovery now runs daily instead of every 3 days
+- **New Features**: AI tools directory and smart filtering are additive
+- **Project Structure**: Complete reorganization for better maintainability
+- **Installation**: New `setup.py` for package installation with command-line tools
+- **Content Access**: Generated content now in root directory for easy access
+
+### From v1.0.0 to v2.1.0
+- **No Breaking Changes**: All existing functionality remains intact
+- **New Features**: Daily tools digest, AI tools directory, and enhanced discovery
+- **Project Structure**: Complete reorganization with new directory structure
 - **Dependencies**: Add `beautifulsoup4` to your requirements
-- **New Files**: Several new scripts and output files added
+- **Installation**: New `setup.py` for package installation
 
 ## Contributing to Changelog
 

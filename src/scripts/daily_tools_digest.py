@@ -3,7 +3,7 @@
 Daily AI Tools Digest Generator
 - Discovers 3-5 top trending AI tools/apps
 - Appends a daily markdown section to ai-tools-daily.md in the root
-- Updates tools/resources/master_resources.csv (deduplicated)
+- Updates data/master_resources.csv (deduplicated)
 - No duplicates in either file
 - Clean, short, markdown-compatible output
 """
@@ -20,8 +20,8 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
 ROOT_MD_PATH = "ai-tools-daily.md"
-MASTER_CSV_PATH = "tools/resources/master_resources.csv"
-CACHE_FILE = "tools/resources/tools_cache.json"
+MASTER_CSV_PATH = "data/master_resources.csv"
+CACHE_FILE = "data/cache/tools_cache.json"
 
 # AI-related keywords for filtering
 AI_KEYWORDS = [
@@ -133,6 +133,10 @@ class AIToolsDiscoverer:
         if not self.is_ai_related(title + " " + description):
             return None
         
+        # Skip if it's clearly not a tool (Reddit posts, news articles, etc.)
+        if self.is_non_tool_content(title, description, url):
+            return None
+        
         # Calculate trending score
         trending_score = self.calculate_trending_score(title, description, upvotes, comments, source)
         
@@ -151,6 +155,54 @@ class AIToolsDiscoverer:
             "Trending Score": trending_score,
             "Source": source
         }
+    
+    def is_non_tool_content(self, title, description, url):
+        """Check if this is non-tool content (posts, articles, etc.)"""
+        
+        # Skip if no URL or invalid URL
+        if not url or url == "N/A" or not url.startswith('http'):
+            return True
+        
+        # Skip if it's clearly a Reddit post or social media
+        if any(indicator in url.lower() for indicator in ["reddit.com", "redd.it", "twitter.com", "youtu.be", "youtube.com"]):
+            return True
+        
+        # Skip if it's a news article or research paper
+        if any(indicator in url.lower() for indicator in ["arxiv.org", "news", "article", "blog", "medium.com"]):
+            return True
+        
+        # Skip if name contains non-tool indicators
+        name_lower = title.lower()
+        non_tool_indicators = [
+            "reddit", "post", "article", "news", "report", "discussion", "question", 
+            "how to", "tutorial", "guide", "analysis", "review", "announcement", 
+            "update", "release", "launch", "introducing", "new feature", "research",
+            "paper", "study", "analysis", "tweet", "thread", "video", "image"
+        ]
+        
+        if any(indicator in name_lower for indicator in non_tool_indicators):
+            return True
+        
+        # Skip if it's a GitHub repository without clear tool indicators
+        if "github.com" in url.lower():
+            tool_indicators = [
+                "ai", "gpt", "claude", "assistant", "tool", "platform", "app", "bot", "agent",
+                "generator", "creator", "studio", "hub", "workspace", "lab", "kit", "suite",
+                "api", "sdk", "framework", "library", "engine", "model", "service", "solution"
+            ]
+            if not any(indicator in name_lower for indicator in tool_indicators):
+                return True
+        
+        # Skip if description is too short or contains non-tool content
+        if not description or len(description) < 10:
+            return True
+        
+        # Skip if description contains non-tool indicators
+        desc_lower = description.lower()
+        if any(indicator in desc_lower for indicator in non_tool_indicators):
+            return True
+        
+        return False
     
     def categorize_tool(self, title, description):
         """Categorize tool based on keywords"""
@@ -468,7 +520,7 @@ def write_daily_markdown(tools):
         lines.append(f"{i}. {name} – [{url}]({url}) – {desc}")
     
     # Add master CSV link
-    master_link = f"\n📋 **Master List**: View the complete, deduplicated collection of all AI tools and resources in our [master_resources.csv](tools/resources/master_resources.csv) file.\n"
+    master_link = f"\n📋 **Master List**: View the complete, deduplicated collection of all AI tools and resources in our [master_resources.csv](data/master_resources.csv) file.\n"
     
     section = section_title + '\n'.join(lines) + master_link + '\n'
     

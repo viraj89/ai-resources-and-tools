@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
           
       - name: Run script
-        run: python tools/script/update_blogs_and_news.py
+        run: python src/scripts/update_blogs_and_news.py
         
       - name: Commit and push changes
         run: |

@@ -1,0 +1,1 @@
+# Scripts package for AI Resources and Tools 

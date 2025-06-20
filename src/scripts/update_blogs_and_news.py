@@ -11,7 +11,7 @@ import os
 
 # Target file path
 FILE_PATH = "blogs-and-news.md"
-CACHE_FILE = "tools/resources/news_cache.json"
+CACHE_FILE = "data/cache/news_cache.json"
 
 # RSS feed for Google News on AI
 RSS_FEED_URL = "https://news.google.com/rss/search?q=AI&hl=en-US&gl=US&ceid=US:en"

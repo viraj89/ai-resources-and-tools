@@ -17,9 +17,9 @@ from bs4 import BeautifulSoup
 import hashlib
 
 # Configuration
-MASTER_CSV_PATH = "tools/resources/master_resources.csv"
-CACHE_FILE = "tools/resources/enhanced_tools_cache.json"
-NEW_TOOLS_FILE = "tools/resources/enhanced_new_tools.json"
+MASTER_CSV_PATH = "data/master_resources.csv"
+CACHE_FILE = "data/cache/enhanced_tools_cache.json"
+NEW_TOOLS_FILE = "data/cache/enhanced_new_tools.json"
 
 # AI API Configuration (optional - for enhanced categorization)
 # You can add your API keys here for better categorization

@@ -17,9 +17,9 @@ from bs4 import BeautifulSoup
 import hashlib
 
 # Configuration
-MASTER_CSV_PATH = "tools/resources/master_resources.csv"
-CACHE_FILE = "tools/resources/tools_cache.json"
-NEW_TOOLS_FILE = "tools/resources/new_tools_discovered.json"
+MASTER_CSV_PATH = "data/master_resources.csv"
+CACHE_FILE = "data/cache/tools_cache.json"
+NEW_TOOLS_FILE = "data/cache/new_tools_discovered.json"
 
 # Sources for AI tool discovery
 SOURCES = {
@@ -104,6 +104,10 @@ class AIToolsDiscoverer:
         if not self.is_ai_related(title + " " + description):
             return None
         
+        # Skip if it's clearly not a tool (Reddit posts, news articles, etc.)
+        if self.is_non_tool_content(title, description, url):
+            return None
+        
         # Determine category based on keywords
         category = self.categorize_tool(title, description)
         
@@ -117,6 +121,54 @@ class AIToolsDiscoverer:
             "What it does": description[:200] + "..." if len(description) > 200 else description,
             "Free/Paid": pricing
         }
+    
+    def is_non_tool_content(self, title, description, url):
+        """Check if this is non-tool content (posts, articles, etc.)"""
+        
+        # Skip if no URL or invalid URL
+        if not url or url == "N/A" or not url.startswith('http'):
+            return True
+        
+        # Skip if it's clearly a Reddit post or social media
+        if any(indicator in url.lower() for indicator in ["reddit.com", "redd.it", "twitter.com", "youtu.be", "youtube.com"]):
+            return True
+        
+        # Skip if it's a news article or research paper
+        if any(indicator in url.lower() for indicator in ["arxiv.org", "news", "article", "blog", "medium.com"]):
+            return True
+        
+        # Skip if name contains non-tool indicators
+        name_lower = title.lower()
+        non_tool_indicators = [
+            "reddit", "post", "article", "news", "report", "discussion", "question", 
+            "how to", "tutorial", "guide", "analysis", "review", "announcement", 
+            "update", "release", "launch", "introducing", "new feature", "research",
+            "paper", "study", "analysis", "tweet", "thread", "video", "image"
+        ]
+        
+        if any(indicator in name_lower for indicator in non_tool_indicators):
+            return True
+        
+        # Skip if it's a GitHub repository without clear tool indicators
+        if "github.com" in url.lower():
+            tool_indicators = [
+                "ai", "gpt", "claude", "assistant", "tool", "platform", "app", "bot", "agent",
+                "generator", "creator", "studio", "hub", "workspace", "lab", "kit", "suite",
+                "api", "sdk", "framework", "library", "engine", "model", "service", "solution"
+            ]
+            if not any(indicator in name_lower for indicator in tool_indicators):
+                return True
+        
+        # Skip if description is too short or contains non-tool content
+        if not description or len(description) < 10:
+            return True
+        
+        # Skip if description contains non-tool indicators
+        desc_lower = description.lower()
+        if any(indicator in desc_lower for indicator in non_tool_indicators):
+            return True
+        
+        return False
     
     def categorize_tool(self, title, description):
         """Categorize tool based on keywords"""

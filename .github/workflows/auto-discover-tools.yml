@@ -25,14 +25,17 @@ jobs:
         
     - name: Run AI tools discovery
       run: |
-        python tools/script/auto_discover_ai_tools.py
+        python src/scripts/auto_discover_ai_tools.py
     - name: Run daily tools digest
       run: |
-        python tools/script/daily_tools_digest.py
+        python src/scripts/daily_tools_digest.py
+    - name: Generate AI Tools Directory
+      run: |
+        python src/scripts/generate_tools_directory.py
         
     - name: Commit and push if changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add tools/resources/master_resources.csv tools/resources/tools_cache.json ai-tools-daily.md
+        git add data/master_resources.csv data/cache/tools_cache.json ai-tools-daily.md ai-tools-directory.md
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-discover new AI tools and daily digest [skip ci]" && git push) 
