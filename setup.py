@@ -10,7 +10,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="auto-news-ai-tools",
-    version="4.0.0",
+    version="3.1.0",
     author="AI Insights Daily",
     description="An automated platform to discover and showcase trending AI tools and news via a modern, dynamic website.",
     long_description=long_description,

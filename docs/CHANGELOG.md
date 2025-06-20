@@ -2,11 +2,11 @@
 
 All notable changes to the Auto News AI Tools Discovery project will be documented in this file.
 
-## [4.0.0] - 2025-06-21
+## [3.1.0] - 2025-06-21
 
-### ✨ Added - Version 4.0: The Polish & Refine Update
+### ✨ Added - Version 3.1: The Polish & Refine Update
 
-This major version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch, this update focuses on clean design, structural integrity, and user-friendly interaction.
+This version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch (v3.0.0), this update focuses on clean design, structural integrity, and user-friendly interaction.
 
 #### Core Features
 -   **Complete UI Redesign**: The website has been rebuilt from the ground up to be more modern, clean, and intuitive.
@@ -229,7 +229,7 @@ This major version introduces a public-facing website as the primary interface f
 
 | Version | Date | Major Features |
 |---------|------|----------------|
-| 4.0.0 | 2025-06-21 | ✨ Version 4.0: The Polish & Refine Update |
+| 3.1.0 | 2025-06-21 | ✨ Version 3.1: The Polish & Refine Update |
 | 3.0.0 | 2025-06-22 | 🎉 Version 3.0: The Website |
 | 2.2.0 | 2025-06-20 | 🧠 Dynamic Keyword Learning System |
 | 2.1.0 | 2025-06-19 | 🎯 Enhanced Tools Directory |

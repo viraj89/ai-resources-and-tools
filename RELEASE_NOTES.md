@@ -1,8 +1,8 @@
 # Release Notes
 
-## Version 4.0.0 - The Polish & Refine Update (June 21, 2025)
+## Version 3.1.0 - The Polish & Refine Update (June 21, 2025)
 
-This major version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch, this update focuses on clean design, structural integrity, and user-friendly interaction.
+This version represents a complete overhaul of the user experience and project structure, transforming the application into a polished, professional, and highly maintainable system. Building on the initial website launch (v3.0.0), this update focuses on clean design, structural integrity, and user-friendly interaction.
 
 ### ✨ Key Features & Enhancements
 
