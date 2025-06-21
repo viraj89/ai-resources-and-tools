@@ -61,8 +61,8 @@ def parse_daily_tools(content):
         list: List of daily tool updates with structured data
     """
     # Split content by date sections using regex
-    # Pattern matches: "## AI Tools and Apps of the Day: [Date]"
-    sections = re.split(r'## AI Tools and Apps of the Day: (.*?)\n---', content)
+    # Pattern matches: "## YYYY-MM-DD - Daily AI Tools Digest"
+    sections = re.split(r'## (\d{4}-\d{2}-\d{2}) - Daily AI Tools Digest', content)
     if not sections:
         return []
 
@@ -75,7 +75,7 @@ def parse_daily_tools(content):
         
         # Parse date string to ISO format for consistent handling
         try:
-            date = datetime.strptime(date_str, '%B %d, %Y').isoformat()
+            date = datetime.strptime(date_str, '%Y-%m-%d').isoformat()
         except ValueError:
             # Skip invalid date formats
             continue
