@@ -4,28 +4,28 @@
 ## Quick Daily AI News June 21, 2025
 News
 
-1. Exclusive | AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round - WSJ [1]
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
 
-2. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [2]
+2. Anthropic study finds AI chatbots from OpenAI, Google and Meta may cheat and blackmail users to avoid shutdown - India Today [2]
 
-3. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [3]
+3. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [3]
 
-4. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [4]
+4. Major VC merger births Northern investment powerhouse- PXN Group with £670M fund - Tech Funding News [4]
 
-5. OpenAI allowing ChatGPT users to create two DALL-E 3 images for free: Here’s how it works - Times of India [5]
+5. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [5]
 
-6. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [6]
+6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6]
 
-7. Made-in-India business jet by 2028: JV of France’s Dassault, Anil Ambani-led company to manufacture Falcon 2000 planes in Nagpur - The Indian Express [7]
+7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]
 
-8. Dassault, Anil Ambani's Reliance to make Falcon 2000 business jets in India - Reuters [8]
+8. OpenAI urges US to prioritize AI funding, regulation to stay ahead of China - Reuters [8]
 
 9. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [9]
 
-10. Generative AI in Fintech Market Is Booming So Rapidly | Major Giants OpenAI, Bank of America, Citi, IBM - openPR.com [10]
+10. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [10]
 
 Sources:
-[1] https://tinyurl.com/293n9n75 [2] https://tinyurl.com/2c6o964z [3] https://tinyurl.com/25y34zzu [4] https://tinyurl.com/296gu3sj [5] https://tinyurl.com/2xgva8mo [6] https://tinyurl.com/2a5tm7nf [7] https://tinyurl.com/25bdwon3 [8] https://tinyurl.com/2athjkqm [9] https://tinyurl.com/2bskprgg [10] https://tinyurl.com/2asajtd2
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/247o8nfu [3] https://tinyurl.com/27s32bgc [4] https://tinyurl.com/29l6wvqz [5] https://tinyurl.com/2cul9ek5 [6] https://tinyurl.com/2dk8hr2o [7] https://tinyurl.com/2dzhvdpq [8] https://tinyurl.com/29mk33c7 [9] https://tinyurl.com/22a2ec9u [10] https://tinyurl.com/2b5emjlj
 
 ---
 
