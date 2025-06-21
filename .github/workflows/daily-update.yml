@@ -6,6 +6,10 @@ on:
     - cron: '0 2 * * *'
   workflow_dispatch:  # Allows manual triggering
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   daily-update:
     runs-on: ubuntu-latest
@@ -13,6 +17,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -22,6 +28,7 @@ jobs:
         
     - name: Install Python dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install -e .
         
     - name: Run daily tools digest
@@ -42,12 +49,12 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add .
         # Check for changes and commit if any
         if ! git diff --staged --quiet; then
-          git commit -m "feat: Daily update of tools, news, and website data" -m "Automated by GitHub Actions"
+          git commit -m "feat: Daily update of tools, news, and website data" -m "Automated by GitHub Actions - $(date)"
           git push
         else
           echo "No changes to commit."
