@@ -10,14 +10,14 @@ export const content = {
       "title": "AI Tools of the Day: 2025-06-21",
       "data": [
         {
-          "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+          "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
           "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
           "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8"
         },
         {
-          "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+          "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
           "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don’t thin..."
+          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don't thin..."
         },
         {
           "name": "Does anyone know anything about context windows on longer (20-30 second) Wan videos?",
@@ -42,54 +42,54 @@ export const content = {
       "title": "AI News for June 21, 2025",
       "data": [
         {
-          "title": "AI startups drive VC funding resurgence, capturing record US investment in 2024",
-          "url": "https://tinyurl.com/257zjokf",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venture capital investment is rising in Los Angeles — and not just for AI startups",
-          "url": "https://tinyurl.com/2bhpzdz9",
-          "source": "Los Angeles Times"
-        },
-        {
-          "title": "AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees",
-          "url": "https://tinyurl.com/27s32bgc",
-          "source": "The Information"
-        },
-        {
-          "title": "Major VC merger births Northern investment powerhouse- PXN Group with £670M fund",
-          "url": "https://tinyurl.com/29l6wvqz",
-          "source": "Tech Funding News"
-        },
-        {
-          "title": "Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report",
-          "url": "https://tinyurl.com/2cul9ek5",
-          "source": "Silicon Valley Bank"
-        },
-        {
-          "title": "The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws",
-          "url": "https://tinyurl.com/2dk8hr2o",
-          "source": "Center for American Progress"
-        },
-        {
-          "title": "Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment",
-          "url": "https://tinyurl.com/2dzhvdpq",
-          "source": "Prosus"
-        },
-        {
-          "title": "OpenAI urges US to prioritize AI funding, regulation to stay ahead of China",
-          "url": "https://tinyurl.com/29mk33c7",
-          "source": "Reuters"
-        },
-        {
-          "title": "Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point",
-          "url": "https://tinyurl.com/2cpeqdba",
+          "title": "Exclusive | AI Startup Perplexity's Valuation Surges to $14 Billion in New Funding Round",
+          "url": "https://tinyurl.com/293n9n75",
           "source": "WSJ"
         },
         {
           "title": "Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point",
-          "url": "https://tinyurl.com/2asalkou",
+          "url": "https://tinyurl.com/2c6o964z",
           "source": "WSJ"
+        },
+        {
+          "title": "Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point",
+          "url": "https://tinyurl.com/25y34zzu",
+          "source": "WSJ"
+        },
+        {
+          "title": "OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model",
+          "url": "https://tinyurl.com/296gu3sj",
+          "source": "Business Insider"
+        },
+        {
+          "title": "OpenAI allowing ChatGPT users to create two DALL-E 3 images for free: Here's how it works",
+          "url": "https://tinyurl.com/2xgva8mo",
+          "source": "Times of India"
+        },
+        {
+          "title": "Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models",
+          "url": "https://tinyurl.com/2a5tm7nf",
+          "source": "Axios"
+        },
+        {
+          "title": "Made-in-India business jet by 2028: JV of France's Dassault, Anil Ambani-led company to manufacture Falcon 2000 planes in Nagpur",
+          "url": "https://tinyurl.com/25bdwon3",
+          "source": "The Indian Express"
+        },
+        {
+          "title": "Dassault, Anil Ambani's Reliance to make Falcon 2000 business jets in India",
+          "url": "https://tinyurl.com/2athjkqm",
+          "source": "Reuters"
+        },
+        {
+          "title": "Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point",
+          "url": "https://tinyurl.com/2bskprgg",
+          "source": "WSJ"
+        },
+        {
+          "title": "Generative AI in Fintech Market Is Booming So Rapidly | Major Giants OpenAI, Bank of America, Citi, IBM",
+          "url": "https://tinyurl.com/2asajtd2",
+          "source": "openPR.com"
         }
       ]
     },
@@ -119,7 +119,7 @@ export const content = {
           "source": "Reuters"
         },
         {
-          "title": "Exclusive / Anthropic emerges as an adversary to Trump’s big bill",
+          "title": "Exclusive / Anthropic emerges as an adversary to Trump's big bill",
           "url": "https://tinyurl.com/2yd497hs",
           "source": "Semafor"
         },
@@ -178,9 +178,9 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+        "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
         "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don’t thin...",
+        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don't thin...",
         "pricing": "N/A"
       },
       {
@@ -196,9 +196,9 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+        "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
         "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don’t thin...",
+        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don't thin...",
         "pricing": "N/A"
       },
       {
@@ -302,7 +302,7 @@ export const content = {
       {
         "name": "The Pig in Yellow: Part 2",
         "url": "https://i.redd.it/e4m0oz92808f1.png",
-        "description": "**II.**\n&gt; *“His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire.”*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
+        "description": "**II.**\n&gt; *"His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire."*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
         "pricing": "Freemium"
       },
       {
@@ -314,7 +314,7 @@ export const content = {
       {
         "name": "OpenAI",
         "url": "N/A",
-        "description": "2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [2]",
+        "description": "2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some 'Insider Risk' Employees - The Information [2]",
         "pricing": "N/A"
       },
       {
@@ -448,7 +448,7 @@ export const content = {
       {
         "name": "Starlink and Bans State AI",
         "url": "N/A",
-        "description": "6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6]",
+        "description": "6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk's Starlink and Bans State AI Laws - Center for American Progress [6]",
         "pricing": "Paid"
       },
       {
@@ -482,7 +482,7 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+        "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
         "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
         "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",
         "pricing": "N/A"
@@ -512,7 +512,7 @@ export const content = {
         "pricing": "N/A"
       },
       {
-        "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+        "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
         "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
         "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",
         "pricing": "N/A"
@@ -527,13 +527,13 @@ export const content = {
     "https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com": [
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "182.7"
       },
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "182.6"
       }
@@ -544,20 +544,58 @@ export const content = {
         "url": "By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",
         "description": "Freemium",
         "pricing": "120"
+      },
+      {
+        "name": "Code / Developer Tools",
+        "url": "By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",
+        "description": "Freemium",
+        "pricing": "120"
       }
     ],
     "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506": [
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "106.4"
       },
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "106.2"
+      }
+    ],
+    "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/": [
+      {
+        "name": "Voice / Audio Tools",
+        "url": "Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company",
+        "description": "Paid",
+        "pricing": "100"
+      }
+    ],
+    "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/": [
+      {
+        "name": "Design / Image Generation",
+        "url": "American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...",
+        "description": "Freemium",
+        "pricing": "40"
+      }
+    ],
+    "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/": [
+      {
+        "name": "Other",
+        "url": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio.",
+        "description": "Paid",
+        "pricing": "40"
+      }
+    ],
+    "https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/": [
+      {
+        "name": "Presentations",
+        "url": "Seven companies will be sharing their latest AI innovations from the main stage at VB Transform in SF on June 25.",
+        "description": "Paid",
+        "pricing": "40"
       }
     ]
   }
