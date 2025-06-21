@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 21, 2025
+News
+
+1. AI startups drive VC funding resurgence, capturing record US investment in 2024 - Reuters [1]
+
+2. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [2]
+
+3. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [3]
+
+4. Major VC merger births Northern investment powerhouse- PXN Group with £670M fund - Tech Funding News [4]
+
+5. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [5]
+
+6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6]
+
+7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]
+
+8. OpenAI urges US to prioritize AI funding, regulation to stay ahead of China - Reuters [8]
+
+9. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [9]
+
+10. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/257zjokf [2] https://tinyurl.com/2bhpzdz9 [3] https://tinyurl.com/27s32bgc [4] https://tinyurl.com/29l6wvqz [5] https://tinyurl.com/2cul9ek5 [6] https://tinyurl.com/2dk8hr2o [7] https://tinyurl.com/2dzhvdpq [8] https://tinyurl.com/29mk33c7 [9] https://tinyurl.com/2cpeqdba [10] https://tinyurl.com/2asalkou
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 20, 2025
 News
 

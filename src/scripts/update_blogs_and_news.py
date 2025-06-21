@@ -10,7 +10,7 @@ import json
 import os
 
 # Target file path
-FILE_PATH = "blogs-and-news.md"
+FILE_PATH = "artifacts/blogs-and-news.md"
 CACHE_FILE = "data/cache/news_cache.json"
 
 # RSS feed for Google News on AI
@@ -114,88 +114,101 @@ def fetch_rss_items(feed_url):
         news_items.append((title, link))
     return news_items
 
-# Load existing cache
-news_cache = load_news_cache()
-recent_urls = get_recent_urls(news_cache, days=7)
+def main():
+    """Main function to update blogs and news"""
+    print("📰 Starting AI news update...")
+    
+    # Ensure artifacts directory exists
+    os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
+    
+    # Load existing cache
+    news_cache = load_news_cache()
+    recent_urls = get_recent_urls(news_cache, days=7)
 
-# Fetch from main AI RSS feed
-main_rss_news = fetch_rss_items(RSS_FEED_URL)
+    # Fetch from main AI RSS feed
+    print("🔍 Fetching from Google News RSS...")
+    main_rss_news = fetch_rss_items(RSS_FEED_URL)
 
-# Fetch from per-keyword Google News RSS feeds
-keyword_news = []
-for kw in KEYWORDS:
-    kw_url = f"https://news.google.com/rss/search?q={requests.utils.quote(kw)}&hl=en-US&gl=US&ceid=US:en"
-    keyword_news.extend(fetch_rss_items(kw_url))
+    # Fetch from per-keyword Google News RSS feeds
+    print("🔍 Fetching keyword-specific news...")
+    keyword_news = []
+    for kw in KEYWORDS:
+        kw_url = f"https://news.google.com/rss/search?q={requests.utils.quote(kw)}&hl=en-US&gl=US&ceid=US:en"
+        keyword_news.extend(fetch_rss_items(kw_url))
 
-# Combine and deduplicate (by link)
-all_news = main_rss_news + keyword_news
-seen_links = set()
-unique_news = []
+    # Combine and deduplicate (by link)
+    all_news = main_rss_news + keyword_news
+    seen_links = set()
+    unique_news = []
 
-for title, link in all_news:
-    if link not in seen_links and link not in recent_urls:
-        unique_news.append((title, link))
-        seen_links.add(link)
+    for title, link in all_news:
+        if link not in seen_links and link not in recent_urls:
+            unique_news.append((title, link))
+            seen_links.add(link)
 
-# Prioritize by severity
-def severity_score(title):
-    t = title.lower()
-    return sum(1 for kw in SEVERITY_KEYWORDS if kw.lower() in t)
+    # Prioritize by severity
+    def severity_score(title):
+        t = title.lower()
+        return sum(1 for kw in SEVERITY_KEYWORDS if kw.lower() in t)
 
-unique_news.sort(key=lambda x: severity_score(x[0]), reverse=True)
+    unique_news.sort(key=lambda x: severity_score(x[0]), reverse=True)
 
-# Limit to top 10
-top_news = unique_news[:10]
+    # Limit to top 10
+    top_news = unique_news[:10]
 
-# Shorten URLs for citations
-short_links = []
-for _, link in top_news:
-    short_links.append(shorten_url(link))
-    time.sleep(0.5)  # avoid rate limiting
+    # Shorten URLs for citations
+    print("🔗 Shortening URLs...")
+    short_links = []
+    for _, link in top_news:
+        short_links.append(shorten_url(link))
+        time.sleep(0.5)  # avoid rate limiting
 
-# Read existing content and remove today's section if present
-try:
-    with open(FILE_PATH, "r", encoding="utf-8") as f:
-        existing = f.read()
-except FileNotFoundError:
-    existing = "# 🔗 Blog Posts / News Articles\n"
-except UnicodeDecodeError:
-    # Fallback for encoding issues
+    # Read existing content and remove today's section if present
     try:
-        with open(FILE_PATH, "r", encoding="latin-1") as f:
+        with open(FILE_PATH, "r", encoding="utf-8") as f:
             existing = f.read()
-    except:
+    except FileNotFoundError:
         existing = "# 🔗 Blog Posts / News Articles\n"
+    except UnicodeDecodeError:
+        # Fallback for encoding issues
+        try:
+            with open(FILE_PATH, "r", encoding="latin-1") as f:
+                existing = f.read()
+        except:
+            existing = "# 🔗 Blog Posts / News Articles\n"
 
-date_today = datetime.date.today()
-date_str = date_today.strftime('%B %d, %Y')
+    date_today = datetime.date.today()
+    date_str = date_today.strftime('%B %d, %Y')
 
-# Remove any existing section for today
-pattern = re.compile(rf"## Quick Daily AI News {re.escape(date_str)}.*?(?=\n## |\Z)", re.DOTALL)
-existing = re.sub(pattern, '', existing).strip()
+    # Remove any existing section for today
+    pattern = re.compile(rf"## Quick Daily AI News {re.escape(date_str)}.*?(?=\n## |\Z)", re.DOTALL)
+    existing = re.sub(pattern, '', existing).strip()
 
-# Format today's section
-header = f"\n\n## Quick Daily AI News {date_str}\nNews\n\n"
-news_lines = ""
-for i, (title, _) in enumerate(top_news, start=1):
-    news_lines += f"{i}. {title} [{i}]\n\n"
-# Sources in a single line
-sources_line = "Sources:\n" + " ".join([f"[{i+1}] {short_links[i]}" for i in range(len(short_links))]) + "\n"
+    # Format today's section
+    header = f"\n\n## Quick Daily AI News {date_str}\nNews\n\n"
+    news_lines = ""
+    for i, (title, _) in enumerate(top_news, start=1):
+        news_lines += f"{i}. {title} [{i}]\n\n"
+    # Sources in a single line
+    sources_line = "Sources:\n" + " ".join([f"[{i+1}] {short_links[i]}" for i in range(len(short_links))]) + "\n"
 
-# Combine all, prepend today's news, add horizontal rule after each day
-section = header + news_lines + sources_line + '\n---\n'
-updated_content = section + '\n' + existing.lstrip('#').strip()  # keep top heading only once
-if not updated_content.startswith('#'):
-    updated_content = '# 🔗 Blog Posts / News Articles\n' + updated_content
+    # Combine all, prepend today's news, add horizontal rule after each day
+    section = header + news_lines + sources_line + '\n---\n'
+    updated_content = section + '\n' + existing.lstrip('#').strip()  # keep top heading only once
+    if not updated_content.startswith('#'):
+        updated_content = '# 🔗 Blog Posts / News Articles\n' + updated_content
 
-# Save updated file
-with open(FILE_PATH, "w", encoding="utf-8") as f:
-    f.write(updated_content)
+    # Save updated file
+    with open(FILE_PATH, "w", encoding="utf-8") as f:
+        f.write(updated_content)
 
-# Update cache with today's URLs
-today_str = date_today.strftime('%Y-%m-%d')
-news_cache[today_str] = [link for _, link in top_news]
-save_news_cache(news_cache)
+    # Update cache with today's URLs
+    today_str = date_today.strftime('%Y-%m-%d')
+    news_cache[today_str] = [link for _, link in top_news]
+    save_news_cache(news_cache)
 
-print("✅ blogs-and-news.md updated successfully.")
-print(f"📊 Added {len(top_news)} new articles, filtered out {len(recent_urls)} recent duplicates.")
+    print("✅ blogs-and-news.md updated successfully.")
+    print(f"📊 Added {len(top_news)} new articles, filtered out {len(recent_urls)} recent duplicates.")
+
+if __name__ == "__main__":
+    main()

@@ -1,3 +1,64 @@
+
+## 2025-06-21 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. "Open AI wins $200M defence contract." "Open AI entering strategic partnership with Palantir" *This is fine*
+
+- **Category**: Code / Developer Tools
+- **What it does**: OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...
+- **Pricing**: Paid
+- **Trending Score**: 182.7
+- **Source**: reddit
+- **🔗 [Try it here](https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com)**
+
+---
+
+### 2. "Open AI wins $200M defence contract." "Open AI entering strategic partnership with Palantir" *This is fine*
+
+- **Category**: Code / Developer Tools
+- **What it does**: OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...
+- **Pricing**: Paid
+- **Trending Score**: 182.6
+- **Source**: reddit
+- **🔗 [Try it here](https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com)**
+
+---
+
+### 3. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
+
+- **Category**: Code / Developer Tools
+- **What it does**: By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.
+- **Pricing**: Freemium
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/)**
+
+---
+
+### 4. mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face
+
+- **Category**: Other
+- **What it does**: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+- **Pricing**: Paid
+- **Trending Score**: 106.4
+- **Source**: reddit
+- **🔗 [Try it here](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506)**
+
+---
+
+### 5. mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face
+
+- **Category**: Other
+- **What it does**: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+- **Pricing**: Paid
+- **Trending Score**: 106.2
+- **Source**: reddit
+- **🔗 [Try it here](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506)**
+
+---
+
 ## AI Tools and Apps of the Day: June 20, 2025
 ---
 1. Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters – [https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer](https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer) – Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8
