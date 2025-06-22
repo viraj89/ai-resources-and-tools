@@ -2,48 +2,82 @@
 """
 Freshness Scorer for AI Insights Daily v4.0.0
 
-This utility provides a simple, mock-up version of a freshness scorer.
-It is designed to be a placeholder for the full implementation, ensuring
-the main script can be tested without errors.
+This utility calculates freshness and relevance scores for news articles.
+Freshness is determined by the article's publication date, while relevance
+is based on the presence of predefined keywords in the title.
 """
 
-import datetime
+import logging
+from datetime import datetime
+
+# Configure basic logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 class FreshnessScorer:
     """
-    A mock freshness scorer that simulates analyzing news articles.
-    
-    This class is a placeholder and does not perform actual content analysis.
-    It provides the same interface as the final scorer for seamless integration.
+    Calculates scores for news articles based on freshness and relevance.
     """
-    
-    def __init__(self):
-        """Initializes the mock freshness scorer."""
-        self.max_age_hours = 24
-    
-    def calculate_freshness_score(self, article):
+
+    def __init__(self, max_age_hours: int = 24):
         """
-        Mock implementation for calculating a freshness score.
-        
+        Initializes the scorer with a maximum article age for scoring.
+
         Args:
-            article: The article data (not used in this mock).
-            
-        Returns:
-            A fixed score of 0.8.
+            max_age_hours: The maximum age in hours for an article to be scored.
         """
-        return 0.8
-    
-    def calculate_relevance_score(self, text, keywords):
+        self.max_age_hours = max_age_hours
+        logger.info(f"Freshness Scorer initialized for articles up to {max_age_hours} hours old.")
+
+    def calculate_freshness_score(self, published_date: datetime) -> float:
         """
-        Mock implementation for calculating a relevance score.
-        
+        Calculates a freshness score based on the article's publication date.
+
+        The score is normalized between 0.0 (oldest) and 1.0 (newest) using
+        a linear decay function.
+
         Args:
-            text: The article text (not used).
-            keywords: The keywords for scoring (not used).
-            
+            published_date: The publication date of the article as a datetime object.
+
         Returns:
-            A fixed score of 0.7.
+            A freshness score between 0.0 and 1.0.
         """
-        return 0.7
+        if not isinstance(published_date, datetime):
+            logger.warning("Invalid type for published_date. Expected datetime.")
+            return 0.0
+
+        now = datetime.now()
+        age_delta = now - published_date
+        age_in_hours = age_delta.total_seconds() / 3600
+
+        if age_in_hours > self.max_age_hours or age_in_hours < 0:
+            return 0.0
+
+        # Linear decay for freshness score
+        score = 1.0 - (age_in_hours / self.max_age_hours)
+        return max(0.0, score)
+
+    def calculate_relevance_score(self, title: str, keywords: list) -> float:
+        """
+        Calculates a relevance score based on keyword matches in the title.
+
+        The score is the ratio of unique matched keywords to the total number of
+        keywords provided. The match is case-insensitive.
+
+        Args:
+            title: The title of the article.
+            keywords: A list of keywords to search for.
+
+        Returns:
+            A relevance score between 0.0 and 1.0.
+        """
+        if not title or not keywords:
+            return 0.0
+
+        title_lower = title.lower()
+        matched_keywords = {keyword for keyword in keywords if keyword.lower() in title_lower}
+        
+        score = len(matched_keywords) / len(keywords)
+        return min(1.0, score)
 
 print("Freshness Scorer ready") 

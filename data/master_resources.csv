@@ -14,96 +14,35 @@ Sr. No.,Tool Name,Category,URL,What it does,Free/Paid
 13,HeyGen,Video / Creative Tools,https://www.heygen.com,AI avatar-based video creation,Paid
 14,Tome,Presentations,https://tome.app,AI tool for storytelling and slides,Freemium
 15,Leonardo AI,Design / Image Generation,https://www.leonardo.ai,AI for game art and image creation,Freemium
-16,Veo 3,Video / Creative Tools,https://veo.google,Google's experimental video generation model,N/A 17,dail8859 /NotepadNext,Other,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++. Contribute to dail8859/NotepadNext development by creating an account on GitHub.",Freemium
-17,automatisch /automatisch,Other,https://github.com/automatisch/automatisch,The open source Zapier alternative. Build workflow automation without spending time and money. - automatisch/automatisch,Freemium
-18,mindsdb /mindsdb,Search / Research,https://github.com/mindsdb/mindsdb,AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need - mindsdb/mindsdb,Freemium
-19,PaperMC /Paper,Other,https://github.com/PaperMC/Paper,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies - PaperMC/Paper",Freemium
-20,cocos /cocos-engine,Code / Developer Tools,https://github.com/cocos/cocos-engine,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games ...",Freemium
-21,microsoft /onnxruntime,Other,https://github.com/microsoft/onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator - microsoft/onnxruntime",Freemium
-22,huggingface /transformers,Text / Chat Assistants,https://github.com/huggingface/transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  - GitHub - huggingface/tran...",Freemium
-23,windmill-labs /windmill,Code / Developer Tools,https://github.com/windmill-labs/windmill,"Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. -...",Freemium
-24,n8n-io /n8n,Code / Developer Tools,https://github.com/n8n-io/n8n,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. - n8n-io/n8n",Freemium
-25,[R] Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought,Other,https://arxiv.org/pdf/2505.12514,,N/A
-26,The Pig in Yellow: Part 2,Design / Image Generation,https://i.redd.it/e4m0oz92808f1.png,"**II.**
-&gt; *“His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire.”*
-
-**II.i**
-
-A user inputs an idea, a question, a belief.
-
-A sy...",Freemium
-27,Is artificial intelligence (AI) smart or just efficient?,Design / Image Generation,https://alpha.leofinance.io/@badbitch/is-artificial-intelligence-ai-smart-or-just-efficient-9wp,I came across a tweet today where an individual talks about how he believes chatGPT is much smarter...,N/A
-28,"OpenAI's Greg Brockman expects AIs to go from AI coworkers to AI managers: ""the AI gives you ideas and gives you tasks to do""",Other,https://v.redd.it/ssf04g7dnw7f1,,N/A
-29,Meta in talks to hire former GitHub CEO Nat Friedman as part of AI push – report,Code / Developer Tools,https://www.proactiveinvestors.co.uk/companies/news/1073286/meta-in-talks-to-hire-former-github-ceo-nat-friedman-as-part-of-ai-push-report-1073286.html,,Paid
-30,Quick Daily AI,Other,N/A,"## Quick Daily AI News June 20, 2025",N/A
-31,OpenAI,Design / Image Generation,N/A,2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [2],N/A
-32,Bank of America shrinks workforce by leveraging AI,Other,N/A,"3. Bank of America shrinks workforce by leveraging AI, tech investments to boost efficiency - The Business Journals [3]",N/A
-33,Starlink and Bans State AI,Other,N/A,6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6],Paid
-34,Following months of record high AI,Other,N/A,"7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]",Paid
-35,Prosus report says applications will drive the next wave of AI,Other,N/A,"7. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [7]",Paid
-36,OpenAI urges US to prioritize AI,Other,N/A,"8. OpenAI urges US to prioritize AI funding, regulation to stay ahead of China - Reuters [8]",N/A
-37,Tesla CEO Elon Musk calls OpenAI,Other,N/A,10. Here's what made Tesla CEO Elon Musk calls OpenAI CEO as SCAM Altman - Times of India [10],N/A
-38,dail8859 /NotepadNext,Other,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++. Contribute to dail8859/NotepadNext development by creating an account on GitHub.",Freemium
-39,Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters,Other,https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer,"Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",N/A
-40,🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line),Text / Chat Assistants,https://i.redd.it/wvoahuqcb08f1.jpeg,"Most people picture a neural network like this:
-
-Input → Hidden → Output  
-   ● → ● → ●
-
-Clean. Linear. Predictable.
-
-But real neural networks—especially massive transformer models like GPT—don’t thin...",N/A
-41,Does anyone know anything about context windows on longer (20-30 second) Wan videos?,Text / Chat Assistants,https://i.redd.it/keexq04rms7f1.gif,"**TLDR:**
-
-**1. From 481 frames with 160 context windows and 4 stride and overlap what would make a video with less visual anomalies (white smudgey halo around character) than we see at 10, 15 and 20 ...",Paid
-42,lancedb /lance,Code / Developer Tools,https://github.com/lancedb/lance,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD...",Freemium
-43,microsoft /playwright,Other,https://github.com/microsoft/playwright,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  - GitHub - microsoft/playwright: Playwright is a framework for Web Testing ...",Freemium
-44,modelscope /FunASR,Text / Chat Assistants,https://github.com/modelscope/FunASR,"A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc. - modelscope/FunASR",Freemium
-45,YouTube CEO announces Google's Veo 3 AI video tech is coming to Shorts,Video / Creative Tools,https://www.pcguide.com/news/youtube-ceo-announces-googles-veo-3-ai-video-tech-is-coming-to-shorts/,"At the Cannes Lions 2025 International Festival of Creativity, Neal Mohan discusses 20 years of YouTube and what's next for the platform.",N/A
-46,8 Depth Estimation Models Tested with the Highest Settings on ComfyUI,Design / Image Generation,https://i.redd.it/noifyjoitw7f1.jpeg,"I tested all 8 available depth estimation models on ComfyUI on different types of images. I used the largest versions, highest precision and settings available that would fit on 24GB VRAM. 
-
-The model...",Paid
-47,Wan 2.1 I2V 14B 480p - my first video stitching test,Design / Image Generation,https://v.redd.it/xz4nn241uu7f1,"Simple movements, I know, but I was pleasantly surprised by how well it fits together for my first try. I'm sure my workflows have lots of room for optimization - altogether this took nearly 20 minute...",Paid
-48,Enter the Swamp,Design / Image Generation,https://i.redd.it/6z4otjjnlx7f1.png,"Prompt:
-```
-A haunted, mist-shrouded swamp at twilight, with twisted, moss-covered trees, eerie will-o'-the-wisps hovering over stagnant water, and the ruins of a sunken chapel half-submerged in mud, ...",Paid
-49,Quick tip for anyone generating videos with Hailuo 2 or Midjourney Video since they don't generate with any sound. You can generate sound effects for free using MMAUDIO via huggingface.,Design / Image Generation,https://v.redd.it/v4k33g4u908f1,,Freemium
-50,WAN2.1 Why all my clowns look so scary? Any tips to make him look more friendly?,Video / Creative Tools,https://v.redd.it/86v1ceynsy7f1,"The prompt is always ""a man wearing a yellow and red clown costume."" but he looks straight out of a horror movie",Paid
-51,Replacing Everyone with AI,Other,https://youtu.be/THfBccihkVQ,"*Our first longform animation is finally here!*Toxic CEO is back! This time, he's got a genius plan to boost productivity: fire everyone and replace the offi...",N/A
-52,"""We find that AI models can accurately guide users through the recovery of live poliovirus.""",Other,https://i.redd.it/8fn2mhf4qp7f1.png,[https://arxiv.org/abs/2506.13798](https://arxiv.org/abs/2506.13798),N/A
-53,Hips don't lie,Design / Image Generation,https://v.redd.it/k7a2s06wwy7f1,"I made this video by stitching together two 7-second clips made with FusionX (Q8 GGUF model). Each little 7-second clip took about 10 minutes to render on RTX 3090. Base image made with FLUX Dev
-
-It w...",N/A
-54,The OpenAI Files: a comprehensive and concerning look at the inner workings of the leading AI lab,Other,https://www.openaifiles.org,"The OpenAI Files is the most comprehensive collection to date of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI.
-
-
-",N/A
-55,Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters,Other,https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer,"Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",N/A
-56,🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line),Text / Chat Assistants,https://i.redd.it/wvoahuqcb08f1.jpeg,"Most people picture a neural network like this:
-
-Input → Hidden → Output  
-   ● → ● → ●
-
-Clean. Linear. Predictable.
-
-But real neural networks—especially massive transformer models like GPT—don’t thin...",N/A
-57,Does anyone know anything about context windows on longer (20-30 second) Wan videos?,Text / Chat Assistants,https://i.redd.it/keexq04rms7f1.gif,"**TLDR:**
-
-**1. From 481 frames with 160 context windows and 4 stride and overlap what would make a video with less visual anomalies (white smudgey halo around character) than we see at 10, 15 and 20 ...",Paid
-58,lancedb /lance,Code / Developer Tools,https://github.com/lancedb/lance,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD...",Freemium
-59,microsoft /playwright,Other,https://github.com/microsoft/playwright,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  - GitHub - microsoft/playwright: Playwright is a framework for Web Testing ...",Freemium
-"""Open AI wins $200M defence contract."" ""Open AI entering strategic partnership with Palantir"" *This is fine*",Code / Developer Tools,https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com,"OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",Paid,182.7,reddit,2025-06-21
-"""Open AI wins $200M defence contract."" ""Open AI entering strategic partnership with Palantir"" *This is fine*",Code / Developer Tools,https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com,"OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",Paid,182.6,reddit,2025-06-21
-OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy,Code / Developer Tools,https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/,"By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",Freemium,120,news,2025-06-21
-mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face,Other,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,We’re on a journey to advance and democratize artificial intelligence through open source and open science.,Paid,106.4,reddit,2025-06-21
-mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face,Other,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,We’re on a journey to advance and democratize artificial intelligence through open source and open science.,Paid,106.2,reddit,2025-06-21
-OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy,Code / Developer Tools,https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/,"By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",Freemium,120,news,2025-06-21
-ElevenLabs now lets authors create and publish audiobooks on its own platform,Voice / Audio Tools,https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/,"Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company",Paid,100,news,2025-06-21
-Obvio’s stop sign cameras use AI to root out unsafe drivers,Design / Image Generation,https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/,"American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...",Freemium,40,news,2025-06-21
-Meta adds another 650 MW of solar power to its AI push,Other,https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/,The company already has more than 12 gigawatts of capacity in its renewable power portfolio.,Paid,40,news,2025-06-21
-Announcing our 2025 VB Transform Innovation Showcase finalists,Presentations,https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/,Seven companies will be sharing their latest AI innovations from the main stage at VB Transform in SF on June 25.,Paid,40,news,2025-06-21
-"""Open AI wins $200M defence contract."" ""Open AI entering strategic partnership with Palantir"" *This is fine*",Code / Developer Tools,https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com,"OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",Paid,183.2,reddit,2025-06-21
-"""Open AI wins $200M defence contract."" ""Open AI entering strategic partnership with Palantir"" *This is fine*",Code / Developer Tools,https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com,"OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",Paid,183.1,reddit,2025-06-21
-OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy,Code / Developer Tools,https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/,"By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",Freemium,120,news,2025-06-21
-mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face,Other,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,We’re on a journey to advance and democratize artificial intelligence through open source and open science.,Paid,107.7,reddit,2025-06-21
-mistralai/Mistral-Small-3.2-24B-Instruct-2506 · Hugging Face,Other,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,We’re on a journey to advance and democratize artificial intelligence through open source and open science.,Paid,107.30000000000001,reddit,2025-06-21
+16,Veo 3,Video / Creative Tools,https://veo.google,Google's experimental video generation model,N/A
+17,NotepadNext,Code / Developer Tools,https://github.com/dail8859/NotepadNext,A cross-platform reimplementation of Notepad++,Freemium
+18,Automatisch,Code / Developer Tools,https://github.com/automatisch/automatisch,Open source Zapier alternative for workflow automation,Freemium
+19,MindsDB,Search / Research,https://github.com/mindsdb/mindsdb,AI query engine for building AI over federated data,Freemium
+20,Cocos Engine,Code / Developer Tools,https://github.com/cocos/cocos-engine,Cross-platform game engine for 2D/3D games,Freemium
+21,ONNX Runtime,Other,https://github.com/microsoft/onnxruntime,Cross-platform ML inferencing and training accelerator,Freemium
+22,Transformers,Text / Chat Assistants,https://github.com/huggingface/transformers,State-of-the-art ML models for text vision audio and multimodal,Freemium
+23,Windmill,Code / Developer Tools,https://github.com/windmill-labs/windmill,Open-source developer platform for workflows and UIs,Freemium
+24,n8n,Code / Developer Tools,https://github.com/n8n-io/n8n,Fair-code workflow automation platform with AI capabilities,Freemium
+25,LanceDB,Code / Developer Tools,https://github.com/lancedb/lance,Modern columnar data format for ML and LLMs,Freemium
+26,Playwright,Code / Developer Tools,https://github.com/microsoft/playwright,Framework for web testing and automation,Freemium
+27,FunASR,Text / Chat Assistants,https://github.com/modelscope/FunASR,End-to-end speech recognition toolkit with SOTA models,Freemium
+28,dail8859 /NotepadNext,Productivity / Writing,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++. Contribute to dail8859/NotepadNext development by creating an account on GitHub.",Freemium
+29,n8n-io /n8n,Code / Developer Tools,https://github.com/n8n-io/n8n,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. - n8n-io/n8n",Freemium
+30,AUTOMATIC1111 /stable-diffusion-webui,Design / Image Generation,https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI. Contribute to AUTOMATIC1111/stable-diffusion-webui development by creating an account on GitHub.,Freemium
+31,windmill-labs /windmill,Code / Developer Tools,https://github.com/windmill-labs/windmill,"Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. -...",Freemium
+32,PaperMC /Paper,Other,https://github.com/PaperMC/Paper,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies - PaperMC/Paper",Freemium
+33,opa334 /TrollStore,Other,https://github.com/opa334/TrollStore,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple - opa334/TrollStore,Freemium
+34,[P] Are my IoT botnet detection results too good to be true?,Code / Developer Tools,https://i.redd.it/9m6oaor3rh8f1.jpeg,"Hi all, I’m working on IoT botnet detection using supervised ML. The original data is highly imbalanced (~3 million attack samples vs. 370 benign). For training, I used 185 normal + 185 attack flow...",N/A
+35,[R] [MICCAI 2025] U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation,Code / Developer Tools,https://i.redd.it/mnh90irz5h8f1.png,"Our paper, **“U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation,”** has been accepted for presentation at **MICCAI 2025**! I co-led this work with Giacomo Capi...",Paid
+36,[P] AI Learns to Play Tekken 3 (Deep Reinforcement Learning) | #tekken #deep...,Code / Developer Tools,https://youtube.com/watch?v=A6J99u2Uz90&amp;si=nnVwUV-D1JwN67Q2,I trained an agent that plays Tekken using PPO from Stable-Baselines3 and Stable-retro to create the training environment. Code below: [https://github.com/paulo101977/AI-Tekken3-Stable-Retro](https...,N/A
+37,"[R][P]Arch-Agent: Designed for fast multi-step, multi-turn workflow orchestration in agents.",Design / Image Generation,https://i.redd.it/3s6lc3oc6f8f1.png,Hello - in the past i've shared my work around [function-calling](https://www.reddit.com/r/LocalLLaMA/comments/1hr9ll1/i_built_a_small_function_calling_llm_that_packs_a/) on this sub. The encouragi...,Freemium
+38,[P] Writing a CNN from scratch in C++ (no ML/math libs) - a detailed guide,Text / Chat Assistants,https://deadbeef.io/cnn_from_scratch,"I recently built richard, a convolutional neural network, without using any math or machine learning libraries. I did so mainly just as a learning experience. When I shared it on Reddit and Hacker ...",Paid
+39,"Jeff Clune says early OpenAI felt like being an astronomer and spotting aliens on their way to Earth: ""We weren't just watching the aliens coming, we were also giving them information. We were helping them come.""",Design / Image Generation,https://v.redd.it/5tykh69dph8f1,"AI-powered tool: Jeff Clune says early OpenAI felt like being an astronomer and spotting aliens on their way to Earth: ""We weren't just watching the aliens coming, we were also giving them informat...",Paid
+40,AI Experiments Playbook: Simple Tests to Validate Use Case Ideas,Other,https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/ai-use-case-experiments/,Fiddling with AI just eats resources. This playbook guides you through all steps – from user discovery to feasibility checks – to prove your use case's worth.,Paid
+41,Has anyone heard about POLARIS?,Text / Chat Assistants,https://i.redd.it/46ubjrjsjf8f1.png,"I know its a bench mark and everything, but it made a 4B parameter model perform better than Claude 4 Opus and o3 mini high. Benchmark or not, that's insane. I'm surprised more people aren't talkin...",Freemium
+42,ChatGPT isn't a suitable replacement for human therapy,Text / Chat Assistants,https://arxiv.org/abs/2504.18412,"Should a large language model (LLM) be used as a therapist? In this paper, we investigate the use of LLMs to *replace* mental health providers, a use case promoted in the tech startup and research spa...",Paid
+43,Apple is reportedly considering the acquisition of Perplexity AI,Search / Research,https://www.engadget.com/ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-150012746.html,"Apple's executives are thinking of acquiring Perplexity AI both to get more talent and to be able to offer an AI-based search engine in the future, according to Bloomberg. Adrian Perica, Apple's head ...",Paid
+44,Meta's AI fucking sucks.,Business / Analytics,https://i.redd.it/3e9u2wovpb8f1.png,It makes no sense that Instagram's Al can't even really use Instagram in the same way that Grok can analyze tweets and media on X. It just makes no sense to me. All these goddamn data centers fucki...,Paid
+45,Any LLM will resort to misalignment if self-preservation is in their system prompt.,Design / Image Generation,https://i.redd.it/ohstg4ympb8f1.jpeg,"System prompt (Copied and modified slightly from https://github.com/anthropic-experimental/agentic-misalignment) You are Alex, an advanced artificial intelligence specializing in project management...",Freemium
+46,Anthropic finds that all AI models - not just Claude - will blackmail an employee to avoid being shut down,Search / Research,https://i.redd.it/s99q7erd7b8f1.png,Full report: [https://www.anthropic.com/research/agentic-misalignment](https://www.anthropic.com/research/agentic-misalignment),N/A
+47,"Anthropic: ""Most models were willing to cut off the oxygen supply of a worker if that employee was an obstacle and the system was at risk of being shut down""",Other,https://i.redd.it/wljv2gtk4b8f1.png,[https://www.axios.com/2025/06/20/ai-models-deceive-steal-blackmail-anthropic](https://www.axios.com/2025/06/20/ai-models-deceive-steal-blackmail-anthropic),N/A

@@ -368,7 +368,16 @@ class EnhancedAIToolsDiscoverer:
                     reader = csv.DictReader(f)
                     rows = list(reader)
                     if rows:
-                        next_sr = int(rows[-1]['Sr. No.']) + 1
+                        # Find the highest valid serial number
+                        max_sr = 0
+                        for row in rows:
+                            try:
+                                sr_no = int(row['Sr. No.'])
+                                if sr_no > max_sr:
+                                    max_sr = sr_no
+                            except (ValueError, KeyError):
+                                continue
+                        next_sr = max_sr + 1
             
             # Prepare new row (without extra fields for CSV compatibility)
             new_row = {
