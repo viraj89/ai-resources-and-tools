@@ -10,14 +10,14 @@ export const content = {
       "title": "AI Tools of the Day: 2025-06-21",
       "data": [
         {
-          "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+          "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
           "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
           "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8"
         },
         {
-          "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+          "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
           "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don’t thin..."
+          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don't thin..."
         },
         {
           "name": "Does anyone know anything about context windows on longer (20-30 second) Wan videos?",
@@ -52,7 +52,7 @@ export const content = {
           "source": "India Today"
         },
         {
-          "title": "AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees",
+          "title": "AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some 'Insider Risk' Employees",
           "url": "https://tinyurl.com/27s32bgc",
           "source": "The Information"
         },
@@ -67,7 +67,7 @@ export const content = {
           "source": "Silicon Valley Bank"
         },
         {
-          "title": "The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws",
+          "title": "The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk's Starlink and Bans State AI Laws",
           "url": "https://tinyurl.com/2dk8hr2o",
           "source": "Center for American Progress"
         },
@@ -99,14 +99,14 @@ export const content = {
       "title": "AI Tools of the Day: June 20, 2025",
       "data": [
         {
-          "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+          "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
           "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
           "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8"
         },
         {
-          "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+          "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
           "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don’t thin..."
+          "description": "Most people picture a neural network like this:  Input → Hidden → Output      ● → ● → ●  Clean. Linear. Predictable.  But real neural networks—especially massive transformer models like GPT—don't thin..."
         },
         {
           "name": "Does anyone know anything about context windows on longer (20-30 second) Wan videos?",
@@ -151,7 +151,7 @@ export const content = {
           "source": "Reuters"
         },
         {
-          "title": "Exclusive / Anthropic emerges as an adversary to Trump’s big bill",
+          "title": "Exclusive / Anthropic emerges as an adversary to Trump's big bill",
           "url": "https://tinyurl.com/2yd497hs",
           "source": "Semafor"
         },
@@ -210,9 +210,9 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+        "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
         "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don’t thin...",
+        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don't thin...",
         "pricing": "N/A"
       },
       {
@@ -228,9 +228,9 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "🧠 How to Visualize a Neural Network (Hint: It’s Not a Straight Line)",
+        "name": "🧠 How to Visualize a Neural Network (Hint: It's Not a Straight Line)",
         "url": "https://i.redd.it/wvoahuqcb08f1.jpeg",
-        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don’t thin...",
+        "description": "Most people picture a neural network like this:\n\nInput → Hidden → Output  \n   ● → ● → ●\n\nClean. Linear. Predictable.\n\nBut real neural networks—especially massive transformer models like GPT—don't thin...",
         "pricing": "N/A"
       },
       {
@@ -334,7 +334,7 @@ export const content = {
       {
         "name": "The Pig in Yellow: Part 2",
         "url": "https://i.redd.it/e4m0oz92808f1.png",
-        "description": "**II.**\n&gt; *“His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire.”*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
+        "description": "**II.**\n&gt; *"His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire."*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
         "pricing": "Freemium"
       },
       {
@@ -346,7 +346,7 @@ export const content = {
       {
         "name": "OpenAI",
         "url": "N/A",
-        "description": "2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [2]",
+        "description": "2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some 'Insider Risk' Employees - The Information [2]",
         "pricing": "N/A"
       },
       {
@@ -480,7 +480,7 @@ export const content = {
       {
         "name": "Starlink and Bans State AI",
         "url": "N/A",
-        "description": "6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [6]",
+        "description": "6. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk's Starlink and Bans State AI Laws - Center for American Progress [6]",
         "pricing": "Paid"
       },
       {
@@ -514,7 +514,7 @@ export const content = {
         "pricing": "Freemium"
       },
       {
-        "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+        "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
         "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
         "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",
         "pricing": "N/A"
@@ -544,7 +544,7 @@ export const content = {
         "pricing": "N/A"
       },
       {
-        "name": "Elon Musk calls Grok answer a ‘major fail’ after it highlights political violence caused by MAGA supporters",
+        "name": "Elon Musk calls Grok answer a 'major fail' after it highlights political violence caused by MAGA supporters",
         "url": "https://ecency.com/hive-109255/@kur8/elon-musk-calls-grok-answer",
         "description": "Source: Independent Elon Musk criticised his AI chatbot, Grok, after it stated that right-wing political violence in the U.S. has been more ... by @kur8",
         "pricing": "N/A"
@@ -559,25 +559,25 @@ export const content = {
     "https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/?utm_source=chatgpt.com": [
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "182.7"
       },
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "182.6"
       },
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "183.2"
       },
       {
         "name": "Code / Developer Tools",
-        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI’s Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
+        "url": "OpenAI and Palantir have both been involved in U.S. Department of Defense initiatives. In June 2025, senior executives from both firms (OpenAI's Chief Product Officer Kevin Weil and Palantir CTO Shyam...",
         "description": "Paid",
         "pricing": "183.1"
       }
@@ -605,25 +605,25 @@ export const content = {
     "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506": [
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "106.4"
       },
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "106.2"
       },
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "107.7"
       },
       {
         "name": "Other",
-        "url": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "url": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
         "description": "Paid",
         "pricing": "107.30000000000001"
       }
@@ -661,4 +661,75 @@ export const content = {
       }
     ]
   }
+};
+
+export const pageData = {
+  updateSummary: "Latest Update (2025-01-22 14:30): 2 News Articles, 47 AI Tools, 50 Research Papers from 3 Sources.",
+  todaysFeed: [
+    {
+      type: 'News',
+      title: "LinkedIn CEO says AI writing assistant is not as popular as expected",
+      source: "TechCrunch",
+      published: "2025-06-22 14:06",
+      scores: { overall: 0.489, freshness: 0.681, relevance: 0.200 },
+      description: "LinkedIn's AI writing assistant hasn't gained the expected popularity among users, according to CEO Ryan Roslansky.",
+      link: "https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/"
+    },
+    {
+      type: 'Tool',
+      title: "AUTOMATIC1111 /stable-diffusion-webui",
+      category: "Design / Image Generation",
+      source: "GitHub Trending",
+      status: "Freemium",
+      description: "Stable Diffusion web UI - A comprehensive interface for running Stable Diffusion models with advanced features and customization options.",
+      link: "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+      type: 'Tool',
+      title: "n8n-io /n8n",
+      category: "Code / Developer Tools",
+      source: "GitHub Trending",
+      status: "Freemium",
+      description: "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      link: "https://github.com/n8n-io/n8n"
+    },
+    {
+      type: 'News',
+      title: "Last day to save on your TechCrunch All Stage pass — prices go up tonight",
+      source: "TechCrunch",
+      published: "2025-06-22 14:00",
+      scores: { overall: 0.405, freshness: 0.676, relevance: 0.000 },
+      description: "Final opportunity to secure discounted passes for TechCrunch's upcoming AI-focused conference.",
+      link: "https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/"
+    },
+  ],
+  researchArchive: [
+    {
+      type: 'Research',
+      title: "Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention",
+      source: "arXiv",
+      published: "2025-06-18",
+      scores: { overall: 0.960, relevance: 1.000, impact: 0.900 },
+      description: "Cancer is an abnormal growth with potential to invade locally and metastasize to distant organs. Accurate auto-segmentation of the tumor and surrounding tissues is crucial for treatment planning.",
+      link: "http://arxiv.org/abs/2506.15562v1"
+    },
+    {
+      type: 'Research',
+      title: "Control and Realism: Best of Both Worlds in Layout-to-Image without Training",
+      source: "arXiv",
+      published: "2025-06-18",
+      scores: { overall: 0.760, relevance: 0.600, impact: 1.000 },
+      description: "Layout-to-Image generation aims to create complex scenes with precise control over the placement and arrangement of subjects. Existing works have demonstrated impressive results but often require extensive training.",
+      link: "http://arxiv.org/abs/2506.15563v1"
+    },
+    {
+      type: 'Research',
+      title: "CC-LEARN: Cohort-based Consistency Learning",
+      source: "arXiv",
+      published: "2025-06-18",
+      scores: { overall: 0.680, relevance: 0.600, impact: 0.800 },
+      description: "Large language models excel at many tasks but still struggle with consistent, robust reasoning. We introduce Cohort-based Consistency Learning (CC-Learn) to improve model consistency.",
+      link: "http://arxiv.org/abs/2506.15662v1"
+    }
+  ]
 };
