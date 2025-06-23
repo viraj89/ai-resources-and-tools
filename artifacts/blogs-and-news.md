@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 23, 2025
+News
+
+1. Canadian AI startup Cohere seeks $500m to catch up with OpenAI and Anthropic - Business Post [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. Trump’s plan to ban US states from AI regulation will ‘hold us back’, says Microsoft science chief - The Guardian [3]
+
+4. OpenAI Scrubs Jony Ive Deal From Website After Trademark Lawsuit Threatens $6.5 Billion IO Products Acquisition - Benzinga [4]
+
+5. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [5]
+
+6. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [6]
+
+7. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [7]
+
+8. Dassault, Anil Ambani's Reliance to make Falcon 2000 business jets in India - Reuters [8]
+
+9. AI Startups That Focus Small Are Winning Big - Forbes [9]
+
+10. Here are the 24 US AI startups that have raised $100M or more in 2025 - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/28c29tns [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/25jywoff [4] https://tinyurl.com/29dq6qr4 [5] https://tinyurl.com/2cr3nnz5 [6] https://tinyurl.com/2yxs875u [7] https://tinyurl.com/2a5tm7nf [8] https://tinyurl.com/2athjkqm [9] https://tinyurl.com/23omyevg [10] https://tinyurl.com/23mvfylz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 22, 2025
 News
 

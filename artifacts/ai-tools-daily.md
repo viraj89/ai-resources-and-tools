@@ -1,4 +1,65 @@
 
+## 2025-06-23 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
+
+- **Category**: Code / Developer Tools
+- **What it does**: By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.
+- **Pricing**: Freemium
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/)**
+
+---
+
+### 2. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 3. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+### 4. Meta adds another 650 MW of solar power to its AI push
+
+- **Category**: Other
+- **What it does**: The company already has more than 12 gigawatts of capacity in its renewable power portfolio.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/)**
+
+---
+
+### 5. From fear to fluency: Why empathy is the missing ingredient in AI rollouts
+
+- **Category**: Design / Image Generation
+- **What it does**: Empathy and trust are not optional. They are essential for scaling change and encouraging innovation, particularly in this age of AI.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-fear-to-fluency-why-empathy-is-the-missing-ingredient-in-ai-rollouts/)**
+
+---
+
+
 ## 2025-06-22 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
