@@ -108,3 +108,27 @@ MIT License - see [LICENSE](LICENSE) file.
 ---
 
 **Made with ❤️ by the AI Insights Daily team**
+
+## Architecture Overview
+
+This project uses a hybrid architecture that leverages the strengths of both Python for data processing and Next.js for a modern user interface. The two systems are decoupled, communicating via statically generated data files.
+
+### Backend (Python)
+
+- **Purpose**: To automate the discovery, processing, and scoring of AI-related content from various sources like news feeds, GitHub, and research paper repositories.
+- **Technology**: The core logic is built with Python scripts located in the `src/scripts` directory.
+- **Data Flow**: The scripts run on a schedule, fetch new content, and then generate static data files (primarily `website/src/data/content.ts`) that the frontend consumes.
+
+### Frontend (Next.js)
+
+- **Purpose**: To provide a fast, responsive, and interactive user interface for browsing the aggregated content.
+- **Technology**: The frontend is a modern web application built with Next.js (a React framework), located in the `website/` directory.
+- **Data Flow**: The web application is completely decoupled from the Python backend. It simply reads the data from the `website/src/data/content.ts` file to render the UI.
+
+## Key Features
+
+- **Automated News Discovery**: Scans and ranks the latest news and articles.
+- **AI Tool Discovery**: Finds trending new AI tools and applications.
+- **Research Paper Aggregation**: Gathers the latest research papers from sources like arXiv.
+- **Advanced Scoring**: Uses freshness and relevance metrics to surface the best content.
+- **Modern UI**: A clean, responsive, and user-friendly interface.
