@@ -1,4 +1,65 @@
 
+## 2025-06-24 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Beyond static AI: MIT’s new framework lets models teach themselves
+
+- **Category**: Search / Research
+- **What it does**: MIT researchers developed SEAL, a framework that lets language models continuously learn new knowledge and tasks.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/beyond-static-ai-mits-new-framework-lets-models-teach-themselves/)**
+
+---
+
+### 3. Why we’re focusing VB Transform on the agentic revolution – and what’s at stake for enterprise AI leaders
+
+- **Category**: Presentations
+- **What it does**: VB Transform 2025 tackles the agentic AI revolution—how enterprises can close the infrastructure gap and turn dazzling demos into deployed, trusted agents.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-were-focusing-vb-transform-on-the-agentic-revolution-and-whats-at-stake-for-enterprise-ai-leaders/)**
+
+---
+
+### 4. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+### 5. Meta adds another 650 MW of solar power to its AI push
+
+- **Category**: Other
+- **What it does**: The company already has more than 12 gigawatts of capacity in its renewable power portfolio.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/)**
+
+---
+
+
 ## 2025-06-23 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

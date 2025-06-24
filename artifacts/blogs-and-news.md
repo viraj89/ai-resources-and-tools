@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 24, 2025
+News
+
+1. Exclusive | AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round - WSJ - WSJ [1]
+
+2. Elon Musk’s emoji reaction on OpenAI removing Jony Ive’s startup name amid trademark dispute - Times of India [2]
+
+3. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [3]
+
+4. Anthropic's AI Model Threatened To Blackmail And Murder Staff To Avoid Shutdown; Elon Musk Reacts - Mashable India [4]
+
+5. Exclusive: Anthropic warns fully AI employees are a year away - Axios [5]
+
+6. Exclusive | OpenAI and Microsoft Tensions Are Reaching a Boiling Point - WSJ [6]
+
+7. [News] NVIDIA Ramps up Investment in AI Startups at Full Speed - TrendForce [7]
+
+8. AI startups revolutionize coding industry, leading to sky-high valuations - Reuters [8]
+
+9. Clinical AI startup Nabla to focus on agentic automation after raising $70M in funding - SiliconANGLE [9]
+
+10. AI startup CEO mutes Bryan Johnson and stops using health trackers, says 'it's all made up'; post goes viral - Indiatimes [10]
+
+Sources:
+[1] https://tinyurl.com/22w83w3v [2] https://tinyurl.com/28mxgk3a [3] https://tinyurl.com/2c8b2dt4 [4] https://tinyurl.com/26hnd2oq [5] https://tinyurl.com/2xh4m5vg [6] https://tinyurl.com/2y84y3jb [7] https://tinyurl.com/27rtn9rl [8] https://tinyurl.com/295ae4jz [9] https://tinyurl.com/2akl5bvd [10] https://tinyurl.com/2yf6y5c7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 23, 2025
 News
 
