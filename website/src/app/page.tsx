@@ -53,24 +53,6 @@ type DailyUpdate = {
   data: (NewsItem | ToolItem)[];
 };
 
-// Reusable Collapsible Section Component
-const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { title: string; children: React.ReactNode; defaultCollapsed?: boolean }) => {
-  const [isCollapsed, setIsCollapsed] = useState(defaultCollapsed);
-  const toggle = () => setIsCollapsed(!isCollapsed);
-
-  return (
-    <section style={{ marginBottom: 24 }}>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', cursor: 'pointer', fontWeight: 600, fontSize: '1.1rem', color: '#333', padding: '0 0 8px 0', borderBottom: '1px solid #e0e6ed' }} onClick={toggle}>
-        <span>{title}</span>
-        <span style={{ fontSize: '1.2em', color: '#aaa', transition: 'transform 0.3s' }}>{isCollapsed ? '▶' : '▼'}</span>
-      </div>
-      <div style={{ padding: isCollapsed ? 0 : '12px 0', display: isCollapsed ? 'none' : 'block' }}>
-        {children}
-      </div>
-    </section>
-  );
-};
-
 // Helper to get unique dates in descending order
 const getUniqueDates = (updates: DailyUpdate[]): string[] => {
   const dateSet = new Set(updates.map(u => u.date.slice(0, 10)));
@@ -137,34 +119,32 @@ export default function HomePage() {
       )}
       <div style={{ display: 'flex', gap: 20, flexDirection: 'row', alignItems: 'flex-start' }}>
         <div style={{ flex: 1 }}>
-          <CollapsibleSection title="News" defaultCollapsed={false}>
-            {news.length === 0 || !news[0].data.length ? <div style={{ color: '#888' }}>No news for this date.</div> : (news[0].data as NewsItem[]).map((item, index) => (
-              <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
-                <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title}</div>
-                <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
-                  {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
-                  {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
-                </div>
-                <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
-                <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>Read Article →</a>
+          <h2 style={{ fontSize: '1.15rem', fontWeight: 600, color: '#333', marginBottom: 10, marginTop: 0 }}>News</h2>
+          {news.length === 0 || !news[0].data.length ? <div style={{ color: '#888' }}>No news for this date.</div> : (news[0].data as NewsItem[]).map((item, index) => (
+            <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
+              <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title}</div>
+              <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
+                {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
+                {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
               </div>
-            ))}
-          </CollapsibleSection>
-          <CollapsibleSection title="Tools" defaultCollapsed={false}>
-            {tools.length === 0 || !tools[0].data.length ? <div style={{ color: '#888' }}>No tools for this date.</div> : (tools[0].data as ToolItem[]).map((item, index) => (
-              <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
-                <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title || item.name}</div>
-                <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
-                  {item.category && <span style={{ marginRight: 10 }}>{item.category}</span>}
-                  {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
-                  {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
-                  {item.status && <span style={{ marginRight: 10 }}>Status: {item.status}</span>}
-                </div>
-                <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
-                <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>View More →</a>
+              <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
+              <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>Read Article →</a>
+            </div>
+          ))}
+          <h2 style={{ fontSize: '1.15rem', fontWeight: 600, color: '#333', marginBottom: 10, marginTop: 32 }}>Tools</h2>
+          {tools.length === 0 || !tools[0].data.length ? <div style={{ color: '#888' }}>No tools for this date.</div> : (tools[0].data as ToolItem[]).map((item, index) => (
+            <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
+              <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title || item.name}</div>
+              <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
+                {item.category && <span style={{ marginRight: 10 }}>{item.category}</span>}
+                {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
+                {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
+                {item.status && <span style={{ marginRight: 10 }}>Status: {item.status}</span>}
               </div>
-            ))}
-          </CollapsibleSection>
+              <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
+              <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>View More →</a>
+            </div>
+          ))}
         </div>
       </div>
     </div>
