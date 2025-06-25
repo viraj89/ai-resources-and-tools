@@ -1,6 +1,49 @@
-# 🤖 AI Insights Daily
+# AI Insights Daily
 
-An automated platform that discovers and showcases trending AI tools and news. Combines Python for smart data collection with a modern Next.js website.
+## Project Overview
+AI Insights Daily is an automated platform that discovers, curates, and presents trending AI tools, news, and research breakthroughs. It combines a Python-based backend for intelligent data aggregation with a modern Next.js frontend for beautiful, responsive presentation.
+
+## Key Features
+- Automated daily discovery of AI tools, news, and research
+- Multi-source integration: Product Hunt, Hacker News, arXiv, GitHub, News APIs
+- Quality ranking, freshness scoring, and advanced filtering
+- Modern, mobile-friendly website (Next.js + Tailwind CSS)
+- Clean, professional HTML preview for rapid prototyping
+
+## Quick Start
+### Backend (Python)
+```bash
+pip install -e .
+```
+### Frontend (Website)
+```bash
+cd website
+npm install
+npm run dev
+```
+
+## Architecture
+- **Backend**: Python scripts for discovery, filtering, and data preparation
+  - `src/scripts/`: Main discovery and data processing scripts
+  - `src/utils/`: Utilities for parsing, scoring, and keyword management
+- **Frontend**: Next.js 15.3.4, React 19, Tailwind CSS v4
+  - `website/`: Modern, responsive web interface
+- **Artifacts**: Markdown and CSV outputs for daily digests, tools directory, and research
+- **HTML Preview**: `docs/v4_showcase.html` for rapid UI prototyping
+
+## Usage
+- Run backend scripts to generate daily digests and update content
+- Launch the website for a live, interactive experience
+- Use the HTML preview for quick design iteration
+
+## Contribution
+Contributions are welcome! Please open issues or pull requests for improvements, bug fixes, or new features.
+
+## License
+MIT License. See [LICENSE](LICENSE) for details.
+
+## Changelog & Release Notes
+See [CHANGELOG.md](CHANGELOG.md) and [RELEASE_NOTES.md](RELEASE_NOTES.md) for a full history of updates.
 
 ## 🌐 Live Website
 

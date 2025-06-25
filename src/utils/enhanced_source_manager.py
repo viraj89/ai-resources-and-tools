@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Enhanced Source Manager for AI Insights Daily v4.0.0
+- Manages multiple data sources for discovery
+- Handles source prioritization and fallback
 
 This utility manages different types of news sources including:
 - RSS feeds (traditional news sources)

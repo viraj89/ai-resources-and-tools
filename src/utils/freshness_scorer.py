@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Freshness Scorer for AI Insights Daily v4.0.0
+- Scores news and tools based on recency and freshness
+- Used for filtering and ranking content
 
 This utility calculates freshness and relevance scores for news articles.
 Freshness is determined by the article's publication date, while relevance

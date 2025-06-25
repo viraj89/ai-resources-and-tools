@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Research Discovery Script for AI Insights Daily v4.0.0
+- Discovers and analyzes recent AI research papers
+- Integrates arXiv and Papers With Code
+- Outputs research summaries for website and digests
 
 This script discovers and ranks academic papers from sources like arXiv,
 Google Scholar, and other research repositories. It focuses on AI/ML papers

@@ -10,10 +10,10 @@ export const metadata: Metadata = {
 const Footer = () => (
   <footer style={footerStyles.footer}>
     <div style={footerStyles.main}>
-      <p>Maintained by Viraj Kulkarni © 2025</p>
+      <p>Maintained by viraj89 © 2025</p>
     </div>
     <div style={footerStyles.links}>
-      <a href="https://github.com/virajkulkarni/auto-news" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer">
         View Source on GitHub
       </a>
     </div>

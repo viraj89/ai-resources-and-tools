@@ -334,7 +334,7 @@ export const content = {
       {
         "name": "The Pig in Yellow: Part 2",
         "url": "https://i.redd.it/e4m0oz92808f1.png",
-        "description": "**II.**\n&gt; *"His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire."*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
+        "description": "**II.**\n&gt; *\"His mind is a wonder chamber, from which he can extract treasures that you and I would give years of our life to acquire.\"*\n\n**II.i**\n\nA user inputs an idea, a question, a belief.\n\nA sy...",
         "pricing": "Freemium"
       },
       {

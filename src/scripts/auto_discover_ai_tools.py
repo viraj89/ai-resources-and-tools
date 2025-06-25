@@ -2,6 +2,11 @@
 """
 AI Tools Auto-Discovery and Enrichment System
 Automatically discovers new AI tools from multiple sources and adds them to master_resources.csv
+
+Main script for automated AI tools discovery.
+- Integrates multiple sources (Product Hunt, Hacker News, GitHub, Reddit)
+- Applies quality ranking and filtering
+- Outputs daily digest and updates master resources
 """
 
 import csv

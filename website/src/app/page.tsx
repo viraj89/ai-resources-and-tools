@@ -24,14 +24,9 @@
 
 import React, { useState } from 'react';
 import { pageData } from '../data/content';
-import { Inter } from "next/font/google";
-import { DailyUpdateSection } from '@/components/DailyUpdateSection';
-
-// Configure Inter font for optimal typography
-const inter = Inter({ subsets: ["latin"] });
 
 // Reusable Collapsible Section Component
-const CollapsibleSection = ({ title, children, defaultCollapsed = false }) => {
+const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { title: string; children: React.ReactNode; defaultCollapsed?: boolean }) => {
   const [isCollapsed, setIsCollapsed] = useState(defaultCollapsed);
   const toggle = () => setIsCollapsed(!isCollapsed);
 
@@ -68,53 +63,59 @@ export default function HomePage() {
         </select>
       </div>
 
-      <CollapsibleSection title="📰 Today's Feed">
-        {pageData.todaysFeed.map((item, index) => (
-          <div key={index} style={styles.item}>
-            <h2 style={styles.itemTitle}>{item.title}</h2>
-            <div style={styles.itemMeta}>
-              <span style={{...styles.badge, ...badgeStyles[item.type]}}>{item.type}</span>
-              {item.category && <span style={{...styles.badge, ...badgeStyles.Category}}>{item.category}</span>}
-              <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
-              {item.published && <span>Published: {item.published}</span>}
-              {item.status && <span>Status: {item.status}</span>}
-            </div>
-            {item.scores && (
-              <div style={styles.itemScores}>
-                {Object.entries(item.scores).map(([key, value]) => (
-                  <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
-          ))}
-        </div>
-            )}
-            <p style={styles.itemDescription}>{item.description}</p>
-            <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>
-              {item.type === 'News' ? 'Read Article →' : 'View More →'}
-            </a>
-          </div>
-        ))}
-      </CollapsibleSection>
-
-      <CollapsibleSection title="📚 Research Papers Archive (Last 30 Days)" defaultCollapsed={true}>
-        {pageData.researchArchive.map((item, index) => (
-          <div key={index} style={styles.item}>
-            <h2 style={styles.itemTitle}>{item.title}</h2>
-            <div style={styles.itemMeta}>
-              <span style={{...styles.badge, ...badgeStyles.Research}}>{item.type}</span>
-              <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
-              <span>Published: {item.published}</span>
-            </div>
-             {item.scores && (
-              <div style={styles.itemScores}>
-                {Object.entries(item.scores).map(([key, value]) => (
-                  <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
+      <div style={styles.mainContent}>
+        <div style={styles.leftColumn}>
+          <CollapsibleSection title="📰 Today's Feed" defaultCollapsed={false}>
+            {pageData.todaysFeed.map((item, index) => (
+              <div key={index} style={styles.item}>
+                <h2 style={styles.itemTitle}>{item.title}</h2>
+                <div style={styles.itemMeta}>
+                  <span style={{...styles.badge, ...(badgeStyles[item.type as keyof typeof badgeStyles] || badgeStyles.News)}}>{item.type}</span>
+                  {item.category && <span style={{...styles.badge, ...badgeStyles.Category}}>{item.category}</span>}
+                  <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
+                  {item.published && <span>Published: {item.published}</span>}
+                  {item.status && <span>Status: {item.status}</span>}
+                </div>
+                {item.scores && (
+                  <div style={styles.itemScores}>
+                    {Object.entries(item.scores).map(([key, value]) => (
+                      <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
                 ))}
               </div>
-            )}
-            <p style={styles.itemDescription}>{item.description}</p>
-            <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View Paper →</a>
+                )}
+                <p style={styles.itemDescription}>{item.description}</p>
+                <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>
+                  {item.type === 'News' ? 'Read Article →' : 'View More →'}
+                </a>
+              </div>
+          ))}
+          </CollapsibleSection>
+        </div>
+
+        <div style={styles.rightColumn}>
+          <CollapsibleSection title="📚 Research Papers Archive (Last 30 Days)" defaultCollapsed={false}>
+            {pageData.researchArchive.map((item, index) => (
+              <div key={index} style={styles.item}>
+                <h2 style={styles.itemTitle}>{item.title}</h2>
+                <div style={styles.itemMeta}>
+                  <span style={{...styles.badge, ...badgeStyles.Research}}>{item.type}</span>
+                  <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
+                  <span>Published: {item.published}</span>
+                </div>
+                 {item.scores && (
+                  <div style={styles.itemScores}>
+                    {Object.entries(item.scores).map(([key, value]) => (
+                      <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
+                    ))}
+                  </div>
+                )}
+                <p style={styles.itemDescription}>{item.description}</p>
+                <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View Paper →</a>
+          </div>
+            ))}
+          </CollapsibleSection>
+        </div>
       </div>
-        ))}
-      </CollapsibleSection>
     </>
   );
 }
@@ -137,6 +138,13 @@ const styles = {
   itemDescription: { color: '#666', lineHeight: '1.5', fontSize: '0.9rem', margin: '8px 0' },
   itemLink: { color: '#667eea', textDecoration: 'none', fontWeight: 'bold' as const, fontSize: '0.9rem' },
   badge: { padding: '4px 9px', borderRadius: '12px', fontSize: '0.75rem', fontWeight: 'bold' as const, lineHeight: '1' },
+  mainContent: { 
+    display: 'flex', 
+    gap: '20px',
+    flexDirection: 'row' as const,
+  },
+  leftColumn: { flex: 1 },
+  rightColumn: { flex: 1 },
 };
 
 const badgeStyles = {

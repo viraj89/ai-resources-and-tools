@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Enhanced RSS Parser for AI Insights Daily v4.0.0
+- Parses multiple RSS formats with robust date extraction
+- Validates freshness and handles timezones
 
 This utility fetches and parses RSS feeds, extracting key information
 from articles published within the last 24 hours. It uses the `feedparser`

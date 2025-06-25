@@ -1,5 +1,21 @@
 # Release Notes
 
+## v4.1.0 - UI/UX & Documentation Revamp (Current)
+
+**Release Date**: June 21, 2025  
+**Status**: Current Release
+
+### 🌟 Major Features
+- HTML preview (v4_showcase.html) now has a clean, box-free layout
+- Footer is compact, with credits and disclaimer in a single line, responsive for mobile
+- All major logic files now have improved comments and docstrings
+- README.md completely reorganized for clarity and professionalism
+
+### 🛠️ Technical Improvements
+- Only one HTML preview file retained
+- Improved mobile responsiveness and spacing
+- Architecture section is now more prominent in README
+
 ## v3.1.0 - The Polish & Refine Update (Current)
 
 **Release Date**: June 20, 2025  

@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.1.0] - 2025-06-21
+
+### Added
+- Major UI/UX improvements to the HTML preview (v4_showcase.html): removed boxes, improved footer, better mobile responsiveness
+- Footer now compact, with disclaimer and credits on a single line, and responsive layout
+- Enhanced code comments and docstrings in all major logic files (src/scripts, src/utils)
+- README.md completely revamped for clarity, modern open-source standards, and improved structure
+
+### Changed
+- Architecture section moved to a more prominent position in README
+- Only one HTML preview file retained (v4_showcase.html)
+
+### Fixed
+- Minor layout and spacing issues in the preview
+
 ## [3.1.0] - 2025-06-20
 
 ### Added
@@ -271,6 +286,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 4.1.0 | 2025-06-21 | Major UI/UX improvements, HTML preview changes, footer revamp, code comments, and README overhaul |
 | 3.1.0 | 2025-06-20 | Modern website with Next.js 15.3.4 and React 19 |
 | 3.0.0 | 2025-06-20 | Complete web platform with Next.js and TypeScript |
 | 2.2.0 | 2025-06-20 | AI-powered keyword learning and adaptation |

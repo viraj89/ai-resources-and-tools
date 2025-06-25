@@ -1,2 +1,483 @@
 <!-- STATIC SHOWCASE: For design/demo only. Not part of production site. -->
- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Insights Daily v4.0.0 - Showcase</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            padding: 20px 0 0 0;
+            background: none;
+            border-radius: 0;
+            box-shadow: none;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            color: #666;
+        }
+        
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .update-summary {
+            color: #555;
+            font-size: 0.95rem;
+            font-style: italic;
+            background: none;
+            border-radius: 0;
+            box-shadow: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .date-navigator {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: none;
+            border-radius: 0;
+            box-shadow: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .date-select {
+            padding: 6px 12px;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            background: white;
+            cursor: not-allowed;
+        }
+        
+        .main-content {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .column {
+            flex: 1;
+        }
+        
+        .section {
+            background: white;
+            margin-bottom: 20px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+        
+        .section-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.3s ease;
+        }
+        
+        .section-header:hover {
+            background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+        }
+        
+        .section-content {
+            padding: 20px;
+        }
+        
+        .item {
+            border-bottom: 1px solid #eee;
+            padding: 18px 0;
+            transition: background-color 0.3s ease;
+        }
+        
+        .item:last-child {
+            border-bottom: none;
+        }
+        
+        .item:hover {
+            background-color: #f8f9fa;
+        }
+        
+        .item-title {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        
+        .item-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+            color: #666;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .item-scores {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .score {
+            background: #e3f2fd;
+            padding: 4px 8px;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            color: #1976d2;
+        }
+        
+        .item-description {
+            color: #666;
+            line-height: 1.5;
+            font-size: 0.9rem;
+            margin: 8px 0;
+        }
+        
+        .item-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.9rem;
+            transition: color 0.3s ease;
+        }
+        
+        .item-link:hover {
+            color: #5a6fd8;
+        }
+        
+        .badge {
+            padding: 4px 9px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            line-height: 1;
+        }
+        
+        .badge-news {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+        
+        .badge-tool {
+            background: #f3e5f5;
+            color: #7b1fa2;
+        }
+        
+        .badge-research {
+            background: #e8f5e8;
+            color: #388e3c;
+        }
+        
+        .badge-category {
+            background: #e0f2f1;
+            color: #00796b;
+        }
+        
+        .badge-source {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .footer {
+            text-align: center;
+            color: #6c757d;
+            margin-top: 24px;
+            padding: 12px 8px 8px 8px;
+            border-top: 1px solid #e0e6ed;
+            background: none;
+            border-radius: 0;
+            box-shadow: none;
+            font-size: 0.85rem;
+        }
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 4px;
+        }
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.95em;
+        }
+        .footer a:hover {
+            color: #5a6fd8;
+        }
+        .disclaimer {
+            font-size: 0.75rem;
+            color: #999;
+            line-height: 1.2;
+            margin: 0 auto;
+            white-space: normal;
+            text-align: center;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .top-bar {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            .header h1 {
+                font-size: 2rem;
+            }
+            .container {
+                padding: 15px;
+            }
+            .footer-content {
+                flex-direction: column;
+                align-items: center;
+                gap: 4px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>AI Insights Daily</h1>
+            <p>Your daily digest of trending AI tools and news, updated automatically.</p>
+        </header>
+        <div class="top-bar">
+            <div class="update-summary">
+                📊 Latest Update: Discovered 15 new AI tools and 8 research papers in the last 24 hours. Freshness score: 92/100.
+            </div>
+            <div class="date-navigator">
+                <label for="date-select" style="font-weight: bold;">Viewing Digest For:</label>
+                <select id="date-select" disabled class="date-select">
+                    <option>2025-01-22 (Today)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <!-- Left Column: Today's Feed -->
+            <div class="column">
+                <div class="section">
+                    <div class="section-header">
+                        <span>📰 Today's Feed</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="section-content">
+                        <div class="item">
+                            <h2 class="item-title">OpenAI Releases GPT-5 with Enhanced Reasoning Capabilities</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-news">News</span>
+                                <span class="badge badge-category">AI Models</span>
+                                <span class="badge badge-source">TechCrunch</span>
+                                <span>Published: 2025-01-22</span>
+                                <span>Status: Breaking</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 95</span>
+                                <span class="score">Relevance: 98</span>
+                                <span class="score">Impact: 92</span>
+                            </div>
+                            <p class="item-description">
+                                OpenAI has officially released GPT-5, featuring significant improvements in reasoning, 
+                                mathematical capabilities, and multimodal understanding. The new model shows 40% better 
+                                performance on complex reasoning tasks compared to GPT-4.
+                            </p>
+                            <a href="#" class="item-link">Read Article →</a>
+                        </div>
+                        
+                        <div class="item">
+                            <h2 class="item-title">Anthropic's Claude 3.5 Sonnet: New Benchmark Leader</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-news">News</span>
+                                <span class="badge badge-category">AI Models</span>
+                                <span class="badge badge-source">VentureBeat</span>
+                                <span>Published: 2025-01-22</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 88</span>
+                                <span class="score">Relevance: 94</span>
+                                <span class="score">Impact: 89</span>
+                            </div>
+                            <p class="item-description">
+                                Anthropic's latest Claude 3.5 Sonnet model has achieved new benchmark records across 
+                                multiple AI evaluation datasets, including MMLU, GSM8K, and HumanEval, surpassing 
+                                previous state-of-the-art models.
+                            </p>
+                            <a href="#" class="item-link">Read Article →</a>
+                        </div>
+                        
+                        <div class="item">
+                            <h2 class="item-title">AutoGen Studio: Microsoft's New AI Agent Development Platform</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-tool">Tool</span>
+                                <span class="badge badge-category">Development</span>
+                                <span class="badge badge-source">GitHub</span>
+                                <span>Published: 2025-01-22</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 92</span>
+                                <span class="score">Relevance: 96</span>
+                                <span class="score">Impact: 87</span>
+                            </div>
+                            <p class="item-description">
+                                Microsoft has released AutoGen Studio, a comprehensive platform for building, testing, 
+                                and deploying AI agents. The tool includes visual workflows, agent templates, and 
+                                integration with popular LLM providers.
+                            </p>
+                            <a href="#" class="item-link">View More →</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Research Papers Archive -->
+            <div class="column">
+                <div class="section">
+                    <div class="section-header">
+                        <span>📚 Research Papers Archive (Last 30 Days)</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="section-content">
+                        <div class="item">
+                            <h2 class="item-title">"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-research">Research</span>
+                                <span class="badge badge-source">arXiv</span>
+                                <span>Published: 2025-01-20</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 85</span>
+                                <span class="score">Relevance: 91</span>
+                                <span class="score">Impact: 88</span>
+                            </div>
+                            <p class="item-description">
+                                This paper introduces a novel approach to retrieval-augmented generation that improves 
+                                accuracy on knowledge-intensive tasks by 15% compared to existing methods. The research 
+                                presents a new architecture for combining retrieval and generation.
+                            </p>
+                            <a href="#" class="item-link">View Paper →</a>
+                        </div>
+                        
+                        <div class="item">
+                            <h2 class="item-title">"Multi-Modal Foundation Models: A Comprehensive Survey"</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-research">Research</span>
+                                <span class="badge badge-source">Nature AI</span>
+                                <span>Published: 2025-01-18</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 78</span>
+                                <span class="score">Relevance: 95</span>
+                                <span class="score">Impact: 92</span>
+                            </div>
+                            <p class="item-description">
+                                A comprehensive survey of multi-modal foundation models covering architectures, 
+                                training methodologies, and applications across vision, language, and audio domains. 
+                                The paper provides insights into future research directions.
+                            </p>
+                            <a href="#" class="item-link">View Paper →</a>
+                        </div>
+                        
+                        <div class="item">
+                            <h2 class="item-title">"Efficient Large Language Model Training with Gradient Checkpointing"</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-research">Research</span>
+                                <span class="badge badge-source">ICLR 2025</span>
+                                <span>Published: 2025-01-15</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 72</span>
+                                <span class="score">Relevance: 89</span>
+                                <span class="score">Impact: 85</span>
+                            </div>
+                            <p class="item-description">
+                                This research presents an improved gradient checkpointing technique that reduces 
+                                memory usage by 40% during large language model training while maintaining 
+                                training efficiency and model quality.
+                            </p>
+                            <a href="#" class="item-link">View Paper →</a>
+                        </div>
+                        
+                        <div class="item">
+                            <h2 class="item-title">"Self-Supervised Learning for Computer Vision: Recent Advances"</h2>
+                            <div class="item-meta">
+                                <span class="badge badge-research">Research</span>
+                                <span class="badge badge-source">CVPR 2025</span>
+                                <span>Published: 2025-01-12</span>
+                            </div>
+                            <div class="item-scores">
+                                <span class="score">Freshness: 68</span>
+                                <span class="score">Relevance: 87</span>
+                                <span class="score">Impact: 83</span>
+                            </div>
+                            <p class="item-description">
+                                A detailed review of recent advances in self-supervised learning for computer vision, 
+                                including contrastive learning, masked image modeling, and their applications in 
+                                downstream tasks.
+                            </p>
+                            <a href="#" class="item-link">View Paper →</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer class="footer">
+            <div class="footer-content">
+                <span>Maintained by viraj89 © 2025</span>
+                <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer">View Source on GitHub</a>
+            </div>
+            <div class="disclaimer">
+                Disclaimer: This content is aggregated automatically. Information may be outdated or inaccurate. Please verify all information and use at your own risk.
+            </div>
+        </footer>
+    </div>
+</body>
+</html> 

@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Enhanced News Discovery Script for AI Insights Daily v4.0.0
+- Integrates multiple news sources with robust date validation
+- Applies freshness scoring and fallback mechanisms
+- Outputs only 24h-fresh news articles
 
 This script orchestrates the news discovery process. It leverages the
 EnhancedRSSParser to fetch recent articles and the FreshnessScorer to
