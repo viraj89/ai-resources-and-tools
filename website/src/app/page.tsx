@@ -151,38 +151,3 @@ export default function HomePage() {
     </div>
   );
 }
-
-// Inline styles for encapsulation
-const styles = {
-  header: { textAlign: 'center' as const, color: '#2c3e50', marginBottom: '30px' },
-  updateSummary: { textAlign: 'center' as const, color: '#555', fontSize: '0.9rem', marginBottom: '25px', fontStyle: 'italic' as const },
-  dateNavigator: { display: 'flex', justifyContent: 'center' as const, alignItems: 'center', marginBottom: '25px', gap: '10px' },
-  dateSelect: { padding: '5px 10px', borderRadius: '6px', border: '1px solid #ddd', background: 'white', cursor: 'not-allowed' },
-  section: { background: 'white', marginBottom: '20px', borderRadius: '12px', boxShadow: '0 8px 25px rgba(0,0,0,0.08)', overflow: 'hidden' },
-  sectionHeader: { background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', color: 'white', padding: '12px 20px', fontSize: '1.15rem', fontWeight: 'bold' as const, cursor: 'pointer', display: 'flex', justifyContent: 'space-between' as const, alignItems: 'center' },
-  sectionContent: { padding: '20px', transition: 'max-height 0.5s ease-in-out, opacity 0.3s ease', maxHeight: '10000px', opacity: 1 },
-  collapsedContent: { maxHeight: 0, opacity: 0, padding: '0 20px' },
-  item: { borderBottom: '1px solid #eee', padding: '18px 0', transition: 'background-color 0.3s ease' },
-  itemTitle: { fontSize: '1.1rem', fontWeight: 'bold' as const, color: '#333', marginBottom: '8px' },
-  itemMeta: { display: 'flex', gap: '15px', marginBottom: '8px', fontSize: '0.85rem', color: '#666', flexWrap: 'wrap' as const, alignItems: 'center' },
-  itemScores: { display: 'flex', gap: '12px', marginBottom: '8px', flexWrap: 'wrap' as const },
-  score: { background: '#e3f2fd', padding: '4px 8px', borderRadius: '15px', fontSize: '0.75rem', color: '#1976d2' },
-  itemDescription: { color: '#666', lineHeight: '1.5', fontSize: '0.9rem', margin: '8px 0' },
-  itemLink: { color: '#667eea', textDecoration: 'none', fontWeight: 'bold' as const, fontSize: '0.9rem' },
-  badge: { padding: '4px 9px', borderRadius: '12px', fontSize: '0.75rem', fontWeight: 'bold' as const, lineHeight: '1' },
-  mainContent: { 
-    display: 'flex', 
-    gap: '20px',
-    flexDirection: 'row' as const,
-  },
-  leftColumn: { flex: 1 },
-  rightColumn: { flex: 1 },
-};
-
-const badgeStyles = {
-  News: { background: '#e3f2fd', color: '#1976d2' },
-  Tool: { background: '#f3e5f5', color: '#7b1fa2' },
-  Research: { background: '#e8f5e8', color: '#388e3c' },
-  Category: { background: '#e0f2f1', color: '#00796b' },
-  Source: { background: '#fff3e0', color: '#f57c00' },
-};
