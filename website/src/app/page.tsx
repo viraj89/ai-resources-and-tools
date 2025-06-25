@@ -25,6 +25,15 @@
 import React, { useState } from 'react';
 import { content } from '../data/content';
 
+// Add these types at the top of your file
+
+type DailyUpdate = {
+  date: string;
+  type: string;
+  title: string;
+  data: any[];
+};
+
 // Reusable Collapsible Section Component
 const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { title: string; children: React.ReactNode; defaultCollapsed?: boolean }) => {
   const [isCollapsed, setIsCollapsed] = useState(defaultCollapsed);
@@ -44,13 +53,13 @@ const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { tit
 };
 
 // Helper to get unique dates in descending order
-const getUniqueDates = (updates) => {
+const getUniqueDates = (updates: DailyUpdate[]): string[] => {
   const dateSet = new Set(updates.map(u => u.date.slice(0, 10)));
   return Array.from(dateSet).sort((a, b) => b.localeCompare(a));
 };
 
 // Helper to get all posts for a given date
-const getPostsByDate = (updates, date) => {
+const getPostsByDate = (updates: DailyUpdate[], date: string) => {
   const tools = updates.filter(u => u.date.startsWith(date) && u.type === 'tools');
   const news = updates.filter(u => u.date.startsWith(date) && u.type === 'news');
   return { tools, news };
