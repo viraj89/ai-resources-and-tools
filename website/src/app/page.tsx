@@ -55,7 +55,7 @@ export default function HomePage() {
       <header style={styles.header}>
         <h1>AI Insights Daily</h1>
         <p>Your daily digest of trending AI tools and news, updated automatically.</p>
-      </header>
+        </header>
 
       <div style={styles.updateSummary}>
         {pageData.updateSummary}
@@ -83,8 +83,8 @@ export default function HomePage() {
               <div style={styles.itemScores}>
                 {Object.entries(item.scores).map(([key, value]) => (
                   <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
-                ))}
-              </div>
+          ))}
+        </div>
             )}
             <p style={styles.itemDescription}>{item.description}</p>
             <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>
@@ -112,7 +112,7 @@ export default function HomePage() {
             )}
             <p style={styles.itemDescription}>{item.description}</p>
             <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View Paper →</a>
-          </div>
+      </div>
         ))}
       </CollapsibleSection>
     </>
