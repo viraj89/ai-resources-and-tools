@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 25, 2025
+News
+
+1. AI startups drive VC funding resurgence, capturing record US investment in 2024 - Reuters [1]
+
+2. Exclusive: SoftBank eyeing buyout deals in India to push AI-led IT, BPO operations - The Economic Times [2]
+
+3. Exclusive | AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round - WSJ [3]
+
+4. SoftBank Targets Indian IT Firms in Strategic AI-Fueled Acquisition Push - Coolest Gadgets [4]
+
+5. EXCLUSIVE: Dot Ai completes merger with SPAC ShoulderUp By Investing.com - Investing.com India [5]
+
+6. Exclusive | Abridge, Whose AI App Takes Notes for Doctors, Valued at $5.3 Billion at Funding - WSJ [6]
+
+7. Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters [7]
+
+8. Anthropic wins ruling on AI training in copyright lawsuit but must face trial on pirated books - AP News [8]
+
+9. A rumored AI acquisition would get Apple stock out of 'penalty box,' says Bank of America - CNBC [9]
+
+10. Elon Musk claims he ‘does not use a computer’ in OpenAI lawsuit - despite posting several pictures of his laptop online - The Independent [10]
+
+Sources:
+[1] https://tinyurl.com/257zjokf [2] https://tinyurl.com/2djtyo4l [3] https://tinyurl.com/26hwnyo8 [4] https://tinyurl.com/2d9u4etc [5] https://tinyurl.com/26jn9fy6 [6] https://tinyurl.com/26n4f8l2 [7] https://tinyurl.com/24vhwf39 [8] https://tinyurl.com/26m95zg3 [9] https://tinyurl.com/25cdffvk [10] https://tinyurl.com/2ybvyjmq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 24, 2025
 News
 

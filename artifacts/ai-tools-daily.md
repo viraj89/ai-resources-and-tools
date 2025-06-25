@@ -1,4 +1,65 @@
 
+## 2025-06-25 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. What’s inside Genspark? A new vibe working approach that ditches rigid workflows for autonomous agents
+
+- **Category**: Code / Developer Tools
+- **What it does**: Genspark's autonomous AI agents prove that less control beats rigid workflows, forcing enterprise AI leaders to rethink how they architect intelligent systems.
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/whats-inside-genspark-a-new-vibe-working-approach-that-ditches-rigid-workflows-for-autonomous-agents/)**
+
+---
+
+### 3. Emergence AI’s CRAFT arrives to make it easy for enterprises to automate their entire data pipeline
+
+- **Category**: Search / Research
+- **What it does**: <p><SPAN CLASS="ARTICLELISTING__LABEL"><SPAN CLASS="ARTICLE-TYPE">EXCLUSIVE:</SPAN></SPAN> New York City based startup Emergence AI, founded by former IBM researchers, previously made headlines for it...
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/data-infrastructure/emergence-ais-craft-arrives-to-make-it-easy-for-enterprises-to-automate-their-entire-data-pipeline/)**
+
+---
+
+### 4. How Walmart built an AI platform that makes it beholden to no one (and that 1.5M associates actually want to use)
+
+- **Category**: Code / Developer Tools
+- **What it does**: Inside Walmart's AI foundry: Element platform builds and deploys apps cutting task time 67%, handling 3M daily queries.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/walmart-ai-foundry-ships-first-apps-3m-daily-queries-67-faster-planning/)**
+
+---
+
+### 5. Beyond static AI: MIT’s new framework lets models teach themselves
+
+- **Category**: Search / Research
+- **What it does**: MIT researchers developed SEAL, a framework that lets language models continuously learn new knowledge and tasks.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/beyond-static-ai-mits-new-framework-lets-models-teach-themselves/)**
+
+---
+
+
 ## 2025-06-24 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
