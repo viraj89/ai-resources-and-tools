@@ -40,15 +40,15 @@ const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { tit
   const toggle = () => setIsCollapsed(!isCollapsed);
 
   return (
-    <div style={styles.section}>
-      <div style={styles.sectionHeader} onClick={toggle}>
+    <section style={{ marginBottom: 24 }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', cursor: 'pointer', fontWeight: 600, fontSize: '1.1rem', color: '#333', padding: '0 0 8px 0', borderBottom: '1px solid #e0e6ed' }} onClick={toggle}>
         <span>{title}</span>
-        <span style={{ transform: isCollapsed ? 'rotate(-90deg)' : 'rotate(0)', transition: 'transform 0.3s ease' }}>▼</span>
+        <span style={{ fontSize: '1.2em', color: '#aaa', transition: 'transform 0.3s' }}>{isCollapsed ? '▶' : '▼'}</span>
       </div>
-      <div style={{...styles.sectionContent, ...(isCollapsed ? styles.collapsedContent : {})}}>
+      <div style={{ padding: isCollapsed ? 0 : '12px 0', display: isCollapsed ? 'none' : 'block' }}>
         {children}
       </div>
-    </div>
+    </section>
   );
 };
 
@@ -74,16 +74,14 @@ export default function HomePage() {
   const { tools, news } = getPostsByDate(content.daily_updates, selectedDate);
 
   return (
-    <>
-      <header style={{ textAlign: 'center', color: '#2c3e50', marginBottom: '30px', padding: '20px 0 0 0' }}>
-        <h1>AI Insights Daily</h1>
-        <p>Your daily digest of trending AI tools and news, updated automatically.</p>
+    <div style={{ maxWidth: 1400, margin: '0 auto', padding: 20 }}>
+      <header style={{ textAlign: 'center', color: '#2c3e50', marginBottom: 18, padding: '20px 0 0 0', background: 'none' }}>
+        <h1 style={{ fontSize: '2.2rem', fontWeight: 700, margin: 0, letterSpacing: '-1px' }}>AI Insights Daily</h1>
+        <p style={{ fontSize: '1.1rem', color: '#666', margin: 0, marginTop: 6 }}>Your daily digest of trending AI tools and news, updated automatically.</p>
       </header>
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 25, gap: 10, flexWrap: 'wrap' }}>
-        <div style={{ color: '#555', fontSize: '0.95rem', fontStyle: 'italic', background: 'none', borderRadius: 0, boxShadow: 'none', padding: 0, margin: 0 }}>
-          {content.last_updated ? `Latest Update: ${content.last_updated}` : ''}
-        </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 10, background: 'none', borderRadius: 0, boxShadow: 'none', padding: 0, margin: 0 }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 18, gap: 10, flexWrap: 'wrap' }}>
+        <div style={{ color: '#555', fontSize: '0.95rem', fontStyle: 'italic', background: 'none', padding: 0, margin: 0 }}>{content.last_updated ? `Latest Update: ${content.last_updated}` : ''}</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10, background: 'none', padding: 0, margin: 0 }}>
           <label htmlFor="date-select" style={{ fontWeight: 'bold' }}>Viewing Digest For:</label>
           <select
             id="date-select"
@@ -95,12 +93,9 @@ export default function HomePage() {
               <option key={date} value={date}>{date}</option>
             ))}
           </select>
-          <button onClick={() => setArchiveOpen(true)} style={{ padding: '6px 12px', borderRadius: '6px', border: '1px solid #ddd', background: '#f8f9fa', cursor: 'pointer' }}>
-            Archive
-          </button>
+          <button onClick={() => setArchiveOpen(true)} style={{ padding: '6px 12px', borderRadius: '6px', border: '1px solid #ddd', background: '#f8f9fa', cursor: 'pointer' }}>Archive</button>
         </div>
       </div>
-      {/* Archive Modal */}
       {archiveOpen && (
         <div style={{ position: 'fixed', top: 0, left: 0, width: '100vw', height: '100vh', background: 'rgba(0,0,0,0.3)', zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => setArchiveOpen(false)}>
           <div style={{ background: 'white', borderRadius: 12, padding: 24, minWidth: 280, maxHeight: '80vh', overflowY: 'auto', boxShadow: '0 8px 25px rgba(0,0,0,0.15)' }} onClick={e => e.stopPropagation()}>
@@ -121,41 +116,39 @@ export default function HomePage() {
           </div>
         </div>
       )}
-      <div style={styles.mainContent}>
-        <div style={styles.leftColumn}>
-          <CollapsibleSection title="📰 News" defaultCollapsed={false}>
+      <div style={{ display: 'flex', gap: 20, flexDirection: 'row', alignItems: 'flex-start' }}>
+        <div style={{ flex: 1 }}>
+          <CollapsibleSection title="News" defaultCollapsed={false}>
             {news.length === 0 ? <div style={{ color: '#888' }}>No news for this date.</div> : news.map((item, index) => (
-              <div key={index} style={styles.item}>
-                <h2 style={styles.itemTitle}>{item.title}</h2>
-                <div style={styles.itemMeta}>
-                  <span style={{ ...styles.badge, ...badgeStyles.News }}>News</span>
-                  {item.source && <span style={{ ...styles.badge, ...badgeStyles.Source }}>{item.source}</span>}
-                  {item.published && <span>Published: {item.published}</span>}
+              <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
+                <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title}</div>
+                <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
+                  {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
+                  {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
                 </div>
-                <p style={styles.itemDescription}>{item.description}</p>
-                <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>Read Article →</a>
+                <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
+                <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>Read Article →</a>
               </div>
             ))}
           </CollapsibleSection>
-          <CollapsibleSection title="🛠️ Tools" defaultCollapsed={false}>
+          <CollapsibleSection title="Tools" defaultCollapsed={false}>
             {tools.length === 0 ? <div style={{ color: '#888' }}>No tools for this date.</div> : tools.map((item, index) => (
-              <div key={index} style={styles.item}>
-                <h2 style={styles.itemTitle}>{item.title || item.name}</h2>
-                <div style={styles.itemMeta}>
-                  <span style={{ ...styles.badge, ...badgeStyles.Tool }}>Tool</span>
-                  {item.category && <span style={{ ...styles.badge, ...badgeStyles.Category }}>{item.category}</span>}
-                  {item.source && <span style={{ ...styles.badge, ...badgeStyles.Source }}>{item.source}</span>}
-                  {item.published && <span>Published: {item.published}</span>}
-                  {item.status && <span>Status: {item.status}</span>}
+              <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
+                <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title || item.name}</div>
+                <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
+                  {item.category && <span style={{ marginRight: 10 }}>{item.category}</span>}
+                  {item.source && <span style={{ marginRight: 10 }}>{item.source}</span>}
+                  {item.published && <span style={{ marginRight: 10 }}>Published: {item.published}</span>}
+                  {item.status && <span style={{ marginRight: 10 }}>Status: {item.status}</span>}
                 </div>
-                <p style={styles.itemDescription}>{item.description}</p>
-                <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View More →</a>
+                <div style={{ color: '#666', fontSize: '0.95rem', margin: '6px 0' }}>{item.description}</div>
+                <a href={item.url} target="_blank" rel="noopener noreferrer" style={{ color: '#667eea', textDecoration: 'none', fontWeight: 600, fontSize: '0.97rem' }}>View More →</a>
               </div>
             ))}
           </CollapsibleSection>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
