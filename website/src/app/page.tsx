@@ -27,11 +27,30 @@ import { content } from '../data/content';
 
 // Add these types at the top of your file
 
+type NewsItem = {
+  title: string;
+  url: string;
+  source?: string;
+  published?: string;
+  description?: string;
+};
+
+type ToolItem = {
+  name?: string;
+  title?: string;
+  url: string;
+  category?: string;
+  source?: string;
+  published?: string;
+  status?: string;
+  description?: string;
+};
+
 type DailyUpdate = {
   date: string;
-  type: string;
+  type: string; // 'news' or 'tools'
   title: string;
-  data: any[];
+  data: (NewsItem | ToolItem)[];
 };
 
 // Reusable Collapsible Section Component
@@ -119,7 +138,7 @@ export default function HomePage() {
       <div style={{ display: 'flex', gap: 20, flexDirection: 'row', alignItems: 'flex-start' }}>
         <div style={{ flex: 1 }}>
           <CollapsibleSection title="News" defaultCollapsed={false}>
-            {news.length === 0 ? <div style={{ color: '#888' }}>No news for this date.</div> : news.map((item, index) => (
+            {news.length === 0 || !news[0].data.length ? <div style={{ color: '#888' }}>No news for this date.</div> : (news[0].data as NewsItem[]).map((item, index) => (
               <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
                 <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title}</div>
                 <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
@@ -132,7 +151,7 @@ export default function HomePage() {
             ))}
           </CollapsibleSection>
           <CollapsibleSection title="Tools" defaultCollapsed={false}>
-            {tools.length === 0 ? <div style={{ color: '#888' }}>No tools for this date.</div> : tools.map((item, index) => (
+            {tools.length === 0 || !tools[0].data.length ? <div style={{ color: '#888' }}>No tools for this date.</div> : (tools[0].data as ToolItem[]).map((item, index) => (
               <div key={index} style={{ borderBottom: '1px solid #eee', padding: '16px 0' }}>
                 <div style={{ fontWeight: 600, fontSize: '1.05rem', color: '#222', marginBottom: 4 }}>{item.title || item.name}</div>
                 <div style={{ fontSize: '0.92rem', color: '#666', marginBottom: 4 }}>
