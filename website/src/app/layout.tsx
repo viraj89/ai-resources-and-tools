@@ -9,17 +9,13 @@ export const metadata: Metadata = {
 // Reusable Footer Component
 const Footer = () => (
   <footer style={footerStyles.footer}>
-    <div style={footerStyles.main}>
-      <p>Maintained by viraj89 © 2025</p>
+    <div style={footerStyles.footerContent}>
+      <span>Maintained by viraj89 © 2025</span>
+      <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer">View Source on GitHub</a>
     </div>
-    <div style={footerStyles.links}>
-      <a href="https://github.com/viraj89/ai-resources-and-tools" target="_blank" rel="noopener noreferrer">
-        View Source on GitHub
-      </a>
+    <div style={footerStyles.disclaimer}>
+      Disclaimer: This content is aggregated automatically. Information may be outdated or inaccurate. Please verify all information and use at your own risk.
     </div>
-    <p style={footerStyles.disclaimer}>
-      <strong>Disclaimer:</strong> This content is aggregated automatically. Information may be outdated or inaccurate. Please verify all information and use at your own risk.
-    </p>
   </footer>
 );
 
@@ -45,21 +41,28 @@ const footerStyles = {
   footer: {
     textAlign: 'center' as const,
     color: '#6c757d',
-    marginTop: '50px',
-    padding: '30px 20px',
+    marginTop: '24px',
+    padding: '12px 8px 8px 8px',
     borderTop: '1px solid #e0e6ed',
+    background: 'none',
+    borderRadius: 0,
+    boxShadow: 'none',
+    fontSize: '0.85rem',
   },
-  main: {
-    marginBottom: '8px',
-  },
-  links: {
-    marginBottom: '15px'
+  footerContent: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    flexWrap: 'wrap' as const,
+    gap: 8,
+    marginBottom: 4,
   },
   disclaimer: {
     fontSize: '0.75rem',
     color: '#999',
-    lineHeight: '1.5',
-    maxWidth: '600px',
+    lineHeight: '1.2',
     margin: '0 auto',
-  }
+    whiteSpace: 'normal' as const,
+    textAlign: 'center' as const,
+  },
 };

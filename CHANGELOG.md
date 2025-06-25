@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.2.0] - 2025-06-21
+
+### Added
+- Fully functional date picker for browsing historical posts
+- Archive modal listing all available dates as clickable links
+- Responsive, accessible UI for historical browsing
+
+### Changed
+- Default view now always shows the latest day's content
+- Improved filtering and display of news/tools by date
+
 ## [4.1.0] - 2025-06-21
 
 ### Added
@@ -286,6 +297,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Major Features |
 |---------|------|----------------|
+| 4.2.0 | 2025-06-21 | Fully functional date picker, archive modal, improved historical browsing UX |
 | 4.1.0 | 2025-06-21 | Major UI/UX improvements, HTML preview changes, footer revamp, code comments, and README overhaul |
 | 3.1.0 | 2025-06-20 | Modern website with Next.js 15.3.4 and React 19 |
 | 3.0.0 | 2025-06-20 | Complete web platform with Next.js and TypeScript |

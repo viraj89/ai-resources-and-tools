@@ -23,7 +23,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import { pageData } from '../data/content';
+import { content } from '../data/content';
 
 // Reusable Collapsible Section Component
 const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { title: string; children: React.ReactNode; defaultCollapsed?: boolean }) => {
@@ -43,75 +43,105 @@ const CollapsibleSection = ({ title, children, defaultCollapsed = false }: { tit
   );
 };
 
+// Helper to get unique dates in descending order
+const getUniqueDates = (updates) => {
+  const dateSet = new Set(updates.map(u => u.date.slice(0, 10)));
+  return Array.from(dateSet).sort((a, b) => b.localeCompare(a));
+};
+
+// Helper to get all posts for a given date
+const getPostsByDate = (updates, date) => {
+  const tools = updates.filter(u => u.date.startsWith(date) && u.type === 'tools');
+  const news = updates.filter(u => u.date.startsWith(date) && u.type === 'news');
+  return { tools, news };
+};
+
 // Main Page Component
 export default function HomePage() {
+  const allDates = getUniqueDates(content.daily_updates);
+  const [selectedDate, setSelectedDate] = useState(allDates[0]);
+  const [archiveOpen, setArchiveOpen] = useState(false);
+
+  const { tools, news } = getPostsByDate(content.daily_updates, selectedDate);
+
   return (
     <>
-      <header style={styles.header}>
+      <header style={{ textAlign: 'center', color: '#2c3e50', marginBottom: '30px', padding: '20px 0 0 0' }}>
         <h1>AI Insights Daily</h1>
         <p>Your daily digest of trending AI tools and news, updated automatically.</p>
-        </header>
-
-      <div style={styles.updateSummary}>
-        {pageData.updateSummary}
+      </header>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 25, gap: 10, flexWrap: 'wrap' }}>
+        <div style={{ color: '#555', fontSize: '0.95rem', fontStyle: 'italic', background: 'none', borderRadius: 0, boxShadow: 'none', padding: 0, margin: 0 }}>
+          {content.last_updated ? `Latest Update: ${content.last_updated}` : ''}
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10, background: 'none', borderRadius: 0, boxShadow: 'none', padding: 0, margin: 0 }}>
+          <label htmlFor="date-select" style={{ fontWeight: 'bold' }}>Viewing Digest For:</label>
+          <select
+            id="date-select"
+            value={selectedDate}
+            onChange={e => setSelectedDate(e.target.value)}
+            style={{ padding: '6px 12px', borderRadius: '6px', border: '1px solid #ddd', background: 'white', cursor: 'pointer' }}
+          >
+            {allDates.map(date => (
+              <option key={date} value={date}>{date}</option>
+            ))}
+          </select>
+          <button onClick={() => setArchiveOpen(true)} style={{ padding: '6px 12px', borderRadius: '6px', border: '1px solid #ddd', background: '#f8f9fa', cursor: 'pointer' }}>
+            Archive
+          </button>
+        </div>
       </div>
-      
-      <div style={styles.dateNavigator}>
-        <label htmlFor="date-select" style={{fontWeight: 'bold'}}>Viewing Digest For:</label>
-        <select id="date-select" disabled style={styles.dateSelect}>
-          <option>2025-01-22 (Today)</option>
-        </select>
-      </div>
-
+      {/* Archive Modal */}
+      {archiveOpen && (
+        <div style={{ position: 'fixed', top: 0, left: 0, width: '100vw', height: '100vh', background: 'rgba(0,0,0,0.3)', zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => setArchiveOpen(false)}>
+          <div style={{ background: 'white', borderRadius: 12, padding: 24, minWidth: 280, maxHeight: '80vh', overflowY: 'auto', boxShadow: '0 8px 25px rgba(0,0,0,0.15)' }} onClick={e => e.stopPropagation()}>
+            <h2 style={{ marginBottom: 16, fontSize: '1.2rem', color: '#333' }}>Archive</h2>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+              {allDates.map(date => (
+                <li key={date} style={{ marginBottom: 8 }}>
+                  <button
+                    style={{ background: date === selectedDate ? '#667eea' : '#f8f9fa', color: date === selectedDate ? 'white' : '#333', border: 'none', borderRadius: 6, padding: '6px 12px', cursor: 'pointer', width: '100%' }}
+                    onClick={() => { setSelectedDate(date); setArchiveOpen(false); }}
+                  >
+                    {date}
+                  </button>
+                </li>
+              ))}
+            </ul>
+            <button onClick={() => setArchiveOpen(false)} style={{ marginTop: 16, padding: '6px 12px', borderRadius: 6, border: '1px solid #ddd', background: '#f8f9fa', cursor: 'pointer', width: '100%' }}>Close</button>
+          </div>
+        </div>
+      )}
       <div style={styles.mainContent}>
         <div style={styles.leftColumn}>
-          <CollapsibleSection title="📰 Today's Feed" defaultCollapsed={false}>
-            {pageData.todaysFeed.map((item, index) => (
+          <CollapsibleSection title="📰 News" defaultCollapsed={false}>
+            {news.length === 0 ? <div style={{ color: '#888' }}>No news for this date.</div> : news.map((item, index) => (
               <div key={index} style={styles.item}>
                 <h2 style={styles.itemTitle}>{item.title}</h2>
                 <div style={styles.itemMeta}>
-                  <span style={{...styles.badge, ...(badgeStyles[item.type as keyof typeof badgeStyles] || badgeStyles.News)}}>{item.type}</span>
-                  {item.category && <span style={{...styles.badge, ...badgeStyles.Category}}>{item.category}</span>}
-                  <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
+                  <span style={{ ...styles.badge, ...badgeStyles.News }}>News</span>
+                  {item.source && <span style={{ ...styles.badge, ...badgeStyles.Source }}>{item.source}</span>}
+                  {item.published && <span>Published: {item.published}</span>}
+                </div>
+                <p style={styles.itemDescription}>{item.description}</p>
+                <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>Read Article →</a>
+              </div>
+            ))}
+          </CollapsibleSection>
+          <CollapsibleSection title="🛠️ Tools" defaultCollapsed={false}>
+            {tools.length === 0 ? <div style={{ color: '#888' }}>No tools for this date.</div> : tools.map((item, index) => (
+              <div key={index} style={styles.item}>
+                <h2 style={styles.itemTitle}>{item.title || item.name}</h2>
+                <div style={styles.itemMeta}>
+                  <span style={{ ...styles.badge, ...badgeStyles.Tool }}>Tool</span>
+                  {item.category && <span style={{ ...styles.badge, ...badgeStyles.Category }}>{item.category}</span>}
+                  {item.source && <span style={{ ...styles.badge, ...badgeStyles.Source }}>{item.source}</span>}
                   {item.published && <span>Published: {item.published}</span>}
                   {item.status && <span>Status: {item.status}</span>}
                 </div>
-                {item.scores && (
-                  <div style={styles.itemScores}>
-                    {Object.entries(item.scores).map(([key, value]) => (
-                      <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
-                ))}
-              </div>
-                )}
                 <p style={styles.itemDescription}>{item.description}</p>
-                <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>
-                  {item.type === 'News' ? 'Read Article →' : 'View More →'}
-                </a>
+                <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View More →</a>
               </div>
-          ))}
-          </CollapsibleSection>
-        </div>
-
-        <div style={styles.rightColumn}>
-          <CollapsibleSection title="📚 Research Papers Archive (Last 30 Days)" defaultCollapsed={false}>
-            {pageData.researchArchive.map((item, index) => (
-              <div key={index} style={styles.item}>
-                <h2 style={styles.itemTitle}>{item.title}</h2>
-                <div style={styles.itemMeta}>
-                  <span style={{...styles.badge, ...badgeStyles.Research}}>{item.type}</span>
-                  <span style={{...styles.badge, ...badgeStyles.Source}}>{item.source}</span>
-                  <span>Published: {item.published}</span>
-                </div>
-                 {item.scores && (
-                  <div style={styles.itemScores}>
-                    {Object.entries(item.scores).map(([key, value]) => (
-                      <span key={key} style={styles.score}>{`${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`}</span>
-                    ))}
-                  </div>
-                )}
-                <p style={styles.itemDescription}>{item.description}</p>
-                <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.itemLink}>View Paper →</a>
-          </div>
             ))}
           </CollapsibleSection>
         </div>

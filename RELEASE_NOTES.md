@@ -1,5 +1,19 @@
 # Release Notes
 
+## v4.2.0 - Historical Browsing & Archive Modal (Current)
+
+**Release Date**: June 21, 2025  
+**Status**: Current Release
+
+### 🌟 Major Features
+- Fully functional date picker for browsing historical posts
+- Archive modal with all available dates as clickable links
+- Responsive, accessible UI for historical browsing
+
+### 🛠️ Technical Improvements
+- Default view always shows the latest day's content
+- Improved filtering and display of news/tools by date
+
 ## v4.1.0 - UI/UX & Documentation Revamp (Current)
 
 **Release Date**: June 21, 2025  
