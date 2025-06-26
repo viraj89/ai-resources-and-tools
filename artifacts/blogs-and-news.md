@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 26, 2025
+News
+
+1. Debate over future of US AI regulation hinges on broadband funding - Reuters [1]
+
+2. AI Startups Founded by 90s-born Innovators Emerge as Blue Chips in Investment Market - Businesskorea [2]
+
+3. Debate over future of US AI regulation hinges on broadband funding - MarketScreener [3]
+
+4. Meta Approached Multiple AI Startups for Potential Acquisition - PYMNTS.com [4]
+
+5. Exclusive | Healthcare-AI Startup Mandolin Gets VC Backing to the Tune of $40 Million - WSJ [5]
+
+6. Exclusive: Thune urges "light touch" on AI regulations - Axios [6]
+
+7. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [7]
+
+8. OpenAI is Ditching TypeScript to Rebuild Codex CLI with Rust - Analytics India Magazine [8]
+
+9. Elon Musk claims he ‘does not use a computer’ in OpenAI lawsuit - despite posting several pictures of his laptop online - the-independent.com [9]
+
+10. US-based AI startup Anthropic picks Tokyo as 1st Asia hub - Nikkei Asia [10]
+
+Sources:
+[1] https://tinyurl.com/2xhejd97 [2] https://tinyurl.com/2c3rn9en [3] https://tinyurl.com/2ynxqwys [4] https://tinyurl.com/23lonnpo [5] https://tinyurl.com/2djnf9xw [6] https://tinyurl.com/264exgpe [7] https://tinyurl.com/2729jp6b [8] https://tinyurl.com/26u4rz9h [9] https://tinyurl.com/23lw2sfa [10] https://tinyurl.com/2ye7qhgu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 25, 2025
 News
 

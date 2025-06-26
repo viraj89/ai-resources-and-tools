@@ -1,4 +1,65 @@
 
+## 2025-06-26 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Anthropic just made every Claude user a no-code app developer
+
+- **Category**: Code / Developer Tools
+- **What it does**: Anthropic transforms Claude AI into a no-code app development platform with 500 million user-created artifacts, intensifying competition with OpenAI's Canvas feature as AI companies battle for develop...
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-just-made-every-claude-user-a-no-code-app-developer/)**
+
+---
+
+### 3. Boston Consulting Group: To unlock enterprise AI value, start with the data you’ve been ignoring
+
+- **Category**: Design / Image Generation
+- **What it does**: Companies are looking beyond the experimental phase of AI and exploring ways to productize and scale agents and other applications. 
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/boston-consulting-group-to-unlock-enterprise-ai-value-start-with-the-data-youve-been-ignoring/)**
+
+---
+
+### 4. The new AI infrastructure reality: Bring compute to data, not data to compute
+
+- **Category**: Business / Analytics
+- **What it does**: PEAK:AIO’s software-defined storage layer, combined with Solidigm’s high-performance solid-state drives (SSDs), addresses both ends of this spectrum—delivering the capacity, efficiency, and speed requ...
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/data-infrastructure/the-new-ai-infrastructure-reality-bring-compute-to-data-not-data-to-compute/)**
+
+---
+
+### 5. Forget about AI costs: Google just changed the game with open-source Gemini CLI that will be free for most developers
+
+- **Category**: Code / Developer Tools
+- **What it does**: Google is bringing Gemini Pro 2.5 to the command line with a powerful new open source tool — and it's doing it mostly for free.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-is-redefining-enterprise-ai-economics-with-open-source-gemini-cli-that-will-be-free-for-the-majority-of-developers/)**
+
+---
+
+
 ## 2025-06-25 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
