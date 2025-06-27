@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 27, 2025
+News
+
+1. Exclusive | AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round - WSJ [1]
+
+2. Exclusive: SoftBank eyeing buyout deals in India to push AI-led IT, BPO operations - The Economic Times [2]
+
+3. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [3]
+
+4. OpenAI's gargantuan data center is even bigger than Elon Musk's xAI Colossus — world's largest 300 MW AI data center could reach record 1 gigawatt scale by next year, threatens grid stability - Tom's Hardware [4]
+
+5. After Nvidia and Google AI CEOs, top OpenAI executive says Anthropic CEO’s AI job warning is 'wrong' - Times of India [5]
+
+6. Exclusive: New Anthropic report details How Claude became an emotional support bot - Axios [6]
+
+7. Anthropic wins US copyright lawsuit - Computing UK [7]
+
+8. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [8]
+
+9. You can now build AI apps while chatting with Anthropic Claude, vibe coding available to these users - India Today [9]
+
+10. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [10]
+
+Sources:
+[1] https://tinyurl.com/22o3mhwb [2] https://tinyurl.com/27mxhrjj [3] https://tinyurl.com/2d5pszh5 [4] https://tinyurl.com/28ea7yy6 [5] https://tinyurl.com/2cmue2o7 [6] https://tinyurl.com/2a4tkaw6 [7] https://tinyurl.com/24l49kyk [8] https://tinyurl.com/22rwx6ln [9] https://tinyurl.com/23uwblwe [10] https://tinyurl.com/22q8dqbp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 26, 2025
 News
 

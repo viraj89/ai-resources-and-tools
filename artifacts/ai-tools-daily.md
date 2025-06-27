@@ -1,4 +1,65 @@
 
+## 2025-06-27 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Get paid faster: How Intuit’s new AI agents help businesses get funds up to 5 days faster and save 12 hours a month with autonomous workflows
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Looking beyond AI assistants, Intuit has integrated agentic AI deeply into multiple processes to help businesses get things done.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/get-paid-faster-how-intuits-new-ai-agents-help-businesses-get-paid-up-to-5-days-faster-and-save-up-to-12-hours-a-month-with-autonomous-workflows/)**
+
+---
+
+### 3. What enterprise leaders can learn from LinkedIn’s success with AI agents
+
+- **Category**: Text / Chat Assistants
+- **What it does**: LinkedIn scientists share how they have found success with their LinkedIn hiring assistant, an AI agent that sources and recruits workers.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-enterprise-leaders-can-learn-from-linkedins-success-with-ai-agents/)**
+
+---
+
+### 4. Boston Consulting Group: To unlock enterprise AI value, start with the data you’ve been ignoring
+
+- **Category**: Design / Image Generation
+- **What it does**: Companies are looking beyond the experimental phase of AI and exploring ways to productize and scale agents and other applications. 
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/boston-consulting-group-to-unlock-enterprise-ai-value-start-with-the-data-youve-been-ignoring/)**
+
+---
+
+### 5. The hidden scaling cliff that’s about to break your agent rollouts
+
+- **Category**: Design / Image Generation
+- **What it does**: Enterprise teams hit a scaling wall when managing AI agents across departments. Writer's May Habib explains why traditional software development fails for agents and what Fortune 500 companies are doi...
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-hidden-scaling-cliff-thats-about-to-break-your-agent-rollouts/)**
+
+---
+
+
 ## 2025-06-26 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
