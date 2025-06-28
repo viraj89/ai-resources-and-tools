@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 28, 2025
+News
+
+1. Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird - Time Magazine [1]
+
+2. Musk's attorneys challenge OpenAI's defenses in antitrust lawsuit - Daily Journal [2]
+
+3. Sam Altman fires back at ‘silly’ lawsuit from what he claims is a desperate CEO who has been persistent in seeking investment from OpenAI - Fortune [3]
+
+4. Sam Altman fires back at ‘silly’ lawsuit from what he claims is a desperate CEO who has been persistent in seeking investment from OpenAI - MSN [4]
+
+5. From double DAW deals to AI lawsuit results for Meta and Anthropic… it’s MBW’s Weekly Round-Up - Music Business Worldwide [5]
+
+6. Exclusive / Anthropic launches new effort to study AI’s economic impact - Semafor [6]
+
+7. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [7]
+
+8. Meta Snags OpenAI Talent: Trapit Bansal Joins the AI Powerhouse - OpenTools [8]
+
+9. Canadian AI start-up Cohere seeks US$500 million in effort to catch up to OpenAI and Anthropic - Financial Post [9]
+
+10. Venture capital funding continues to flow into generative AI - Pensions & Investments [10]
+
+Sources:
+[1] https://tinyurl.com/2cyax6ku [2] https://tinyurl.com/27wz4p4l [3] https://tinyurl.com/24ysmdbw [4] https://tinyurl.com/283khrs8 [5] https://tinyurl.com/2ad2dj3j [6] https://tinyurl.com/2yk9yf6r [7] https://tinyurl.com/29dg7uco [8] https://tinyurl.com/2aepwwdh [9] https://tinyurl.com/26etf5rf [10] https://tinyurl.com/2y947b87
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 27, 2025
 News
 

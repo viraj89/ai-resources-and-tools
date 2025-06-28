@@ -1,4 +1,65 @@
 
+## 2025-06-28 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Model minimalism: The new AI strategy saving companies millions
+
+- **Category**: Code / Developer Tools
+- **What it does**: LLMs changed how enterprises build applications, but smaller AI models provide power and reduces total cost of ownership.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/model-minimalism-the-new-ai-strategy-saving-companies-millions/)**
+
+---
+
+### 3. CFOs want AI that pays: real metrics, not marketing demos
+
+- **Category**: Code / Developer Tools
+- **What it does**: CFOs who master new eval frameworks will drive the next wave of AI adoption thruogh disciplined investment for strong competitive advantage.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/cfos-want-ai-that-pays-real-metrics-not-marketing-demos/)**
+
+---
+
+### 4. CTGT wins Best Presentation Style award at VB Transform 2025
+
+- **Category**: Presentations
+- **What it does**: <p>San Francisco-based CTGT, a startup focused on making AI more trustworthy through feature-level model customization, won the Best Presentation Style award at VB Transform 2025 in San Francisco. Fou...
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ctgt-wins-best-presentation-style-award-at-vb-transform-2025/)**
+
+---
+
+### 5. Catio wins ‘coolest tech’ award at VB Transform 2025
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Catio also announced the upcoming launch of Archie, a conversational, multi-agent AI system.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/)**
+
+---
+
+
 ## 2025-06-27 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
