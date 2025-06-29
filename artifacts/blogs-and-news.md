@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 29, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [2]
+
+3. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [3]
+
+4. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [4]
+
+5. SoftBank Bets Big on OpenAI with a Whopping $33.2 Billion Investment - OpenTools [5]
+
+6. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [6]
+
+7. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [7]
+
+8. Exclusive | Healthcare-AI Startup Mandolin Gets VC Backing to the Tune of $40 Million - WSJ [8]
+
+9. Exclusive | Abridge, Whose AI App Takes Notes for Doctors, Valued at $5.3 Billion at Funding - WSJ [9]
+
+10. Reddit sues AI startup Anthropic for allegedly using data without permission - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/2cul9ek5 [3] https://tinyurl.com/2dzhvdpq [4] https://tinyurl.com/27a9yywj [5] https://tinyurl.com/28p9gbdt [6] https://tinyurl.com/24w3zuea [7] https://tinyurl.com/2yoq3up2 [8] https://tinyurl.com/27jg6bkx [9] https://tinyurl.com/2796luqc [10] https://tinyurl.com/2dzwfupa
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 28, 2025
 News
 
