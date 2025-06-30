@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 30, 2025
+News
+
+1. US Judge Backs Meta In AI Copyright Lawsuit, Follows Anthropic Win - bandt.com.au [1]
+
+2. Exclusive: Andreessen Horowitz seeks to raise $20 billion megafund amid global interest in US AI startups - Reuters [2]
+
+3. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [3]
+
+4. Exclusive: OpenAI taps Google in unprecedented cloud deal despite AI rivalry, sources say - Reuters [4]
+
+5. OpenAI strikes custom AI deals with Indian government, Pentagon, Grab: The Information - The Economic Times [5]
+
+6. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [6]
+
+7. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [7]
+
+8. OpenAI allowing ChatGPT users to create two DALL-E 3 images for free: Here’s how it works - Times of India [8]
+
+9. Exclusive vector databases for LLMs - IndiaAI [9]
+
+10. Exclusive: AI startup Tandem Health raises $50m for healthcare co-pilot - Sifted [10]
+
+Sources:
+[1] https://tinyurl.com/2ccozlxo [2] https://tinyurl.com/2ytvhyoo [3] https://tinyurl.com/29azss8a [4] https://tinyurl.com/265jy637 [5] https://tinyurl.com/27vwjcdt [6] https://tinyurl.com/2aooyehl [7] https://tinyurl.com/296gu3sj [8] https://tinyurl.com/2xgva8mo [9] https://tinyurl.com/22cmye6m [10] https://tinyurl.com/2ctyqsye
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 29, 2025
 News
 
