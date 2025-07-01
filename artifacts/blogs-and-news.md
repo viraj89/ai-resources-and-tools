@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 01, 2025
+News
+
+1. Apple turns to OpenAI and Anthropic for Siri, considers abandoning in-house models - PhoneArena [1]
+
+2. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, says report - The Indian Express [2]
+
+3. AI Startups Attract 60% of Global VC Funding in Q1 2024 - AInvest [3]
+
+4. Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg [4]
+
+5. US Senate debates whether to adopt revised state AI regulation ban - Reuters [5]
+
+6. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - Reuters [6]
+
+7. Meta Stock Returns To Record High Amid 'Superintelligence' Push, OpenAI Talent Battle - Investor's Business Daily [7]
+
+8. Apple reportedly considering using tech from OpenAI or Anthropic as it falls behind in AI race - SiliconANGLE [8]
+
+9. Apple's Siri Revamp May Use OpenAI, Anthropic Tech Instead of Internal AI Developments—Report - Tech Times [9]
+
+10. Apple might ditch internal AI efforts for Siri revamp, use OpenAI or Anthropic instead - 9to5Mac [10]
+
+Sources:
+[1] https://tinyurl.com/2djm49pj [2] https://tinyurl.com/2ypb9m74 [3] https://tinyurl.com/2ajs86dr [4] https://tinyurl.com/23a6osy7 [5] https://tinyurl.com/24hh5eyl [6] https://tinyurl.com/29pduc3j [7] https://tinyurl.com/2bf4vbcr [8] https://tinyurl.com/2bdebv2t [9] https://tinyurl.com/2xn67uyc [10] https://tinyurl.com/2ays2f8f
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 30, 2025
 News
 
