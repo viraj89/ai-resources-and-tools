@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 02, 2025
+News
+
+1. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [1]
+
+2. Who is Trapit Bansal, the Indian-origin ex-OpenAI engineer behind Meta’s AI push? - Times of India [2]
+
+3. Exclusive: Terex Ventures, Tokyo AI to fuel $200M AI investment across India, Japan, UAE - YourStory.com [3]
+
+4. US Senate strikes AI regulation ban from Trump megabill - Reuters [4]
+
+5. Apple might ditch its own AI and use OpenAI or Anthropic to power Siri instead - Quartz [5]
+
+6. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC [6]
+
+7. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [7]
+
+8. OpenAI's high-profile IITian employee quits, to join Meta: Who is Indian-origin researcher Trapit Bansal? - Times of India [8]
+
+9. Meta stock hits a record high as Mark Zuckerberg reveals poached new recruits from OpenAI, Anthropic and Google - Fortune [9]
+
+10. Apple mulls using OpenAI or Anthropic to power Siri in big reversal: report - New York Post [10]
+
+Sources:
+[1] https://tinyurl.com/28d72yoo [2] https://tinyurl.com/229gtpak [3] https://tinyurl.com/2cdtzcyq [4] https://tinyurl.com/22ob4lmr [5] https://tinyurl.com/2asmje7b [6] https://tinyurl.com/25dg2b2u [7] https://tinyurl.com/22yq8evt [8] https://tinyurl.com/2dckeakm [9] https://tinyurl.com/2cck3qrb [10] https://tinyurl.com/22gqd7js
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 01, 2025
 News
 

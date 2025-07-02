@@ -1,4 +1,65 @@
 
+## 2025-07-02 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. From chatbots to collaborators: How AI agents are reshaping enterprise work
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic's Scott White explains how AI agents evolved from chatbots to autonomous workers at VentureBeat Transform 2025, cutting enterprise tasks from weeks to minutes.
+- **Pricing**: Paid
+- **Trending Score**: 110.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work/)**
+
+---
+
+### 2. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 3. Capital One builds agentic AI modeled after its own org chart to supercharge auto sales
+
+- **Category**: Design / Image Generation
+- **What it does**: Capital One's head of AI foundations explained at VB Transform on how the bank patterned its AI agents after itself.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/capital-one-builds-agentic-ai-modeled-after-its-own-org-chart-to-supercharge-auto-sales/)**
+
+---
+
+### 4. AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
+
+- **Category**: Productivity / Writing
+- **What it does**: Mixus's "colleague-in-the-loop" model blends automation with human judgment for safe deployment of AI agents.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/)**
+
+---
+
+### 5. CTGT wins Best Presentation Style award at VB Transform 2025
+
+- **Category**: Presentations
+- **What it does**: <p>San Francisco-based CTGT, a startup focused on making AI more trustworthy through feature-level model customization, won the Best Presentation Style award at VB Transform 2025 in San Francisco. Fou...
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ctgt-wins-best-presentation-style-award-at-vb-transform-2025/)**
+
+---
+
+
 ## 2025-07-01 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
