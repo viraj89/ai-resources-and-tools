@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 03, 2025
+News
+
+1. Hedge funds accelerate US bank buying spree as stocks hit record highs - LinkedIn [1]
+
+2. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [2]
+
+3. Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Yahoo Finance [3]
+
+4. OpenAI execs whine about the New York Times lawsuit and user privacy during live NYT event, get roasted by NYT journalist: 'It must be really hard when someone does something with your data you don't want them to' - PC Gamer [4]
+
+5. Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters [5]
+
+6. Published Fiction at Center of Fair Use Dispute in Anthropic AI Training Lawsuit - HackerNoon [6]
+
+7. Apple (AAPL) May Use OpenAI or Anthropic to Power the Next Siri - Insider Monkey [7]
+
+8. Anthropic wins ruling on AI training in copyright lawsuit but must face trial on pirated books - AP News [8]
+
+9. Bank of America says autonomous cars are having their 'ChatGPT' moment. How to play it - CNBC [9]
+
+10. Do not trust ChatGPT, it can hallucinate, says OpenAI CEO Sam Altman: Why students must rethink AI depend - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/26sygsgg [2] https://tinyurl.com/2dd3jles [3] https://tinyurl.com/23ktbv3e [4] https://tinyurl.com/2bccvwwd [5] https://tinyurl.com/24vhwf39 [6] https://tinyurl.com/23etayyl [7] https://tinyurl.com/295gwc5w [8] https://tinyurl.com/26m95zg3 [9] https://tinyurl.com/2ypjb9b3 [10] https://tinyurl.com/2xrnpxu6
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 02, 2025
 News
 
