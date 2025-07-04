@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 04, 2025
+News
+
+1. 5 takeaways from Meta and Anthropic’s wins in US copyright lawsuits - The Indian Express [1]
+
+2. Exclusive: BECU acquires EarnUp's generative AI unit - American Banker [2]
+
+3. Debate over future of US AI regulation hinges on broadband funding - Reuters [3]
+
+4. How BBVA is using AI to save employees 3 hours a week - American Banker [4]
+
+5. It’s Time to Take Anthropic and OpenAI’s Wild Revenue Projections Seriously - The Information [5]
+
+6. OpenAI CEO Sam Altman asks users not to trust ChatGPT ‘much’, says ‘It should be…’ - Times of India [6]
+
+7. Exclusive: Anthropic and French AI firm Dust want to save you time at - Euronews.com [7]
+
+8. Exclusive: Inside Anthropic and French AI firm Dust’s new plan to save you time at work - MSN [8]
+
+9. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [9]
+
+10. Mistral eyes a $1B fundraise. Can France’s AI unicorn outpace OpenAI, Anthropic, and Google? - Tech Funding News [10]
+
+Sources:
+[1] https://tinyurl.com/26c7vzlg [2] https://tinyurl.com/2d45cvqk [3] https://tinyurl.com/2xhejd97 [4] https://tinyurl.com/24y2ge37 [5] https://tinyurl.com/29l8wvkm [6] https://tinyurl.com/253lnybf [7] https://tinyurl.com/22ayv92o [8] https://tinyurl.com/24jgrxb2 [9] https://tinyurl.com/2a5tm7nf [10] https://tinyurl.com/22zkt9je
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 03, 2025
 News
 
