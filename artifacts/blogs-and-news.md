@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 05, 2025
+News
+
+1. 5 takeaways from Meta and Anthropic’s wins in US copyright lawsuits - The Indian Express [1]
+
+2. AI Week in Review: Apple Looks to OpenAI and Anthropic, Amazon Deploys 1 Millionth Robot, Surge AI Preps $1B Capital Raise, Plus Senate Nixes AI Regulation Moratorium and Researches Expose AI Vision Weakness - AI Insider [2]
+
+3. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [3]
+
+4. Exclusive: Regulators warned Air India Express about delay on Airbus engine fix, forging records - Reuters [4]
+
+5. Exclusive-Regulators warned Air India Express about delay on Airbus engine fix, forging records - Yahoo [5]
+
+6. Apple (AAPL) May Use OpenAI or Anthropic to Power the Next Siri - Yahoo Finance [6]
+
+7. Exclusive: New Anthropic report details How Claude became an emotional support bot - Axios [7]
+
+8. Do not trust ChatGPT, it can hallucinate, says OpenAI CEO Sam Altman: Why students must rethink AI dependence - Times of India [8]
+
+9. ‘ChatGPT Is Damaging My Marriage’ Woman Laments Husband’s Spiritual Bond With ChatGPT He Named Lumina: Watch - Mashable India [9]
+
+10. That ‘One Big Beautiful Bill’ tried to tie genAI deregulation to broadband funding - Computerworld [10]
+
+Sources:
+[1] https://tinyurl.com/ym76dnlk [2] https://tinyurl.com/yv3dvl58 [3] https://tinyurl.com/2dk8hr2o [4] https://tinyurl.com/yqe3ycyn [5] https://tinyurl.com/yqfcfu95 [6] https://tinyurl.com/2xlc7t55 [7] https://tinyurl.com/2a4tkaw6 [8] https://tinyurl.com/ytrrn3s7 [9] https://tinyurl.com/yqnvdups [10] https://tinyurl.com/ylxaojlh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 04, 2025
 News
 
