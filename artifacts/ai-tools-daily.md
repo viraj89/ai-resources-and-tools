@@ -1,4 +1,65 @@
 
+## 2025-07-06 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Dust AI startup hits $6M revenue building enterprise agents that automate workflows and take real actions across business systems using Anthropic's Claude models and MCP protocol.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/)**
+
+---
+
+### 3. Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%
+
+- **Category**: Search / Research
+- **What it does**: Sakana AI's new inference-time scaling technique uses Monte-Carlo Tree Search to orchestrate multiple LLMs to collaborate on complex tasks.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/)**
+
+---
+
+### 4. HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH
+
+- **Category**: Other
+- **What it does**: This gain is made possible by TNG’s Assembly-of-Experts (AoE) method — a technique for building LLMs by selectively merging the weight tensors
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)**
+
+---
+
+### 5. Bright Data beat Elon Musk and Meta in court — now its $100M AI platform is taking on Big Tech
+
+- **Category**: Business / Analytics
+- **What it does**: Bright Data beat Elon Musk's X and Meta in court, then launched $100M AI infrastructure suite with Deep Lookup and Browser.ai to challenge Big Tech data monopolies.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/bright-data-beat-elon-musk-and-meta-in-court-now-its-100m-ai-platform-is-taking-on-big-tech/)**
+
+---
+
+
 ## 2025-07-05 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

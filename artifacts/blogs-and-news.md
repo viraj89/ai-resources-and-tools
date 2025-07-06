@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 06, 2025
+News
+
+1. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [1]
+
+2. Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird - Time Magazine [2]
+
+3. Apple is up on news it’s considering using OpenAI or Anthropic to power its AI assistant - Sherwood News [3]
+
+4. Here are the 24 US AI startups that have raised $100M or more in 2025 - TechCrunch [4]
+
+5. Exclusive | Healthcare-AI Startup Mandolin Gets VC Backing to the Tune of $40 Million - WSJ [5]
+
+6. SF AI startups seeing green as VC investment surges - San Francisco Examiner [6]
+
+7. Peter Thiel, Tech Billionaires to Form Bank for Crypto, AI Startups - Decrypt [7]
+
+8. Regulatory uncertainty risks pushing Israeli AI startups away from Europe - CTech [8]
+
+9. Meta Approached Multiple AI Startups for Potential Acquisition - PYMNTS.com [9]
+
+10. Billionaire Peter Thiel Backs New Bank to Serve Crypto and AI Startups - CryptoRank [10]
+
+Sources:
+[1] https://tinyurl.com/ytkls392 [2] https://tinyurl.com/2cyax6ku [3] https://tinyurl.com/2yyrryj3 [4] https://tinyurl.com/23mvfylz [5] https://tinyurl.com/yp6yj4h8 [6] https://tinyurl.com/yuo3bdm9 [7] https://tinyurl.com/27t4vh8f [8] https://tinyurl.com/yle538p4 [9] https://tinyurl.com/23lonnpo [10] https://tinyurl.com/ypnkkxk4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 05, 2025
 News
 
