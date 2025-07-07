@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 07, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. AI Startups Continue to Masquerade as SaaS Businesses; OpenAI Lays Off Some ‘Insider Risk’ Employees - The Information [2]
+
+3. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [3]
+
+4. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [4]
+
+5. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [5]
+
+6. AI startups revolutionize coding industry, leading to sky-high valuations - Reuters [6]
+
+7. AI Startups Crack Open Pre-IPO Investing By Lowering Entry Hurdles - Forbes [7]
+
+8. Exclusive | Healthcare-AI Startup Mandolin Gets VC Backing to the Tune of $40 Million - WSJ [8]
+
+9. Chinese AI startup that 'shocked' biggest American tech companies is hiring big time - Times of India [9]
+
+10. AI Startups That Focus Small Are Winning Big - Forbes [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/27s32bgc [3] https://tinyurl.com/2cul9ek5 [4] https://tinyurl.com/2dzhvdpq [5] https://tinyurl.com/yu3p48uc [6] https://tinyurl.com/295ae4jz [7] https://tinyurl.com/ylfmcgrv [8] https://tinyurl.com/ys7jqux2 [9] https://tinyurl.com/yum6es57 [10] https://tinyurl.com/23omyevg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 06, 2025
 News
 
