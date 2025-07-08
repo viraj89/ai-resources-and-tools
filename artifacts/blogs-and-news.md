@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 08, 2025
+News
+
+1. AI startups drive VC funding resurgence, capturing record US investment in 2024 - Reuters [1]
+
+2. VCs back AI startups to shake up Indian IT services industry - The Economic Times [2]
+
+3. Inside the Exclusive Policy Meet for AI Startups - TICE News [3]
+
+4. JPMorgan Sees Crypto IPOs and VC Funding Surge Amid Favorable US Regulatory Environment - Blockchain News [4]
+
+5. OpenAI urges US to prioritize AI funding, regulation to stay ahead of China - Reuters [5]
+
+6. An AI ‘gold rush.’ What to know about OpenAI’s record $40-billion funding round - Los Angeles Times [6]
+
+7. Exclusive | Meta Poaches Three OpenAI Researchers - WSJ [7]
+
+8. Apple Considers AI Shift: Trading in-house Siri for OpenAI or Anthropic Technology - AInvest [8]
+
+9. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [9]
+
+10. OpenAI allowing ChatGPT users to create two DALL-E 3 images for free: Here’s how it works - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/257zjokf [2] https://tinyurl.com/yvdznpmc [3] https://tinyurl.com/yv7wqnn2 [4] https://tinyurl.com/yqbqhrcp [5] https://tinyurl.com/29mk33c7 [6] https://tinyurl.com/2a3gn2dc [7] https://tinyurl.com/ylnau8e6 [8] https://tinyurl.com/yuvzjxyd [9] https://tinyurl.com/296gu3sj [10] https://tinyurl.com/2xgva8mo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 07, 2025
 News
 

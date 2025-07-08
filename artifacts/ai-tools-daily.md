@@ -1,4 +1,65 @@
 
+## 2025-07-08 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Dust AI startup hits $6M revenue building enterprise agents that automate workflows and take real actions across business systems using Anthropic's Claude models and MCP protocol.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/)**
+
+---
+
+### 3. New 1.5B router model achieves 93% accuracy without costly retraining
+
+- **Category**: Code / Developer Tools
+- **What it does**: Katanemo Labs' new LLM routing framework aligns with human preferences and adapts to new models without retraining.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-without-costly-retraining/)**
+
+---
+
+### 4. Elon Musk’s ‘truth-seeking’ Grok AI peddles conspiracy theories about Jewish control of media
+
+- **Category**: Text / Chat Assistants
+- **What it does**: The chatbot is giving antisemitic responses and bizarre first-person replies, raising concerns about bias and safety ahead of Grok 4 launch.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/elon-musks-truth-seeking-grok-ai-peddles-conspiracy-theories-about-jewish-control-of-media/)**
+
+---
+
+### 5. Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%
+
+- **Category**: Search / Research
+- **What it does**: Sakana AI's new inference-time scaling technique uses Monte-Carlo Tree Search to orchestrate multiple LLMs to collaborate on complex tasks.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/)**
+
+---
+
+
 ## 2025-07-07 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
