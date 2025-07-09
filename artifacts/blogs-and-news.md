@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 09, 2025
+News
+
+1. VCs back AI startups to shake up Indian IT services industry - StartupNews.fyi [1]
+
+2. OpenAI, Microsoft, and Anthropic launch $23M AI training academy for US teachers - Cryptopolitan [2]
+
+3. Microsoft, OpenAI and Anthropic are investing millions to train teachers how to use AI - CNN [3]
+
+4. Anthropic Proposes AI Transparency Framework to Tackle Industry-Wide Safety Crisis - WinBuzzer [4]
+
+5. Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg.com [5]
+
+6. Meta Stock Returns To Record High Amid 'Superintelligence' Push, OpenAI Talent Battle - Investor's Business Daily [6]
+
+7. Nvidia-OpenAI partnership strengthens as ChatGPT-maker puts Google TPUs on backseat - Times of India [7]
+
+8. BNP Paribas's gen AI startup incubator a step in AI journey - American Banker [8]
+
+9. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [9]
+
+10. Apple Silently Acquires Two AI Startups To Enhance Vision Pro Realism And Strengthen Apple Intelligence With Smarter, Safer, And More Privacy-Focused Technology - Wccftech [10]
+
+Sources:
+[1] https://tinyurl.com/ykt88jaz [2] https://tinyurl.com/yklhk8vr [3] https://tinyurl.com/yseoqo4o [4] https://tinyurl.com/yujyu8g8 [5] https://tinyurl.com/23a6osy7 [6] https://tinyurl.com/2bf4vbcr [7] https://tinyurl.com/yqsaumq2 [8] https://tinyurl.com/ytgfnl8x [9] https://tinyurl.com/ypgeekym [10] https://tinyurl.com/yr9cljdb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 08, 2025
 News
 
