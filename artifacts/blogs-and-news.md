@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 10, 2025
+News
+
+1. Microsoft, OpenAI, and Anthropic partner with AFT to train thousands of teachers to use AI - Times of India [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [3]
+
+4. Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters [4]
+
+5. Apple Considers Using Anthropic and OpenAI Models to Power Siri - Yahoo Finance [5]
+
+6. OpenAI, Microsoft, and Anthropic pledge $23 million to help train American teachers on AI - ZDNet [6]
+
+7. Can an average Joe access shares of private companies like OpenAI, SpaceX, Anthropic? - The American Bazaar [7]
+
+8. OpenAI, Microsoft, and Anthropic launch national academy to train 400,000 teachers by 2030 - The Indian Express [8]
+
+9. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC [9]
+
+10. Apple Considers Using Anthropic and OpenAI Models to Power Siri - Insider Monkey [10]
+
+Sources:
+[1] https://tinyurl.com/yw54eh8w [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/28d72yoo [4] https://tinyurl.com/yw6h43a8 [5] https://tinyurl.com/yntqzzuw [6] https://tinyurl.com/yv8ep3zd [7] https://tinyurl.com/ytnx4xh7 [8] https://tinyurl.com/ykdyssk2 [9] https://tinyurl.com/25dg2b2u [10] https://tinyurl.com/yua5yx2x
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 09, 2025
 News
 

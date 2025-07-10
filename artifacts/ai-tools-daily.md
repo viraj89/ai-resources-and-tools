@@ -1,4 +1,65 @@
 
+## 2025-07-10 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. New 1.5B router model achieves 93% accuracy without costly retraining
+
+- **Category**: Code / Developer Tools
+- **What it does**: Katanemo Labs' new LLM routing framework aligns with human preferences and adapts to new models without retraining.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-without-costly-retraining/)**
+
+---
+
+### 3. Skip the AI ‘bake-off’ and build autonomous agents: Lessons from Intuit and Amex
+
+- **Category**: Presentations
+- **What it does**: Intuit and American Express detailed how their companies are embracing agentic AI to transform customer experiences, internal workflows and core business operations.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/)**
+
+---
+
+### 4. Scaling agentic AI: Inside Atlassian’s culture of experimentation
+
+- **Category**: Code / Developer Tools
+- **What it does**: Scaling agentic AI isn’t just about having the latest tools -- it requires clear guidance and a culture that champions experimentation.
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/scaling-agentic-ai-inside-atlassians-culture-of-experimentation/)**
+
+---
+
+### 5. MCP isn’t KYC-ready: Why regulated sectors are wary of open agent exchanges
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Model Context Protocol, or MCP, is gaining momentum. But, not everyone is fully onboard yet, as financial institutions sit and wait before adoption.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/mcp-isnt-kyc-ready-why-regulated-sectors-are-wary-of-open-agent-exchanges/)**
+
+---
+
+
 ## 2025-07-09 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
