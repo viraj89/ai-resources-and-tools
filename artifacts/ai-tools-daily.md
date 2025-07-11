@@ -1,4 +1,65 @@
 
+## 2025-07-11 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Skip the AI ‘bake-off’ and build autonomous agents: Lessons from Intuit and Amex
+
+- **Category**: Presentations
+- **What it does**: Intuit and American Express detailed how their companies are embracing agentic AI to transform customer experiences, internal workflows and core business operations.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/)**
+
+---
+
+### 3. AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades
+
+- **Category**: Education / Learning
+- **What it does**: AWS upgraded its SageMaker platform to offer more observability and streamlined functions to make AI model inference and training easier.
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/)**
+
+---
+
+### 4. Elon Musk introduced Grok 4 last night, calling it the ‘smartest AI in the world’ — what businesses need to know
+
+- **Category**: Design / Image Generation
+- **What it does**: Musk did not apologize nor did he accept responsibility for Grok's antisemitic, sexually offensive, and conspiratorial remarks.
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/)**
+
+---
+
+### 5. Scaling agentic AI: Inside Atlassian’s culture of experimentation
+
+- **Category**: Code / Developer Tools
+- **What it does**: Scaling agentic AI isn’t just about having the latest tools -- it requires clear guidance and a culture that champions experimentation.
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/scaling-agentic-ai-inside-atlassians-culture-of-experimentation/)**
+
+---
+
+
 ## 2025-07-10 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

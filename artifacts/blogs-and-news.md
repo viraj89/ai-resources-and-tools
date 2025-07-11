@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 11, 2025
+News
+
+1. Five AI startups graduate from BNY Ascent Program - American Banker [1]
+
+2. India’s vertical AI startups gear up for enterprise shift amid cautious adoption - Business Today [2]
+
+3. Exclusive: OpenAI to Launch AI-Powered Web Browser to Compete with Google Chrome - Vocal [3]
+
+4. Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters [4]
+
+5. Amazon mulls another multibillion-dollar investment in Anthropic - Business Standard [5]
+
+6. Musk’s Grok-4 Crushes Benchmarks, Beats OpenAI & Google in RL - Analytics India Magazine [6]
+
+7. Exclusive / AI startup Polimorphic raises $18.6 million for local government chatbots - Semafor [7]
+
+8. “Seed-Strapped” AI Startups Are Refusing Millions— To Make Billions - Forbes [8]
+
+9. AI startups boost digital health funding in H1: Rock Health - Healthcare Dive [9]
+
+10. Prosus' Venture Investing Arm Partakes in Brazilian AI Startups Capital Raising - MarketScreener [10]
+
+Sources:
+[1] https://tinyurl.com/yr6x85s6 [2] https://tinyurl.com/ywhkqmsv [3] https://tinyurl.com/yu4op5xo [4] https://tinyurl.com/24vhwf39 [5] https://tinyurl.com/yt9f2xyo [6] https://tinyurl.com/yutk9gcs [7] https://tinyurl.com/yvxyf9wo [8] https://tinyurl.com/yks7ls62 [9] https://tinyurl.com/ytmokccp [10] https://tinyurl.com/yv9yz5zu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 10, 2025
 News
 
