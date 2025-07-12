@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 12, 2025
+News
+
+1. Debate over future of US AI regulation hinges on broadband funding - Reuters [1]
+
+2. Was OpenAI’s CEO Crisis About Ethics or Power? A New Movie Unpacks Sam Altman’s Chaotic Ousting - Biography [2]
+
+3. OpenAI’s for-profit conversion drama rolls on with new Musk, Altman lawsuits - Cryptopolitan [3]
+
+4. Microsoft, OpenAI, and Anthropic launch $23M initiative to train teachers on AI use - Latest news from Azerbaijan [4]
+
+5. Anthropic wins ruling on AI training in copyright lawsuit but must face trial on pirated books - AP News [5]
+
+6. It’s Time to Take Anthropic and OpenAI’s Wild Revenue Projections Seriously - The Information [6]
+
+7. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [7]
+
+8. How AI agents are infiltrating business payments - American Banker [8]
+
+9. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [9]
+
+10. How India is Building the Next Gen AI Startups? AIC-BIMTECH and Google Say Yes! - TICE News [10]
+
+Sources:
+[1] https://tinyurl.com/2xhejd97 [2] https://tinyurl.com/ynjk3efz [3] https://tinyurl.com/yvn3raf3 [4] https://tinyurl.com/ys22m3cb [5] https://tinyurl.com/26m95zg3 [6] https://tinyurl.com/29l8wvkm [7] https://tinyurl.com/2a5tm7nf [8] https://tinyurl.com/2xg93nsx [9] https://tinyurl.com/ywqzaksa [10] https://tinyurl.com/ymbt4kag
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 11, 2025
 News
 
