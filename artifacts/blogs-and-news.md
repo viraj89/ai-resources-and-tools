@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 13, 2025
+News
+
+1. VCs back AI startups to shake up Indian IT services industry - The Economic Times [1]
+
+2. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [2]
+
+3. An OpenAI Acquisition Turns Into a Google 'Hackqusition'... - Spyglass.org [3]
+
+4. How Microsoft 'killed' OpenAI's $3 billion acquisition of WindSurf, making Google the 'big winner' - The Times of India [4]
+
+5. Top engineer quits Musk’s AI firm: Joins OpenAI - The Hans India [5]
+
+6. OpenAI loses Windsurf as Google swoops the AI startup’s CEO, team, and tech for $2.4B - The Indian Express [6]
+
+7. Exclusive: New Anthropic report details How Claude became an emotional support bot - Axios [7]
+
+8. Sundar Pichai-Led Google Pips OpenAI To Hire AI Startup Windsurf CEO Varun Mohan And Staff For $2.4 Billion - Mashable India [8]
+
+9. Accel announced today its global search for top-tier AI startups led by Indian-origin founders through its new Atoms AI cohort. With backing that can exceed $1M per startup, the program is positioned to make a significant impact on the pre-seed landscape. App - instagram.com [9]
+
+10. Fake AI Startups Hijack Crypto Wallets in Sophisticated Social Engineering Blitz - Crypto News Australia [10]
+
+Sources:
+[1] https://tinyurl.com/yssgoxgw [2] https://tinyurl.com/2dk8hr2o [3] https://tinyurl.com/ywbd4xmu [4] https://tinyurl.com/yndewmtb [5] https://tinyurl.com/yo4f7b3g [6] https://tinyurl.com/yn35f92n [7] https://tinyurl.com/2a4tkaw6 [8] https://tinyurl.com/yugvd22z [9] https://tinyurl.com/ytx7bcba [10] https://tinyurl.com/yu7h5bdt
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 12, 2025
 News
 
