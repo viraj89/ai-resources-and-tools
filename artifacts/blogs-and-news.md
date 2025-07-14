@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 14, 2025
+News
+
+1. Microsoft, OpenAI and Anthropic are investing millions to train teachers how to use AI - WTAE [1]
+
+2. Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird - Time Magazine [2]
+
+3. Exclusive: Anthropic hits $3 billion in annualized revenue on business demand for AI - Reuters [3]
+
+4. Exclusive vector databases for LLMs - IndiaAI [4]
+
+5. ‘Musk’s SpaceX to invest $2 billion in his AI startup’ - Times of India [5]
+
+6. Here are the 24 US AI startups that have raised $100M or more in 2025 - TechCrunch [6]
+
+7. Spacex to invest $2 billion in Musk AI startup xAI in major funding push - WION [7]
+
+8. Defense AI Startups’ Valuations Soar amid Intensifying Global Drone War - Businesskorea [8]
+
+9. SF AI startups seeing green as VC investment surges - San Francisco Examiner [9]
+
+10. Meta Approached Multiple AI Startups for Potential Acquisition - PYMNTS.com [10]
+
+Sources:
+[1] https://tinyurl.com/yq54kreg [2] https://tinyurl.com/2cyax6ku [3] https://tinyurl.com/265xzfjg [4] https://tinyurl.com/22cmye6m [5] https://tinyurl.com/yvmp88hy [6] https://tinyurl.com/23mvfylz [7] https://tinyurl.com/2xfvvtv6 [8] https://tinyurl.com/ys3emeo7 [9] https://tinyurl.com/yuo3bdm9 [10] https://tinyurl.com/23lonnpo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 13, 2025
 News
 
