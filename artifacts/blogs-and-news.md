@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 15, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. Venture funding in India slows even as AI boosts global VC investments - BusinessLine [2]
+
+3. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [3]
+
+4. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [4]
+
+5. Google, Anthropic, OpenAI and xAI join US defence to tackle national security with AI - Mint [5]
+
+6. Anthropic, Google, OpenAI, xAI just scored the DoD’s Biggest AI Deal Yet - Maginative [6]
+
+7. US government awards up to $200m AI work to Anthropic, OpenAI - Tech in Asia [7]
+
+8. OpenAI, Ive Accused of ‘Brazenly’ Violating ‘io’ Trademark Ban - Bloomberg Law News [8]
+
+9. Pentagon Awards Google, OpenAI, and Anthropic Major AI Contracts, Fueling Tech's Military Gold Rush - WinBuzzer [9]
+
+10. Pentagon awards $200M AI contracts to Google, OpenAI, Anthropic and Musk’s xAI - TRT Global [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/yooesrqy [3] https://tinyurl.com/2cul9ek5 [4] https://tinyurl.com/2dzhvdpq [5] https://tinyurl.com/ylqzlzpf [6] https://tinyurl.com/yr5672q7 [7] https://tinyurl.com/ytz28kle [8] https://tinyurl.com/yvrh4btp [9] https://tinyurl.com/ysou9oys [10] https://tinyurl.com/yoga2mbr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 14, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-07-15 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Chinese AI startup Moonshot releases open-source Kimi K2 model that outperforms OpenAI and Anthropic on coding tasks with breakthrough agentic capabilities and competitive pricing.
+- **Pricing**: Freemium
+- **Trending Score**: 170.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/)**
+
+---
+
+### 2. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 3. The great AI agent acceleration: Why enterprise adoption is happening faster than anyone predicted
+
+- **Category**: Video / Creative Tools
+- **What it does**: Enterprise AI agent adoption is accelerating faster than predicted. Get the 4 key takeaways from VB Transform 2025 on how leaders from Intuit, Capital One, and more are deploying agents in production ...
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted/)**
+
+---
+
+### 4. Remaining Windsurf team and tech acquired by Cognition, makers of Devin: ‘We’re friends with Anthropic again’
+
+- **Category**: Design / Image Generation
+- **What it does**: Cognition CEO Scott Wu and interim Windsurf CEO Jeff Wang said they would start by integrating the AI-powered engineer Devin into Windsurf.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/programming-development/remaining-windsurf-team-and-tech-acquired-by-cognition-makers-of-devin-were-friends-with-anthropic-again/)**
+
+---
+
+### 5. A new paradigm for AI: How ‘thinking as optimization’ leads to better general-purpose models
+
+- **Category**: Search / Research
+- **What it does**: A new AI model learns to "think" longer on hard problems, achieving more robust reasoning and better generalization to novel, unseen tasks.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/)**
+
+---
+
+
 ## 2025-07-14 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
