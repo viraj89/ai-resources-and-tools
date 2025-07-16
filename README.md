@@ -14,11 +14,11 @@ An automated platform that discovers and showcases trending AI tools and news. C
 ## 🚀 What It Does
 
 ### 🧠 Smart Discovery
-- Finds trending AI tools automatically from 6+ sources
-- Uses dynamic keyword learning system
-- Sophisticated trending score algorithm
+- Finds trending AI tools automatically from 3 primary sources
+- Uses comprehensive AI keyword filtering system
+- Sophisticated trending score algorithm with engagement metrics
 - Advanced quality filtering and deduplication
-- Sources: Reddit, GitHub, Product Hunt, Hugging Face, Futurepedia, News APIs
+- Sources: Reddit (10+ subreddits), GitHub (trending), Google News RSS
 
 ### 📊 Daily Content
 - **Daily Digest**: 3-5 top AI tools with trending scores
@@ -33,18 +33,18 @@ An automated platform that discovers and showcases trending AI tools and news. C
 │   Multi-Source  │    │  Advanced AI    │    │  Structured &   │
 │   Discovery     │    │  Processing     │    │  Ranked Output  │
 │                 │    │                 │    │                 │
-│ • Reddit API    │───▶│ • Dynamic       │───▶│ • Daily Tools   │
-│ • GitHub API    │    │   Keywords      │    │   Digest        │
-│ • News RSS      │    │ • Trending      │    │ • News Updates  │
-│ • Product Hunt  │    │   Scoring       │    │ • Tools Directory│
-│ • Hugging Face  │    │ • Quality       │    │ • Website Data  │
-│ • Futurepedia   │    │   Filtering     │    │ • Master CSV    │
+│ • Reddit API    │──▶│ • AI Keyword     │──▶│ • Daily Tools   │
+│   (10+ subs)    │    │   Filtering     │    │   Digest        │
+│ • GitHub API    │    │ • Trending      │    │ • News Updates  │
+│   (trending)    │    │   Scoring       │    │ • Tools Directory│
+│ • News RSS      │    │ • Quality       │    │ • Website Data  │
+│   (Google News) │    │   Filtering     │    │ • Master CSV    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                       │                       │
          ▼                       ▼                       ▼
    ┌─────────────┐        ┌─────────────┐        ┌─────────────┐
-   │   Cache     │        │   ML-Based  │        │   Auto-     │
-   │ Management  │        │   Learning  │        │   Deploy    │
+   │   Cache     │        │   Auto-     │        │   Auto-     │
+   │ Management  │        │   Categorize│        │   Deploy    │
    └─────────────┘        └─────────────┘        └─────────────┘
 ```
 
@@ -81,19 +81,17 @@ discover-tools
 ## 🔧 Technical Workflow
 
 ### 1. **Discovery Phase**
-- **Reddit API**: Monitors 10+ AI subreddits for trending tools
-- **GitHub API**: Scrapes trending repositories for AI tools
-- **News RSS**: Aggregates AI news from multiple sources
-- **Product Hunt**: Discovers new AI products and tools
-- **Hugging Face**: Finds trending AI models and datasets
-- **Futurepedia**: Scrapes AI tools directory
+- **Reddit API**: Monitors 10+ AI subreddits (artificial, MachineLearning, AINews, OpenAI, etc.)
+- **GitHub API**: Scrapes trending repositories for AI tools and libraries
+- **News RSS**: Aggregates AI news from Google News with keyword expansion
+- **Additional Sources**: Product Hunt, Hugging Face, Futurepedia (configured but not in main pipeline)
 
 ### 2. **Processing Phase**
-- **Dynamic Keywords**: ML-based keyword learning system
-- **Trending Scoring**: Algorithm considers engagement, relevance, and freshness
-- **Quality Filtering**: Removes duplicates and non-tool content
-- **Categorization**: Auto-categorizes tools into 9 categories
-- **Cache Management**: Prevents re-processing same items
+- **AI Keyword Filtering**: Comprehensive AI-related keyword matching
+- **Trending Scoring**: Algorithm considers engagement, relevance, and trending indicators
+- **Quality Filtering**: Removes duplicates, non-tool content, and irrelevant items
+- **Auto-Categorization**: Categorizes tools into 9 categories (Text/Chat, Code/Dev, etc.)
+- **Cache Management**: Prevents re-processing same items with JSON caching
 
 ### 3. **Output Generation**
 - **Daily Digest**: `artifacts/ai-tools-daily.md` with 3-5 top tools
