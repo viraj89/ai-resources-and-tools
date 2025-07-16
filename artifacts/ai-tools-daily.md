@@ -1,4 +1,65 @@
 
+## 2025-07-16 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+### 3. Meta adds another 650 MW of solar power to its AI push
+
+- **Category**: Other
+- **What it does**: The company already has more than 12 gigawatts of capacity in its renewable power portfolio.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/)**
+
+---
+
+### 4. Breakneck data center growth challenges Microsoft’s sustainability goals
+
+- **Category**: Business / Analytics
+- **What it does**: Microsoft's sustainability goals are imperiled by its push into AI and cloud services.
+- **Pricing**: Paid
+- **Trending Score**: 30.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/)**
+
+---
+
+### 5. Gridcare thinks more than 100 GW of data center capacity is hiding in the grid
+
+- **Category**: Business / Analytics
+- **What it does**: Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid.
+- **Pricing**: Paid
+- **Trending Score**: 30.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/)**
+
+---
+
+
 ## 2025-07-15 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

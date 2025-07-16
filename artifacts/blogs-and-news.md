@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 16, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. AI startup Windsurf sold to AI engineer Devin’s maker Cognition just days after OpenAI acquisition fails - Times of India [2]
+
+3. US AI startups see funding surge while more VC funds struggle to raise, data shows - Yahoo Finance [3]
+
+4. US AI startups see funding surge while more VC funds struggle to raise, data shows - Yahoo [4]
+
+5. OpenAI Rival Anthropic Courts Finance Industry With New AI Tools - Bloomberg [5]
+
+6. Mark Zuckerberg says OpenAI and Anthropic researchers are flocking to Meta's AI camp for these 2 big reasons — aside from the inaccurately reported $100 million signing bonuses - Windows Central [6]
+
+7. Cognition acquires AI coding startup Windsurf to compete with OpenAI, Anthropic, Cursor - The American Bazaar [7]
+
+8. OpenAI’s ChatGPT down globally: Thousands report errors, here’s what the company said - Times of India [8]
+
+9. Pentagon Awards OpenAI, Anthropic, xAI Contracts Worth $200 Mn - Analytics India Magazine [9]
+
+10. OpenAI 3 billion dollars Windsurf acquisition collapses: Google DeepMind hires top AI coding talent - dqindia.com [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/yk9u66qf [3] https://tinyurl.com/ypu3moau [4] https://tinyurl.com/ym92hh85 [5] https://tinyurl.com/ymabw2fk [6] https://tinyurl.com/ypxhzy4f [7] https://tinyurl.com/ykzywc7m [8] https://tinyurl.com/yvgtydpt [9] https://tinyurl.com/yoz38dex [10] https://tinyurl.com/yp5ma8y9
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 15, 2025
 News
 
