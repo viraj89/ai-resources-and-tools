@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 17, 2025
+News
+
+1. AI Startups: Heron Aims to Organize Business Data - PYMNTS.com [1]
+
+2. OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI - TechCrunch [2]
+
+3. OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI - Yahoo Finance [3]
+
+4. Microsoft, OpenAI and Anthropic are investing millions to train teachers how to use AI - CNN [4]
+
+5. Canadian AI start-up Cohere seeks US$500 million in effort to catch up to OpenAI and Anthropic - Financial Post [5]
+
+6. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [6]
+
+7. Former OpenAI CTO Mira Murati's AI Startup Raises $2B Seed Funding Round - Stocktwits [7]
+
+8. Exclusive: Quiss Technology partners with GenAI startup Qanooni AI - Legal IT Insider [8]
+
+9. BABA: Alibaba-Backed AI Startup MiniMax Eyes Hong Kong IPO — While $433.5M Ant Lawsuit Still Unfolds - TradingView [9]
+
+10. Former OpenAI Exec Mira Murati’s AI Startup Secures $2 Bn Funding, Reaches $12 Bn Valuation - BW Disrupt [10]
+
+Sources:
+[1] https://tinyurl.com/yvg2owr4 [2] https://tinyurl.com/ysyfbnt5 [3] https://tinyurl.com/yqdy4ga2 [4] https://tinyurl.com/yseoqo4o [5] https://tinyurl.com/26etf5rf [6] https://tinyurl.com/296gu3sj [7] https://tinyurl.com/ywz7qowt [8] https://tinyurl.com/ykjrjynr [9] https://tinyurl.com/yqyf5h8w [10] https://tinyurl.com/yoxa7nqm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 16, 2025
 News
 
