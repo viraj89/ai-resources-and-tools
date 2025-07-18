@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 18, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - StartupNews.fyi [1]
+
+2. US AI startups see funding surge while more VC funds struggle to raise, data shows - The Economic Times [2]
+
+3. AI startup Windsurf sold to AI engineer Devin’s maker Cognition just days after OpenAI acquisition fails and Google ‘poaches’ CEO - The Times of India [3]
+
+4. Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters [4]
+
+5. OpenAI launches ChatGPT Agent to automate complex tasks: What it is capable of, who can use it and more - The Times of India [5]
+
+6. Meet Yash Kumar, OpenAI's Indian-origin genius behind the ChatGPT agent - Hindustan Times - Hindustan Times [6]
+
+7. How Windsurf was Split between OpenAI, Google, and Cognition in a billion-dollar acquisition deal? - Tech Funding News [7]
+
+8. US authors suing Anthropic can band together in copyright class action, judge rules - Reuters [8]
+
+9. Anthropic will face a class-action lawsuit from US authors - The Verge [9]
+
+10. US authors suing Anthropic can band together in copyright class action, judge rules - MSN [10]
+
+Sources:
+[1] https://tinyurl.com/ypksewyg [2] https://tinyurl.com/yqweoesu [3] https://tinyurl.com/ymkdbjjx [4] https://tinyurl.com/yw6h43a8 [5] https://tinyurl.com/yws75wu2 [6] https://tinyurl.com/yl2rx6mq [7] https://tinyurl.com/yt6ao2mb [8] https://tinyurl.com/ylecvw4m [9] https://tinyurl.com/yl8rs72b [10] https://tinyurl.com/yoznd6so
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 17, 2025
 News
 

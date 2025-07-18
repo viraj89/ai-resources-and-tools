@@ -1,4 +1,65 @@
 
+## 2025-07-18 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Slack launches comprehensive AI features including enterprise search and writing assistance as Salesforce challenges Microsoft's workplace AI dominance while blocking rival access to platform data.
+- **Pricing**: Paid
+- **Trending Score**: 140.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/)**
+
+---
+
+### 2. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
+
+- **Category**: Business / Analytics
+- **What it does**: Anthropic has launched a powerful analytics dashboard for its Claude Code AI assistant, giving engineering leaders real-time insights into developer productivity, tool usage, and ROI on AI coding inve...
+- **Pricing**: Paid
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/)**
+
+---
+
+### 3. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 4. OpenAI unveils ‘ChatGPT agent’ that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
+
+- **Category**: Text / Chat Assistants
+- **What it does**: If a website needs you to log in, you can do that securely through a special browser view, which lets the agent dig deeper and handle more.
+- **Pricing**: Freemium
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/)**
+
+---
+
+### 5. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
+
+- **Category**: Code / Developer Tools
+- **What it does**: AWS beleives AI agents will change how enterprises work and with its new Amazon Bedrock AgentCore, it hopes to make it easier to build and deploy agents in one go.
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/)**
+
+---
+
+
 ## 2025-07-17 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
