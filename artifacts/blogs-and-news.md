@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 19, 2025
+News
+
+1. AI startups drive VC funding resurgence, capturing record US investment in 2024 - Reuters [1]
+
+2. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [2]
+
+3. Top Stocks for Hedge Fund Investments Exclusive Stock Tips For Members - Superior trading gains - Jammu Links News [3]
+
+4. Top Stocks for Hedge Fund Investments Exclusive Profit Strategies - Superior investment outcomes - Jammu Links News [4]
+
+5. Best Stocks for Hedge Fund Investors in India AI Driven Stock Alerts - Robust investment performance - Jammu Links News [5]
+
+6. OpenAI and Anthropic Are Horrified by Elon Musk's "Reckless" and "Completely Irresponsible" Grok Scandal - Futurism [6]
+
+7. Authors' Anthropic Copyright Lawsuit Receives Class Certification - Digital Music News [7]
+
+8. Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters [8]
+
+9. US authors suing Anthropic can band together in copyright class action, judge rules By Reuters - Investing.com [9]
+
+10. Meta and AWS Launch Program to Boost AI Startups Using Llama - The European Business Review [10]
+
+Sources:
+[1] https://tinyurl.com/257zjokf [2] https://tinyurl.com/28d72yoo [3] https://tinyurl.com/2dycqdkz [4] https://tinyurl.com/2y6dogvc [5] https://tinyurl.com/2b27f35s [6] https://tinyurl.com/2auuwjex [7] https://tinyurl.com/29cgbgcr [8] https://tinyurl.com/24vhwf39 [9] https://tinyurl.com/22m9gghl [10] https://tinyurl.com/24xspwc2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 18, 2025
 News
 
