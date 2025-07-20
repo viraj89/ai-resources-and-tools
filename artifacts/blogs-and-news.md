@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 20, 2025
+News
+
+1. Top Stocks for Hedge Fund Investments AI Powered Trading Decisions - Breakthrough capital growth - PrintWeekIndia [1]
+
+2. Top Stocks for Hedge Fund Investments Exclusive Profit Strategies - Market-beating performance - Jammu Links News [2]
+
+3. Debate over future of US AI regulation hinges on broadband funding - Reuters [3]
+
+4. OpenAI Debuts Record Mode for ChatGPT Plus - ilounge.com [4]
+
+5. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [5]
+
+6. A new opportunity for AI startups? A VC is betting 'multiplayer mode' can forge more human connections. - Business Insider [6]
+
+7. Tyson Foods selects six AI startups at Demo Day event - Talk Business & Politics [7]
+
+8. “Seed-Strapped” AI Startups Are Refusing Millions— To Make Billions - Forbes [8]
+
+9. AI startups boost digital health funding in H1: Rock Health - Healthcare Dive [9]
+
+10. Instacart backer Kris Fredrickson launches $175M Verified Capital to fund AI startups - Tech Funding News [10]
+
+Sources:
+[1] https://tinyurl.com/29xydytz [2] https://tinyurl.com/23crthc3 [3] https://tinyurl.com/2xhejd97 [4] https://tinyurl.com/2xlrxsz9 [5] https://tinyurl.com/2a5tm7nf [6] https://tinyurl.com/yrz9hhwg [7] https://tinyurl.com/2yhwxnm8 [8] https://tinyurl.com/yks7ls62 [9] https://tinyurl.com/ytmokccp [10] https://tinyurl.com/2cqx8yrt
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 19, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-07-20 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Slack launches comprehensive AI features including enterprise search and writing assistance as Salesforce challenges Microsoft's workplace AI dominance while blocking rival access to platform data.
+- **Pricing**: Paid
+- **Trending Score**: 140.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/)**
+
+---
+
+### 2. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
+
+- **Category**: Business / Analytics
+- **What it does**: Anthropic has launched a powerful analytics dashboard for its Claude Code AI assistant, giving engineering leaders real-time insights into developer productivity, tool usage, and ROI on AI coding inve...
+- **Pricing**: Paid
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/)**
+
+---
+
+### 3. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say ‘I’m sorry’
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Salesforce reached 1 million AI-powered customer conversations, showcasing breakthroughs in enterprise automation, AI empathy, and next-generation customer service.
+- **Pricing**: Paid
+- **Trending Score**: 110.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/)**
+
+---
+
+### 4. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 5. How OpenAI’s red team made ChatGPT agent into an AI fortress
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Discover OpenAI's red team blueprint: How 110 coordinated attacks and 7 exploit fixes created ChatGPT Agent's revolutionary 95% security defense system.
+- **Pricing**: Freemium
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/)**
+
+---
+
+
 ## 2025-07-19 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
