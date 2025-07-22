@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 22, 2025
+News
+
+1. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [3]
+
+4. Exclusive: Litero AI lands $800K to solve the dropout crisis with collaborative AI - Tech Funding News [4]
+
+5. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [5]
+
+6. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [6]
+
+7. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [7]
+
+8. An AI ‘gold rush.’ What to know about OpenAI’s record $40-billion funding round - Los Angeles Times [8]
+
+9. $61.5 billion tech giant Anthropic has made a major hiring U-turn—now, it's letting job applicants use AI months after banning it from the interview process - Fortune [9]
+
+10. OpenAI wins trademark lawsuit against doppelganger company - Courthouse News Service [10]
+
+Sources:
+[1] https://tinyurl.com/2cyowh89 [2] https://tinyurl.com/22oqocb4 [3] https://tinyurl.com/2cctql6t [4] https://tinyurl.com/25xdadeg [5] https://tinyurl.com/22bvas2j [6] https://tinyurl.com/28e4w58x [7] https://tinyurl.com/2aryxn37 [8] https://tinyurl.com/2a3gn2dc [9] https://tinyurl.com/274992nh [10] https://tinyurl.com/27oxy75r
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 21, 2025
 News
 
