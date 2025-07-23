@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 23, 2025
+News
+
+1. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [3]
+
+4. Top Stocks for Hedge Fund Investments Exclusive Profit Strategies - Free Stock Selection - Autocar Professional [4]
+
+5. Stargate AI Megaproject Falters? SoftBank, OpenAI, Others Reportedly Scale Back Plans As Elon Musk Mocks Funding Woes Again - Stocktwits [5]
+
+6. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [6]
+
+7. OpenAI's Sam Altman warns of AI voice fraud crisis in banking - Yahoo Finance [7]
+
+8. Exclusive: Mark Cuban says AI will soon be a baseline skill like email or Excel - Fortune [8]
+
+9. OpenAI’s Sam Altman warns of AI voice fraud crisis in banking - AP News [9]
+
+10. OpenAI CEO Sam Altman Warns Bankers, Regulators of Coming Fraud ‘Crisis’ - Barron's [10]
+
+Sources:
+[1] https://tinyurl.com/25pja6mg [2] https://tinyurl.com/2yumqccw [3] https://tinyurl.com/2ya3ohpn [4] https://tinyurl.com/2yqdasl4 [5] https://tinyurl.com/22x8mfrt [6] https://tinyurl.com/2dzhvdpq [7] https://tinyurl.com/2yl8zloa [8] https://tinyurl.com/23dzzbw8 [9] https://tinyurl.com/2an9328g [10] https://tinyurl.com/2yltpusy
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 22, 2025
 News
 
