@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 24, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. OpenAI CEO Sam Altman warns of AI fraud crisis 'very soon' - Fox Business [3]
+
+4. OpenAI CEO Sam Altman warns of AI being used for voice fraud in banking - The Independent [4]
+
+5. OpenAI, Oracle salvage US$500 billion Stargate AI project after SoftBank exit - digitimes [5]
+
+6. IPG wins Anthropic’s US media business as the AI startup’s valuation continues to soar - Ad Age [6]
+
+7. Meta rejects EU’s AI Code of Practice, even as AI giants Anthropic and OpenAI say they will sign on - Music Business Worldwide [7]
+
+8. ‘Not thrilled about it’: Anthropic’s CEO flags risks as UAE, Qatar funding awaits - The American Bazaar [8]
+
+9. OpenAI Rival Anthropic Courts Finance Industry With New AI Tools - Bloomberg [9]
+
+10. Alibaba’s Qwen-3 Coder Takes Aim At OpenAI’s GPT-4, Anthropic’s Claude In Code Generation Battle By Stocktwits - Investing.com India [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/22jekp2l [3] https://tinyurl.com/28dlpw3y [4] https://tinyurl.com/233oqsc7 [5] https://tinyurl.com/2xzox3k6 [6] https://tinyurl.com/2cnsy3jh [7] https://tinyurl.com/2curvy9p [8] https://tinyurl.com/26zpu5d6 [9] https://tinyurl.com/ymabw2fk [10] https://tinyurl.com/28g7m2hv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 23, 2025
 News
 
