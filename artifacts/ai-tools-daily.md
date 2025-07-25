@@ -1,4 +1,65 @@
 
+## 2025-07-25 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely
+
+- **Category**: Design / Image Generation
+- **What it does**: Early Anthropic hire raises $15M for AIUC to insure AI agents, helping enterprises deploy artificial intelligence securely with risk coverage and safety standards.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/)**
+
+---
+
+### 3. Anthropic unveils ‘auditing agents’ to test for AI misalignment
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic developed its auditing agents while testing Claude Opus 4 for alignment issues.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misalignment/)**
+
+---
+
+### 4. Open-source MCPEval makes protocol-level agent testing plug-and-play
+
+- **Category**: Search / Research
+- **What it does**: Researchers from Salesforce unveiled MCPEval, a new method to evaluate AI agent performance and tool use within MCP servers.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/open-source-mcpeval-makes-protocol-level-agent-testing-plug-and-play/)**
+
+---
+
+### 5. Intuit brings agentic AI to the mid-market, saving organizations 17 to 20 hours a month
+
+- **Category**: Other
+- **What it does**: Intuit explains how it is solving the needs of the mid-market with a new series of agentic AI experiences.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/intuit-brings-agentic-ai-to-the-mid-market-saving-organizations-17-to-20-hours-a-month/)**
+
+---
+
+
 ## 2025-07-24 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 25, 2025
+News
+
+1. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. OpenAI and UK sign ‘strategic partnership’ in investment push - Financial Times [3]
+
+4. ‘Bad and dangerous…’: OpenAI CEO Sam Altman’s warning to young people who rely ‘too much’ on ChatGPT - The Times of India [4]
+
+5. AR Rahman joins forces with OpenAI CEO Sam Altman for his AI project Secret Mountain, a musical metaverse - The Indian Express [5]
+
+6. OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI - TechCrunch [6]
+
+7. Best Stocks for Market Stability AI Driven Investment Club - Record-breaking capital gains - PrintWeekIndia [7]
+
+8. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [8]
+
+9. ANI v OpenAI: generative AI’s use of copyrighted works under Indian law - Managing Intellectual Property [9]
+
+10. Chairman Guthrie on President Trump’s AI Action Plan: “The Future of American Competitiveness Depends on Investments in AI” - House Committee on Energy and Commerce (.gov) [10]
+
+Sources:
+[1] https://tinyurl.com/2adcq2kk [2] https://tinyurl.com/28mqcpmk [3] https://tinyurl.com/22zou79d [4] https://tinyurl.com/2a3vzbvv [5] https://tinyurl.com/2355pbk2 [6] https://tinyurl.com/ysyfbnt5 [7] https://tinyurl.com/27fgzqky [8] https://tinyurl.com/296gu3sj [9] https://tinyurl.com/2ybfqckz [10] https://tinyurl.com/2yzb4wra
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 24, 2025
 News
 
