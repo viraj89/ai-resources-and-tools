@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 27, 2025
+News
+
+1. AI startups drive VC funding resurgence, capturing record US investment in 2024 - Reuters [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [3]
+
+4. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [4]
+
+5. AI Insider's Week in Review: Proscia Scales, Slingshot Launches Therapy AI, Robots For Rent Investment in China, Plus America's AI Action Plan and the Latest Funding Rounds - AI Insider [5]
+
+6. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [6]
+
+7. AI Series: Former OpenAI employees drive billion-dollar AI startups - Seeking Alpha [7]
+
+8. OpenAI competitor Anthropic wants more funding to double valuation - report - Seeking Alpha [8]
+
+9. US authors suing Anthropic can band together in copyright class action, judge rules - Reuters [9]
+
+10. AI Startup Anthropic Faces Billions in Damages Over Copyright Infringement - GuruFocus [10]
+
+Sources:
+[1] https://tinyurl.com/257zjokf [2] https://tinyurl.com/256h8qfq [3] https://tinyurl.com/26lswknd [4] https://tinyurl.com/28d72yoo [5] https://tinyurl.com/28b8rmn4 [6] https://tinyurl.com/2cul9ek5 [7] https://tinyurl.com/24mqhkht [8] https://tinyurl.com/283wb7dt [9] https://tinyurl.com/ylecvw4m [10] https://tinyurl.com/2xmp8jbz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 26, 2025
 News
 
