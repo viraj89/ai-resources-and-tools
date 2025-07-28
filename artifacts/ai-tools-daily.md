@@ -1,4 +1,65 @@
 
+## 2025-07-28 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>Researchers at the University of Pennsylvania and the Allen Institute for Artificial Intelligence have developed a groundbreaking tool that allows open-source AI systems to match or surpass the vis...
+- **Pricing**: Freemium
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/)**
+
+---
+
+### 3. Meta announces its Superintelligence Labs Chief Scientist: former OpenAI GPT-4 co-creator Shengjia Zhao
+
+- **Category**: Text / Chat Assistants
+- **What it does**: The move underscores Meta’s strategy of spending aggressively now to secure a dominant position in what it views as the next foundational technology platform.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/)**
+
+---
+
+### 4. It’s Qwen’s summer: new open source Qwen3-235B-A22B-Thinking-2507 tops OpenAI, Gemini reasoning models on key benchmarks
+
+- **Category**: Other
+- **What it does**: The new Qwen3-Thinking-2507, as we'll call it for short, now leads or closely trails top-performing models across several major benchmarks.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/its-qwens-summer-new-open-source-qwen3-235b-a22b-thinking-2507-tops-openai-gemini-reasoning-models-on-key-benchmarks/)**
+
+---
+
+### 5. Anthropic unveils ‘auditing agents’ to test for AI misalignment
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic developed its auditing agents while testing Claude Opus 4 for alignment issues.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misalignment/)**
+
+---
+
+
 ## 2025-07-27 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

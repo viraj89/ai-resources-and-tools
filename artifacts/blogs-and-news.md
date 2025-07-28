@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 28, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [3]
+
+4. OpenAI CEO Sam Altman admits he is ‘scared’ to use AI: ‘I don’t know who is…’ - Times of India [4]
+
+5. Anthropic Used to Ban Job Applicants From Using AI. Here’s Why It Changed Its Policy - Inc.com [5]
+
+6. In a world dominated by AI giants like OpenAI and Anthropic, India is taking a fundamentally different approach — led not by corporations, but by the government. At the heart of this mission is Bhashini, a public platform that has quietly scaled to handle over 10 - LinkedIn [6]
+
+7. Anthropic wins key US ruling on AI training in authors' copyright lawsuit - Reuters [7]
+
+8. Anthropic will face a class-action lawsuit from US authors - The Verge [8]
+
+9. Anthropic CEO in leaked memo to employees on planning to seek investment in UAE and Qatar: ‘I really wish - Times of India [9]
+
+10. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/2d5gvo77 [3] https://tinyurl.com/25fnv2l6 [4] https://tinyurl.com/22d43eq9 [5] https://tinyurl.com/27ny2zh3 [6] https://tinyurl.com/277jpuql [7] https://tinyurl.com/24vhwf39 [8] https://tinyurl.com/yl8rs72b [9] https://tinyurl.com/269o6mco [10] https://tinyurl.com/2a5tm7nf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 27, 2025
 News
 
