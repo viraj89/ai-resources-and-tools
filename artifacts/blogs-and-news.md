@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 29, 2025
+News
+
+1. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [1]
+
+2. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [2]
+
+3. OpenAI CEO Sam Altman warns ChatGPT users’ personal questions could be used in lawsuits - The Hindu [3]
+
+4. Sam Altman’s warning about ChatGPT: Why OpenAI CEO calls it 'bad and dangerous' for children - Times of India [4]
+
+5. A copyright lawsuit over pirated books could result in ‘business-ending’ damages for Anthropic - Fortune [5]
+
+6. Can a Chatbot be Conscious? Inside Anthropic’s Interpretability Research on Claude 4 - Scientific American [6]
+
+7. Anthropic Eyes $150 Billion Valuation Amid Middle East Funding Talks - USA Herald [7]
+
+8. Exclusive: New Anthropic report details How Claude became an emotional support bot - Axios [8]
+
+9. Korean AI Startup Nuvilab Inks Exclusive Deal with U.S. Hospitals for AI-Driven Meal Analysis - openPR.com [9]
+
+10. SMBC to set up $300m fund for US fintech, AI startups - Nikkei Asia [10]
+
+Sources:
+[1] https://tinyurl.com/27tpqb7u [2] https://tinyurl.com/2dk8hr2o [3] https://tinyurl.com/25myhx9h [4] https://tinyurl.com/2cv3refy [5] https://tinyurl.com/2cd3ln9m [6] https://tinyurl.com/2cnd643a [7] https://tinyurl.com/2domv643 [8] https://tinyurl.com/2a4tkaw6 [9] https://tinyurl.com/274u8wsq [10] https://tinyurl.com/26wbbutg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 28, 2025
 News
 
