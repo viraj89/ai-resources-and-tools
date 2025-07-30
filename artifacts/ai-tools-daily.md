@@ -1,4 +1,65 @@
 
+## 2025-07-30 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. AI vs. AI: Prophet Security raises $30M to replace human analysts with autonomous defenders
+
+- **Category**: Search / Research
+- **What it does**: Prophet Security raises $30 million to launch a fully autonomous AI cybersecurity platform that investigates and responds to threats without human intervention, promising 10x faster response times and...
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-vs-ai-prophet-security-raises-30m-to-replace-human-analysts-with-autonomous-defenders/)**
+
+---
+
+### 3. Acree opens up new enterprise-focused, customizable AI model AFM-4.5B trained on ‘clean, rigorously filtered data’
+
+- **Category**: Presentations
+- **What it does**: Geared toward Acree's growing list of enterprise customers and their needs and wants — specifically, a model trained without violating IP.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/acree-opens-up-new-enterprise-focused-customizable-ai-model-afm-4-5b-trained-on-clean-rigorously-filtered-data/)**
+
+---
+
+### 4. No more links, no more scrolling—The browser is becoming an AI Agent
+
+- **Category**: Text / Chat Assistants
+- **What it does**: With rumors about a GPT-native browser, search is shifting from finding information to fulfilling tasks. No more links, no more scrolling.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/no-more-links-no-more-scrolling-the-browser-is-becoming-an-ai-agent/)**
+
+---
+
+### 5. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+
 ## 2025-07-29 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 30, 2025
+News
+
+1. OpenAI launches ChatGPT 'study mode'; partners with edtechs in India, US - The Economic Times [1]
+
+2. Microsoft in talks to lock in OpenAI tech access even after AGI breakthrough - India Today [2]
+
+3. $61.5 billion tech giant Anthropic has made a major hiring U-turn—now, it's letting job applicants use AI months after banning it from the interview process - Fortune [3]
+
+4. Anthropic nears $5 billion funding deal at $170 billion valuation - Bloomberg - Investing.com Australia [4]
+
+5. Anthropic Sets Weekly Limits on Claude AI to Curb Misuse, Maintain Reliability - The Hans India [5]
+
+6. Claude AI to get new weekly usage limits as Anthropic cracks down on 24x7 use, account sharing - India Today [6]
+
+7. This pitch deck helped Gradient Labs, a London AI startup, raise a $13 million Series A funding round in one week - Business Insider [7]
+
+8. AI Startups Push 72 Hour Workweek – Techish Podcast - peopleofcolorintech.com [8]
+
+9. Chinese AI Startups Slash Costs, Challenge US Dominance with Open-Source Models - WebProNews [9]
+
+10. Citigroup Ups Focus on Privately-Held AI Startups - PYMNTS.com [10]
+
+Sources:
+[1] https://tinyurl.com/2ysdsyfh [2] https://tinyurl.com/25nabspy [3] https://tinyurl.com/274992nh [4] https://tinyurl.com/2bocsmw6 [5] https://tinyurl.com/2ajlurbh [6] https://tinyurl.com/2ylnqghv [7] https://tinyurl.com/2xwe58ko [8] https://tinyurl.com/25bfz3ul [9] https://tinyurl.com/28bulgd4 [10] https://tinyurl.com/22kemf3r
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 29, 2025
 News
 
