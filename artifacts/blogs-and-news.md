@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 31, 2025
+News
+
+1. How India’s AI Startups Are Rewiring Governance, Agriculture & Inclusion - TICE News [1]
+
+2. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [2]
+
+3. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [3]
+
+4. OpenAI launches ChatGPT ‘study mode’ in India: How to use the free multilingual, interactive learning tool? - The Indian Express [4]
+
+5. Anthropic's cofounder says 'dumb questions' are the key to unlocking breakthroughs in AI - Business Insider [5]
+
+6. Iconiq set to lead $5bn funding round for AI start-up Anthropic - Eurasia Business News [6]
+
+7. OpenAI CEO Sam Altman warns: People use ChatGPT as a therapist, life coach and talk all personal stuff; - Times of India [7]
+
+8. AI giants OpenAI, Anthropic, and Mistral explore IPO prospects amid challenges - CHOSUNBIZ - Chosunbiz [8]
+
+9. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [9]
+
+10. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2366od8b [2] https://tinyurl.com/2dzhvdpq [3] https://tinyurl.com/27rmbw6u [4] https://tinyurl.com/22qxzapm [5] https://tinyurl.com/273m4awp [6] https://tinyurl.com/22gyqf65 [7] https://tinyurl.com/2d69ug7m [8] https://tinyurl.com/2ypyzqwx [9] https://tinyurl.com/2c52qvrw [10] https://tinyurl.com/29y6hppk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 30, 2025
 News
 

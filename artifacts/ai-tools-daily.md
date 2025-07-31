@@ -1,4 +1,65 @@
 
+## 2025-07-31 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Runloop lands $7M to power AI coding agents with cloud-based devboxes
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Runloop raises $7M seed funding to solve the "production gap" for AI coding agents, providing enterprise infrastructure that helps companies deploy autonomous coding assistants six months faster than ...
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/runloop-lands-7m-to-power-ai-coding-agents-with-cloud-based-devboxes/)**
+
+---
+
+### 3. Google DeepMind says its new AI can map the entire planet with unprecedented accuracy
+
+- **Category**: Design / Image Generation
+- **What it does**: Google DeepMind unveils AlphaEarth Foundations, an AI system that processes satellite data 16x more efficiently to create detailed Earth maps for tracking deforestation, climate change, and environmen...
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-deepmind-says-its-new-ai-can-map-the-entire-planet-with-unprecedented-accuracy/)**
+
+---
+
+### 4. ‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits
+
+- **Category**: Education / Learning
+- **What it does**: A common AI fine-tuning practice could be unintentionally poisoning your models with hidden biases and risks, a new Anthropic study warns.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/)**
+
+---
+
+### 5. AI vs. AI: Prophet Security raises $30M to replace human analysts with autonomous defenders
+
+- **Category**: Search / Research
+- **What it does**: Prophet Security raises $30 million to launch a fully autonomous AI cybersecurity platform that investigates and responds to threats without human intervention, promising 10x faster response times and...
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-vs-ai-prophet-security-raises-30m-to-replace-human-analysts-with-autonomous-defenders/)**
+
+---
+
+
 ## 2025-07-30 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
