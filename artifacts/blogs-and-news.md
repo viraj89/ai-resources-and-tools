@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 01, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. AI startups in North America raised $34.5 billion in Q2, making it the third-largest quarterly total on record - Techloy [2]
+
+3. Anthropic Overtakes OpenAI in Enterprise LLM Market with 32% Usage Share - AInvest [3]
+
+4. Anthropic Just Surpassed OpenAI in the $8.4 Billion Enterprise Market, Says New Report - Inc.com [4]
+
+5. Anthropic CEO in email to employees on $1 billion signing bonuses by Mark Zuckerberg for joining Meta's A - The Times of India [5]
+
+6. IPG wins Anthropic’s US media business as the AI startup’s valuation continues to soar - Ad Age [6]
+
+7. Writer’s $1.9B AI action agent outperforms OpenAI. Is Anthropic the next one? - Tech Funding News [7]
+
+8. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [8]
+
+9. AI startups bridging the gap: from research breakthroughs to real-world impact - The Official Microsoft Blog [9]
+
+10. “Seed-Strapped” AI Startups Are Refusing Millions— To Make Billions - Forbes [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/29mz2mjb [3] https://tinyurl.com/279my4o4 [4] https://tinyurl.com/22ukl9e7 [5] https://tinyurl.com/2ykov6to [6] https://tinyurl.com/2cnsy3jh [7] https://tinyurl.com/2yqpx3vh [8] https://tinyurl.com/2aawe7bj [9] https://tinyurl.com/2ynarabl [10] https://tinyurl.com/yks7ls62
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News July 31, 2025
 News
 
