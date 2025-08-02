@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 02, 2025
+News
+
+1. Tim Cook notes India’s value amid record earnings, with AI investment in focus - Hindustan Times [1]
+
+2. OpenAI CEO Sam Altman's biggest fear: ChatGPT-5 is coming in August and Altman is scared — know why - Times of India [2]
+
+3. OpenAI just raised another $8.3 billon in a funding round that values it at an unbelievable $300B, surpassing AMD, Coca-Cola, and General Electric - PC Gamer [3]
+
+4. Anthropic CEO rejects Nvidia CEO Jensen Haung’s AI remarks: ‘That's the most outrageous lie I've ever….’ - Times of India [4]
+
+5. Anthropic's AI was the most popular among business users, surpassing OpenAI - Mezha.Media [5]
+
+6. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [6]
+
+7. AI Startups That Focus Small Are Winning Big - Forbes [7]
+
+8. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [8]
+
+9. AI startup CEO who Amazon got suspended from college starts new ‘employee dating’ policy: ‘Please message - Times of India [9]
+
+10. Bengaluru-based AI startup Metaforms raised $9 million in funding led by Peak XV Partners - Indian Startup News [10]
+
+Sources:
+[1] https://tinyurl.com/2d72bbz9 [2] https://tinyurl.com/2ar69qn2 [3] https://tinyurl.com/23gdcw7k [4] https://tinyurl.com/26gsgbn3 [5] https://tinyurl.com/277xe9p9 [6] https://tinyurl.com/296gu3sj [7] https://tinyurl.com/23omyevg [8] https://tinyurl.com/2ylhh5hp [9] https://tinyurl.com/2bo6jbwx [10] https://tinyurl.com/23lxfkhr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 01, 2025
 News
 
