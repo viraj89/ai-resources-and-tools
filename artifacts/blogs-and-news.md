@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 03, 2025
+News
+
+1. Anthropic bans OpenAI from using Claude AI - Daily Jang [1]
+
+2. OpenAI banned from using Claude AI just before GPT-5 launch: Here's why - Mint [2]
+
+3. OpenAI’s latest funding round was so popular early investors were reportedly miffed about being pushed aside to make room for new partners - Fortune [3]
+
+4. Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - BleepingComputer [4]
+
+5. Anthropic Revokes OpenAI’s Access To Its Family Of Claude LLMs Because The Latter Was Using Its Rival’s Tools To Gauge The Performance Of Its Own Products, Giving The ChatGPT Creator Somewhat Of An Edge - Wccftech [5]
+
+6. Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters [6]
+
+7. Anthropic Claude Models Capture 32% Enterprise Market Share, Overtaking OpenAI in Business AI Adoption - Technology Org [7]
+
+8. Anthropic beats OpenAI as the top LLM provider for business - and it's not even close - ZDNet [8]
+
+9. OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI - TechCrunch [9]
+
+10. Exclusive | AI Finance App Ramp Is Valued at $22.5 Billion in Funding Round - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/22jf2j77 [2] https://tinyurl.com/225tme2t [3] https://tinyurl.com/24fbz5b7 [4] https://tinyurl.com/2af2cm37 [5] https://tinyurl.com/227k8rcr [6] https://tinyurl.com/yw6h43a8 [7] https://tinyurl.com/24dkvpy9 [8] https://tinyurl.com/2bzdqmev [9] https://tinyurl.com/ysyfbnt5 [10] https://tinyurl.com/22up6pfx
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 02, 2025
 News
 
