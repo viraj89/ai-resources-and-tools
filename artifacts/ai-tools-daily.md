@@ -1,4 +1,65 @@
 
+## 2025-08-04 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. ElevenLabs now lets authors create and publish audiobooks on its own platform
+
+- **Category**: Voice / Audio Tools
+- **What it does**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)**
+
+---
+
+### 2. Why the AI era is forcing a redesign of the entire compute backbone
+
+- **Category**: Design / Image Generation
+- **What it does**: <p><SPAN CLASS="ARTICLELISTING__LABEL"><SPAN CLASS="ARTICLE-TYPE">GUEST:</SPAN></SPAN> The past few decades have seen almost unimaginable advances in compute performance and efficiency, enabled by Moo...
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/)**
+
+---
+
+### 3. OpenAI removes ChatGPT feature after private conversations leak to Google search
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI abruptly removed a ChatGPT feature that made conversations searchable on Google, sparking privacy concerns and industry-wide scrutiny of AI data handling.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/)**
+
+---
+
+### 4. Hard-won vibe coding insights: Mailchimp’s 40% speed gain came with governance price
+
+- **Category**: Code / Developer Tools
+- **What it does**: Intuit Mailchimp's experience with vibe coding reveals governance frameworks and tool selection strategies that enterprises can apply to avoid common AI coding pitfalls.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price/)**
+
+---
+
+### 5. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving ‘intuition’
+
+- **Category**: Search / Research
+- **What it does**: Arora explains this as a difference between searching for a path versus already knowing roughly where the destination lies.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/)**
+
+---
+
+
 ## 2025-08-03 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

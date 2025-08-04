@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 04, 2025
+News
+
+1. Exclusive: OpenAI Secures Another Giant Funding Deal - The New York Times [1]
+
+2. Explosive Usage: Anthropic revokes ChatGPT-maker OpenAI's access to Claude; says OpenAI's technical staff - Times of India [2]
+
+3. Did OpenAI use rival Claude's coding tools to train GPT 5? Anthropic says it is possible - India Today [3]
+
+4. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [4]
+
+5. Exclusive | Amphenol Nears Big Broadband Deal in AI Boom - WSJ - The Wall Street Journal [5]
+
+6. Anthropic blocks OpenAI’s API access to Claude ahead of GPT-5 launch: Report - The Indian Express [6]
+
+7. US authors suing Anthropic can band together in copyright class action, judge rules - Reuters [7]
+
+8. DeepSeek Says Its Newest AI Model, Janus-Pro, Can Outperform OpenAI's DALL-E - Mashable India [8]
+
+9. What is Wide Research, Manus’ new multi-agent AI tool to take on OpenAI and Google? - The Indian Express [9]
+
+10. Exclusive | Amphenol Nears Big Broadband Deal in AI Boom - WSJ - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/22oc56j3 [2] https://tinyurl.com/2akg5tg7 [3] https://tinyurl.com/2238oq35 [4] https://tinyurl.com/2cul9ek5 [5] https://tinyurl.com/2b2ufh6m [6] https://tinyurl.com/25f5grmd [7] https://tinyurl.com/ylecvw4m [8] https://tinyurl.com/23awnk87 [9] https://tinyurl.com/27ef5fye [10] https://tinyurl.com/24rnp9wf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 03, 2025
 News
 
