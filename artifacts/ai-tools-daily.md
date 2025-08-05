@@ -1,4 +1,65 @@
 
+## 2025-08-05 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI removes ChatGPT feature after private conversations leak to Google search
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI abruptly removed a ChatGPT feature that made conversations searchable on Google, sparking privacy concerns and industry-wide scrutiny of AI data handling.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/)**
+
+---
+
+### 2. Hard-won vibe coding insights: Mailchimp’s 40% speed gain came with governance price
+
+- **Category**: Code / Developer Tools
+- **What it does**: Intuit Mailchimp's experience with vibe coding reveals governance frameworks and tool selection strategies that enterprises can apply to avoid common AI coding pitfalls.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price/)**
+
+---
+
+### 3. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 4. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving ‘intuition’
+
+- **Category**: Search / Research
+- **What it does**: Arora explains this as a difference between searching for a path versus already knowing roughly where the destination lies.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/)**
+
+---
+
+### 5. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+
 ## 2025-08-04 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

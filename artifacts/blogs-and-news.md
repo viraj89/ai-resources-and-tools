@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 05, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. 'Nobody cares that you're using AI': US angel investor shares blunt message for AI startups - Indian Startup News [2]
+
+3. Anthropic restricts OpenAI’s access to Claude models - The American Bazaar [3]
+
+4. Bullish IPO aims to capture OpenAI-era enthusiasm for high-risk tech - Fast Company [4]
+
+5. Why Did Anthropic Stop OpenAI From Using Claude Models? - KnowTechie [5]
+
+6. Anthropic Blocks OpenAI from Using Claude AI - Techloy [6]
+
+7. Anthropic terminates OpenAI's access to Claude models due to terms of use violations - Mezha.Media [7]
+
+8. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [8]
+
+9. News Bytes 20260804: Comparing US, EU, China AI Strategies, AI and Job Losses, Agentic AI at McKinsey, AI Startup Funding Stays Hot - insideAI News [9]
+
+10. HPC News Bytes 20260804: Comparing US, EU, China AI Strategies, AI and Job Losses, Agentic AI at McKinsey, AI Startup Funding Stays Hot - insidehpc.com [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/24oefsc6 [3] https://tinyurl.com/2c8notqd [4] https://tinyurl.com/2az4bjsd [5] https://tinyurl.com/29grjhrk [6] https://tinyurl.com/27vcveqe [7] https://tinyurl.com/29fw9rml [8] https://tinyurl.com/2a5tm7nf [9] https://tinyurl.com/2b6zn4kl [10] https://tinyurl.com/2af4albx
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 04, 2025
 News
 
