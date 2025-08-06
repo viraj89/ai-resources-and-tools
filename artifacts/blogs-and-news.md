@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 06, 2025
+News
+
+1. Agentic AI startups raise $2.8B in VC funding in 2025: Prosus Report - YourStory.com [1]
+
+2. Legal AI Startup August Announces $7M in Seed Funding, With Law School Investment - Law.com [2]
+
+3. AI Startups Burn $5 to Make $1: Silicon Valley Bank Reveals Concerning VC Investment Trends - Stock Titan [3]
+
+4. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [4]
+
+5. Exclusive: Anthropic's Claude AI model takes on (and beats) human hackers - Axios [5]
+
+6. US agency approves OpenAI, Google, Anthropic for federal AI vendor list - Reuters [6]
+
+7. US adds OpenAI, Google, and Anthropic to list of approved AI vendors for federal agencies - TechCrunch [7]
+
+8. OpenAI education head to students: If you use AI as an answer machine, you are not … - The Times of India [8]
+
+9. OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts - Bloomberg.com [9]
+
+10. OpenAI offers 20 million user chats in ChatGPT lawsuit. NYT wants 120 million. - Ars Technica [10]
+
+Sources:
+[1] https://tinyurl.com/23edhees [2] https://tinyurl.com/229mjzr6 [3] https://tinyurl.com/25r9zwa2 [4] https://tinyurl.com/2dk8hr2o [5] https://tinyurl.com/2xmhc2g2 [6] https://tinyurl.com/28qkzukd [7] https://tinyurl.com/26xucql8 [8] https://tinyurl.com/2byklwzw [9] https://tinyurl.com/2aj6cbsh [10] https://tinyurl.com/27yjcvcl
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 05, 2025
 News
 

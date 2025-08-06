@@ -1,4 +1,65 @@
 
+## 2025-08-06 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic's Claude Opus 4.1 achieves 74.5% on coding benchmarks, leading the AI market, but faces risk as nearly half its $3.1B API revenue depends on just two customers.
+- **Pricing**: Paid
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/)**
+
+---
+
+### 2. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Enterprises can use a powerful, near topline OpenAI LLM on their hardware totally privately and securely, without sending data to the cloud.
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/)**
+
+---
+
+### 3. OpenAI removes ChatGPT feature after private conversations leak to Google search
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI abruptly removed a ChatGPT feature that made conversations searchable on Google, sparking privacy concerns and industry-wide scrutiny of AI data handling.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/)**
+
+---
+
+### 4. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 5. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+
 ## 2025-08-05 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
