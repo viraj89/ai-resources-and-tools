@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 07, 2025
+News
+
+1. Global Venture Capital Flows Into Agentic AI Startups Reach USD 2.8 Bn in Early 2025: Report - Entrepreneur [1]
+
+2. OpenAI led a funding round for a startup that will put an AI agent inside Microsoft Excel - Business Insider [2]
+
+3. OpenAI led a funding round for a startup that will put an AI agent inside Microsoft Excel - Business Insider Africa [3]
+
+4. Anthropic Blocks OpenAI From Using Claude to Test GPT-5 - extremetech.com [4]
+
+5. Anthropic Drops Claude Opus 4.1, Beats OpenAI's o3 on this Key Coding Metric - Maginative [5]
+
+6. Anthropic, Google and OpenAI land GSA contract for governmentwide use - FedScoop [6]
+
+7. OpenAI, Google, Anthropic Become Official US Federal AI Vendors - Mexico Business News [7]
+
+8. Anthropic Unveils Claude Opus 4.1 in Dueling Releases With OpenAI - PYMNTS.com [8]
+
+9. Can a Chatbot be Conscious? Inside Anthropic’s Interpretability Research on Claude 4 - Scientific American [9]
+
+10. Google, OpenAI, and Anthropic's AI services get US nod for potential use in government agencies - MSN [10]
+
+Sources:
+[1] https://tinyurl.com/2dqa7npv [2] https://tinyurl.com/22dbajoo [3] https://tinyurl.com/26sqt8lh [4] https://tinyurl.com/24ogpoax [5] https://tinyurl.com/2d8o6rn2 [6] https://tinyurl.com/2bge74f4 [7] https://tinyurl.com/24l2jun4 [8] https://tinyurl.com/25ov835r [9] https://tinyurl.com/2cnd643a [10] https://tinyurl.com/273hhjx8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 06, 2025
 News
 

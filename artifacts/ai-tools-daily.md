@@ -1,4 +1,65 @@
 
+## 2025-08-07 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic's Claude Opus 4.1 achieves 74.5% on coding benchmarks, leading the AI market, but faces risk as nearly half its $3.1B API revenue depends on just two customers.
+- **Pricing**: Paid
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/)**
+
+---
+
+### 2. For regulated industries, AWS’s neurosymbolic AI promises safe, explainable agent automation
+
+- **Category**: Design / Image Generation
+- **What it does**: AWS is making automated reasoning checks, a feature on Bedrock, generally available to customers to start proving truth in their AI systems.
+- **Pricing**: Paid
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-promises-safe-explainable-agent-automation/)**
+
+---
+
+### 3. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Enterprises can use a powerful, near topline OpenAI LLM on their hardware totally privately and securely, without sending data to the cloud.
+- **Pricing**: Freemium
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/)**
+
+---
+
+### 4. How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks
+
+- **Category**: Search / Research
+- **What it does**: AI-native working allows Genspark to work at “gen speed” and release new products and features in nearly every week.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/)**
+
+---
+
+### 5. The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed
+
+- **Category**: Text / Chat Assistants
+- **What it does**: The verdict, for now, is split. OpenAI’s gpt-oss models are a landmark in terms of licensing and accessibility.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/)**
+
+---
+
+
 ## 2025-08-06 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
