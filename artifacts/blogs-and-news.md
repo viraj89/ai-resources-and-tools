@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 08, 2025
+News
+
+1. Anthropic Bans OpenAI From Using Claude For Training - Dataconomy [1]
+
+2. India’s once red-hot AI startup scene is seeing a marked slowdown in 2025, with angel investments cooling as regulatory pressures mount and investors become more selective. According to data from Traxcn , only $94.8 million was raised across 13 funding r - LinkedIn [2]
+
+3. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [3]
+
+4. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [4]
+
+5. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [5]
+
+6. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Yahoo Finance [6]
+
+7. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [7]
+
+8. OpenAI-Anthropic Rivalry Escalates With New GPT-5, Opus Models - Bloomberg.com [8]
+
+9. ‘A Powerhouse Combination’: AWS Embraces OpenAI & Anthropic - Technology Magazine [9]
+
+10. US adds OpenAI, Google, and Anthropic to list of approved AI vendors for federal agencies - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/2adyrjt4 [2] https://tinyurl.com/29gtrop5 [3] https://tinyurl.com/2dzhvdpq [4] https://tinyurl.com/2cjur7mz [5] https://tinyurl.com/2bbh6jw7 [6] https://tinyurl.com/23uzkucm [7] https://tinyurl.com/26ko6tyh [8] https://tinyurl.com/247s5b6a [9] https://tinyurl.com/2cjgmck2 [10] https://tinyurl.com/26f59r27
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 07, 2025
 News
 
