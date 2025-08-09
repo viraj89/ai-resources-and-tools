@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 09, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [2]
+
+3. Amicus Brief in Bartz v. Anthropic - The Foundation for American Innovation [3]
+
+4. AWS Welcomes OpenAI & Anthropic in ‘Powerhouse Combination’ - Data Centre Magazine [4]
+
+5. $61.5 billion tech giant Anthropic has made a major hiring U-turn—now, it's letting job applicants use AI months after banning it from the interview process - Fortune [5]
+
+6. Anthropic, OpenAI, Google given nod for US contracts - Mobile World Live [6]
+
+7. Anthropic CEO in email to employees on $1 billion signing bonuses by Mark Zuckerberg for joining Meta's A - The Times of India [7]
+
+8. Anthropic Blocks OpenAI API Over GPT-5 Benchmarking Dispute - Mexico Business News [8]
+
+9. Elon Musk says “OpenAI will eat Microsoft alive” as Nadella champions GPT-5 rollout - The Times of India [9]
+
+10. Sam Altman Rewards OpenAI Talent with Surprise Bonuses After Meta Poaches Top AI Engineers - The Hans India [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/23vszsp2 [3] https://tinyurl.com/22nnf6hh [4] https://tinyurl.com/2y8mwu37 [5] https://tinyurl.com/274992nh [6] https://tinyurl.com/2896capy [7] https://tinyurl.com/2ykov6to [8] https://tinyurl.com/22w9d7y7 [9] https://tinyurl.com/2bc7bqme [10] https://tinyurl.com/292pg2e3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 08, 2025
 News
 
