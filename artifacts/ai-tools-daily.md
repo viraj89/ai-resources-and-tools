@@ -1,4 +1,65 @@
 
+## 2025-08-10 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic revenue tied to two customers as AI pricing war threatens margins
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Anthropic faces risks as $5B run rate leans on Cursor and GitHub Copilot as OpenAI’s cheaper GPT‑5 undercuts Claude, spotlighting customer concentration risks and enterprise AI cost pressure.
+- **Pricing**: Paid
+- **Trending Score**: 130.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/)**
+
+---
+
+### 2. ChatGPT users dismayed as OpenAI pulls popular models GPT-4o, o3 and more — enterprise API remains (for now)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI has announced GPT-5 will replace all models on ChatGPT. Many users are mourning the workhorse model.
+- **Pricing**: Freemium
+- **Trending Score**: 100.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/chatgpt-users-dismayed-as-openai-pulls-popular-models-gpt-4o-o3-and-more-enterprise-api-remains-for-now/)**
+
+---
+
+### 3. Black Hat 2025: Why your AI tools are becoming the next insider threat
+
+- **Category**: Code / Developer Tools
+- **What it does**: Black Hat 2025 delivered performance metrics from beta programs and agentic AI deployments, proving results are being delivered over hype.
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/black-hat-2025-how-agentic-ai-is-finally-delivering-real-value/)**
+
+---
+
+### 4. How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks
+
+- **Category**: Search / Research
+- **What it does**: AI-native working allows Genspark to work at “gen speed” and release new products and features nearly every week.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/)**
+
+---
+
+### 5. From terabytes to insights: Real-world AI obervability architecture
+
+- **Category**: Business / Analytics
+- **What it does**: <p><SPAN CLASS="ARTICLELISTING__LABEL"><SPAN CLASS="ARTICLE-TYPE">GUEST:</SPAN></SPAN> Consider maintaining and developing an e-commerce platform that processes millions of transactions every minute, ...
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/)**
+
+---
+
+
 ## 2025-08-09 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

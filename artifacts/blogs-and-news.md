@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 10, 2025
+News
+
+1. AI Startups: What OpenAI, Anthropic Pay Their Technical Staff - PYMNTS.com [1]
+
+2. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [2]
+
+3. OpenAI’s GPT-5 Challenges Claude Opus 4.1, Lags Behind Grok-4 - Analytics India Magazine [3]
+
+4. Anthropic Releases Claude Opus 4.1 With Agentic, Coding and Reasoning Upgrades | AIM - Analytics India Magazine [4]
+
+5. OpenAI's GPT-5 is here and free for all ChatGPT users - Mashable India [5]
+
+6. India’s generative AI startup ecosystem has expanded 3.7X in the past year, crossing 890 ventures, according to a new nasscom report. The study highlights a 2.8X rise in startup formation and a 1.7X jump in patents, with over 83% of companies focusing on a - LinkedIn [6]
+
+7. US firm Zendesk ups LatAm investments to capture momentum in AI agents - BNamericas [7]
+
+8. ChatGPT is banned in this US states along with other AI bots: The reason will make you rethink AI in heal - Times of India [8]
+
+9. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [9]
+
+10. Elon Musk's Tesla shuts down chip unit after losing 20 employees to THIS Indian-origin executive's AI startup - DNA India [10]
+
+Sources:
+[1] https://tinyurl.com/28d72yoo [2] https://tinyurl.com/25rgys5l [3] https://tinyurl.com/2ya9tpvu [4] https://tinyurl.com/273gf7z5 [5] https://tinyurl.com/248go6hs [6] https://tinyurl.com/26jm6b34 [7] https://tinyurl.com/2b4nl3er [8] https://tinyurl.com/255hxoqq [9] https://tinyurl.com/ypgeekym [10] https://tinyurl.com/28frgnxe
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 09, 2025
 News
 
