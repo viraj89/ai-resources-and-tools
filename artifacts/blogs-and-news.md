@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 11, 2025
+News
+
+1. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - WSJ - The Wall Street Journal [1]
+
+2. Sam Altman on Elon Musk: All day he does is tweeting, 'how much OpenAI sucks, our model is bad and ... - Times of India [2]
+
+3. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [3]
+
+4. Anthropic Establishes Korean Subsidiary, Following OpenAI’s Recent Entry - Businesskorea [4]
+
+5. Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - BleepingComputer [5]
+
+6. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - WSJ - The Wall Street Journal [6]
+
+7. 'Global-first' Indian-origin AI startups rake in moolah - Times of India [7]
+
+8. OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI - TechCrunch [8]
+
+9. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - WSJ - The Wall Street Journal [9]
+
+10. The AI Mafia: Talent Migration and Valuation Trends Reshaping Venture Capital in Frontier AI Startups - AInvest [10]
+
+Sources:
+[1] https://tinyurl.com/2adaxsy9 [2] https://tinyurl.com/29uso7ar [3] https://tinyurl.com/27osy9mc [4] https://tinyurl.com/2afxk8b7 [5] https://tinyurl.com/2af2cm37 [6] https://tinyurl.com/2dlfphsg [7] https://tinyurl.com/28bzqe4m [8] https://tinyurl.com/ysyfbnt5 [9] https://tinyurl.com/2yhupkmk [10] https://tinyurl.com/252hpy5g
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 10, 2025
 News
 
