@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 12, 2025
+News
+
+1. Exclusive: OpenAI Secures Another Giant Funding Deal - The New York Times [1]
+
+2. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [3]
+
+4. OpenAI Rolls Out GPT-5 to All Users, Calling It a Leap Toward “General Intelligence” - The Indian EYE [4]
+
+5. Users unhappy with GPT-5, OpenAI restores access to GPT-4o - The American Bazaar [5]
+
+6. Temasek's Potential $100M Investment in AI Startup CuspAI - News and Statistics - IndexBox [6]
+
+7. Wall Street and AI startups are fighting over entry-level quants - Business Standard [7]
+
+8. AI startups bridging the gap: from research breakthroughs to real-world impact - The Official Microsoft Blog [8]
+
+9. 10 Top Embodied AI Startups and Companies to Watch in 2026 - StartUs Insights [9]
+
+10. 10 Top Quantum AI Startups and Companies to Watch in 2026 - StartUs Insights [10]
+
+Sources:
+[1] https://tinyurl.com/22oc56j3 [2] https://tinyurl.com/24m7gkjf [3] https://tinyurl.com/26vmcbrq [4] https://tinyurl.com/222g3fhg [5] https://tinyurl.com/27xcvp4o [6] https://tinyurl.com/23q2gpfg [7] https://tinyurl.com/22rbkqtk [8] https://tinyurl.com/2ynarabl [9] https://tinyurl.com/25wvgd8u [10] https://tinyurl.com/28jmtzat
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 11, 2025
 News
 
