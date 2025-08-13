@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 13, 2025
+News
+
+1. After OpenAI, Anthropic offers AI chatbot Claude to US government for $1 - Times of India [1]
+
+2. Chris O’Dowd Joins Andrew Garfield in Luca Guadagnino’s OpenAI Movie ‘Artificial’ (Exclusive) - The Hollywood Reporter [2]
+
+3. OpenAI may have just fired a 'warning shot' at Indian IT companies' revenue model, says analyst note; but - Times of India [3]
+
+4. Elon Musk Says Grok Will Be Fixed After Chatbot Sided With Sam Altman In Spat Over Potential OpenAI Lawsuit - Forbes [4]
+
+5. Anthropic faces setback in authors’ lawsuit ahead of UMG copyright battle: ‘If Anthropic loses big it will be because what it did was also big.’ - Music Business Worldwide [5]
+
+6. Anthropic matches OpenAI $1 deal for US government - Constellation Research [6]
+
+7. Anthropic Gives Claude To US Government For $1 As OpenAI, Others Vie For Federal Influence - Benzinga [7]
+
+8. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [8]
+
+9. A copyright lawsuit over pirated books could result in ‘business-ending’ damages for Anthropic - Fortune [9]
+
+10. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/2ao55o6t [2] https://tinyurl.com/2arjbhqp [3] https://tinyurl.com/27pcq8oy [4] https://tinyurl.com/24933tpu [5] https://tinyurl.com/2959cq37 [6] https://tinyurl.com/2894cuw8 [7] https://tinyurl.com/22zgnjru [8] https://tinyurl.com/23fhx53s [9] https://tinyurl.com/2cd3ln9m [10] https://tinyurl.com/2a5tm7nf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 12, 2025
 News
 

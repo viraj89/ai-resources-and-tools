@@ -1,4 +1,65 @@
 
+## 2025-08-13 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI adds new ChatGPT third-party tool connectors to Dropbox, MS Teams as Altman clarifies GPT-5 prioritization
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI is positioning GPT-5 not only as a more powerful AI model but also as part of a more connected workspace.
+- **Pricing**: Paid
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-adds-new-chatgpt-third-party-tool-connectors-to-dropbox-ms-teams-as-altman-clarifies-gpt-5-prioritization/)**
+
+---
+
+### 2. Salesforce’s new CoAct-1 agents don’t just point and click — they write code to accomplish tasks faster and with greater success rates
+
+- **Category**: Code / Developer Tools
+- **What it does**: CoAct-1 is an AI agent that combines GUI control with on-the-fly coding, making computer automation more robust and efficient.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforces-new-coact-1-agents-dont-just-point-and-click-they-write-code-to-accomplish-tasks-faster-and-with-greater-success-rates/)**
+
+---
+
+### 3. Liquid AI wants to give smartphones small, fast AI that can see with new LFM2-VL model
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Liquid AI has described this license as based on Apache 2.0 principles, but the full text has not yet been published.
+- **Pricing**: Paid
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/liquid-ai-wants-to-give-smartphones-small-fast-ai-that-can-see-with-new-lfm2-vl-model/)**
+
+---
+
+### 4. OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again
+
+- **Category**: Text / Chat Assistants
+- **What it does**: For now, the changes should help placate users who felt frustrated by the sudden shift to GPT-5 and deprecation of OpenAI's older LLMs.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/)**
+
+---
+
+### 5. TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams
+
+- **Category**: Search / Research
+- **What it does**: TD Securities rolled out an AI assistant for its equity sales and research teams. The goal is to bring assistants and agents throughout the bank.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/td-securities-taps-layer-6-and-openai-to-deliver-real-time-equity-insights-to-sales-and-trading-teams/)**
+
+---
+
+
 ## 2025-08-12 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
