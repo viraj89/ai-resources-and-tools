@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 14, 2025
+News
+
+1. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [1]
+
+2. Elon Musk threatens Apple with lawsuit over OpenAI, sparking Sam Altman feud - The Guardian [2]
+
+3. Elon Musk Threatens Lawsuit Against Apple Over Claims It Favors OpenAI - The New York Times [3]
+
+4. US Adds OpenAI, Google, Anthropic to Approved Federal AI Vendor List - CDO Magazine [4]
+
+5. Anthropic's $1 AI Offer Extends to All US Government Branches—How Does It Compare to OpenAI's Deal? - KnowTechie [5]
+
+6. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [6]
+
+7. BitTorrent downloads may be factor in Anthropic music lawsuit - Music Ally [7]
+
+8. Exclusive: Anthropic's Claude AI model takes on (and beats) human hackers - Axios [8]
+
+9. Anthropic Expands Claude’s Memory to 1 Million Tokens, Offers AI to All US Government Branches for $1 - The Hans India [9]
+
+10. Major Music Publishers Seek to Dramatically Expand Their Anthropic Lawsuit Based on Damning New Evidence - Digital Music News [10]
+
+Sources:
+[1] https://tinyurl.com/2dk8hr2o [2] https://tinyurl.com/2d5s32aa [3] https://tinyurl.com/2chorx2l [4] https://tinyurl.com/25othvk9 [5] https://tinyurl.com/2a7c3kh2 [6] https://tinyurl.com/29b73pd3 [7] https://tinyurl.com/25n5vzab [8] https://tinyurl.com/2xmhc2g2 [9] https://tinyurl.com/237gvfvw [10] https://tinyurl.com/2bla6pp5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 13, 2025
 News
 
