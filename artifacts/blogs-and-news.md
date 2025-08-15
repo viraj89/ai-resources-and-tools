@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 15, 2025
+News
+
+1. Exclusive: Two MIT dropouts raised $21 million for their AI startup that does legacy businesses’ grunt work - Fortune [1]
+
+2. Music publishers want to amend Anthropic lawsuit because of pirated lyrics - completemusicupdate.com [2]
+
+3. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [3]
+
+4. US agency approves OpenAI, Google, Anthropic for federal AI vendor list - Reuters [4]
+
+5. Forget Ray-Ban Meta — HTC just unveiled Vive Eagle smart glasses that look like a stylish AI breakthrough - Tom's Guide [5]
+
+6. The $500M AI Startup Taking on OpenAI--And Winning Where It Hurts Most - GuruFocus [6]
+
+7. Can a Chatbot be Conscious? Inside Anthropic’s Interpretability Research on Claude 4 - Scientific American [7]
+
+8. AI Agents: The Game-changing Generative AI Use Case - American Banker [8]
+
+9. $5.3 billion Abridge is eyeing acquisitions. Here's what the healthcare AI startup is looking for. - Business Insider [9]
+
+10. What the 'frustrated' CEO of the AI startup whose 24-year-old founder left to join Mark Zuckerberg at $25 - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/22tv8c7e [2] https://tinyurl.com/28fe5gev [3] https://tinyurl.com/2247eanb [4] https://tinyurl.com/28qkzukd [5] https://tinyurl.com/2dhkg9ry [6] https://tinyurl.com/2d266m3j [7] https://tinyurl.com/2cnd643a [8] https://tinyurl.com/2dcfo2u7 [9] https://tinyurl.com/2cjap6al [10] https://tinyurl.com/2bvonbnc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 14, 2025
 News
 
