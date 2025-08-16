@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 16, 2025
+News
+
+1. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [1]
+
+2. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [2]
+
+3. Meta's AI Governance Crisis: A Reckoning with Ethics, Regulation, and Investor Trust - AInvest [3]
+
+4. The woman who beat OpenAI's DALL-E and Midjourney: Meet Anna Veronika Dorogush of Recraft - Tech Funding News [4]
+
+5. 'Q2T3' Is the 'Freakish' New Growth Benchmark for AI Startups - Business Insider [5]
+
+6. Igor Babuschkin, co-founder of Elon Musk's AI startup, xAI resigns; shares a long 'last day thanks note' - Times of India [6]
+
+7. OpenAI's $500B Valuation and Talent Retention Strategy: A New Era for AI Startups? - AInvest [7]
+
+8. ACTAI Asia Pacific Summit backs AI startups for sustainability - CFOtech Asia [8]
+
+9. “Seed-Strapped” AI Startups Are Refusing Millions— To Make Billions - Forbes [9]
+
+10. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2dzhvdpq [2] https://tinyurl.com/27jpt3lv [3] https://tinyurl.com/27ql7nsn [4] https://tinyurl.com/2yt56phk [5] https://tinyurl.com/23uy4g98 [6] https://tinyurl.com/2xq4sa6t [7] https://tinyurl.com/27xudmbk [8] https://tinyurl.com/22zesxer [9] https://tinyurl.com/yks7ls62 [10] https://tinyurl.com/29gcbalo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 15, 2025
 News
 
