@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 17, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [2]
+
+3. OpenAI CEO Sam Altman: I don't use Google anymore, I cannot tell you ... - Times of India [3]
+
+4. After special $100 million bonuses and 'warning', OpenAI allows employees to sell $6 billion in stock to - Times of India [4]
+
+5. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [5]
+
+6. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [6]
+
+7. Short: India’s Startup Funding Surges 38%: Healthtech, AI, and IPO Momentum Lead the Charge - TICE News [7]
+
+8. More than technology: what investors look for in AI startups - ioplus.nl [8]
+
+9. Exclusive | Billions Flow to New Hedge Funds Focused on AI-Related Bets - The Wall Street Journal [9]
+
+10. Venture capital financing: A beginner’s guide to VC funding in the crypto space - Cointelegraph [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2bhpzdz9 [3] https://tinyurl.com/29wl4udq [4] https://tinyurl.com/2555fede [5] https://tinyurl.com/2bbh6jw7 [6] https://tinyurl.com/227985cs [7] https://tinyurl.com/2aapwycd [8] https://tinyurl.com/2c87nvh5 [9] https://tinyurl.com/286fshxt [10] https://tinyurl.com/2afuo897
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 16, 2025
 News
 
