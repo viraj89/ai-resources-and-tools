@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 18, 2025
+News
+
+1. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [1]
+
+2. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [2]
+
+3. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [3]
+
+4. Why Indian AI Startups Achieve Recognition But Struggle to Scale-up - Analytics India Magazine [4]
+
+5. AI Series: Former OpenAI employees drive billion-dollar AI startups - Seeking Alpha [5]
+
+6. Citigroup Ups Focus on Privately-Held AI Startups - PYMNTS.com [6]
+
+7. Meet the LP: British Business Bank - Venture Capital Journal [7]
+
+8. Exclusive: Hamilton Lane raises $615.3M for first VC fund - Axios [8]
+
+9. Venture capital is scarce in Alaska. A business professor in Fairbanks hopes to change that. - Alaska Public Media [9]
+
+10. How Dr. Rania Saleh disrupted dentistry without coding skills or VC funding - The Business Journals [10]
+
+Sources:
+[1] https://tinyurl.com/2cul9ek5 [2] https://tinyurl.com/2y6wc8yb [3] https://tinyurl.com/ypgeekym [4] https://tinyurl.com/259orevp [5] https://tinyurl.com/24mqhkht [6] https://tinyurl.com/22kemf3r [7] https://tinyurl.com/255y734e [8] https://tinyurl.com/27a6kaku [9] https://tinyurl.com/2djmp32j [10] https://tinyurl.com/2728tj7v
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 17, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-08-18 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers
+
+- **Category**: Code / Developer Tools
+- **What it does**: Anthropic launches learning modes for Claude AI that guide users through step-by-step reasoning instead of providing direct answers, intensifying competition with OpenAI and Google in the booming AI e...
+- **Pricing**: Paid
+- **Trending Score**: 110.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/)**
+
+---
+
+### 2. Google adds limited chat personalization to Gemini, trails Anthropic and OpenAI in memory features
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Google updated the Gemini app running of Gemini 2.5 Pro to reference all historical chats and offer new temporary chats.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-adds-limited-chat-personalization-to-gemini-trails-anthropic-and-openai-in-memory-features/)**
+
+---
+
+### 3. Teaching the model: Designing LLM feedback loops that get smarter over time
+
+- **Category**: Design / Image Generation
+- **What it does**: How to close the loop between user behavior and LLM performance, and why human-in-the-loop systems are still essential in the age of gen AI.
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/)**
+
+---
+
+### 4. Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: While OpenAI’s GPT-5 is highly-performant, capable and an important step forward, it features just faint glimmers of true agentic AI. 
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/)**
+
+---
+
+### 5. OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again
+
+- **Category**: Text / Chat Assistants
+- **What it does**: For now, the changes should help placate users who felt frustrated by the sudden shift to GPT-5 and deprecation of OpenAI's older LLMs.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/)**
+
+---
+
+
 ## 2025-08-17 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
