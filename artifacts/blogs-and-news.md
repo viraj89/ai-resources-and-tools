@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 19, 2025
+News
+
+1. OpenAI's Greg Brockman Says It's Not Too Late to Build AI Startups - Business Insider [1]
+
+2. AI Startups Should Focus on Practical Integrations, Says OpenAI's Greg Brockman - News and Statistics - IndexBox [2]
+
+3. Anthropic, seeing voracious demand for shares, is clamping down on a certain kind of investment - Business Insider [3]
+
+4. Anthropic Gives Claude the Ability to Exit Abusive Conversations - Analytics India Magazine [4]
+
+5. OpenAI-rival Anthropic sets limits on how investors can participate in upcoming $5 billion fundraise - The Times of India [5]
+
+6. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [6]
+
+7. Anthropic’s Claude AI will now cut off abusive chats with users for its own ‘welfare’ - The Indian Express [7]
+
+8. Cohere banks USD 500 mln in new funding round at near-USD 7 bln valuation - Telecompaper [8]
+
+9. Mistral eyes a $1B fundraise. Can France’s AI unicorn outpace OpenAI, Anthropic, and Google? - Tech Funding News [9]
+
+10. Struggling Intel gets $2 billion investment from SoftBank amid AI push - OregonLive.com [10]
+
+Sources:
+[1] https://tinyurl.com/2a7akfnz [2] https://tinyurl.com/2cfytqlv [3] https://tinyurl.com/26v9j2oc [4] https://tinyurl.com/28dv8l9d [5] https://tinyurl.com/26epuarn [6] https://tinyurl.com/28yv4r5r [7] https://tinyurl.com/25m239ak [8] https://tinyurl.com/227xww9l [9] https://tinyurl.com/22zkt9je [10] https://tinyurl.com/282qehaq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 18, 2025
 News
 

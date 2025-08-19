@@ -1,4 +1,65 @@
 
+## 2025-08-19 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Teaching the model: Designing LLM feedback loops that get smarter over time
+
+- **Category**: Design / Image Generation
+- **What it does**: How to close the loop between user behavior and LLM performance, and why human-in-the-loop systems are still essential in the age of gen AI.
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/)**
+
+---
+
+### 2. Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: While OpenAI’s GPT-5 is highly-performant, capable and an important step forward, it features just faint glimmers of true agentic AI. 
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/)**
+
+---
+
+### 3. TensorZero nabs $7.3M seed to solve the messy world of enterprise LLM development
+
+- **Category**: Text / Chat Assistants
+- **What it does**: TensorZero raises $7.3 million to build an open-source AI infrastructure stack that helps enterprises scale and optimize large language model (LLM) applications with unified tools for observability, f...
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tensorzero-nabs-7-3m-seed-to-solve-the-messy-world-of-enterprise-llm-development/)**
+
+---
+
+### 4. Hugging Face: 5 ways enterprises can slash AI costs without sacrificing performance
+
+- **Category**: Design / Image Generation
+- **What it does**: Ultimately, model makers and enterprises are focusing on the wrong issue: They should be computing smarter, not harder.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/hugging-face-5-ways-enterprises-can-slash-ai-costs-without-sacrificing-performance/)**
+
+---
+
+### 5. Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones
+
+- **Category**: Code / Developer Tools
+- **What it does**: For enterprise teams and commercial developers, this means the model can be embedded in products or fine-tuned.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/)**
+
+---
+
+
 ## 2025-08-18 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
