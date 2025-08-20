@@ -1,4 +1,65 @@
 
+## 2025-08-20 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. DeepSeek V3.1 just dropped — and it might be the most powerful open AI yet
+
+- **Category**: Other
+- **What it does**: China's DeepSeek has released a 685-billion parameter open-source AI model, DeepSeek V3.1, challenging OpenAI and Anthropic with breakthrough performance, hybrid reasoning, and zero-cost access on Hug...
+- **Pricing**: Freemium
+- **Trending Score**: 110.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/deepseek-v3-1-just-dropped-and-it-might-be-the-most-powerful-open-ai-yet/)**
+
+---
+
+### 2. Stop benchmarking in the lab: Inclusion Arena shows how LLMs perform in production
+
+- **Category**: Search / Research
+- **What it does**: Researchers from Inclusion AI and Ant Group proposed a new LLM leaderboard that takes its data from real, in-production apps.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/)**
+
+---
+
+### 3. TensorZero nabs $7.3M seed to solve the messy world of enterprise LLM development
+
+- **Category**: Text / Chat Assistants
+- **What it does**: TensorZero raises $7.3 million to build an open-source AI infrastructure stack that helps enterprises scale and optimize large language model (LLM) applications with unified tools for observability, f...
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tensorzero-nabs-7-3m-seed-to-solve-the-messy-world-of-enterprise-llm-development/)**
+
+---
+
+### 4. Hugging Face: 5 ways enterprises can slash AI costs without sacrificing performance
+
+- **Category**: Design / Image Generation
+- **What it does**: Ultimately, model makers and enterprises are focusing on the wrong issue: They should be computing smarter, not harder.
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/hugging-face-5-ways-enterprises-can-slash-ai-costs-without-sacrificing-performance/)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2025-08-19 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

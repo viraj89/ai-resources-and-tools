@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 20, 2025
+News
+
+1. OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India - Bloomberg.com [1]
+
+2. Exclusive: OpenAI Secures Another Giant Funding Deal - The New York Times [2]
+
+3. SoftBank’s big $2 billion investment in Intel showcases Masayoshi Son’s aggressive AI push - Fortune India [3]
+
+4. OpenAI Launches Cheap ChatGPT Go Plan for Indian Users - Thurrott.com [4]
+
+5. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [5]
+
+6. Antler accelerates AI innovation with $ 2.8 million funding for AI startups - FutureCIO [6]
+
+7. OpenAI co-founder says it is still not too late to build new AI startup despite all the competition - India Today [7]
+
+8. Why AI Startups Can't Scale Without Community - International Business Times [8]
+
+9. Greg Brockman Urges Entrepreneurs: It’s Not Too Late to Build AI Startups That Truly Matter - The Hans India [9]
+
+10. Boundless Ventures Launches INR 200 Cr Fund to Back Indian Early-Stage AI Startups - Entrepreneur [10]
+
+Sources:
+[1] https://tinyurl.com/2dlntlj9 [2] https://tinyurl.com/22oc56j3 [3] https://tinyurl.com/2ypy8bk5 [4] https://tinyurl.com/29p6evku [5] https://tinyurl.com/25p55uej [6] https://tinyurl.com/2anuau6q [7] https://tinyurl.com/2d22qyp2 [8] https://tinyurl.com/29ktwet2 [9] https://tinyurl.com/27tte9sj [10] https://tinyurl.com/2caldzfe
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 19, 2025
 News
 
