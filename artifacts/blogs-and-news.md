@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 21, 2025
+News
+
+1. Elon Musk Says Grok Will Be Fixed After Chatbot Sided With Sam Altman In Spat Over Potential OpenAI Lawsuit - Forbes [1]
+
+2. Neural Dispatch: Anthropic tokens, Perplexity’s Chrome play and using the Ray-Ban Meta AI glasses - Hindustan Times [2]
+
+3. A copyright lawsuit over pirated books could result in ‘business-ending’ damages for Anthropic - Fortune [3]
+
+4. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [4]
+
+5. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [5]
+
+6. Large Language Model Market Surges to $36.1 billion by 2030 - Dominated by Google (US), OpenAI (US), Anthropic (US) - Yahoo Finance [6]
+
+7. Large Language Model Market Surges to $36.1 billion by 2030 - Dominated by Google (US), OpenAI (US), Anthropic (US) - ca.finance.yahoo.com [7]
+
+8. 3 Billion AI Interactions: Bank of America's Erica Now Handles 58M Customer Queries Monthly - Stock Titan [8]
+
+9. As Funding To AI Startups Increases And Concentrates, Which Investors Have Led? - Crunchbase News [9]
+
+10. How an Ohio insurance giant is building innovative AI startups - Crain's Cleveland Business [10]
+
+Sources:
+[1] https://tinyurl.com/24933tpu [2] https://tinyurl.com/2b484fl8 [3] https://tinyurl.com/2cd3ln9m [4] https://tinyurl.com/2dfdjk6h [5] https://tinyurl.com/2a5tm7nf [6] https://tinyurl.com/299c8lvd [7] https://tinyurl.com/29qh4mvq [8] https://tinyurl.com/278gav6p [9] https://tinyurl.com/2csmrfo7 [10] https://tinyurl.com/23kf5o4x
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 20, 2025
 News
 
