@@ -1,4 +1,65 @@
 
+## 2025-08-22 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. CodeSignal’s new AI tutoring app Cosmo wants to be the ‘Duolingo for job skills’
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>CodeSignal Inc., the San Francisco-based skills assessment platform trusted by Netflix, Meta, and Capital One, launched Cosmo on Wednesday, a mobile learning application that transforms spare minut...
+- **Pricing**: Freemium
+- **Trending Score**: 120.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/codesignals-new-ai-tutoring-app-cosmo-wants-to-be-the-duolingo-for-job-skills/)**
+
+---
+
+### 2. DeepSeek V3.1 just dropped — and it might be the most powerful open AI yet
+
+- **Category**: Other
+- **What it does**: China's DeepSeek has released a 685-billion parameter open-source AI model, DeepSeek V3.1, challenging OpenAI and Anthropic with breakthrough performance, hybrid reasoning, and zero-cost access on Hug...
+- **Pricing**: Freemium
+- **Trending Score**: 110.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/deepseek-v3-1-just-dropped-and-it-might-be-the-most-powerful-open-ai-yet/)**
+
+---
+
+### 3. Stop benchmarking in the lab: Inclusion Arena shows how LLMs perform in production
+
+- **Category**: Search / Research
+- **What it does**: Researchers from Inclusion AI and Ant Group proposed a new LLM leaderboard that takes its data from real, in-production apps.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/)**
+
+---
+
+### 4. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 5. Inside Walmart’s AI security stack: How a startup mentality is hardening enterprise-scale defense
+
+- **Category**: Code / Developer Tools
+- **What it does**: Walmart CISO Jerry Geisler on securing agentic AI, modernizing identity, and Zero Trust for enterprise-scale cybersecurity resilience.
+- **Pricing**: Paid
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/)**
+
+---
+
+
 ## 2025-08-21 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

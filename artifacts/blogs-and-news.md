@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 22, 2025
+News
+
+1. OpenAI’s ₹399 Wake Up Call for Indian AI Startups - Analytics India Magazine [1]
+
+2. Exclusive: Whitestone REIT may face board challenge by hedge fund Emmett Investment, sources say - Reuters [2]
+
+3. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [3]
+
+4. Exclusive | The Man Behind Bank of America’s $13 Billion Tech Agenda - The Wall Street Journal [4]
+
+5. Exclusive: OpenAI's chief people officer to depart, company says - Reuters [5]
+
+6. Elon Musk threatens Apple with lawsuit over OpenAI, sparking Sam Altman feud - The Guardian [6]
+
+7. Exclusive-OpenAI's chief people officer to depart, company says - Yahoo Finance [7]
+
+8. AI start-up Anthropic in talks to raise US$10 billion in new funding - South China Morning Post [8]
+
+9. Exclusive-OpenAI's Chief People Officer to Depart, Company Says - US News Money [9]
+
+10. OpenAI Launches Cheaper Subscription Tier for Indian Users - The Information [10]
+
+Sources:
+[1] https://tinyurl.com/2xkkbht6 [2] https://tinyurl.com/24o2qcmd [3] https://tinyurl.com/2dk8hr2o [4] https://tinyurl.com/2bw9r3mv [5] https://tinyurl.com/2ads6xlp [6] https://tinyurl.com/2d5s32aa [7] https://tinyurl.com/298n39vk [8] https://tinyurl.com/25rh9n2k [9] https://tinyurl.com/24hljkz4 [10] https://tinyurl.com/28q8qm85
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 21, 2025
 News
 
