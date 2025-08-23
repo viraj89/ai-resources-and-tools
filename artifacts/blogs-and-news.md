@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 23, 2025
+News
+
+1. Exclusive | The Man Behind Bank of America’s $13 Billion Tech Agenda - The Wall Street Journal [1]
+
+2. Investors warn AI FOMO could be fueling a risky bubble in companies like OpenAI and Anthropic - Business Insider [2]
+
+3. OpenAI sets up India unit, begins local hiring in AI overdrive - Hindustan Times [3]
+
+4. OpenAI and Anthropic clamp down on investment vehicles - Financial Times [4]
+
+5. Exclusive: OpenAI, Retro Bio detail lab results with AI protein model, plan use in drug program - Endpoints News [5]
+
+6. OpenAI CEO Sam Altman says: A lot of people are glad that I have a kid, because they think now I will… - The Times of India [6]
+
+7. Elon Musk approached Meta CEO Mark Zuckerberg with $97 billion plan to buy OpenAI, claims company - The Indian Express [7]
+
+8. Apple In Talks With Google’s To Use Its Gemini AI Model For The Revamped Siri, Making It The Third Company After OpenAI & Anthropic - Wccftech [8]
+
+9. OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic - VentureBeat [9]
+
+10. OpenAI Says Elon Musk Wanted Mark Zuckerberg to Join Acquisition Attempt - PYMNTS.com [10]
+
+Sources:
+[1] https://tinyurl.com/223k3yfr [2] https://tinyurl.com/23aykade [3] https://tinyurl.com/22jycm69 [4] https://tinyurl.com/26pgsfgt [5] https://tinyurl.com/245pfaeu [6] https://tinyurl.com/2bqrtzox [7] https://tinyurl.com/29x84qf9 [8] https://tinyurl.com/26clev8b [9] https://tinyurl.com/2yg6xb23 [10] https://tinyurl.com/27hccqtx
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 22, 2025
 News
 

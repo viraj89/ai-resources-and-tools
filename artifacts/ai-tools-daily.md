@@ -1,4 +1,65 @@
 
+## 2025-08-23 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. MCP-Universe benchmark shows GPT-5 fails more than half of real-world orchestration tasks
+
+- **Category**: Search / Research
+- **What it does**: A new benchmark from Salesforce research evaluates model and agentic performance on real-life enterprise tasks.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-half-of-real-world-orchestration-tasks/)**
+
+---
+
+### 2. OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic
+
+- **Category**: Code / Developer Tools
+- **What it does**: The open source framework provides the data and training recipe for building powerful computer-use agents that challenge proprietary systems.
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/)**
+
+---
+
+### 3. Meta is partnering with Midjourney and will license its technology for ‘future models and products’
+
+- **Category**: Design / Image Generation
+- **What it does**: Details are scarce on how much if any money is involved. And what does it mean for Midjourney's previously announced plans for an enterprise API?
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/meta-is-partnering-with-midjourney-and-will-license-its-technology-for-future-models-and-products/)**
+
+---
+
+### 4. Don’t sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more
+
+- **Category**: Presentations
+- **What it does**: It looks to be a strong release. Benchmarks, technical specs, and early tests suggest the model delivers on flexibility, efficiency, and raw
+- **Pricing**: Paid
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2025-08-22 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
