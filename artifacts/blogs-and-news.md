@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 24, 2025
+News
+
+1. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [1]
+
+2. Exclusive | The Man Behind Bank of America’s $13 Billion Tech Agenda - The Wall Street Journal [2]
+
+3. Andrew Ng says the real bottleneck in AI startups isn't coding — it's product management - Business Insider [3]
+
+4. ‘How did Delhi beat Bengaluru?’: Desis call OpenAI’s 1st India office location ‘sus’ - Hindustan Times - Hindustan Times [4]
+
+5. OpenAI sets foot in India: Office location, launch date, govt collab | Details - Hindustan Times [5]
+
+6. AI startup Anthropic plans to raise up to $10B in new funding round: report - Seeking Alpha [6]
+
+7. Anthropic Taps New General Counsel Amid AI Firm’s Funding Push - Bloomberg Law News [7]
+
+8. Exclusive | Anthropic’s Quiet Edge in the AI Talent War - The Wall Street Journal [8]
+
+9. Exclusive: Anthropic's Claude AI model takes on (and beats) human hackers - Axios [9]
+
+10. $10B for OpenAI rival? Anthropic to double funding, surpassing the initial $5B target - Tech Funding News [10]
+
+Sources:
+[1] https://tinyurl.com/2dzhvdpq [2] https://tinyurl.com/yntvkuq9 [3] https://tinyurl.com/28qtcopb [4] https://tinyurl.com/2x4aww8h [5] https://tinyurl.com/yqmn2wuy [6] https://tinyurl.com/yqj8u6a5 [7] https://tinyurl.com/yk9ppdsg [8] https://tinyurl.com/2x6yjczf [9] https://tinyurl.com/2xmhc2g2 [10] https://tinyurl.com/yqe44wdb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 23, 2025
 News
 
