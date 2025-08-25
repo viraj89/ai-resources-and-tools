@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 25, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Exclusive | The Man Behind Bank of America’s $13 Billion Tech Agenda - The Wall Street Journal [2]
+
+3. Anthropic Adds Claude Code and Compliance Tools to Business Plans - Analytics India Magazine [3]
+
+4. Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch - BleepingComputer [4]
+
+5. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [5]
+
+6. AI Startups That Focus Small Are Winning Big - Forbes [6]
+
+7. Exclusive: Two MIT dropouts raised $21 million for their AI startup that does legacy businesses’ grunt work - Fortune [7]
+
+8. Databricks, among Silicon Valley’s hottest AI startups, is set to cinch a US$100 billion valuation with Canada in tow - Financial Post [8]
+
+9. $5.3 billion Abridge is eyeing acquisitions. Here's what the healthcare AI startup is looking for. - Business Insider [9]
+
+10. How five AI startups are strategizing around Epic’s big push - Modern Healthcare [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2yy6afu8 [3] https://tinyurl.com/2452jlwk [4] https://tinyurl.com/2af2cm37 [5] https://tinyurl.com/296gu3sj [6] https://tinyurl.com/23omyevg [7] https://tinyurl.com/22tv8c7e [8] https://tinyurl.com/2cjo4lup [9] https://tinyurl.com/2cjap6al [10] https://tinyurl.com/26ymyswd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 24, 2025
 News
 
