@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 26, 2025
+News
+
+1. Enterprise supply chain planning platform Enmovil has raised $6 million in a funding round led by Sorin Investments, the early-stage venture capital firm cofounded by Sanjay Nayar (former KKR India chief) and Angad Banga (CEO of Caravel Group). The roun - LinkedIn [1]
+
+2. Musk’s AI startup sues OpenAI and Apple over anticompetitive conduct - The Guardian [2]
+
+3. Elon Musk accuses Apple and OpenAI of stifling AI competition in antitrust lawsuit - CBS News [3]
+
+4. Elon Musk accuses Apple and OpenAI of stifling AI competition in antitrust lawsuit - AP News [4]
+
+5. Elon Musk vs big tech: xAI sues Apple, OpenAI; billionaire accuses rivals of monopoly deal - Times of India [5]
+
+6. Elon Musk’s xAI Files Antitrust Lawsuit Against Apple and OpenAI - PYMNTS.com [6]
+
+7. Elon Musk accuses Apple and OpenAI of ‘conspiring’ to suppress his rival AI chatbot Grok in antitrust lawsuit - The Independent [7]
+
+8. Elon Musk’s xAI Files Lawsuit Against AAPL and OpenAI over Antitrust Claims - TipRanks [8]
+
+9. Elon Musk accuses Apple, OpenAI of stifling AI competition in antitrust lawsuit - NBC Bay Area [9]
+
+10. Apple and OpenAI face lawsuit from Elon Musk’s xAI over stifling AI competition - Interesting Engineering [10]
+
+Sources:
+[1] https://tinyurl.com/2bxll24c [2] https://tinyurl.com/25fv5rz2 [3] https://tinyurl.com/23rymfv4 [4] https://tinyurl.com/2a3lbgse [5] https://tinyurl.com/26fk69pm [6] https://tinyurl.com/273684cv [7] https://tinyurl.com/2bkcd6jm [8] https://tinyurl.com/297gblof [9] https://tinyurl.com/25vy5dmq [10] https://tinyurl.com/25kokwt5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 25, 2025
 News
 
