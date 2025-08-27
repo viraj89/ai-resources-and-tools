@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 27, 2025
+News
+
+1. Best Generative AI Startups in India | Emerging Tech Leaders 2025 - Business Outreach [1]
+
+2. OpenAI's Greg Brockman Says It's Not Too Late to Build AI Startups - Business Insider [2]
+
+3. Exclusive | The Man Behind Bank of America’s $13 Billion Tech Agenda - The Wall Street Journal [3]
+
+4. Elon Musk accuses Apple and OpenAI of stifling AI competition in antitrust lawsuit - Yahoo Finance [4]
+
+5. OpenAI announces education push in India, hires second India employee - The Hindu [5]
+
+6. The first known AI wrongful death lawsuit accuses OpenAI of enabling a teen's suicide - Engadget [6]
+
+7. OpenAI expands education push in India with licenses and local partnerships - Mint [7]
+
+8. Elon Musk’s xAI sues Apple and OpenAI over stifling AI competition in antitrust lawsuit - Euronews.com [8]
+
+9. Anthropic, seeing voracious demand for shares, is clamping down on a certain kind of investment - Business Insider [9]
+
+10. Anthropic reaches a settlement over authors' class-action piracy lawsuit - Yahoo News Australia [10]
+
+Sources:
+[1] https://tinyurl.com/27pl6r98 [2] https://tinyurl.com/2a7akfnz [3] https://tinyurl.com/2yf2mulc [4] https://tinyurl.com/267rqxbq [5] https://tinyurl.com/29ujhkog [6] https://tinyurl.com/2co69dx7 [7] https://tinyurl.com/276zlvum [8] https://tinyurl.com/2aaev5xy [9] https://tinyurl.com/26v9j2oc [10] https://tinyurl.com/2bkal7hh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 26, 2025
 News
 

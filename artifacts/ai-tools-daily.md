@@ -1,4 +1,65 @@
 
+## 2025-08-27 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. MCP-Universe benchmark shows GPT-5 fails more than half of real-world orchestration tasks
+
+- **Category**: Search / Research
+- **What it does**: A new benchmark from Salesforce research evaluates model and agentic performance on real-life enterprise tasks.
+- **Pricing**: Paid
+- **Trending Score**: 90.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-half-of-real-world-orchestration-tasks/)**
+
+---
+
+### 2. OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic
+
+- **Category**: Code / Developer Tools
+- **What it does**: The open source framework provides the data and training recipe for building powerful computer-use agents that challenge proprietary systems.
+- **Pricing**: Freemium
+- **Trending Score**: 80.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/)**
+
+---
+
+### 3. How procedural memory can cut the cost and complexity of AI agents
+
+- **Category**: Search / Research
+- **What it does**: Memp takes inspiration from human cognition to give LLM agents "procedural memory" that can adapt to new tasks and environments.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/)**
+
+---
+
+### 4. Developers lose focus 1,200 times a day — how MCP could change that
+
+- **Category**: Text / Chat Assistants
+- **What it does**: One of the most impactful applications of MCP is its ability to connect AI coding assistants directly to developer tools.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/)**
+
+---
+
+### 5. This website lets you blind-test GPT-5 vs. GPT-4o—and the results may surprise you
+
+- **Category**: Text / Chat Assistants
+- **What it does**: Take this blind test to discover whether you truly prefer OpenAI's GPT-5 or the older GPT-4o—without knowing which model you're using.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/this-website-lets-you-blind-test-gpt-5-vs-gpt-4o-and-the-results-may-surprise-you/)**
+
+---
+
+
 ## 2025-08-26 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
