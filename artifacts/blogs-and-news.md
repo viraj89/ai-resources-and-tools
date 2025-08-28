@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 28, 2025
+News
+
+1. Elon Musk's lawyers to US judge: Reject OpenAI CEO Sam Altman's request to show chats between Musk and Me - The Times of India [1]
+
+2. Anthropic settles authors’ lawsuit over pirated books… and it could be a gift for Universal Music Group’s lawyers - Music Business Worldwide [2]
+
+3. Exclusive: Anthropic taps former nuke chiefs, lawmakers for advisory council - Axios [3]
+
+4. Anthropic settles authors’ copyright lawsuit after piracy claims - Music Ally [4]
+
+5. Anthropic Settles Lawsuit With Authors Over Use of Pirated Books for AI Training - PCMag [5]
+
+6. Here are the 33 US AI startups that have raised $100M or more in 2025 - TechCrunch [6]
+
+7. Exclusive: Crowdstrike CEO George Kurtz on $290 million acquisition of startup Onum and security in the AI age - Fortune [7]
+
+8. Elon Musk's AI startup sues Apple, OpenAI - KVUE [8]
+
+9. Stealth AI startup Aurasell raised $30 million in seed funding in 28 hours to take on Salesforce - Business Insider [9]
+
+10. Exclusive: How one AI startup is helping rice farmers battle climate change - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/2ahsdy2w [2] https://tinyurl.com/257vduc5 [3] https://tinyurl.com/29p4zwzt [4] https://tinyurl.com/27wrj9av [5] https://tinyurl.com/24brorzo [6] https://tinyurl.com/2cdkta8b [7] https://tinyurl.com/2bp6hpg3 [8] https://tinyurl.com/29wtz285 [9] https://tinyurl.com/28gxfyuy [10] https://tinyurl.com/248rntyb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 27, 2025
 News
 
