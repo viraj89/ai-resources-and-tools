@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 29, 2025
+News
+
+1. Elon Musk's xAI sues Apple and OpenAI over AI competition; here's what lawsuit says - The Times of India [1]
+
+2. Exclusive: Rare Collaboration Unveiled Between OpenAI and Anthropic - 36Kr [2]
+
+3. How hedge fund analytics apply to Embrace Change Acquisition Corp. stock - Stop Loss & Growth Focused Investment Plans - Newser [3]
+
+4. Lawsuit Against OpenAI And ChatGPT Raises Hard Questions About When AI Makers Should Be Reporting User Prompts - Forbes [4]
+
+5. Indian-origin Chaya Nayak quits Meta to join OpenAI as Zuckerberg loses key AI researchers: 'Perfect next chapter' | Trending - Hindustan Times - Hindustan Times [5]
+
+6. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations - VentureBeat [6]
+
+7. OpenAI, Anthropic Swap Safety Reviews - BankInfoSecurity [7]
+
+8. OpenAI increases ChatGPT user protections following wrongful death lawsuit - ZDNET [8]
+
+9. Anthropic Review Flags Misuse Risks In OpenAI GPT-4o And GPT-4.1 - Dataconomy [9]
+
+10. Anthropic stopped hackers from using Claude and other chatbots for multiple scams; company says: ‘We’ve d - The Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/27dylcmr [2] https://tinyurl.com/2596kgjs [3] https://tinyurl.com/242avcjp [4] https://tinyurl.com/22ukxgw3 [5] https://tinyurl.com/28s9m48o [6] https://tinyurl.com/2ahr5237 [7] https://tinyurl.com/2bfmoah4 [8] https://tinyurl.com/2yeo8hcr [9] https://tinyurl.com/267gbk38 [10] https://tinyurl.com/22qfs2ge
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 28, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-08-29 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI and Anthropic tested each other's AI models and found that even though reasoning models align better to safety, there are still risks.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/)**
+
+---
+
+### 2. Salesforce builds ‘flight simulator’ for AI agents as 95% of enterprise pilots fail to reach production
+
+- **Category**: Code / Developer Tools
+- **What it does**: Salesforce launches CRMArena-Pro, a simulated enterprise AI testing platform, to address the 95% failure rate of AI pilots and improve agent reliability, performance, and security in real-world busine...
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-builds-flight-simulator-for-ai-agents-as-95-of-enterprise-pilots-fail-to-reach-production/)**
+
+---
+
+### 3. How procedural memory can cut the cost and complexity of AI agents
+
+- **Category**: Search / Research
+- **What it does**: Memp takes inspiration from human cognition to give LLM agents "procedural memory" that can adapt to new tasks and environments.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/)**
+
+---
+
+### 4. Forget data labeling: Tencent’s R-Zero shows how LLMs can train themselves
+
+- **Category**: Code / Developer Tools
+- **What it does**: By using two co-evolving AI models, the R-Zero framework generates its own learning curriculum, moving beyond the need for labeled datasets.
+- **Pricing**: Freemium
+- **Trending Score**: 60.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/forget-data-labeling-tencents-r-zero-shows-how-llms-can-train-themselves/)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2025-08-28 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
