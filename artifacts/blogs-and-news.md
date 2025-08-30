@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 30, 2025
+News
+
+1. OpenAI and Microsoft's contract negotiations threaten investment and potential IPO — companies battle over AGI secrecy and Azure exclusivity - Tom's Hardware [1]
+
+2. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [2]
+
+3. Anthropic to let users opt out of having chats used for AI training - The American Bazaar [3]
+
+4. Microsoft Launches First In-House AI Models That Will Rival With OpenAI, Google Gemini - Mashable India [4]
+
+5. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [5]
+
+6. OpenAI Faces Lawsuit: Tech experts talk on AI safety and ChatGPT’s mental health risks - dqindia.com [6]
+
+7. OpenAI, Anthropic Collaborate on AI Safety, Reveal 70% Hallucination Refusal Rate - AInvest [7]
+
+8. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [8]
+
+9. Carmel-based SePro acquires California-based AI startup - Indianapolis Business Journal [9]
+
+10. Google-Backed Medical AI Startup Founder Splurges On $38 Million Oceanside Penthouse In MiamiExclusive Surf Club - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/2ymz7yvn [2] https://tinyurl.com/2dk8hr2o [3] https://tinyurl.com/24eecdug [4] https://tinyurl.com/275tcuqq [5] https://tinyurl.com/2a5tm7nf [6] https://tinyurl.com/26logtqd [7] https://tinyurl.com/26kxuggf [8] https://tinyurl.com/ypgeekym [9] https://tinyurl.com/26ca964o [10] https://tinyurl.com/2cucbw33
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 29, 2025
 News
 

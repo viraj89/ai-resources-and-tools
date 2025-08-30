@@ -1,4 +1,65 @@
 
+## 2025-08-30 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining
+
+- **Category**: Business / Analytics
+- **What it does**: M2N2 is a model merging technique that creates powerful multi-skilled agents without the high cost and data needs of retraining.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/)**
+
+---
+
+### 2. How Intuit killed the chatbot crutch – and built an agentic AI playbook you can copy
+
+- **Category**: Text / Chat Assistants
+- **What it does**: This is the inside story of Intuit's transformation journey with AI — including a grueling nine-month pivot to "burn the boats" and reinvent how the 40-year-old finance giant builds its products.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/)**
+
+---
+
+### 3. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations
+
+- **Category**: Text / Chat Assistants
+- **What it does**: OpenAI and Anthropic tested each other's AI models and found that even though reasoning models align better to safety, there are still risks.
+- **Pricing**: Freemium
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/)**
+
+---
+
+### 4. Salesforce builds ‘flight simulator’ for AI agents as 95% of enterprise pilots fail to reach production
+
+- **Category**: Code / Developer Tools
+- **What it does**: Salesforce launches CRMArena-Pro, a simulated enterprise AI testing platform, to address the 95% failure rate of AI pilots and improve agent reliability, performance, and security in real-world busine...
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-builds-flight-simulator-for-ai-agents-as-95-of-enterprise-pilots-fail-to-reach-production/)**
+
+---
+
+### 5. How procedural memory can cut the cost and complexity of AI agents
+
+- **Category**: Search / Research
+- **What it does**: Memp takes inspiration from human cognition to give LLM agents "procedural memory" that can adapt to new tasks and environments.
+- **Pricing**: Paid
+- **Trending Score**: 70.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/)**
+
+---
+
+
 ## 2025-08-29 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
