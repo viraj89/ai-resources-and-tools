@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News August 31, 2025
+News
+
+1. OpenAI announces India tie-ups to improve learning outcomes | Latest News India - Hindustan Times - Hindustan Times [1]
+
+2. Y Combinator backs new wave of AI startups tackling small models, paper grading, and video analysis - The American Bazaar [2]
+
+3. The National Observer: AI startups are hiring fewer people - The Business Journals [3]
+
+4. The National Observer: AI startups are hiring fewer people - The Business Journals [4]
+
+5. The National Observer: AI startups are hiring fewer people - The Business Journals [5]
+
+6. AI Startups Proving Costlier to Build, Despite Enthusiasm and Potential - AInvest [6]
+
+7. San Jose mayor looks to compete with S.F. to attract AI startups - San Francisco Business Times - The Business Journals [7]
+
+8. Who will win €50,000? Last chance for AI startups - ioplus.nl [8]
+
+9. As Funding To AI Startups Increases And Concentrates, Which Investors Have Led? - Crunchbase News [9]
+
+10. 'Q2T3' Is the 'Freakish' New Growth Benchmark for AI Startups - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/28k3t6x5 [2] https://tinyurl.com/23sxxcdf [3] https://tinyurl.com/2cc7efqh [4] https://tinyurl.com/2bxl4ww3 [5] https://tinyurl.com/2c72m8tn [6] https://tinyurl.com/25pep9z7 [7] https://tinyurl.com/247x46hy [8] https://tinyurl.com/264qgxsn [9] https://tinyurl.com/2csmrfo7 [10] https://tinyurl.com/23uy4g98
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 30, 2025
 News
 
