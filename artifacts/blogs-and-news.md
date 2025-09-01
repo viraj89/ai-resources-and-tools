@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 01, 2025
+News
+
+1. Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times [1]
+
+2. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [2]
+
+3. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [3]
+
+4. Exclusive | AI chatbot law pitched by NYC pol after ‘delusional’ cases: ‘Next great crisis the country faces’ - New York Post [4]
+
+5. ‘I’m Deeply Anxious We Aren’t Paying Enough Attention To Societal Impacts of AI’ – Anthropic Co-Founder - bandt.com.au [5]
+
+6. OpenAI ChatGPT, Google Gemini and Anthropic's Claude cannot handle 'suicide', here's reportedly the BIG w - Times of India [6]
+
+7. Microsoft AI unveils first in-house models to challenge OpenAI, Google and other tech giants - Times of India [7]
+
+8. OpenAI Says It's Scanning Users' ChatGPT Conversations and Reporting Content to the Police - Mad In America [8]
+
+9. Andrew Ng says the real bottleneck in AI startups isn't coding — it's product management - Business Insider [9]
+
+10. AI Startups Bid Billions for Google’s Chrome Amid Antitrust Scrutiny - WebProNews [10]
+
+Sources:
+[1] https://tinyurl.com/2bhpzdz9 [2] https://tinyurl.com/2cul9ek5 [3] https://tinyurl.com/2dzhvdpq [4] https://tinyurl.com/22xt5l2c [5] https://tinyurl.com/27r2o2lk [6] https://tinyurl.com/29hm4cjk [7] https://tinyurl.com/23cbl5xj [8] https://tinyurl.com/25fg43xs [9] https://tinyurl.com/28qtcopb [10] https://tinyurl.com/2yeysq2v
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News August 31, 2025
 News
 
