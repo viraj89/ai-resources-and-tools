@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 02, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. The Eliza Labs vs. X Antitrust Lawsuit: A Strategic Inflection Point for AI Startups and Big Tech Competition - AInvest [2]
+
+3. Exclusive | AI Startup Perplexity’s Valuation Surges to $14 Billion in New Funding Round - WSJ - The Wall Street Journal [3]
+
+4. How AI Will Shape 4 Investment Banking Careers, From ECM to Trading - Business Insider [4]
+
+5. Elon Musk's AI company xAI to court: Stop Chinese engineer Xuechen Li from joining OpenAI, he has admitte - The Times of India [5]
+
+6. OpenAI Discusses India Data Center - The Information [6]
+
+7. OpenAI planning massive new data centre in India under Stargate-branded AI infra push: Report | OpenAI earlier announced $500-bn Stargate in US | Inshorts - Inshorts [7]
+
+8. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations - VentureBeat [8]
+
+9. Anthropic Throws Users’ Data Privacy to the Wolves - Analytics India Magazine [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/28sy4l54 [3] https://tinyurl.com/2b4gxcdf [4] https://tinyurl.com/2ahcxgpn [5] https://tinyurl.com/293k2llr [6] https://tinyurl.com/23jrouo8 [7] https://tinyurl.com/2cdgdopw [8] https://tinyurl.com/278o6rvw [9] https://tinyurl.com/2cbprbgy [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 01, 2025
 News
 
