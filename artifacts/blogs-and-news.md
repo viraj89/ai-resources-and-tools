@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 03, 2025
+News
+
+1. Abu Dhabi’s Hub71 onboards 26 AI startups in record $223m cohort - Arabian Business [1]
+
+2. OpenAI eyes major expansion in India amid global AI push - The American Bazaar [2]
+
+3. Apple’s AI exodus continues with four new deflections to Meta, OpenAI, and Anthropic - 9to5Mac [3]
+
+4. OpenAI deepens Seattle-area footprint with blockbuster $1.1B acquisition of Statsig - GeekWire [4]
+
+5. OpenAI announces ChatGPT parental controls following family's lawsuit - Good Morning America [5]
+
+6. OpenAI rival Anthropic valued at $183B as part of new $13B funding round - PitchBook [6]
+
+7. Anthropic valued at $183 bn in new funding round - Caledonian Record [7]
+
+8. Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion va... - MENAbytes [8]
+
+9. OpenAI’s Latest Moves Put Many Voice AI Startups on Notice - CX Today [9]
+
+10. Bank of America's digital assistant passes 3 billion interactions, producing the 'secret sauce' for AI efforts - The Business Journals [10]
+
+Sources:
+[1] https://tinyurl.com/27ner4sx [2] https://tinyurl.com/2azp5adm [3] https://tinyurl.com/26zwtay7 [4] https://tinyurl.com/2975srj8 [5] https://tinyurl.com/253994nz [6] https://tinyurl.com/2yyhdn79 [7] https://tinyurl.com/28tf6zn4 [8] https://tinyurl.com/2xmh9t3n [9] https://tinyurl.com/23cmsrpz [10] https://tinyurl.com/2av6dwjo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 02, 2025
 News
 
