@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 04, 2025
+News
+
+1. Daily Digest: Anthropic gets funding while OpenAI sells shares and makes an acquisition - The Business Journals [1]
+
+2. Apple loses four AI researchers to Meta, OpenAI, and Anthropic - Times of India [2]
+
+3. Qatar invests in Anthropic’s record $13B funding round - Semafor [3]
+
+4. AI firm Anthropic’s $13bn funding round values it at $183bn - Music Ally [4]
+
+5. Indian American Penn students use machine learning to track and protect whales - The American Bazaar [5]
+
+6. Apple Faces Major AI Talent Drain as Key Researchers Exit for Meta, OpenAI, and Anthropic - The Hans India [6]
+
+7. Exclusive: PayPal and General Catalyst lead $18 million investment in AI blockchain startup Kite - Fortune [7]
+
+8. Musk’s AI startup sues OpenAI and Apple over anticompetitive conduct - The Guardian [8]
+
+9. Who is Vijaye Raji, whose AI startup has been acquired by OpenAI for $1 bn? - Business Standard [9]
+
+10. OpenAI Tops Macquarie's $741 billion AI Startups List - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/243t69c8 [2] https://tinyurl.com/23p9cpwt [3] https://tinyurl.com/28ybj73m [4] https://tinyurl.com/265kdn8s [5] https://tinyurl.com/2bmcoe6e [6] https://tinyurl.com/29b799l5 [7] https://tinyurl.com/2ctd9sa2 [8] https://tinyurl.com/25fv5rz2 [9] https://tinyurl.com/27qdsfnn [10] https://tinyurl.com/24j3dgyf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 03, 2025
 News
 
