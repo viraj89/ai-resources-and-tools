@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 05, 2025
+News
+
+1. AI startup Mistral joins billion-dollar funding race as Anthropic and OpenAI soar - The Korea Post [1]
+
+2. Hub71 welcomes record AI startups in latest cohort, boosting Abu Dhabi’s tech push - Gulf Business [2]
+
+3. 20VC + SaaStr is Back With Canva Founder Cliff Obrecht: Anthropic’s $13B Round, OpenAI’s $1.1B Statsig Acquisition & Why Public SaaS Is Back From The Dead - SaaStr [3]
+
+4. Anthropic’s value balloons to $183bn after securing $13bn in latest funding round - Music Business Worldwide [4]
+
+5. Stealth AI startup Aurasell raised $30 million in seed funding in 28 hours to take on Salesforce - Business Insider [5]
+
+6. Here are the 33 US AI startups that have raised $100M or more in 2025 - TechCrunch [6]
+
+7. Hub71 welcomes record number of AI startups to its 17th cohort - مكتب أبوظبي الإعلامي [7]
+
+8. How Much Funding Do AI Startups Need to Rival Google Search? - Tech in Asia [8]
+
+9. AI cloud Lambda hires investment banks in preparation for IPO - report - Data Center Dynamics [9]
+
+10. Brainly CEO Joins Leaders at the White House to Advance AI Investment in America’s Youth - Bakersfield.com [10]
+
+Sources:
+[1] https://tinyurl.com/26f4pl2u [2] https://tinyurl.com/2xq7mn8h [3] https://tinyurl.com/2ayfbeso [4] https://tinyurl.com/24uze86n [5] https://tinyurl.com/28gxfyuy [6] https://tinyurl.com/2cdkta8b [7] https://tinyurl.com/2a2al5xn [8] https://tinyurl.com/28kkqx4p [9] https://tinyurl.com/29yx7ebt [10] https://tinyurl.com/2b5ljotq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 04, 2025
 News
 
