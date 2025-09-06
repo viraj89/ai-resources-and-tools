@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 06, 2025
+News
+
+1. OpenAI's Greg Brockman Says It's Not Too Late to Build AI Startups - Business Insider [1]
+
+2. AI startup Anthropic agrees to pay $1.5bn to settle book piracy lawsuit - The Guardian [2]
+
+3. Anthropic Agrees To Pay Record $1.5 Billion To Settle Authors’ AI Lawsuit - Deadline [3]
+
+4. US: Anthropic to pay $1.5 billion in AI lawsuit settlement - DW [4]
+
+5. OpenAI, Google & Anthropic All Just Quietly Backtracked User Privacy Settings: Is Your Company's Data Now Exposed? - TV News Check [5]
+
+6. Anthropic will pay a record-breaking $1.5 billion to settle copyright lawsuit with authors - Engadget [6]
+
+7. AI Company Anthropic Settles for $1.5 Billion in Authors’ Lawsuit - Locus Online [7]
+
+8. US: Anthropic to pay $1.5 billion in AI lawsuit settlement - Yahoo News UK [8]
+
+9. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - Imperial Valley Press Online [9]
+
+10. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - AP News [10]
+
+Sources:
+[1] https://tinyurl.com/2a7akfnz [2] https://tinyurl.com/22osmwut [3] https://tinyurl.com/2cqmfg75 [4] https://tinyurl.com/2amcbvsl [5] https://tinyurl.com/2yynez2c [6] https://tinyurl.com/2ablmmwh [7] https://tinyurl.com/2aoh3782 [8] https://tinyurl.com/2cuhq4th [9] https://tinyurl.com/259fbtke [10] https://tinyurl.com/27h66slz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 05, 2025
 News
 
