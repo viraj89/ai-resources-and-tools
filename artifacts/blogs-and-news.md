@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 07, 2025
+News
+
+1. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [1]
+
+2. Anthropic Will Pay Authors $1.5 Billion as Part of Settlement Over Piracy Lawsuit - International Business Times [2]
+
+3. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - Coast Reporter [3]
+
+4. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - Santa Fe New Mexican [4]
+
+5. US: Anthropic to pay $1.5 billion in AI lawsuit settlement - DW [5]
+
+6. AI company Anthropic settles copyright lawsuit with book authors: What was the case? - The Indian Express [6]
+
+7. Lawsuit Against OpenAI And ChatGPT Raises Hard Questions About When AI Makers Should Be Reporting User Prompts - Forbes [7]
+
+8. Anthropic To Pay $1.5 Billion In Record Copyright Settlement After Authors Sue Over Pirated Books Used To Train AI Chatbot Claude - Wccftech [8]
+
+9. Anthropic bans companies majority-controlled by China, Russia, Iran, and North Korea from Claude - the-decoder.com [9]
+
+10. Anthropic to pay $1.5 bn to settle authors' lawsuit over AI chatbot Claude - Business Standard [10]
+
+Sources:
+[1] https://tinyurl.com/2dk8hr2o [2] https://tinyurl.com/25kma7y6 [3] https://tinyurl.com/2bljgvw5 [4] https://tinyurl.com/29o4pyrd [5] https://tinyurl.com/2b657b8n [6] https://tinyurl.com/26gra255 [7] https://tinyurl.com/22ukxgw3 [8] https://tinyurl.com/2yql32tl [9] https://tinyurl.com/2bwob2up [10] https://tinyurl.com/22hlao3q
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 06, 2025
 News
 
