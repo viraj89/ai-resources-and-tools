@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 08, 2025
+News
+
+1. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [1]
+
+2. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [2]
+
+3. OpenAI Deepens India Push: ChatGPT Hits 111 Milion Downloads, Rs 399 Plan, Jobs And Data Center Plans—What You Need To Know - Swarajya [3]
+
+4. OpenAI’s ChatGPT now lets you branch conversations into multiple threads: Here’s how to use it - The Indian Express [4]
+
+5. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [5]
+
+6. OpenAI announces LinkedIn competitor, says it will use AI to find your perfect job - India Today [6]
+
+7. Anthropic, seeing voracious demand for shares, is clamping down on a certain kind of investment - Business Insider [7]
+
+8. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [8]
+
+9. Exclusive-ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - MSN [9]
+
+10. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/23qpfus8 [2] https://tinyurl.com/28ygulde [3] https://tinyurl.com/2cm4o56u [4] https://tinyurl.com/2ypy8gvl [5] https://tinyurl.com/29y67fp8 [6] https://tinyurl.com/22g44mqt [7] https://tinyurl.com/26v9j2oc [8] https://tinyurl.com/22q8dqbp [9] https://tinyurl.com/237wmy6x [10] https://tinyurl.com/2a5tm7nf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 07, 2025
 News
 
