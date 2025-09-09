@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 09, 2025
+News
+
+1. Is OpenAI Causing a Brain Drain in Indian AI Startups? - Tech in Asia [1]
+
+2. Indian AI startups run into US visa hurdle - The Economic Times [2]
+
+3. Following months of record high AI funding, new Prosus report says applications will drive the next wave of AI investment - Prosus [3]
+
+4. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [4]
+
+5. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [5]
+
+6. Who is Akshay Jagadeesh? Indian-origin neuroscientist joins Sam Altman's OpenAI as a researcher | Hindustan Times - Hindustan Times [6]
+
+7. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [7]
+
+8. Anthropic to pay $1.5 billion to settle piracy lawsuit - The American Bazaar [8]
+
+9. Anthropic to pay authors $1.5bn to settle lawsuit over using pirated books to train AI - Music Business Worldwide [9]
+
+10. Anthropic to pay $1.5bn to settle authors’ class-action lawsuit - Music Ally [10]
+
+Sources:
+[1] https://tinyurl.com/255qfl8n [2] https://tinyurl.com/2djjnvyt [3] https://tinyurl.com/2dzhvdpq [4] https://tinyurl.com/2c99txeu [5] https://tinyurl.com/272r2naw [6] https://tinyurl.com/2xmtp49e [7] https://tinyurl.com/24379yxf [8] https://tinyurl.com/2bmj3swk [9] https://tinyurl.com/22ckso2f [10] https://tinyurl.com/25uagm6e
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 08, 2025
 News
 
