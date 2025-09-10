@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 10, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Indian AI startups face US visa hurdles: Entrepreneurs flag delays; Trump administration's rules complica - Times of India [2]
+
+3. Manulife Investment Management and TruAmerica Launch $1 Billion Affordable Housing Joint Venture with Initial Acquisition of 51 Properties - PR Newswire [3]
+
+4. Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports - Reuters [4]
+
+5. Leading SF AI startup OpenAI discussing moving out of California: report - KRON4 [5]
+
+6. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [6]
+
+7. OpenAI is in talks with Reliance Industries to bring Stargate to India: Report | Hindustan Times - Hindustan Times [7]
+
+8. Oracle misses earnings but bets big on AI with data centers, $30B OpenAI deal - Austin American-Statesman [8]
+
+9. Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports - Yahoo Finance [9]
+
+10. Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports - ca.finance.yahoo.com [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2xvv97ts [3] https://tinyurl.com/2635ou3w [4] https://tinyurl.com/2bk8gsxk [5] https://tinyurl.com/2aotkchn [6] https://tinyurl.com/2aek2vo2 [7] https://tinyurl.com/2d3uc77v [8] https://tinyurl.com/2apou2mm [9] https://tinyurl.com/25247ozb [10] https://tinyurl.com/2y52wltd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 09, 2025
 News
 
