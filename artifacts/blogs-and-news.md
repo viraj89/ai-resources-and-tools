@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 11, 2025
+News
+
+1. Trump’s visa and tax plans put Indian AI startups on edge in the US - The American Bazaar [1]
+
+2. Exclusive | SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground - The Wall Street Journal [2]
+
+3. Anthropic to pay authors $1.5B to settle lawsuit over pirated books used to train AI chatbots - Maryland Daily Record [3]
+
+4. US data center build hits record as AI demand surges, Bank of America Institute says - Reuters [4]
+
+5. US data center build hits record as AI demand surges, Bank of America Institute says - The Economic Times [5]
+
+6. Exclusive | Oracle, OpenAI Sign Massive $300 Billion Cloud Computing Deal - The Wall Street Journal [6]
+
+7. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [7]
+
+8. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [8]
+
+9. Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic - Ars Technica [9]
+
+10. Judge rejects Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit - Engadget [10]
+
+Sources:
+[1] https://tinyurl.com/2ctsyywx [2] https://tinyurl.com/24eb6bst [3] https://tinyurl.com/25llxavf [4] https://tinyurl.com/22gy4oj5 [5] https://tinyurl.com/283xzdxt [6] https://tinyurl.com/25d7ccnv [7] https://tinyurl.com/2btzspcc [8] https://tinyurl.com/22rb8uqv [9] https://tinyurl.com/2yeydymj [10] https://tinyurl.com/2bxcltjb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 10, 2025
 News
 
