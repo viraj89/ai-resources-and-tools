@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 12, 2025
+News
+
+1. Why Prosus is betting on AI startups in India to broaden its portfolio - YourStory.com [1]
+
+2. US data center build hits record as AI demand surges, Bank of America Institute says - Yahoo Finance [2]
+
+3. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [3]
+
+4. ‘He was murdered’: Elon Musk’s reply to Sam Altman who called OpenAI researcher Suchir Balaji’s death as - Times of India [4]
+
+5. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [5]
+
+6. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [6]
+
+7. Exclusive: IPO of Winklevoss-founded crypto exchange Gemini over 20 times oversubscribed, sources say - Reuters [7]
+
+8. Exclusive-IPO of Winklevoss-founded crypto exchange Gemini over 20 times oversubscribed, sources say - MSN [8]
+
+9. European AI Startup Mistral AI Secures $2B in Funding - AI Business [9]
+
+10. Bank of America's digital assistant passes 3 billion interactions, producing the 'secret sauce' for AI efforts - The Business Journals [10]
+
+Sources:
+[1] https://tinyurl.com/28xmxkw5 [2] https://tinyurl.com/274hxps6 [3] https://tinyurl.com/27o7puag [4] https://tinyurl.com/2ckb3zbc [5] https://tinyurl.com/2a98jm2h [6] https://tinyurl.com/296gu3sj [7] https://tinyurl.com/25phyotz [8] https://tinyurl.com/22l8qveh [9] https://tinyurl.com/27v5q25b [10] https://tinyurl.com/2av6dwjo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 11, 2025
 News
 
