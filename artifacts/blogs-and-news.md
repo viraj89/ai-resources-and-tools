@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 13, 2025
+News
+
+1. Indian AI Startups Struggle with US Visa Delays, Threatening Growth - The Indian EYE [1]
+
+2. Prosus bets on India AI startups; Inside the journey of Parnika India - YourStory.com [2]
+
+3. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [3]
+
+4. OpenAI Billionaire Sam Altman Lists Hawaii Compound Where He Wed Husband Oliver Mulherin for $49 Million - Realtor.com [4]
+
+5. Exclusive: Anthropic plans massive expansion into D.C. - Axios [5]
+
+6. Anthropic settles author lawsuit with $1.5B deal - New Orleans CityBusiness [6]
+
+7. Microsoft Plans Major AI Chip Investments As Mustafa Suleyman Pushes 'Self-Sufficiency' Beyond OpenAI Partnership - Benzinga [7]
+
+8. AI Startups That Focus Small Are Winning Big - Forbes [8]
+
+9. User Loyalty Is Key for AI Startups to Win Investors, GSR Ventures Exec Says - Yicai Global [9]
+
+10. Here are the 33 US AI startups that have raised $100M or more in 2025 - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/27n32oyr [2] https://tinyurl.com/24akshfp [3] https://tinyurl.com/2xtfyujp [4] https://tinyurl.com/26j7ezj4 [5] https://tinyurl.com/22v69bgc [6] https://tinyurl.com/222y9gcd [7] https://tinyurl.com/25fczjqo [8] https://tinyurl.com/23omyevg [9] https://tinyurl.com/2ckpsjkr [10] https://tinyurl.com/2cdkta8b
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 12, 2025
 News
 
