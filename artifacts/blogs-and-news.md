@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 14, 2025
+News
+
+1. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [1]
+
+2. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [2]
+
+3. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [3]
+
+4. This $2 Billion Hedge Fund Led By a Former OpenAI Researcher Is Betting Against All Semiconductor Stocks Except These 2 Industry Giants - The Motley Fool [4]
+
+5. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [5]
+
+6. This $2 Billion Hedge Fund Led By a Former OpenAI Researcher Is Betting Against All Semiconductor Stocks Except These 2 Industry Giants - Nasdaq [6]
+
+7. Exclusive | OpenAI Backs AI-Made Animated Feature Film - The Wall Street Journal [7]
+
+8. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - AP News [8]
+
+9. Automated Extraction of Stroke Severity From Unstructured Electronic Health Records Using Natural Language Processing - American Heart Association Journals [9]
+
+10. AI startup Anthropic agrees to pay $1.5bn to settle book piracy lawsuit | Artificial intelligence (AI) - The Guardian [10]
+
+Sources:
+[1] https://tinyurl.com/26lswknd [2] https://tinyurl.com/2cul9ek5 [3] https://tinyurl.com/28gusjd5 [4] https://tinyurl.com/2bv3m695 [5] https://tinyurl.com/27q2vxf6 [6] https://tinyurl.com/28nvh8t3 [7] https://tinyurl.com/2xm5cq6g [8] https://tinyurl.com/27h66slz [9] https://tinyurl.com/25kuhpvn [10] https://tinyurl.com/22osmwut
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 13, 2025
 News
 
