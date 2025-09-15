@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 15, 2025
+News
+
+1. OpenAI's Greg Brockman Says It's Not Too Late to Build AI Startups - Business Insider [1]
+
+2. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [2]
+
+3. US data center build hits record as AI demand surges, Bank of America Institute says - Yahoo Finance [3]
+
+4. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [4]
+
+5. Exclusive: OpenAI COO: Korea to become company's home - 조선일보 [5]
+
+6. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [6]
+
+7. Lawsuit Against OpenAI And ChatGPT Raises Hard Questions About When AI Makers Should Be Reporting User Prompts - Forbes [7]
+
+8. The woman who beat OpenAI's DALL-E and Midjourney: Meet Anna Veronika Dorogush of Recraft - Tech Funding News [8]
+
+9. Google Gemini Nano Banana AI saree trend: Common mistakes to avoid while generating your portraits | Latest News India - Hindustan Times [9]
+
+10. OpenAI CEO Sam Altman warns ChatGPT and other AI tools could be misused to create a COVID-style pandemic - The Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2a7akfnz [2] https://tinyurl.com/2dk8hr2o [3] https://tinyurl.com/2bvoq7tn [4] https://tinyurl.com/2yrc4l5h [5] https://tinyurl.com/247866xo [6] https://tinyurl.com/265z7qaf [7] https://tinyurl.com/22ukxgw3 [8] https://tinyurl.com/2yt56phk [9] https://tinyurl.com/2cwrfst8 [10] https://tinyurl.com/283l6wzv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 14, 2025
 News
 
