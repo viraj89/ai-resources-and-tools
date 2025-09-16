@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 16, 2025
+News
+
+1. New data from OpenAI and Anthropic show how people actually use ChatGPT and Claude - the-decoder.com [1]
+
+2. OpenAI and Anthropic Reveal How Their Tools Are Being Used with Very Different Results - TipRanks [2]
+
+3. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [3]
+
+4. AI Reality Check: Landmark OpenAI and Anthropic Studies Reveal How We Really Use AI - WinBuzzer [4]
+
+5. Google Gemini’s Nano Banana viral AI saree trend goes wrong for some users; ‘creepy’ AI edits spark safet - The Times of India [5]
+
+6. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [6]
+
+7. Google Gemini’s ‘Nano-Banana’ trend surpasses OpenAI; tops Apple App Store - The American Bazaar [7]
+
+8. Tried Gemini AI Nano Banana trend? Here are 10 creative prompts for unique portraits | Latest News India - Hindustan Times [8]
+
+9. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [9]
+
+10. OpenAI and Anthropic vulnerabilities found by US, UK safety institutes - MLex [10]
+
+Sources:
+[1] https://tinyurl.com/yq5rbhq8 [2] https://tinyurl.com/yq43p4ga [3] https://tinyurl.com/ymtqa4r2 [4] https://tinyurl.com/27vsku9q [5] https://tinyurl.com/ysl26p24 [6] https://tinyurl.com/22q8dqbp [7] https://tinyurl.com/yscg8oze [8] https://tinyurl.com/yvqm2bee [9] https://tinyurl.com/28ygulde [10] https://tinyurl.com/yt9gz9rc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 15, 2025
 News
 
