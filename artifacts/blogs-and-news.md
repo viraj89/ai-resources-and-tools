@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 17, 2025
+News
+
+1. OpenAI unveils new Codex with GPT-5: What is it, who can use it and other details - Times of India [1]
+
+2. OpenAI to predict ages in bid to stop ChatGPT from discussing self harm with kids - The Record from Recorded Future News [2]
+
+3. Google pokes a banana-shaped hole in Musk’s claims of Apple’s bias towards OpenAI - 9to5Mac [3]
+
+4. What chatbot usage studies from OpenAI and Anthropic say about AI’s likely economic impacts - Fortune [4]
+
+5. How and why Microsoft’s $1 billion bet on ChatGPT-maker OpenAI in 2019 may be best investment in tech his - Times of India [5]
+
+6. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [6]
+
+7. Scale AI has lost focus: CEO of rival company says after AI startup’s Meta-led shake up - Times of India [7]
+
+8. Nano Banana AI saree trend turns controversial: Instagram user claims Google Gemini’s tool revealed private details - The Indian Express [8]
+
+9. Exclusive: WorkFusion, With Several Big Banks As Customers, Lands $45M For AI Agents 'To Stop Bad Actors' - Crunchbase News [9]
+
+10. AI startups revolutionize coding industry, leading to sky-high valuations - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/yquhaa6l [2] https://tinyurl.com/ypt7z85s [3] https://tinyurl.com/yvckkdz6 [4] https://tinyurl.com/yqmqlwru [5] https://tinyurl.com/yk9tbdqc [6] https://tinyurl.com/yt7rfojv [7] https://tinyurl.com/yk7ok5dv [8] https://tinyurl.com/yskvpmec [9] https://tinyurl.com/yneqvtef [10] https://tinyurl.com/ypgeekym
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 16, 2025
 News
 
