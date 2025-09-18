@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 18, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. EHE Ventures puts faith in seven AI startups with £1.1m investment - BusinessCloud [2]
+
+3. Exclusive: AI's ability to displace jobs is advancing quickly, Anthropic CEO says - Axios [3]
+
+4. Is Amazon on the verge of an OpenAI moment with its big investment in Anthropic? - CNBC [4]
+
+5. OpenAI, Anthropic usage data shows economic divide - Semafor [5]
+
+6. OpenAI Mulls ID Checks for Adult Users in Wake of Teen Suicide Lawsuit - extremetech.com [6]
+
+7. Microsoft's Deal With OpenAI In Question As They Trusted Anthropic For This New Feature - Dataconomy [7]
+
+8. Exclusive / Anthropic irks White House with limits on models’ use - Semafor [8]
+
+9. Anthropic’s AI Surveillance Ban Frustrates White House, Contractors - WebProNews [9]
+
+10. Exclusive: Anthropic's Claude is getting better at building itself, Amodei says - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/yshhdmpu [3] https://tinyurl.com/yl5xufxh [4] https://tinyurl.com/yo3pee62 [5] https://tinyurl.com/ylg5ozw4 [6] https://tinyurl.com/ywqwueku [7] https://tinyurl.com/ymqyelgk [8] https://tinyurl.com/yt485r87 [9] https://tinyurl.com/yma6x5nm [10] https://tinyurl.com/ypobqpjm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 17, 2025
 News
 
