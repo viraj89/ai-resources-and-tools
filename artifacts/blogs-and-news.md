@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 19, 2025
+News
+
+1. oneworld alliance, member airlines and Breakthrough Energy Ventures launch investment fund to advance and commercialize Sustainable Aviation Fuel technologies - American Airlines Newsroom [1]
+
+2. Indian AI startup Blinkit-AI Secures USD 1.2 Million in Funding to Scale Unified AI Services in India - Tribune India [2]
+
+3. India’s M&A Boom Meets AI: Navatar Brings Salesforce-Powered Deal Origination CRM To Private Equity & Investment Banking Firms - Macau Business [3]
+
+4. How AI startups are fueling Google’s booming cloud business - TechCrunch [4]
+
+5. What We Do In The Prompts: OpenAI, Anthropic, And Ipsos On AI Usage - Forbes [5]
+
+6. Anthropic CEO Dario Amodei warns US: Selling AI chips to China is ‘mortgaging our future’ - The Times of India [6]
+
+7. What chatbot usage studies from OpenAI and Anthropic say about AI’s likely economic impacts - Yahoo Finance [7]
+
+8. How AI startups are fueling Google’s booming cloud business - Yahoo Finance [8]
+
+9. AI startup Sentient launches open-source AGI network for 2 million users to compete with OpenAI, AWS - Startup Pedia [9]
+
+10. Ukrainian swarm drone AI startup secures $15 million in record defense investment - The Kyiv Independent [10]
+
+Sources:
+[1] https://tinyurl.com/ymqvq7fp [2] https://tinyurl.com/ykceqp2l [3] https://tinyurl.com/222aldta [4] https://tinyurl.com/29lmg8sf [5] https://tinyurl.com/2a9b6l3r [6] https://tinyurl.com/2a46ee7x [7] https://tinyurl.com/26nxkrbx [8] https://tinyurl.com/2ywrds2g [9] https://tinyurl.com/28oos87k [10] https://tinyurl.com/2cs7a3xr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 18, 2025
 News
 
