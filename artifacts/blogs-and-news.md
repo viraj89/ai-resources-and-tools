@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 20, 2025
+News
+
+1. OpenAI and Anthropic studied how people use ChatGPT and Claude. One big difference emerged. - Business Insider [1]
+
+2. SoftBank (SFTBY) Cuts Jobs for U.S. AI Push as Venture with OpenAI Stalls - TipRanks [2]
+
+3. Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports - Reuters [3]
+
+4. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [4]
+
+5. European AI Startup Mistral AI Secures $2B in Funding - AI Business [5]
+
+6. Trump's Son-In-Law Jared Kushner Co-Founds Brain Co., A $30M AI Startup Partnered With OpenAI And Backed By Silicon Valley Billionaires - Yahoo Finance [6]
+
+7. Landmark tech deal secures record UK-US AI and energy investment - Digital Watch Observatory [7]
+
+8. SoftBank cuts 20% of Vision Fund team in AI investment pivot - People Matters India [8]
+
+9. SoftBank Vision Fund cuts 20% of staff, refocuses on AI investments - Kursiv Media [9]
+
+10. VCUK launches $60m PE/VC fund with European deeptech-plus focus - Venture Capital Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2d8coktd [2] https://tinyurl.com/29kbjdql [3] https://tinyurl.com/2bk8gsxk [4] https://tinyurl.com/296gu3sj [5] https://tinyurl.com/27v5q25b [6] https://tinyurl.com/28ju4yur [7] https://tinyurl.com/2yprvdd9 [8] https://tinyurl.com/26yf5f3a [9] https://tinyurl.com/26df996t [10] https://tinyurl.com/29x6me8s
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 19, 2025
 News
 
