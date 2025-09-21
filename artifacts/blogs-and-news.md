@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 21, 2025
+News
+
+1. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [1]
+
+2. Microsoft chooses Anthropic over OpenAI's GPT-5 for coding: Company explains why - Times of India [2]
+
+3. Google Gemini Nano Banana: India Among Top Users Of AI Feature As Viral Trend Grips Netizens - NDTV Profit [3]
+
+4. AI Startups That Focus Small Are Winning Big - Forbes [4]
+
+5. Google picks 20 AI startups for accelerator programme in India - The Economic Times [5]
+
+6. Here are the 33 US AI startups that have raised $100M or more in 2025 - TechCrunch [6]
+
+7. As Funding To AI Startups Increases And Concentrates, Which Investors Have Led? - Crunchbase News [7]
+
+8. OpenAI’s Latest Moves Put Many Voice AI Startups on Notice - CX Today [8]
+
+9. “The creative endeavours of musicians is ultimately funding lethal, dystopian technologies. Enough is more than enough. Another way is possible”: Massive Attack exit Spotify in protest at Daniel Ek’s military AI investments - MusicRadar [9]
+
+10. Weekly Funding Roundup (Sept 13–19): Late-Stage Deals Boost VC Activity in India - Business Outreach [10]
+
+Sources:
+[1] https://tinyurl.com/268o8u47 [2] https://tinyurl.com/255nueqg [3] https://tinyurl.com/29xke93x [4] https://tinyurl.com/23omyevg [5] https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTlZrQkVfUWZwTF9JZnR1VjRrYmFFZFZnMHFWNTBURmlrcjhkNnNPcUVkZUhLRHU0NHFnUUVKS2lfOTB1dmk5TGVZRmdVc1F0cnBZYnRES2JEM1lJZUhrUUdSNWJTNXVZaldZOHBJQTBxcHpGSWNucHN2ZVNuNHNxSk0wMnRucktIVjIwSFlzNGg5MUNMalcxbWgyTjJERk5RekxJZmw2S0NUTFBkVDJZMV9XOW1MLThKSjVPLWR1d1lmZDI0cEh1bzMwRmU2Q2s3OHNmT25uUnF0elNPNVHSAeMBQVVfeXFMTTY0WTVabXpPT284ZDRSMmNkLVIzc0c1b1JYblgtQ1ZBRHdpNEhmNkJPSmkzWm5NY3ozUlRpUTdXY05OOXFVUE1TLUUxWGNJODVqRHdaWDR2UkJQZDJpX2FkZ1R5ajNHWVhVbkhkREVFbkJMNXVtMFcycmVaX1NzMG9aNXI3ZlRDNEhDYUQ0YW56OHdLTElTOThIRVU5cmI1VGRzd0hXZGFJR0wxd3VzMzA2STJGaTlTdUpMbVdLOFNkT3hDaG9IR1FRZEpFOU1aWEl3YkNxRDNxVjFVSGRqSFpPN2M?oc=5 [6] https://tinyurl.com/2cdkta8b [7] https://tinyurl.com/2csmrfo7 [8] https://tinyurl.com/23cmsrpz [9] https://tinyurl.com/27dtbkrc [10] https://tinyurl.com/29qpd5mj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 20, 2025
 News
 
