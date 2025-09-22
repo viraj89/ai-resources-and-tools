@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 22, 2025
+News
+
+1. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [1]
+
+2. Hiring strategy of Indian AI startups in US goes for toss - The Economic Times [2]
+
+3. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [3]
+
+4. Semianalysis says Colossus 2 puts xAI ahead of Meta and Anthropic, but OpenAI stays ahead - the-decoder.com [4]
+
+5. Exclusive | Oracle, OpenAI Sign $300 Billion Cloud Deal - The Wall Street Journal [5]
+
+6. Exclusive | OpenAI Executives Rattled by Campaigns to Derail For-Profit Restructuring - The Wall Street Journal [6]
+
+7. Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - AP News [7]
+
+8. Canva paid $22.5m for AI startup MagicBrief and is getting its house in order before an IPO - Capital Brief [8]
+
+9. AI startups bridging the gap: from research breakthroughs to real-world impact - The Official Microsoft Blog [9]
+
+10. Did SoftBank’s (TSE:9984) Vision Fund Cuts and AI Pivot Just Shift Its Investment Narrative? - simplywall.st [10]
+
+Sources:
+[1] https://tinyurl.com/26lswknd [2] https://tinyurl.com/2d3t55q6 [3] https://tinyurl.com/2cul9ek5 [4] https://tinyurl.com/23ngo795 [5] https://tinyurl.com/28rrq9xm [6] https://tinyurl.com/2cmoa3a6 [7] https://tinyurl.com/27h66slz [8] https://tinyurl.com/24rqh7rb [9] https://tinyurl.com/2ynarabl [10] https://tinyurl.com/25oqqq39
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 21, 2025
 News
 
