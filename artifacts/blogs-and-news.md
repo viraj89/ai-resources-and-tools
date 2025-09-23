@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 23, 2025
+News
+
+1. Funding for European AI startups gains ground on US - - Global Venturing [1]
+
+2. 'If he isn't the American Dream...': US hedge fund chief shares best friend's H-1B story, Internet asks w - Times of India [2]
+
+3. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [3]
+
+4. Nvidia's $100 billion investment in OpenAI shows just how early we are in the AI trade - CNBC [4]
+
+5. OpenAI CEO says AI will first replace customer service - The American Bazaar [5]
+
+6. Exclusive: Growing tech firm Anthropic expands S.F. presence with large office lease in SoMa - San Francisco Chronicle [6]
+
+7. Inspired by Anthropic’s $1.5B book piracy payout, record labels accuse Suno of illegally ‘stream ripping’ music from YouTube - Music Business Worldwide [7]
+
+8. Major labels add piracy claims to Suno lawsuit after $1.5 billion Anthropic settlement - completemusicupdate.com [8]
+
+9. Apply Now: Use ChatGPT to Win $50M AI Funding from OpenAI - ICTworks [9]
+
+10. AI in American classrooms: How technology is tearing apart teacher-student trust - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2ydjgswa [2] https://tinyurl.com/296qnb57 [3] https://tinyurl.com/2dk8hr2o [4] https://tinyurl.com/2b6rbbot [5] https://tinyurl.com/2au6y7yw [6] https://tinyurl.com/25ddng4d [7] https://tinyurl.com/2co6kajs [8] https://tinyurl.com/234r4fyy [9] https://tinyurl.com/22t86ehb [10] https://tinyurl.com/2xogv23b
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 22, 2025
 News
 
