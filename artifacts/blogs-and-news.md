@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 24, 2025
+News
+
+1. Exclusive: Meta launches super PAC to fight AI regulation - Axios [1]
+
+2. OpenAI to build five more Stargate data centers in the US with Oracle and SoftBank - SiliconANGLE [2]
+
+3. Nvidia to Invest Up to $100 Billion in OpenAI, Setting Private Funding Record - PYMNTS.com [3]
+
+4. Bank of America explains why Nvidia almost has to invest in OpenAI and Intel - Sherwood News [4]
+
+5. Nvidia's $100 billion investment in OpenAI raises big antitrust concerns — legal experts and policymakers raise eyebrows over potential for market imbalance - Tom's Hardware [5]
+
+6. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [6]
+
+7. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [7]
+
+8. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [8]
+
+9. How To Use Gemini Nano Banana On WhatsApp For Free: Here's How - Mashable India [9]
+
+10. Swiss AI Startup Giotto.ai Targets $200M Funding to Rival OpenAI - WebProNews [10]
+
+Sources:
+[1] https://tinyurl.com/2xmcpfkp [2] https://tinyurl.com/292czp4h [3] https://tinyurl.com/2y95c9vk [4] https://tinyurl.com/26kpuqwc [5] https://tinyurl.com/22ptdwms [6] https://tinyurl.com/2bbh6jw7 [7] https://tinyurl.com/22q8dqbp [8] https://tinyurl.com/28ygulde [9] https://tinyurl.com/272q2jkb [10] https://tinyurl.com/22f5onqo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 23, 2025
 News
 
