@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 25, 2025
+News
+
+1. Microsoft courts Anthropic for Copilot as OpenAI alliance turns less exclusive - digitimes [1]
+
+2. I never said that: Elon Musk clarifies after Twitter user compares his Anthropic prediction to OpenAI - The Times of India [2]
+
+3. Bandwidth Expands 'Bring Your Own AI' Approach With Support for OpenAI's Realtime API To Power Advanced AI Voice Agents Using GPT Language Models - PR Newswire [3]
+
+4. OpenAI announces five more US Stargate data centers with Oracle and SoftBank - Data Center Dynamics [4]
+
+5. Bank of America resets Nvidia stock forecast after OpenAI deal - TheStreet [5]
+
+6. What does Nvidia’s $100 billion investment in OpenAI mean? - The American Bazaar [6]
+
+7. Nvidia Just Announced a Record $100 Billion Deal With OpenAI -- Here's What It Means for Investors - The Motley Fool [7]
+
+8. Anthropic expands SF HQ, opening door to a campus that can rival OpenAI’s - The San Francisco Standard [8]
+
+9. Microsoft Adds Anthropic Claude Models to 365 Copilot, Moving Beyond OpenAI | AIM - Analytics India Magazine [9]
+
+10. Navratri 2025: Best Google Gemini Nano Banana prompts to create images with Indian clothes | Hindustan Times - Hindustan Times [10]
+
+Sources:
+[1] https://tinyurl.com/29jafhvz [2] https://tinyurl.com/26rea5wp [3] https://tinyurl.com/26h4pp64 [4] https://tinyurl.com/26a9e4wc [5] https://tinyurl.com/2a3y6ntf [6] https://tinyurl.com/25kzlywm [7] https://tinyurl.com/29wkxu9j [8] https://tinyurl.com/2aparvqm [9] https://tinyurl.com/2capgyrs [10] https://tinyurl.com/29kju36x
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 24, 2025
 News
 
