@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 26, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Elon Musk’s xAI accuses OpenAI of stealing trade secrets in new lawsuit - The Guardian [2]
+
+3. Musk’s xAI accuses rival OpenAI of stealing trade secrets in lawsuit - The Washington Post [3]
+
+4. Exclusive: CoreWeave expands OpenAI pact with new $6.5 billion contract, sees "the quarter of diversification" - Reuters [4]
+
+5. Elon Musk's xAI accuses OpenAI of stealing trade secrets and targeting its employees in a new lawsuit - Business Insider [5]
+
+6. xAI accuses OpenAI of stealing its trade secrets in new lawsuit - Engadget [6]
+
+7. Exclusive / Anthropic irks White House with limits on models’ use - https-//www.semafor.com [7]
+
+8. Microsoft moves 'further away' from OpenAI, adds Anthropic AI model to Copilot assistant - Times of India [8]
+
+9. Microsoft Gives 365 Copilot Users a Choice, Adding Anthropic’s Claude AI as OpenAI Alternative - WinBuzzer [9]
+
+10. Google Gemini Nano Banana: 10 AI prompts to make photos with Virat Kohli, Shah Rukh Khan, Elon Musk, and - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/22rxfwbw [3] https://tinyurl.com/2285xzyl [4] https://tinyurl.com/25awgj5w [5] https://tinyurl.com/28spweeu [6] https://tinyurl.com/2al2w4ms [7] https://tinyurl.com/yt485r87 [8] https://tinyurl.com/297q38zg [9] https://tinyurl.com/2ccajnoj [10] https://tinyurl.com/2buo3txm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 25, 2025
 News
 
