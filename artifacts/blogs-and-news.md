@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 28, 2025
+News
+
+1. Microsoft to use some AI from Anthropic in shift from OpenAI, the Information reports - Reuters [1]
+
+2. OpenAI and Anthropic studied how people use ChatGPT and Claude. One big difference emerged. - Business Insider [2]
+
+3. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [3]
+
+4. FinAI fintech funding: Agentic AI startup reaches $386.3M in funding - Bank Automation News [4]
+
+5. How is Nvidia Backing UK AI Startups with £2bn Investment? - Data Centre Magazine [5]
+
+6. The all-AI startup that failed: A cautionary case study - The American Genius [6]
+
+7. How AI startups are fueling Google’s booming cloud business - TechCrunch [7]
+
+8. US VC firm Touring Capital closes $330m fund for AI startups - Tech in Asia [8]
+
+9. Good Capital Closes Fund 2.0 with Focus on AI Startups - Entrepreneur [9]
+
+10. From Physics To Pickaxes: AI Startups See Surging Investment - Benzinga [10]
+
+Sources:
+[1] https://tinyurl.com/2bk8gsxk [2] https://tinyurl.com/2d8coktd [3] https://tinyurl.com/296gu3sj [4] https://tinyurl.com/26eok7tj [5] https://tinyurl.com/24wo4vf9 [6] https://tinyurl.com/25zjkcpk [7] https://tinyurl.com/29lmg8sf [8] https://tinyurl.com/27xk2m6u [9] https://tinyurl.com/262ogdqx [10] https://tinyurl.com/23czuf45
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 27, 2025
 News
 
