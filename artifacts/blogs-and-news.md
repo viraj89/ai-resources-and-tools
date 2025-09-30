@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News September 30, 2025
+News
+
+1. Exclusive: Antler backs 14 UK AI startups with £1.5M in its biggest London residency investment - Tech Funding News [1]
+
+2. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [2]
+
+3. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [3]
+
+4. OpenAI to occupy $3B data center in Milam County as part of Stargate - Austin American-Statesman [4]
+
+5. Anthropic, Microsoft, OpenAI build out AI agent use cases - Constellation Research [5]
+
+6. Anthropic is going the OpenAI way; confirms expanding its global workforce in India and other countries - The Times of India [6]
+
+7. Users Can Shop From Etsy and Shopify in ChatGPT as OpenAI Launches New Agentic Commerce Protocol - Analytics India Magazine [7]
+
+8. Exclusive: Aiode grabs $5.5M to power ethical AI music platform - Tech Funding News [8]
+
+9. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [9]
+
+10. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/25mgedhw [2] https://tinyurl.com/2cul9ek5 [3] https://tinyurl.com/29qr5vg5 [4] https://tinyurl.com/2bkrp2yy [5] https://tinyurl.com/25gjyy49 [6] https://tinyurl.com/23hdmnmj [7] https://tinyurl.com/292tjru3 [8] https://tinyurl.com/2ch2deq3 [9] https://tinyurl.com/22dzyz6t [10] https://tinyurl.com/29ak858r
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 29, 2025
 News
 
