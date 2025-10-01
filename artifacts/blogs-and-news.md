@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 01, 2025
+News
+
+1. Exclusive: Antler backs 14 UK AI startups with £1.5M in its biggest London residency investment - Tech Funding News [1]
+
+2. Exclusive: Swiss AI startup Arqh secures $3.8M to help logistics teams escape spreadsheet chaos - Tech Funding News [2]
+
+3. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [3]
+
+4. OpenAI lands $100 billion backing from NVIDIA to build massive AI data centers across America - Fox Business [4]
+
+5. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [5]
+
+6. Yet Again, OpenAI Admits Anthropic is Better in a New Study - Analytics India Magazine [6]
+
+7. High-Speed In-Flight WiFi Breakthrough: Gogo's Ka-band System Certified for Premium Falcon Business Jets - Stock Titan [7]
+
+8. Bank of America builds GenAI assistant for instant answers for customers - Computer Weekly [8]
+
+9. Bank of America rolls out GenAI assistant for Global Payment Solutions business - Finextra Research [9]
+
+10. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2xr2b5y9 [2] https://tinyurl.com/26voas4g [3] https://tinyurl.com/2dk8hr2o [4] https://tinyurl.com/2cabtc58 [5] https://tinyurl.com/2bblxdjc [6] https://tinyurl.com/284azdu4 [7] https://tinyurl.com/2xjm9w7u [8] https://tinyurl.com/22ymp8m7 [9] https://tinyurl.com/28rtl7yq [10] https://tinyurl.com/2xkvohfc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News September 30, 2025
 News
 
