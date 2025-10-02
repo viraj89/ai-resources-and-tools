@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 02, 2025
+News
+
+1. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [1]
+
+2. Exclusive-AI data analytics startup Dataiku picked banks for US IPO, sources say - Yahoo Finance [2]
+
+3. Exclusive-AI data analytics startup Dataiku picked banks for US IPO, sources say - The Star [3]
+
+4. Exclusive-AI Data Analytics Startup Dataiku Picked Banks for US IPO, Sources Say - US News Money [4]
+
+5. US data center build hits record as AI demand surges, Bank of America Institute says - Reuters [5]
+
+6. Lawsuit seeks agency details on AI’s role in Trump’s deregulation push - FedScoop [6]
+
+7. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [7]
+
+8. Nvidia’s $100B Investment in OpenAI Raises Antitrust Eyebrows - JD Supra [8]
+
+9. Apple, OpenAI tell judge to dismiss Elon Musk's App Store lawsuit - Mashable [9]
+
+10. Former OpenAI, DeepMind researchers raise $300 million to ‘accelerate science’ using AI - The American Bazaar [10]
+
+Sources:
+[1] https://tinyurl.com/24u3lpem [2] https://tinyurl.com/284wleqe [3] https://tinyurl.com/2dp64wat [4] https://tinyurl.com/2cbt936h [5] https://tinyurl.com/22gy4oj5 [6] https://tinyurl.com/29p5hr9r [7] https://tinyurl.com/28m56bw3 [8] https://tinyurl.com/25v4an59 [9] https://tinyurl.com/2237qssp [10] https://tinyurl.com/2a8f4558
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 01, 2025
 News
 
