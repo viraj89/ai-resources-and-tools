@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 03, 2025
+News
+
+1. Exclusive-AI data analytics startup Dataiku picked banks for US IPO, sources say - MSN [1]
+
+2. OpenAI’s Latest Funding Deal Returns Focus to AI Economy, Lifting U.S. Stocks - The Wall Street Journal [2]
+
+3. OpenAI asks court to dismiss trade-secret lawsuit from Musk's xAI - Reuters [3]
+
+4. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [4]
+
+5. OpenAI’s Latest Funding Deal Returns Focus to AI Economy, Lifting U.S. Stocks - The Wall Street Journal [5]
+
+6. OpenAI asks court to dismiss Musk and xAI’s trade secret lawsuit - Investing.com [6]
+
+7. OpenAI Hits Back At Elon Musk’s xAI Lawsuit, Calls It ‘Groundless’ Attempt To Distract From His Own AI Struggles - Stocktwits [7]
+
+8. U.S. Commerce Sec. Lutnick says American AI dominates DeepSeek, thanks Trump for AI Action Plan — OpenAI and Anthropic beat Chinese models across 19 different benchmarks - Tom's Hardware [8]
+
+9. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [9]
+
+10. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [10]
+
+Sources:
+[1] https://tinyurl.com/238bcrqx [2] https://tinyurl.com/2bdzn42g [3] https://tinyurl.com/2d5smrae [4] https://tinyurl.com/242blehz [5] https://tinyurl.com/2azn4r5w [6] https://tinyurl.com/27p3dyu8 [7] https://tinyurl.com/2avzzbeh [8] https://tinyurl.com/2dz9vggg [9] https://tinyurl.com/2bbh6jw7 [10] https://tinyurl.com/22q8dqbp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 02, 2025
 News
 
