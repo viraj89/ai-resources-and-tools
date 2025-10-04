@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 04, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. AI startups lead 2025 VC funding, up to $192.7B already - Cryptopolitan [3]
+
+4. AI Startups Dominate VC Funding in 2025, Securing $192.7B - Meyka [4]
+
+5. VC funding for AI startups hits $192.7b in 2025 - Tech in Asia [5]
+
+6. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [6]
+
+7. JPMorgan, OpenAI & Anthropic: Evolving Banking Operations - AI Magazine [7]
+
+8. U.S. model upgrades are pushing AI startups to move fast – it's unclear if Europe can keep up - CNBC [8]
+
+9. The Social Skinny: OpenAI, Anthropic support Newsom’s AI bill; AI ‘actress’ Tilly Norwood angers Hollywood - Campaign US [9]
+
+10. AI Insider's Week in Review: News from Opera, Open AI, DeepSeek, Anthropic, Plus Latest in Research and Funding Rounds - AI Insider [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/24355pev [4] https://tinyurl.com/2byuvpqr [5] https://tinyurl.com/28uks8fa [6] https://tinyurl.com/29z6u32j [7] https://tinyurl.com/297ucm8v [8] https://tinyurl.com/29lqcvvl [9] https://tinyurl.com/259px3lo [10] https://tinyurl.com/2brr2tk3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 03, 2025
 News
 
