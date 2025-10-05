@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 05, 2025
+News
+
+1. Big AI startups score record funding while small companies are left behind - Cybernews [1]
+
+2. OpenAI Is Just Another Boring, Desperate AI Startup - wheresyoured.at [2]
+
+3. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [3]
+
+4. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [4]
+
+5. Bank of America exec brings Disney magic to Erica AI assistant - The Business Journals [5]
+
+6. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [6]
+
+7. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [7]
+
+8. OpenAI’s former CTO Mira Murati’s AI startup launches its first product - Times of India [8]
+
+9. Korea’s AI Startups Push for Policies That Match Growth Stages to Compete Globally: Ecosystem Now at Crossroads - KoreaTechDesk [9]
+
+10. Universal Music, Warner Music in advanced talks to license songs to AI startups - CryptoRank [10]
+
+Sources:
+[1] https://tinyurl.com/27vuejrn [2] https://tinyurl.com/27kpkft3 [3] https://tinyurl.com/29u7g74e [4] https://tinyurl.com/28ygulde [5] https://tinyurl.com/29678zu9 [6] https://tinyurl.com/23vxssgd [7] https://tinyurl.com/23ha5l2t [8] https://tinyurl.com/28wltvuw [9] https://tinyurl.com/2cbr459j [10] https://tinyurl.com/252oqo42
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 04, 2025
 News
 
