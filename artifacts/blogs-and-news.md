@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 06, 2025
+News
+
+1. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [1]
+
+2. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [2]
+
+3. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [3]
+
+4. How AI startups are fueling Google’s booming cloud business - TechCrunch [4]
+
+5. Andrew Ng says the real bottleneck in AI startups isn't coding — it's product management - Business Insider [5]
+
+6. OpenAI Funding Surge Fuels AI Investment Wave - TechInformed [6]
+
+7. Is an 'AI investment super shift' on the horizon? Bank of America bets on resource stocks and China's 'BATX' quartet to lead a new AI-driven narrative. - 富途牛牛 [7]
+
+8. VC funding roundup: Boston-area startups and tech firms raised $721 in September - The Business Journals [8]
+
+9. UK and European pension funds push for venture capital investment - Investment & Pensions Europe [9]
+
+10. Venture Capital Metric Reshapes WIPO's World’s Top 100 Innovation Clusters Rankings - World Intellectual Property Organization (WIPO) [10]
+
+Sources:
+[1] https://tinyurl.com/2bqkftpp [2] https://tinyurl.com/296gu3sj [3] https://tinyurl.com/2ycqjjcu [4] https://tinyurl.com/29lmg8sf [5] https://tinyurl.com/28qtcopb [6] https://tinyurl.com/2ylchjtk [7] https://tinyurl.com/24ew9c5b [8] https://tinyurl.com/26bbm53t [9] https://tinyurl.com/2bed9lkv [10] https://tinyurl.com/28yv2fyt
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 05, 2025
 News
 
