@@ -1,4 +1,65 @@
 
+## 2025-10-07 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI unveils AgentKit that lets developers drag and drop to build AI agents
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://openai.com/">OpenAI</a> launched an agent builder that the company hopes will eliminate fragmented tools and make it easier for enterprises to utilize OpenAI’s system to create age...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai)**
+
+---
+
+### 2. New AI training method creates powerful software agents with just 78 examples
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>A new study by <a href="https://en.sjtu.edu.cn/"><u>Shanghai Jiao Tong University</u></a> and <a href="https://plms.ai/"><u>SII Generative AI Research Lab</u></a> (GAIR) shows that training large l...
+- **Pricing**: Freemium
+- **Trending Score**: 400.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/new-ai-training-method-creates-powerful-software-agents-with-just-78)**
+
+---
+
+### 3. From Silicon Valley to Nairobi: What the Global South’s AI leapfrogging teaches tech leaders
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When I write about the cognitive migration now underway, brought about by the rapid advance of gen AI, I do so from the perspective of someone who has spent four decades in the technology industry....
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-silicon-valley-to-nairobi-what-the-global-souths-ai-leapfrogging)**
+
+---
+
+### 4. Google's Jules coding agent moves beyond chat with new command line and API
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.google.com/"><u>Google</u></a> wants its coding assistant, Jules, to be far more integrated into developers’ terminals than ever. The company wants to make it a more workflow-n...
+- **Pricing**: Freemium
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-jules-coding-agent-moves-beyond-chat-with-new-command-line-and-api)**
+
+---
+
+### 5. Huawei's new open source technique shrinks LLMs to make them run on less powerful, less expensive hardware
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Huawei’s Computing Systems Lab in Zurich has introduced a <a href="https://arxiv.org/pdf/2509.22944">new open-source quantization method </a>for large language models (LLMs) aimed at reducing memor...
+- **Pricing**: Freemium
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less)**
+
+---
+
+
 ## 2025-10-06 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

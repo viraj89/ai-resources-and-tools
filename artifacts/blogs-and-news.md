@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 07, 2025
+News
+
+1. AMD stock soars on news of chip supply deal with ChatGPT operator OpenAI - Austin American-Statesman [1]
+
+2. Did OpenAI's ChatGPT Instant Checkout Deal Just Shift Etsy's (ETSY) Investment Narrative? - Yahoo Finance [2]
+
+3. Exclusive | OpenAI’s New Sora Video Generator to Require Copyright Holders to Opt Out - The Wall Street Journal [3]
+
+4. OpenAI Acquires Financial AI Startup Roi to Personalise Investing - Analytics India Magazine [4]
+
+5. AI startup funding hits record $192.7b in 2025: report - Tech in Asia [5]
+
+6. The all-AI startup that failed: A cautionary case study - The American Genius [6]
+
+7. AI Startups Claim 63% of Total Venture Capital Money in 2025, Non-AI Companies Struggle - Technology Org [7]
+
+8. AI Startups Dominate Global Venture Funding In 2025 - Finimize [8]
+
+9. The 7 Moats That Make AI Startups Truly Defensible - AIM Media House [9]
+
+10. As Funding To AI Startups Increases And Concentrates, Which Investors Have Led? - Crunchbase News [10]
+
+Sources:
+[1] https://tinyurl.com/267dm2lg [2] https://tinyurl.com/2yw425gr [3] https://tinyurl.com/2df3x82e [4] https://tinyurl.com/2b92aadw [5] https://tinyurl.com/2ar7xld9 [6] https://tinyurl.com/25zjkcpk [7] https://tinyurl.com/2b328dc6 [8] https://tinyurl.com/2yzrgq5q [9] https://tinyurl.com/277ojox6 [10] https://tinyurl.com/2csmrfo7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 06, 2025
 News
 
