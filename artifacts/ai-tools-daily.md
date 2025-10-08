@@ -1,4 +1,65 @@
 
+## 2025-10-08 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI Dev Day 2025: ChatGPT becomes the new app store — and hardware is coming
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>In a packed hall at Fort Mason Center in San Francisco, against a backdrop of the Golden Gate Bridge, <a href="https://openai.com/"><u>OpenAI</u></a> CEO Sam Altman laid out a bold vision to remake...
+- **Pricing**: Paid
+- **Trending Score**: 550.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-dev-day-2025-chatgpt-becomes-the-new-app-store-and-hardware-is-coming)**
+
+---
+
+### 2. Google's AI can now surf the web for you, click on buttons, and fill out forms with Gemini 2.5 Computer Use
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Some of the largest providers of large language models (LLMs) have sought to move beyond multimodal chatbots — extending their models out into &quot;agents&quot; that can actually take more actions...
+- **Pricing**: Freemium
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-ai-can-now-surf-the-web-for-you-click-on-buttons-and-fill-out-forms)**
+
+---
+
+### 3. IBM claims 45% productivity gains with Project Bob, its multi-model IDE that orchestrates LLMs with full repository context
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>For many enterprises, there continue to be barriers to fully adopting and benefiting from agentic AI.</p><p><a href="https://www.ibm.com/"><u>IBM</u></a><u> </u>is betting the blocker isn&#x27;t bu...
+- **Pricing**: Freemium
+- **Trending Score**: 500.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ibm-claims-45-productivity-gains-with-project-bob-its-multi-model-ide-that)**
+
+---
+
+### 4. Has this stealth startup finally cracked the code on enterprise AI agent reliability? Meet AUI's Apollo-1
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>For more than a decade, conversational AI has promised human-like assistants that can do more than chat. Yet even as large language models (LLMs) like ChatGPT, Gemini, and Claude learn to reason, e...
+- **Pricing**: Paid
+- **Trending Score**: 490.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/has-this-stealth-startup-finally-cracked-the-code-on-enterprise-ai-agent)**
+
+---
+
+### 5. OpenAI unveils AgentKit that lets developers drag and drop to build AI agents
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://openai.com/">OpenAI</a> launched an agent builder that the company hopes will eliminate fragmented tools and make it easier for enterprises to utilize OpenAI’s system to create age...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai)**
+
+---
+
+
 ## 2025-10-07 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 08, 2025
+News
+
+1. Smaller AI startups echo Indian watchdog’s anti-trust concerns - The Economic Times [1]
+
+2. OpenAI just killed n8n, Zapier and 1,000 AI startups with one update. Dev Day announcement of AgentKit. - Quantum Zeitgeist [2]
+
+3. CCI study finds 67% of Indian AI startups focused on building AI applications, reshaping Indias business landscape - Tribune India [3]
+
+4. OpenAI debuts Sora 2, a social media app with exclusively AI-generated content - WGRZ [4]
+
+5. OpenAI bans suspected China-linked accounts for seeking surveillance proposals - Reuters [5]
+
+6. OpenAI could be the first trillion-dollar IPO, Futurum Group CEO predicts - Fox Business [6]
+
+7. Anthropic plans to open India office, eyes tie-up with billionaire Ambani - Yahoo Finance [7]
+
+8. Anthropic plans to open India office, eyes tie-up with billionaire Ambani - TechCrunch [8]
+
+9. Anthropic to Open India Office in 2026 - Money US News.com [9]
+
+10. Anthropic’s own guardrails revive full copyright lawsuit from litigious music publishers - completemusicupdate.com [10]
+
+Sources:
+[1] https://tinyurl.com/28mah53m [2] https://tinyurl.com/299y99zw [3] https://tinyurl.com/273xjbuh [4] https://tinyurl.com/2coum9ou [5] https://tinyurl.com/2yzr3puf [6] https://tinyurl.com/26lso9eh [7] https://tinyurl.com/2ce7xxsq [8] https://tinyurl.com/269skfav [9] https://tinyurl.com/2c9uhh3v [10] https://tinyurl.com/255ww9s8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 07, 2025
 News
 
