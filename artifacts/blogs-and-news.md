@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 09, 2025
+News
+
+1. OpenAI and Anthropic Weigh Using Investor Funds to Settle Copyright Lawsuits - TipRanks [1]
+
+2. OpenAI, Anthropic Plan To Use Investor Funds To Settle Multibillion-Dollar Lawsuits, Emerging Risks: Report - Stocktwits [2]
+
+3. Anthropic to open office in India, in talks with Mukesh Ambani for AI partnership - The American Bazaar [3]
+
+4. CCI study finds 67% of Indian AI startups focused on building AI applications - The Economic Times [4]
+
+5. AI Startups Draw 46% Of Global Venture Funding In Q3, Anthropic Leads With $13 Bn - BW Disrupt [5]
+
+6. CCI study finds 67% of Indian AI startups focused on building AI applications, reshaping India's business - The Economic Times [6]
+
+7. The Senate Republican Budget Bill Adds Broadband Funding That Favors Musk’s Starlink and Bans State AI Laws - Center for American Progress [7]
+
+8. OpenAI, Anthropic eye investor funds to settle AI lawsuits, FT reports - Reuters [8]
+
+9. Insurers hesitate at multibillion-dollar claims faced by OpenAI, Anthropic in AI lawsuits: report - Seeking Alpha [9]
+
+10. Anthropic to open first India office as rival OpenAI boosts presence in the country - CNBC [10]
+
+Sources:
+[1] https://tinyurl.com/23rgemmf [2] https://tinyurl.com/25k4yhfp [3] https://tinyurl.com/2act4k66 [4] https://tinyurl.com/262zb567 [5] https://tinyurl.com/243umu8m [6] https://tinyurl.com/2cgaveco [7] https://tinyurl.com/2dk8hr2o [8] https://tinyurl.com/2cftnr3a [9] https://tinyurl.com/256rg54o [10] https://tinyurl.com/27le439t
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 08, 2025
 News
 
