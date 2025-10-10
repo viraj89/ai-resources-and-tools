@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 10, 2025
+News
+
+1. Record AI Investment Sparks “Innovation Winter” for Non-AI Startups, Experts Warn of Bubble Risks - KoreaTechDesk [1]
+
+2. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [2]
+
+3. US data center build hits record as AI demand surges, Bank of America Institute says - Reuters [3]
+
+4. Music Publishers Can’t Add Lyric Piracy Claims to Anthropic AI Training Lawsuit - Billboard [4]
+
+5. IBM Stock Hits Record High on Anthropic Deal. It’s Not OpenAI, but It Will Do. - Barron's [5]
+
+6. Anthropic To Open India Office As Claude Usage Surges - Yahoo Finance [6]
+
+7. Anthropic to open India office focused on AI for social impact in sectors including education and healthcare - EdTech Innovation Hub [7]
+
+8. OpenAI, Anthropic Weigh Using Investor Funds To Pay Settlements - Silicon UK [8]
+
+9. OpenAI, Anthropic eye investor funds to settle AI lawsuits, FT reports - Yahoo Finance [9]
+
+10. Meta balked at turning over AI chatbot records in lawsuit, setting up court fight - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/2b4sar43 [2] https://tinyurl.com/24u3lpem [3] https://tinyurl.com/22gy4oj5 [4] https://tinyurl.com/274rypup [5] https://tinyurl.com/24tlkjtt [6] https://tinyurl.com/2dha7gtr [7] https://tinyurl.com/23oumo97 [8] https://tinyurl.com/24hlgpqa [9] https://tinyurl.com/2yabyq42 [10] https://tinyurl.com/27dr4lgv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 09, 2025
 News
 
