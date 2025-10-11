@@ -1,4 +1,65 @@
 
+## 2025-10-11 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. The next AI battleground: Google’s Gemini Enterprise and AWS’s Quick Suite bring full-stack, in-context AI to the workplace
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>The friction of having to open a separate chat window to prompt an agent could be a hassle for many enterprises. And AI companies are seeing an opportunity to bring more and more <a href="https://v...
+- **Pricing**: Freemium
+- **Trending Score**: 510.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-next-ai-battleground-googles-gemini-enterprise-and-awss-quick-suite)**
+
+---
+
+### 2. Echelon's AI agents take aim at Accenture and Deloitte consulting models
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://www.echelonai.com/"><u>Echelon</u></a>, an artificial intelligence startup that automates enterprise software implementations, emerged from stealth mode today with $4.75 million in...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/echelons-ai-agents-take-aim-at-accenture-and-deloitte-consulting-models)**
+
+---
+
+### 3. Will updating your AI agents help or hamper their performance? Raindrop's new tool Experiments tells you
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>It seems like almost every week for the last two years since ChatGPT launched, new large language models (LLMs) from rival labs or from OpenAI itself have been released. Enterprises are hard presse...
+- **Pricing**: Freemium
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/will-updating-your-ai-agents-help-or-hamper-their-performance-raindrops-new)**
+
+---
+
+### 4. Together AI's ATLAS adaptive speculator delivers 400% inference speedup by learning from workloads in real-time
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Enterprises expanding AI deployments are hitting an invisible performance wall. The culprit? Static speculators that can&#x27;t keep up with shifting workloads.</p><p>Speculators are smaller AI mod...
+- **Pricing**: Freemium
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/together-ais-atlas-adaptive-speculator-delivers-400-inference-speedup-by)**
+
+---
+
+### 5. New memory framework builds AI agents that can handle the real world's unpredictability
+
+- **Category**: Search / Research
+- **What it does**: <p>Researchers at the <a href="https://illinois.edu/"><u>University of Illinois Urbana-Champaign</u></a> and <a href="https://research.google/teams/cloud-ai-research/"><u>Google Cloud AI Research</u><...
+- **Pricing**: Freemium
+- **Trending Score**: 310.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds)**
+
+---
+
+
 ## 2025-10-10 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

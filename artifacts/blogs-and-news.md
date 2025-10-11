@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 11, 2025
+News
+
+1. SoftBank is seeking $5 billion loan to invest in OpenAI, plans to use Arm shares as collateral — rapid AI expansion continues, investment could top $30 billion - Tom's Hardware [1]
+
+2. Embodied AI Startup Secures Multi - Million Yuan Funding by Extracting Multimodal Embodied Data from Internet Videos, Slashing Data Collection Costs to 0.5% of Industry Average | Exclusive from Yingke - 36Kr [2]
+
+3. Five AI startups chosen for accelerator cohort, $500,000 investment - The Business Journals [3]
+
+4. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [4]
+
+5. Bay Area AI startups won more than 30% of global venture-capital investment in the last three months - The Business Journals [5]
+
+6. Mark Cuban just jumped on OpenAI's Sora 2 wave — and he's encouraging fans to make AI videos of him - Business Insider [6]
+
+7. IBM Stock Hits Record High on Anthropic Deal. It’s Not OpenAI, but It Will Do. - Barron's [7]
+
+8. Rishi Sunak joins Microsoft and Anthropic as paid adviser; told he must not ... - Times of India [8]
+
+9. TechMagic: OpenAI's Sora, Deepfakes, Meta Ray-Bans, AI Startup Boom, and the End of AOL - ADWEEK [9]
+
+10. OpenAI and Anthropic studied how people use ChatGPT and Claude. One big difference emerged. - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/2yyxbafh [2] https://tinyurl.com/28nqbwyz [3] https://tinyurl.com/2atrytnx [4] https://tinyurl.com/2xuofj4r [5] https://tinyurl.com/22qfl2wl [6] https://tinyurl.com/2cm9bm74 [7] https://tinyurl.com/2ct4n9dt [8] https://tinyurl.com/2yyqbj4p [9] https://tinyurl.com/22bybf96 [10] https://tinyurl.com/2d8coktd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 10, 2025
 News
 
