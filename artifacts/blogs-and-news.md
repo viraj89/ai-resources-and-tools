@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 12, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. CCI finds 67% Indian AI startups focused on building AI applications, reshaping business landscape - The Economic Times [2]
+
+3. SoftBank's Graphcore announces $1bn investment in India, opens AI engineering campus in the country - Data Center Dynamics [3]
+
+4. Lawyer says OpenAI sent police to his house after he pushed for AI regulation - India Today [4]
+
+5. OpenAI accused of pressuring AI regulation advocates with subpoenas - the-decoder.com [5]
+
+6. IBM Stock Hits Record High on Anthropic Deal. It’s Not OpenAI, but It Will Do. - Barron's [6]
+
+7. Anthropic CEO Dario Amodei meets PM Modi; discusses AI firm's India expansion plans - The Economic Times [7]
+
+8. India tops technical Claude usage, second-largest market for Anthropic: Top exec - The Economic Times [8]
+
+9. Apple faces lawsuit over AI training data as OpenAI, Microsoft and Meta battle similar claims - Times of India [9]
+
+10. India emerging as developer powerhouse for Anthropic’s Claude AI, says Guillaume Princen - BusinessLine [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/28z3rxvx [3] https://tinyurl.com/2dpw4upm [4] https://tinyurl.com/2d4hqdxe [5] https://tinyurl.com/28ul5okb [6] https://tinyurl.com/2bhcztma [7] https://tinyurl.com/29lqnf3m [8] https://tinyurl.com/233okm5a [9] https://tinyurl.com/2dy8ulmo [10] https://tinyurl.com/26g6rsoc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 11, 2025
 News
 
