@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 13, 2025
+News
+
+1. Happy Llama 2026 The Must-Attend Summit for AI Startups Now in Bangalore and San Francisco - Analytics India Magazine [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. Happy Llama 2026 The Must-Attend Summit for AI Startups Now in Bangalore and San Francisco - AIM Media House [3]
+
+4. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [4]
+
+5. I left JPMorgan to join an AI investment bank. It was a calculated risk, and I have no regrets. - Business Insider [5]
+
+6. OpenAI’s startup boss to European companies: Americans are 'almost shameless' when ... - The Times of India [6]
+
+7. IBM Stock Hits Record High on Anthropic Deal. It’s Not OpenAI, but It Will Do. - Barron's [7]
+
+8. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [8]
+
+9. Bank of America downgrades Freshpet amid broader pet decline - PetfoodIndustry [9]
+
+10. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2924snrq [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/28n4oto7 [4] https://tinyurl.com/2cul9ek5 [5] https://tinyurl.com/29fee35r [6] https://tinyurl.com/28oe6evm [7] https://tinyurl.com/2bgabquf [8] https://tinyurl.com/2bbh6jw7 [9] https://tinyurl.com/2c9tfzjh [10] https://tinyurl.com/28ygulde
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 12, 2025
 News
 
