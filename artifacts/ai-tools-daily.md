@@ -1,4 +1,65 @@
 
+## 2025-10-14 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Salesforce bets on AI 'agents' to fix what it calls a $7 billion problem in enterprise software
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>As 50,000 attendees descend on Salesforce&#x27;s <a href="https://www.salesforce.com/dreamforce/"><u>Dreamforce conference</u></a> this week, the enterprise software giant is making its most aggres...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-bets-on-ai-agents-to-fix-what-it-calls-a-usd7-billion-problem-in)**
+
+---
+
+### 2. We keep talking about AI agents, but do we ever know what they are?
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Imagine you do two things on a Monday morning.</p><p>First, you ask a chatbot to summarize your new emails. Next, you ask an AI tool to figure out why your top competitor grew so fast last quarter....
+- **Pricing**: Paid
+- **Trending Score**: 440.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/we-keep-talking-about-ai-agents-but-do-we-ever-know-what-they-are)**
+
+---
+
+### 3. Is vibe coding ruining a generation of engineers?
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>AI tools are revolutionizing <a href="https://venturebeat.com/ai/replacing-coders-with-ai-why-bill-gates-sam-altman-and-experience-say-you">software development</a> by automating repetitive tasks, ...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers)**
+
+---
+
+### 4. When dirt meets data: ScottsMiracle-Gro saved $150M using AI
+
+- **Category**: Business / Analytics
+- **What it does**: <p><b>How a semiconductor veteran turned over a century of horticultural wisdom into AI-led competitive advantage </b></p><p>For decades, a ritual played out across ScottsMiracle-Gro’s media facilitie...
+- **Pricing**: Paid
+- **Trending Score**: 400.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/when-dirt-meets-data-scottsmiracle-gro)**
+
+---
+
+### 5. Together AI's ATLAS adaptive speculator delivers 400% inference speedup by learning from workloads in real-time
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Enterprises expanding AI deployments are hitting an invisible performance wall. The culprit? Static speculators that can&#x27;t keep up with shifting workloads.</p><p>Speculators are smaller AI mod...
+- **Pricing**: Freemium
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/together-ais-atlas-adaptive-speculator-delivers-400-inference-speedup-by)**
+
+---
+
+
 ## 2025-10-13 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

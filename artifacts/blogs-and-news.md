@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 14, 2025
+News
+
+1. Inside the AI Startups Backed by AWS’ US$1m Investment - AI Magazine [1]
+
+2. Indian-origin banker quits JP Morgan to join an AI investment bank: 'I have no regrets' | Trending - Hindustan Times [2]
+
+3. Inside Nandan Nilekani’s exclusive Koramangala dinner for Anthropic CEO Dario Amodei - Moneycontrol [3]
+
+4. IBM Stock Hits Record High on Anthropic Deal. It’s Not OpenAI, but It Will Do. - Barron's [4]
+
+5. Google Selects 20 AI Startups in India for Its “AI First” Accelerator Program | by Kunal Palkar | Oct, 2025 - DataDrivenInvestor [5]
+
+6. OpenAI partners with India’s payment authority to bring UPI to ChatGPT - The American Bazaar [6]
+
+7. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [7]
+
+8. OpenAI to Deploy 10 Gigawatts of In-House AI Accelerators with Broadcom Partnership - Analytics India Magazine [8]
+
+9. Chicago breaks into top 10 for startup funding as AI fuels investment surge - The Business Journals [9]
+
+10. We haven't seen anything like this: AI startup CEO after Google asks US employees to transfer medical dat - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2a3p3p7e [2] https://tinyurl.com/24d4ee33 [3] https://tinyurl.com/2yz4zefh [4] https://tinyurl.com/27txre9y [5] https://tinyurl.com/28rhkvqm [6] https://tinyurl.com/2bxzatf4 [7] https://tinyurl.com/296gu3sj [8] https://tinyurl.com/25ybnhr3 [9] https://tinyurl.com/287qsrbc [10] https://tinyurl.com/24jpnk8k
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 13, 2025
 News
 
