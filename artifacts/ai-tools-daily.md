@@ -1,4 +1,65 @@
 
+## 2025-10-15 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Salesforce bets on AI 'agents' to fix what it calls a $7 billion problem in enterprise software
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>As 50,000 attendees descend on Salesforce&#x27;s <a href="https://www.salesforce.com/dreamforce/"><u>Dreamforce conference</u></a> this week, the enterprise software giant is making its most aggres...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-bets-on-ai-agents-to-fix-what-it-calls-a-usd7-billion-problem-in)**
+
+---
+
+### 2. We keep talking about AI agents, but do we ever know what they are?
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Imagine you do two things on a Monday morning.</p><p>First, you ask a chatbot to summarize your new emails. Next, you ask an AI tool to figure out why your top competitor grew so fast last quarter....
+- **Pricing**: Paid
+- **Trending Score**: 440.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/we-keep-talking-about-ai-agents-but-do-we-ever-know-what-they-are)**
+
+---
+
+### 3. Is vibe coding ruining a generation of engineers?
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>AI tools are revolutionizing <a href="https://venturebeat.com/ai/replacing-coders-with-ai-why-bill-gates-sam-altman-and-experience-say-you">software development</a> by automating repetitive tasks, ...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers)**
+
+---
+
+### 4. EAGLET boosts AI agent performance on longer-horizon tasks by generating custom plans
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>2025 was supposed to be<a href="https://www.barrons.com/articles/nvidia-stock-ceo-ai-agents-8c20ddfb?gaa_at=eafs&amp;gaa_n=ASWzDAjLKLIimw5qFdsG0kmEnu-fOoNZXVCdnBx-zn_CbT1hLgiWcYGxmHLDOvPxpV0%3D&amp...
+- **Pricing**: Freemium
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/eaglet-boosts-ai-agent-performance-on-longer-horizon-tasks-by-generating)**
+
+---
+
+### 5. Here's what's slowing down your AI strategy — and how to fix it
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Your best <a href="https://venturebeat.com/ai/how-ai-product-teams-are-rethinking-impact-risk-feasibility">data science team</a> just spent six months building a model that predicts customer churn ...
+- **Pricing**: Paid
+- **Trending Score**: 320.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/heres-whats-slowing-down-your-ai-strategy-and-how-to-fix-it)**
+
+---
+
+
 ## 2025-10-14 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

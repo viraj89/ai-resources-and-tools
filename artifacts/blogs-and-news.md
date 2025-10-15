@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 15, 2025
+News
+
+1. Jet.AI and flyExclusive extend merger closing date amid shutdown - Investing.com India [1]
+
+2. Inside Nandan Nilekani’s exclusive Koramangala dinner for Anthropic CEO Dario Amodei - Moneycontrol [2]
+
+3. Salesforce (NYSE:CRM) Deepens AI Push with OpenAI and Anthropic Partnerships - TipRanks [3]
+
+4. Salesforce (CRM) Expands Partnership with OpenAI and Anthropic t - GuruFocus [4]
+
+5. Anthropic is the latest AI giant to focus on India - asiatechreview.com [5]
+
+6. Behind Google’s US$15bn Funding in India’s First AI Data Hub - Data Centre Magazine [6]
+
+7. Google announces $15Bn India investment to set up largest AI Hub outside the US - The Tech Portal [7]
+
+8. Google rolls out Nano Banana AI tool in Search: Step-by-step guide to use - Times of India [8]
+
+9. Microsoft AI CEO Mustafa Suleyman has a new 'Harvard plan' and the target is OpenAI - Times of India [9]
+
+10. Exclusive: Anthropic's Claude is getting better at building itself, Amodei says - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/27cy2ka3 [2] https://tinyurl.com/27jhlgkj [3] https://tinyurl.com/26lm286m [4] https://tinyurl.com/25bqc5m6 [5] https://tinyurl.com/2yaygo5u [6] https://tinyurl.com/2xpybxxz [7] https://tinyurl.com/295rj9qo [8] https://tinyurl.com/2a5dovhj [9] https://tinyurl.com/236kvv5n [10] https://tinyurl.com/ypobqpjm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 14, 2025
 News
 
