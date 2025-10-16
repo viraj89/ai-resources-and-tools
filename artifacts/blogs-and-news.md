@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 16, 2025
+News
+
+1. Indian AI startups August AI, Trozo secure $3Mn funding - Outsource Accelerator [1]
+
+2. AI Startups Thrive in Complementary Ecosystem, Attracting Rapid VC Funding - StartupHub.ai [2]
+
+3. Erebor Bank Wins US Green Light for Crypto and AI Startups: Report - Bitcoin.com News [3]
+
+4. Market Today: Amazon Layoffs and AI Investments, Bank of America Earnings Beat - GuruFocus [4]
+
+5. Exclusive | A Giant New AI Data Center Is Coming to the Epicenter of America’s Fracking Boom - The Wall Street Journal [5]
+
+6. Microsoft accused of trying to manipulate AI pricing via its OpenAI investment - Computerworld [6]
+
+7. Exclusive: Anthropic aims to nearly triple annualized revenue in 2026, sources say - Reuters [7]
+
+8. New Meta AI Features Makes Ray-Ban Glasses in India More Useful & Fun - Meta Store [8]
+
+9. Ray-Ban Meta glasses get UPI support, Meta AI features in India, including Deepika Padukone AI voice | Hindustan Times - Hindustan Times [9]
+
+10. Walmart stock price extends record-setting rally on OpenAI shopping deal - businessinsider.com [10]
+
+Sources:
+[1] https://tinyurl.com/29k2cypz [2] https://tinyurl.com/2ccqr3ta [3] https://tinyurl.com/29q2dvrb [4] https://tinyurl.com/2b82t88l [5] https://tinyurl.com/2bd7lf5f [6] https://tinyurl.com/27cp7ztl [7] https://tinyurl.com/2xtafoav [8] https://tinyurl.com/2d5ezj6c [9] https://tinyurl.com/29h2b385 [10] https://tinyurl.com/296pqmeh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 15, 2025
 News
 
