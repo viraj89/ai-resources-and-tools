@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 17, 2025
+News
+
+1. Indian AI startups August AI, Trozo secure $3Mn funding - Outsource Accelerator [1]
+
+2. Exclusive-AI data analytics startup Dataiku picked banks for US IPO, sources say - Yahoo [2]
+
+3. Amazon faces a 'fundamental' shift in how AI startups spend on the cloud, internal documents show - Business Insider [3]
+
+4. Walmart Stock Hit Record Highs on OpenAI Deal. What Message Does That Send About the Business of AI? - Investopedia [4]
+
+5. Exclusive: OpenAI hires black hole physicist in broader science push - Axios [5]
+
+6. If You Were Bankrolling OpenAI, the Percent of ChatGPT Users Willing to Pay for It Might Make You Break Out in a Cold Sweat - Futurism [6]
+
+7. What We Learned From Salesforce’s Dreamforce; Using OpenAI and Anthropic For Different Tasks - The Information [7]
+
+8. Thermo Fisher Scientific to Accelerate Life Science Breakthroughs with OpenAI - Business Wire [8]
+
+9. Tensions are brewing between Anthropic and the White House over AI regulation - qz.com [9]
+
+10. White House and Anthropic Clash Over AI Regulation - eWeek [10]
+
+Sources:
+[1] https://tinyurl.com/22hl9dfa [2] https://tinyurl.com/28346hmr [3] https://tinyurl.com/2xqmz65a [4] https://tinyurl.com/28k92zn7 [5] https://tinyurl.com/24b6jv3d [6] https://tinyurl.com/286swfs2 [7] https://tinyurl.com/27mo3erm [8] https://tinyurl.com/28oxsgsf [9] https://tinyurl.com/243dhlys [10] https://tinyurl.com/2d4prpfa
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 16, 2025
 News
 

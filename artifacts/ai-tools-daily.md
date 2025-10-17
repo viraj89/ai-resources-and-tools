@@ -1,4 +1,65 @@
 
+## 2025-10-17 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic is giving away its powerful Claude Haiku 4.5 AI for free to take on OpenAI
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> released <a href="https://www.anthropic.com/news/claude-haiku-4-5"><u>Claude Haiku 4.5</u></a> on Wednesday, a smaller and significantly cheape...
+- **Pricing**: Freemium
+- **Trending Score**: 560.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-is-giving-away-its-powerful-claude-haiku-4-5-ai-for-free-to-take)**
+
+---
+
+### 2. How Anthropic’s ‘Skills’ make Claude faster, cheaper, and more consistent for business workflows
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> launched a new capability on Thursday that allows its <a href="https://claude.ai/"><u>Claude AI</u></a> assistant to tap into specialized exper...
+- **Pricing**: Freemium
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-anthropics-skills-make-claude-faster-cheaper-and-more-consistent-for)**
+
+---
+
+### 3. ACE prevents context collapse with ‘evolving playbooks’ for self-improving AI agents
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>A new framework from <a href="https://www.stanford.edu/"><u>Stanford University</u></a> and <a href="https://sambanova.ai/"><u>SambaNova</u></a> addresses a critical challenge in building robust AI...
+- **Pricing**: Paid
+- **Trending Score**: 320.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ace-prevents-context-collapse-with-evolving-playbooks-for-self-improving-ai)**
+
+---
+
+### 4. Google vs. OpenAI vs. Visa: competing agent protocols threaten the future of AI commerce
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When Walmart and OpenAI announced that the retailer would integrate with ChatGPT, the question became how quickly OpenAI could deliver on the promise of agents buying things for people. In the batt...
+- **Pricing**: Freemium
+- **Trending Score**: 230.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-vs-openai-vs-visa-competing-agent-protocols-threaten-the-future-of-ai)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2025-10-16 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
