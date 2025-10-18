@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 18, 2025
+News
+
+1. TFN at Expand North Star: $1.1T capital clash, 10K+ AI startups by 2030, and just 1.2% of VC money to women - Tech Funding News [1]
+
+2. Why OpenAI, Microsoft and Anthropic are funding millions in teacher training: 'AI, like it or not, is part of our world' - Fortune [2]
+
+3. OpenAI bans use of Martin Luther King Jr.’s likeness after viral AI videos spark outrage - TheGrio [3]
+
+4. Meta’s AI Glasses Are No Gimmick — They Just Drove Ray-Ban’s Parent To Record Quarterly Revenue - Stocktwits [4]
+
+5. AI Insider's Week in Review: Sora's Record-Breaking Launch, AI Talent War Continues, JP Morgan's Trillion-Dollar Frontier Tech Fund, Plus the Latest in Research, Conferences and Funding - AI Insider [5]
+
+6. US AI startup General Intuition raises $133.7m seed funding - Tech in Asia [6]
+
+7. The Fashion AI Startups to Watch - The Business of Fashion [7]
+
+8. Docusign CEO discusses the emerging capabilities of AI startups - Yahoo Finance [8]
+
+9. Town Hall Ventures raises $440M fund for health equity-focused AI startups - Fierce Healthcare [9]
+
+10. Town Hall Ventures Raises $440 Mn Fund to Drive Health Equity-Focused AI Startups - Digital Health News [10]
+
+Sources:
+[1] https://tinyurl.com/2aggb52r [2] https://tinyurl.com/24t9rkzc [3] https://tinyurl.com/2bebudgo [4] https://tinyurl.com/27tovxxs [5] https://tinyurl.com/22lzz9jw [6] https://tinyurl.com/2ccyonql [7] https://tinyurl.com/2b2bqjd5 [8] https://tinyurl.com/2b9756ju [9] https://tinyurl.com/2bpgohfb [10] https://tinyurl.com/27ay5szz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 17, 2025
 News
 
