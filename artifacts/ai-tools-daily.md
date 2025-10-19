@@ -1,4 +1,65 @@
 
+## 2025-10-19 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. How Anthropic’s ‘Skills’ make Claude faster, cheaper, and more consistent for business workflows
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> launched a new capability on Thursday that allows its <a href="https://claude.ai/"><u>Claude AI</u></a> assistant to tap into specialized exper...
+- **Pricing**: Freemium
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-anthropics-skills-make-claude-faster-cheaper-and-more-consistent-for)**
+
+---
+
+### 2. Codev lets enterprises avoid vibe coding hangovers with a team of agents that generate and document code
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>For many software developers using generative AI, <a href="https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price"><u>vibe coding</u></a> is a ...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/codev-lets-enterprises-avoid-vibe-coding-hangovers-with-a-team-of-agents)**
+
+---
+
+### 3. Developers can now add live Google Maps data to Gemini-powered AI app outputs
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open s...
+- **Pricing**: Freemium
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app)**
+
+---
+
+### 4. ACE prevents context collapse with ‘evolving playbooks’ for self-improving AI agents
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>A new framework from <a href="https://www.stanford.edu/"><u>Stanford University</u></a> and <a href="https://sambanova.ai/"><u>SambaNova</u></a> addresses a critical challenge in building robust AI...
+- **Pricing**: Paid
+- **Trending Score**: 320.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ace-prevents-context-collapse-with-evolving-playbooks-for-self-improving-ai)**
+
+---
+
+### 5. Abstract or die: Why AI enterprises can't afford rigid vector stacks
+
+- **Category**: Search / Research
+- **What it does**: <p>Vector databases (DBs), once specialist research instruments, have become widely used infrastructure in just a few years. They power today&#x27;s semantic search, recommendation engines, anti-fraud...
+- **Pricing**: Freemium
+- **Trending Score**: 290.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/abstract-or-die-why-ai-enterprises-cant-afford-rigid-vector-stacks)**
+
+---
+
+
 ## 2025-10-18 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

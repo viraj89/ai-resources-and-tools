@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 19, 2025
+News
+
+1. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [1]
+
+2. Why this nonprofit that worked on California’s AI safety law is accusing OpenAI - Times of India [2]
+
+3. Top 7 AI Startups Built by Former Big Tech Leaders in 2025 - Analytics India Magazine [3]
+
+4. As San Francisco Rents Surge, AI Startups Offer Housing Benefits To Keep Workers Close - Benzinga [4]
+
+5. U.S. model upgrades are pushing AI startups to move fast – it's unclear if Europe can keep up - CNBC [5]
+
+6. As Funding To AI Startups Increases And Concentrates, Which Investors Have Led? - Crunchbase News [6]
+
+7. Top 10 AI Startups in Non-Tech Industries - AIM Media House [7]
+
+8. AI investment boom may lead to bust, but not likely systemic crisis, IMF chief economist says - Reuters [8]
+
+9. Investment banker predicts uptick for Amazon stock ahead of AI and satellite developments - Fox Business [9]
+
+10. Indian family offices have a new favourite—early-stage VC funds | Company Business News - Mint [10]
+
+Sources:
+[1] https://tinyurl.com/2xuofj4r [2] https://tinyurl.com/2yvu3kek [3] https://tinyurl.com/29ln49xl [4] https://tinyurl.com/27j68mk5 [5] https://tinyurl.com/29lqcvvl [6] https://tinyurl.com/2csmrfo7 [7] https://tinyurl.com/2cylrbgv [8] https://tinyurl.com/2xr32vpv [9] https://tinyurl.com/2bwv7v7x [10] https://tinyurl.com/2as7a2jb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 18, 2025
 News
 
