@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 20, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Elon Musk's lawsuit: In 4-page order, Judge tells Apple and OpenAI to shift their headquarters to Texas; - Times of India [2]
+
+3. India’s AI ecosystem is rapidly growing with the IndiaAI Mission, billions in IT investments, and global tech giants like OpenAI, Anthropic, Perplexity, and ElevenLabs setting up offices. Jaspreet Bindra, co-founder of AI&Beyond, noted that foreign companies are - LinkedIn [3]
+
+4. OpenAI’s mega AI city plans hinge on custom chip breakthrough - Cryptopolitan [4]
+
+5. WhatsApp bans AI chatbots from its platform, OpenAI and others to lose access soon - India Today [5]
+
+6. Exclusive | A Giant New AI Data Center Is Coming to the Epicenter of America’s Fracking Boom - The Wall Street Journal [6]
+
+7. Inside the AI startups reinventing consulting: 'It's not as good as McKinsey, but it's instant' - businessinsider.com [7]
+
+8. AI Startups Provide Housing Benefits in San Francisco's Tight Rental Market - News and Statistics - IndexBox [8]
+
+9. How AI startups are fueling Google’s booming cloud business - TechCrunch [9]
+
+10. VCUK launches $60m PE/VC fund with European deeptech-plus focus - Venture Capital Journal [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/29wtprsy [3] https://tinyurl.com/278xkft8 [4] https://tinyurl.com/2awfvgzt [5] https://tinyurl.com/2ykr3vbq [6] https://tinyurl.com/2xmvhmut [7] https://tinyurl.com/2a8fnsbo [8] https://tinyurl.com/224vwwc6 [9] https://tinyurl.com/29lmg8sf [10] https://tinyurl.com/29x6me8s
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 19, 2025
 News
 
