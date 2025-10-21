@@ -1,4 +1,65 @@
 
+## 2025-10-21 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. How Anthropic’s ‘Skills’ make Claude faster, cheaper, and more consistent for business workflows
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> launched a new capability on Thursday that allows its <a href="https://claude.ai/"><u>Claude AI</u></a> assistant to tap into specialized exper...
+- **Pricing**: Freemium
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-anthropics-skills-make-claude-faster-cheaper-and-more-consistent-for)**
+
+---
+
+### 2. Codev lets enterprises avoid vibe coding hangovers with a team of agents that generate and document code
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>For many software developers using generative AI, <a href="https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price"><u>vibe coding</u></a> is a ...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/codev-lets-enterprises-avoid-vibe-coding-hangovers-with-a-team-of-agents)**
+
+---
+
+### 3. Developers can now add live Google Maps data to Gemini-powered AI app outputs
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open s...
+- **Pricing**: Freemium
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app)**
+
+---
+
+### 4. The teacher is the new engineer: Inside the rise of AI enablement and PromptOps
+
+- **Category**: Business / Analytics
+- **What it does**: <p>As more companies quickly begin using gen AI, it’s important to avoid a big mistake that could impact its effectiveness: Proper onboarding. Companies spend time and money training new human workers...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-teacher-is-the-new-engineer-inside-the-rise-of-ai-enablement-and)**
+
+---
+
+### 5. Adobe Foundry wants to rebuild Firefly for your brand — not just tweak it
+
+- **Category**: Search / Research
+- **What it does**: <p>Hoping to attract more enterprise teams to its ecosystem, <a href="https://www.adobe.com/"><u>Adobe</u></a> launched a new model customization service called Adobe AI Foundry, which would create be...
+- **Pricing**: Paid
+- **Trending Score**: 290.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/adobe-foundry-wants-to-rebuild-firefly-for-your-brand-not-just-tweak-it)**
+
+---
+
+
 ## 2025-10-20 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

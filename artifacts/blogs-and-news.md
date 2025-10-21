@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 21, 2025
+News
+
+1. The knowledge industry expects a multiplier impact from SurEnergy and OpenAI's investment in Argentina - BNamericas [1]
+
+2. Visa hurdles make US tech hirings tough for Indian-founded AI startups - The Economic Times [2]
+
+3. Madica Adds Two New AI Startups, Partners With ABAN to Boost Investment Flow - Tech Labari [3]
+
+4. OpenAI Hit by Misleading “Breakthroughs”: Tens of Thousands of Tweets Lash Out, Valuation Drops. Is Terence Tao Capable but on the Wrong Track? - 36Kr [4]
+
+5. OpenAI Files Motion for Summary Judgment in Elon Musk's Lawsuit Against Sam Altman - Law.com [5]
+
+6. Indian techie who once worked at Microsoft builds AI startup to simplify US visa process | Hindustan Times - Hindustan Times [6]
+
+7. Indian techie who once worked at Microsoft builds AI startup to simplify US visa process | Hindustan Times - Hindustan Times [7]
+
+8. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [8]
+
+9. How Americans are using AI tools to double their income: Pew survey says it’s real - Times of India [9]
+
+10. Exclusive: Early AI darling LangChain is now a unicorn with a fresh $125 million in funding - Fortune [10]
+
+Sources:
+[1] https://tinyurl.com/2b7sew9z [2] https://tinyurl.com/2bqnudjt [3] https://tinyurl.com/2abnf45j [4] https://tinyurl.com/27z3nbts [5] https://tinyurl.com/2xw6asqh [6] https://tinyurl.com/28lwbhcz [7] https://tinyurl.com/2dz5kdms [8] https://tinyurl.com/28ygulde [9] https://tinyurl.com/2562vh6k [10] https://tinyurl.com/2cssw5pl
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 20, 2025
 News
 
