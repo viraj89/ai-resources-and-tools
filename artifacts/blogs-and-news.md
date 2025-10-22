@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 22, 2025
+News
+
+1. I demoed a buzzy AI startup and got a glimpse of what investment bankers' jobs might start to look like - businessinsider.com [1]
+
+2. AI startup boom in Pittsburgh continues despite record-low VC funding in Q3 - Technical.ly [2]
+
+3. ‘Honestly, I’ve never seen anything like it before’, says top analyst on housing perks that AI startups a - Times of India [3]
+
+4. Madica backs two new AI startups, partners with ABAN to strengthen Africa’s early-stage ecosystem - Businessday NG [4]
+
+5. How Antler India is fast-tracking the next wave of AI startups | Company Business News - Mint [5]
+
+6. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [6]
+
+7. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [7]
+
+8. OpenAI Is Paying Ex-Investment Bankers $150 an Hour to Train Its AI - Entrepreneur [8]
+
+9. OpenAI hires over 100 ex-investment bankers to train AI on financial modeling - report (OPENAI:Private) - Seeking Alpha [9]
+
+10. Anthropic, White House Clash Over AI Regulation Timing - 조선일보 [10]
+
+Sources:
+[1] https://tinyurl.com/23qwl2hz [2] https://tinyurl.com/27276g89 [3] https://tinyurl.com/2b95pdwo [4] https://tinyurl.com/2ygo9cxp [5] https://tinyurl.com/2dbnb8mv [6] https://tinyurl.com/24u3lpem [7] https://tinyurl.com/2b4rbkth [8] https://tinyurl.com/25fsew5k [9] https://tinyurl.com/2bnlxbab [10] https://tinyurl.com/2ac3hjce
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 21, 2025
 News
 
