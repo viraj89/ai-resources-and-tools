@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 23, 2025
+News
+
+1. OpenAI, Perplexity, and Anthropic turn to India to hire top AI talent - Business Standard [1]
+
+2. MTX Group launches venture investment arm for AI startups - Consulting.us [2]
+
+3. AI Startups Draw Over Half Of Global Venture Funding In 2025: Reports - BW Businessworld [3]
+
+4. OpenAI prioritised user engagement over suicide prevention, lawsuit claims - Financial Times [4]
+
+5. Navan’s Business Travel Customer List Includes OpenAI, Perplexity, and Anthropic: Scoop - Skift [5]
+
+6. Google DeepMind CEO calls 'Maths breakthrough' claim of leading OpenAI researcher, 'Embarrassing' - Times of India [6]
+
+7. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [7]
+
+8. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [8]
+
+9. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - businessinsider.com [9]
+
+10. Amazon admits it's missing the next wave of AI startups for its cloud business - businessinsider.com [10]
+
+Sources:
+[1] https://tinyurl.com/27bycxdb [2] https://tinyurl.com/26e6cbpd [3] https://tinyurl.com/28gkjj5w [4] https://tinyurl.com/25ynrg5a [5] https://tinyurl.com/28x97nua [6] https://tinyurl.com/2ywcxvwb [7] https://tinyurl.com/2ydmemjs [8] https://tinyurl.com/2bbh6jw7 [9] https://tinyurl.com/296gu3sj [10] https://tinyurl.com/2bnxwbax
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 22, 2025
 News
 
