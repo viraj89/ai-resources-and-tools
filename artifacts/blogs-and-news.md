@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 25, 2025
+News
+
+1. Latin American Banks Boost AI, Cloud Investment Temenos - Mexico Business News [1]
+
+2. What OpenAI’s acquisition of Sky, an AI Interface for Mac, tells us about the future of ChatGPT and potential hardware devices - The Indian Express [2]
+
+3. AI startup Crusoe got funding from an NFL star - businessinsider.com [3]
+
+4. What OpenAI didn't tell users openly about its ChatGPT Atlas browser: It is built on ... - Times of India [4]
+
+5. Anthropic to expand use of Google Cloud TPUs and Services - The American Bazaar [5]
+
+6. AI firm Anthropic bans Florida DOGE Team account without warning as state pushes to expose government bloat - Florida’s Voice [6]
+
+7. AI Insider's Week in Review: News from Anthropic, IBM, Apple, Meta, and Google DeepMind, Plus the Latest in Research, Policy & Funding Rounds - AI Insider [7]
+
+8. Exclusive: Anthropic aims to nearly triple annualized revenue in 2026, sources say - Reuters [8]
+
+9. Google AI accused of fabricating criminal record of conservative in $15M lawsuit - The Heartlander [9]
+
+10. OpenAI Acquires Mac AI Startup Behind ‘Sky’ To Build Next-Gen Desktop Assistant - Mashable India [10]
+
+Sources:
+[1] https://tinyurl.com/23dlsvbc [2] https://tinyurl.com/28duhuc9 [3] https://tinyurl.com/234xzqlf [4] https://tinyurl.com/2ad2t7qw [5] https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWVieVItYzdZa051ZHVYQzFwWVlSaUhlTEhrbkZHRXZpYTIwaGM3Y2diUTViZVhZZUZ1VHljN3l6SGJiWVpSSmkyelhHUkhnZ0o5elY0aTVkYWFHRWpxSUVqeENjUDB6bWJiNE8tRFVCLW5LX3JrOXBYcWF4eTZfQUJMNDMzYVhQd2dNMHk3ckp1cmU4bWwydm1EdXZFMmZwbXg0a1ZUREVKZGdna0E?oc=5 [6] https://tinyurl.com/2a3llh5a [7] https://tinyurl.com/29jgpg4u [8] https://tinyurl.com/2xtafoav [9] https://tinyurl.com/2bum7kn6 [10] https://tinyurl.com/29mgqema
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 24, 2025
 News
 
