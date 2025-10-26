@@ -1,4 +1,65 @@
 
+## 2025-10-26 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Kai-Fu Lee's brutal assessment: America is already losing the AI hardware war to China
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>China is on track to dominate consumer artificial intelligence applications and robotics manufacturing within years, but the United States will maintain its substantial lead in enterprise AI adopti...
+- **Pricing**: Freemium
+- **Trending Score**: 500.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/kai-fu-lees-brutal-assessment-america-is-already-losing-the-ai-hardware-war)**
+
+---
+
+### 2. Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>While the world&#x27;s leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial general intelligence, a researcher at one...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/thinking-machines-challenges-openais-ai-scaling-strategy-first)**
+
+---
+
+### 3. ‘AI is tearing companies apart’: Writer AI CEO slams Fortune 500 leaders for mismanaging tech
+
+- **Category**: Presentations
+- **What it does**: <p><a href="https://writer.com/blog/enterprise-ai-future-fireside/"><u>May Habib</u></a>, co-founder and CEO of <a href="https://writer.com/"><u>Writer AI</u></a>, delivered one of the bluntest assess...
+- **Pricing**: Freemium
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for)**
+
+---
+
+### 4. Sakana AI's CTO says he's 'absolutely sick' of transformers, the tech that powers every major AI model
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>In a striking act of self-critique, one of the architects of the transformer technology that powers <a href="https://chatgpt.com/"><u>ChatGPT</u></a>, <a href="https://claude.ai/"><u>Claude</u></a>...
+- **Pricing**: Freemium
+- **Trending Score**: 290.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers)**
+
+---
+
+### 5. Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>China’s <a href="https://www.antgroup.com/en"><u>Ant Group</u></a>, an affiliate of Alibaba, detailed technical information around its new model, <a href="https://huggingface.co/inclusionAI/Ring-1T...
+- **Pricing**: Paid
+- **Trending Score**: 270.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at)**
+
+---
+
+
 ## 2025-10-25 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

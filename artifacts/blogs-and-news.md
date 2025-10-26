@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 26, 2025
+News
+
+1. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [1]
+
+2. SoftBank Greenlights Remaining $22.5 Billion of OpenAI Investment - The Information [2]
+
+3. SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports - Reuters [3]
+
+4. Softbank approves remaining $22.5 billion of OpenAI investment, The Information reports - Yahoo Finance [4]
+
+5. Softbank approves remaining $22.5 billion of OpenAI investment, The Information reports By Reuters - Investing.com [5]
+
+6. SoftBank said to approve remaining $22.5b for OpenAI investment - Tech in Asia [6]
+
+7. Softbank approves remaining $22.5 billion of OpenAI investment, The Information reports - AnewZ [7]
+
+8. Anthropic partners with Google to train its AI chatbot; to use Tensor AI chips - The Times of India [8]
+
+9. AI Startups See New Use Case: Senior Care - The Wall Street Journal [9]
+
+10. AI startups must aim for doctors’ trust, not buzz - eMarketer [10]
+
+Sources:
+[1] https://tinyurl.com/2cul9ek5 [2] https://tinyurl.com/2b8hwby7 [3] https://tinyurl.com/22nlvlab [4] https://tinyurl.com/2xnekgth [5] https://tinyurl.com/27pljas9 [6] https://tinyurl.com/225f2qar [7] https://tinyurl.com/298a8tda [8] https://tinyurl.com/2bhp4kll [9] https://tinyurl.com/28vxofjm [10] https://tinyurl.com/2ysqplku
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 25, 2025
 News
 
