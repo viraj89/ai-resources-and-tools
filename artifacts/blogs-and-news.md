@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 27, 2025
+News
+
+1. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [1]
+
+2. Bank of America Finds AI Has Limited Impact on US Employment - PYMNTS.com [2]
+
+3. SoftBank Board Approves Remainder of OpenAI Investment - The Information [3]
+
+4. Anthropic is said to gain ground on OpenAI with focus on corporate AI market (MSFT:NASDAQ) - Seeking Alpha [4]
+
+5. SoftBank Approves $22.5B OpenAI Investment for For-Profit Shift - WebProNews [5]
+
+6. SoftBank Finalizes $30 Billion Investment in OpenAI as Valuation Surges - TipRanks [6]
+
+7. Anthropic's Enterprise Focus Fuels Growth, Rivals OpenAI in AI M - GuruFocus [7]
+
+8. Bank of America Research Institute: AI Investment Becomes a Strong Engine for the U.S. Economy, 'Unemployment Wave' Nightmare Has Not Materialized - 富途牛牛 [8]
+
+9. AI Startups See New Use Case: Senior Care - The Wall Street Journal [9]
+
+10. OpenAI joins $30m funding for biotech AI startup Valthos - Tech in Asia [10]
+
+Sources:
+[1] https://tinyurl.com/2xuofj4r [2] https://tinyurl.com/22gklo22 [3] https://tinyurl.com/22eu2ap4 [4] https://tinyurl.com/2ay8u5o9 [5] https://tinyurl.com/2deje2fa [6] https://tinyurl.com/24d73vys [7] https://tinyurl.com/2dosvg8v [8] https://tinyurl.com/2b6s4ogu [9] https://tinyurl.com/2boxxpha [10] https://tinyurl.com/2xo3jjpt
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 26, 2025
 News
 
