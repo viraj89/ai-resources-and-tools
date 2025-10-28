@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 28, 2025
+News
+
+1. SoftBank Completes $30 Billion OpenAI Investment Amid Push for IPO Readiness - Ventureburn [1]
+
+2. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [2]
+
+3. Top 10 VC Firms Funding AI Startups in India in 2025 - Analytics India Magazine [3]
+
+4. SoftBank completes $30B bet on OpenAI: Does it clear path to IPO? - Tech Funding News [4]
+
+5. Exclusive | The AI Startup Fueling ChatGPT’s Expertise Is Now Valued at $10 Billion - The Wall Street Journal [5]
+
+6. OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week - WIRED [6]
+
+7. Exclusive: OpenAI's 2026 policy vision - Axios [7]
+
+8. Former Apple Engineers Join OpenAI After Acquisition of Mac AI Startup - TechRepublic [8]
+
+9. Exclusive: OpenAI’s 2026 policy vision - RamaOnHealthcare [9]
+
+10. OpenAI claims over a million users weekly discuss suicides with ChatGPT - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2d4ohy6m [2] https://tinyurl.com/ylavzgzu [3] https://tinyurl.com/23x3cjlt [4] https://tinyurl.com/2dftb559 [5] https://tinyurl.com/236bubh9 [6] https://tinyurl.com/23s7docx [7] https://tinyurl.com/22qulmb7 [8] https://tinyurl.com/24kghych [9] https://tinyurl.com/2ap9kbdv [10] https://tinyurl.com/2a84oadz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 27, 2025
 News
 

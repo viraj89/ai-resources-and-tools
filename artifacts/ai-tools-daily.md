@@ -1,4 +1,65 @@
 
+## 2025-10-28 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Watch out, DeepSeek and Qwen! There&#x27;s a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — tha...
+- **Pricing**: Freemium
+- **Trending Score**: 680.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool)**
+
+---
+
+### 2. Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="http://anthropic.com"><u>Anthropic</u></a> is making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed its <a href="h...
+- **Pricing**: Freemium
+- **Trending Score**: 590.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival)**
+
+---
+
+### 3. Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>While the world&#x27;s leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial general intelligence, a researcher at one...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/thinking-machines-challenges-openais-ai-scaling-strategy-first)**
+
+---
+
+### 4. Google's 'Watch & Learn' framework cracks the data bottleneck for training computer-use agents
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>A new framework developed by researchers at Google Cloud and DeepMind aims to address one of the key challenges of developing computer use agents (CUAs): Gathering high-quality training examples at...
+- **Pricing**: Freemium
+- **Trending Score**: 310.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training)**
+
+---
+
+### 5. Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>China’s <a href="https://www.antgroup.com/en"><u>Ant Group</u></a>, an affiliate of Alibaba, detailed technical information around its new model, <a href="https://huggingface.co/inclusionAI/Ring-1T...
+- **Pricing**: Paid
+- **Trending Score**: 270.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at)**
+
+---
+
+
 ## 2025-10-27 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
