@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 29, 2025
+News
+
+1. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [1]
+
+2. AI startups are raising millions to disrupt Hollywood. Read the pitch decks 8 used to get funding. - businessinsider.com [2]
+
+3. The AI Startups Making Millions Without a Dime of Venture Capital - AIM Media House [3]
+
+4. Venture capital investments in staffing and workforce companies reach record level - Staffing Industry Analysts [4]
+
+5. Elizabeth Warren Accuses Trump And Scott Bessent Of Buying Argentina Election For 'Political Ally' To Make 'Hedge Fund Investors Richer' - Citigroup (NYSE:C), Bank of America (NYSE:BAC) - Benzinga [5]
+
+6. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [6]
+
+7. OpenAI's new agreement with Microsoft gives the AI startup more freedom on its quest to raise billions - businessinsider.com [7]
+
+8. OpenAI loses bid to dismiss part of US authors' copyright lawsuit - Reuters [8]
+
+9. Cameo files trademark lawsuit against OpenAI - Courthouse News [9]
+
+10. Exclusive: OpenAI’s Atlas browser — and others — can be tricked by manipulated web content - CyberScoop [10]
+
+Sources:
+[1] https://tinyurl.com/278zjyoa [2] https://tinyurl.com/236qnk8y [3] https://tinyurl.com/2ccb2y6b [4] https://tinyurl.com/29nqe9x6 [5] https://tinyurl.com/2dzmv39n [6] https://tinyurl.com/2bzma2ny [7] https://tinyurl.com/25jfmo2x [8] https://tinyurl.com/28672t3w [9] https://tinyurl.com/2dx8khys [10] https://tinyurl.com/2yt9q8jr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 28, 2025
 News
 

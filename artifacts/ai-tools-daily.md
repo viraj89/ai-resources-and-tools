@@ -1,4 +1,65 @@
 
+## 2025-10-29 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Watch out, DeepSeek and Qwen! There&#x27;s a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — tha...
+- **Pricing**: Freemium
+- **Trending Score**: 680.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool)**
+
+---
+
+### 2. Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="http://anthropic.com"><u>Anthropic</u></a> is making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed its <a href="h...
+- **Pricing**: Freemium
+- **Trending Score**: 590.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival)**
+
+---
+
+### 3. Microsoft’s Copilot can now build apps and automate your job — here’s how it works
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.microsoft.com/en-us/"><u>Microsoft</u></a> is launching a significant expansion of its <a href="https://copilot.microsoft.com/"><u>Copilot AI assistant</u></a> on Tuesday, intr...
+- **Pricing**: Paid
+- **Trending Score**: 440.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it)**
+
+---
+
+### 4. IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values <i>efficiency over enormity</i>, and <i>accessibility over abstractio...
+- **Pricing**: Freemium
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally)**
+
+---
+
+### 5. Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Building AI for financial software requires a different playbook than consumer AI, and <a href="https://www.intuit.com/"><u>Intuit&#x27;s</u></a> latest QuickBooks release provides an example.</p><...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in)**
+
+---
+
+
 ## 2025-10-28 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
