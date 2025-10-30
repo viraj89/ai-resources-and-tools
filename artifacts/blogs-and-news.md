@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News October 30, 2025
+News
+
+1. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [1]
+
+2. Exclusive-OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Yahoo Finance [2]
+
+3. Microsoft's CFO highlights record infrastructure investments, OpenAI deal in internal memo - businessinsider.com [3]
+
+4. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [4]
+
+5. Exclusive-OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation By Reuters - Investing.com [5]
+
+6. AI giants Anthropic, OpenAI, and Perplexity are following Big Tech's footsteps as they rush into India - businessinsider.com [6]
+
+7. I demoed a buzzy AI startup and got a glimpse of what investment bankers' jobs might start to look like - businessinsider.com [7]
+
+8. Microsoft, Enterprise Singapore and NUS Enterprise team up to provide funding for 150 AI startups - TNGlobal [8]
+
+9. IPOs on horizon for Saudi startups as VC funding tops $1bn - Arabian Gulf Business Insight | AGBI [9]
+
+10. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2d966tea [2] https://tinyurl.com/2xn26t6l [3] https://tinyurl.com/28cs7hpm [4] https://tinyurl.com/26bz4vvz [5] https://tinyurl.com/2a9srjrv [6] https://tinyurl.com/28hzrtkx [7] https://tinyurl.com/23qwl2hz [8] https://tinyurl.com/22slovpk [9] https://tinyurl.com/28j9e9tv [10] https://tinyurl.com/25hwy79g
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 29, 2025
 News
 
