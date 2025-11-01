@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 01, 2025
+News
+
+1. An OpenAI Founder Discusses Anthropic Merger Talks, Internal Beefs in Deposition - The Information [1]
+
+2. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [3]
+
+4. OpenAI's Challenge: Pursuing a Trillion-Dollar IPO While Building Public Trust - Eric Newcomer [4]
+
+5. Exclusive / AWS’ mega multistate AI data center is powering Anthropic’s Claude - https-//www.semafor.com [5]
+
+6. Google partners with Ambani's Reliance to offer free AI Pro access to millions of Jio users in India - TechCrunch [6]
+
+7. Microsoft, Enterprise Singapore and NUS Enterprise to Fast-Track Growth for 150 AI Startups - Microsoft Source [7]
+
+8. AI Insider’s Week in Review: Meta Expands AI Editing to Instagram, OpenAI's Mac Expansion, Grammarly Rebrands & Microsoft Introduces Mico, Plus the Latest Funding Rounds - AI Insider [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. Developers Abandon OpenAI's Codex for Anthropic's Claude Code Amid Performance Woes - X [10]
+
+Sources:
+[1] https://tinyurl.com/2xv88llu [2] https://tinyurl.com/287aj2re [3] https://tinyurl.com/26w5fdjt [4] https://tinyurl.com/2yt3ru2r [5] https://tinyurl.com/2ym8g9t2 [6] https://tinyurl.com/28zwm4ob [7] https://tinyurl.com/2xwvsyvs [8] https://tinyurl.com/293fzuvd [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/263xfzfu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News October 31, 2025
 News
 

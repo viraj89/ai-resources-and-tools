@@ -1,4 +1,65 @@
 
+## 2025-11-01 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>The rise of AI marks a critical shift away from decades defined by information-chasing and a push for more and more compute power. </p><p>Canva co-founder and CPO Cameron Adams refers to this dawni...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy)**
+
+---
+
+### 2. IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values <i>efficiency over enormity</i>, and <i>accessibility over abstractio...
+- **Pricing**: Freemium
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally)**
+
+---
+
+### 3. Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prompting, had both turned to <a href="https://chat...
+- **Pricing**: Paid
+- **Trending Score**: 400.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots)**
+
+---
+
+### 4. Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Celonis</i></p><hr/><p>AI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable ROI from the AI solutions — esp...
+- **Pricing**: Freemium
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process)**
+
+---
+
+### 5. Agentic AI is all about the context — engineering, that is
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Elastic</i></p><hr/><p><b><i>As organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be key</i></b></p><p>By now, mo...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is)**
+
+---
+
+
 ## 2025-10-31 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
