@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 02, 2025
+News
+
+1. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. Behind every breakthrough AI startup is a VC firm that bet on innovation early. Meet the Top 10 Venture Capital firms powering India’s AI startup boom in 2025, the investors backing deep tech, automation, and the next wave of AI-first companies. Read more he - LinkedIn [3]
+
+4. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [4]
+
+5. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [5]
+
+6. Exclusive | Related to Build More-Than-$7 Billion Data Center for Oracle, OpenAI’s Stargate - The Wall Street Journal [6]
+
+7. OpenAI offers free ChatGPT Go for one year to all users in India - TechCrunch [7]
+
+8. OpenAI’s Project Mercury: Is Your Investment Banking Career on Borrowed Time? | by Akhilesh Yadav | Nov, 2025 - DataDrivenInvestor [8]
+
+9. Elon Musk has a 'conspiracy theory' on why Sam Altman didn't equity stake in OpenAI after deal with Micro - The Times of India [9]
+
+10. Exclusive: Anthropic aims to nearly triple annualized revenue in 2026, sources say - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2b9k4npr [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/22rvjnrm [4] https://tinyurl.com/29qoco6z [5] https://tinyurl.com/24u3lpem [6] https://tinyurl.com/2a5ogza4 [7] https://tinyurl.com/26duhtz6 [8] https://tinyurl.com/2ctzz3lz [9] https://tinyurl.com/26arwoxk [10] https://tinyurl.com/2xtafoav
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 01, 2025
 News
 
