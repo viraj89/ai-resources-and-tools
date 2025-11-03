@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 03, 2025
+News
+
+1. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [1]
+
+2. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [2]
+
+3. What OpenAI’s acquisition of Sky, an AI Interface for Mac, tells us about the future of ChatGPT and potential hardware devices - The Indian Express [3]
+
+4. Ilya Sutskever pushes back against Musk in OpenAI lawsuit - calcalistech.com [4]
+
+5. Google and Amazon have already earned billions each from their investment in this AI startup - The Times of India [5]
+
+6. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [6]
+
+7. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [7]
+
+8. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [8]
+
+9. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [9]
+
+10. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/25g8f6cp [2] https://tinyurl.com/2cul9ek5 [3] https://tinyurl.com/28duhuc9 [4] https://tinyurl.com/28yug78h [5] https://tinyurl.com/2bjhfkod [6] https://tinyurl.com/2bbh6jw7 [7] https://tinyurl.com/296gu3sj [8] https://tinyurl.com/22q8dqbp [9] https://tinyurl.com/28ygulde [10] https://tinyurl.com/2b4rbkth
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 02, 2025
 News
 
