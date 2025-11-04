@@ -1,4 +1,65 @@
 
+## 2025-11-04 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>The rise of AI marks a critical shift away from decades defined by information-chasing and a push for more and more compute power. </p><p>Canva co-founder and CPO Cameron Adams refers to this dawni...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy)**
+
+---
+
+### 2. The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The buzzed-about but still stealthy New York City startup <a href="https://www.aui.io/">Augmented Intelligence Inc (AUI)</a>, which seeks to go beyond the popular &quot;transformer&quot; architectu...
+- **Pricing**: Paid
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup)**
+
+---
+
+### 3. Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Celonis</i></p><hr/><p>AI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable ROI from the AI solutions — esp...
+- **Pricing**: Freemium
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process)**
+
+---
+
+### 4. Developers beware: Google’s Gemma model controversy exposes model lifecycle risks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The recent controversy surrounding <a href="https://www.google.com/"><u>Google</u></a>’s Gemma model has once again highlighted the dangers of using developer test models and the fleeting nature of...
+- **Pricing**: Paid
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle)**
+
+---
+
+### 5. Moving past speculation: How deterministic CPUs deliver predictable AI performance
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was hailed as a breakthrough — just as pipelining and...
+- **Pricing**: Freemium
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai)**
+
+---
+
+
 ## 2025-11-03 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

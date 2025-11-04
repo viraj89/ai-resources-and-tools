@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 04, 2025
+News
+
+1. OpenAI-Anthropic Merger Talks Revealed in 2023 Leadership Crisis - News and Statistics - IndexBox [1]
+
+2. I was a hedge fund manager at Balyasny. Now I work at an AI startup helping bankers cut out the work they hate. - Business Insider [2]
+
+3. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [3]
+
+4. VC funding roundup: Venture capital to Boston-area companies rose in October - The Business Journals [4]
+
+5. Venture capital investments in staffing and workforce companies reach record level - Staffing Industry Analysts [5]
+
+6. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [6]
+
+7. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [7]
+
+8. OpenAI, Anthropic and other AI companies are looking to hire this 'rare' kind of software engineers - Times of India [8]
+
+9. OpenAI, Anthropic hire engineers who can code and communicate with customers - Storyboard18 [9]
+
+10. Music Tectonics Panels to Watch: Streaming’s Reckoning, AI Startups and Direct-to-Fan Tools - Billboard [10]
+
+Sources:
+[1] https://tinyurl.com/284n4fp8 [2] https://tinyurl.com/2678czkg [3] https://tinyurl.com/2xuofj4r [4] https://tinyurl.com/28kplcje [5] https://tinyurl.com/2329o8bu [6] https://tinyurl.com/247xm3wj [7] https://tinyurl.com/25okxgsq [8] https://tinyurl.com/2y94erwx [9] https://tinyurl.com/26harzct [10] https://tinyurl.com/22de7sh6
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 03, 2025
 News
 
