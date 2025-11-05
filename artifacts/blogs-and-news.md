@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 05, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. India may produce one of the world’s largest pools of women STEM graduates—but in AI, the gap is stark. CXXO's new ‘Wired for Impact’ report reveals that only 1 in 5 AI professionals in India are women, and female-founded AI startups have secured just 10% - LinkedIn [2]
+
+3. Xingong Industrial Investment Completes Angel + Round Financing for Jiaoxin Technology, Driving Breakthroughs in Optoelectronic Hybrid RF Direct Acquisition Chip Technology - 36Kr [3]
+
+4. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [4]
+
+5. Exclusive | OpenAI Wants Brands to Allow Their Mascots to Appear in Gen AI Videos - The Wall Street Journal [5]
+
+6. Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI - The Verge [6]
+
+7. Sam Altman says funding affordable housing would be too expensive for OpenAI - The Business Journals [7]
+
+8. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [8]
+
+9. Exclusive: Cognizant CEO reveals Anthropic AI partnership - Yahoo Finance [9]
+
+10. The Information’s Most Promising AI Startups; Positive Cash Flow Seems In Sight For Anthropic - The Information [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2bulf9na [3] https://tinyurl.com/2aflxx9x [4] https://tinyurl.com/22ddnmgu [5] https://tinyurl.com/24q9p7c4 [6] https://tinyurl.com/2ar6vwa3 [7] https://tinyurl.com/2xjd4zwy [8] https://tinyurl.com/27sffx4z [9] https://tinyurl.com/28jfmlbn [10] https://tinyurl.com/23t9fm36
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 04, 2025
 News
 
