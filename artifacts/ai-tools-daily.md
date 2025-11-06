@@ -1,4 +1,65 @@
 
+## 2025-11-06 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Attention ISN'T all you need?! New Qwen3 variant Brumby-14B-Base leverages Power Retention technique
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When the transformer architecture was introduced in 2017 in the now seminal Google paper &quot;<a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>,&quot; it became an instant c...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages)**
+
+---
+
+### 2. The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The buzzed-about but still stealthy New York City startup <a href="https://www.aui.io/">Augmented Intelligence Inc (AUI)</a>, which seeks to go beyond the popular &quot;transformer&quot; architectu...
+- **Pricing**: Paid
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup)**
+
+---
+
+### 3. Inside Zendesk’s dual AI leap: From reliable agents to real-time intelligence with GPT-5 and HyperArc
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Zendesk</i></p><hr/><p>Agentic AI is currently transforming three key areas of work — creative, coding, and support — says Shashi Upadhyay, president of engineering, AI, and product...
+- **Pricing**: Paid
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence)**
+
+---
+
+### 4. Google Cloud updates its AI Agent Builder with new observability dashboard and faster build-and-deploy tools
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://cloud.google.com/"><u>Google Cloud</u></a> has introduced a big update in a bid to keep AI d<!-- -->evelopers on its Vertex AI platform for concepting, designing, building, testing...
+- **Pricing**: Paid
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into)**
+
+---
+
+### 5. Forget Fine-Tuning: SAP’s RPT-1 Brings Ready-to-Use AI for Business Tasks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>SAP aims to displace more general large language models with the release of its own foundational “tabular” model, which the company claims will reduce training requirements for enterprises. </p><p>...
+- **Pricing**: Paid
+- **Trending Score**: 290.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks)**
+
+---
+
+
 ## 2025-11-05 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

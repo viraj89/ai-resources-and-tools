@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 06, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. AI startups are raising millions to disrupt Hollywood. Read the pitch decks 8 used to get funding. - Business Insider [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [4]
+
+5. Google is in early discussions to deepen its investment in Anthropic - Business Insider [5]
+
+6. Exclusive: China bans foreign AI chips from state-funded data centres, sources say - Reuters [6]
+
+7. Exclusive | OpenAI Wants Brands to Allow Their Mascots to Appear in Gen AI Videos - The Wall Street Journal [7]
+
+8. ChatGPT banned from giving health and legal information: Here's what OpenAI’s head of health AI said on t - Times of India [8]
+
+9. OpenAI seeks government backing to boost AI investments - The Business Times [9]
+
+10. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/27azpqna [2] https://tinyurl.com/236qnk8y [3] https://tinyurl.com/2buaqwbv [4] https://tinyurl.com/2d6pc6qv [5] https://tinyurl.com/2aqtalvo [6] https://tinyurl.com/27a3g2xh [7] https://tinyurl.com/285eb3jr [8] https://tinyurl.com/2xz76zfn [9] https://tinyurl.com/2yjgvkgg [10] https://tinyurl.com/2bfam6nw
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 05, 2025
 News
 
