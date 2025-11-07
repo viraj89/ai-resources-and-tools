@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 07, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [1]
+
+2. Morrison Foerster partner reveals complexities behind record $40B OpenAI investment - The Business Journals [2]
+
+3. How Google's 'new investment' in Anthropic may put pressure on Microsoft-backed OpenAI - Times of India [3]
+
+4. Amazon (AMZN) Expands Investment in AI Startup Anthropic - GuruFocus [4]
+
+5. I demoed a buzzy AI startup and got a glimpse of what investment bankers' jobs might start to look like - Business Insider [5]
+
+6. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [6]
+
+7. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [7]
+
+8. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [8]
+
+9. Behind the Record-Breaking IPO: Pony AI (02026.HK/PONY.US) and China’s AI 'Smart Manufacturing' Breakthrough - 富途牛牛 [9]
+
+10. Exclusive: Google planning powerful AI data centre on tiny Australian Indian Ocean outpost - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2bynbhl3 [2] https://tinyurl.com/273clton [3] https://tinyurl.com/27fcpns9 [4] https://tinyurl.com/2d6xfywk [5] https://tinyurl.com/23qwl2hz [6] https://tinyurl.com/237dpv8w [7] https://tinyurl.com/2d966tea [8] https://tinyurl.com/2b7gbxll [9] https://tinyurl.com/22emvtot [10] https://tinyurl.com/2y3mybls
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 06, 2025
 News
 
