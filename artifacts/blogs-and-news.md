@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 08, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [2]
+
+3. Lawsuits accuse OpenAI's ChatGPT of encouraging suicide - CBS News [3]
+
+4. OpenAI faces 7 lawsuits claiming ChatGPT drove people to suicide, delusions - AP News [4]
+
+5. Seven Lawsuits Allege OpenAI Encouraged Suicide and Harmful Delusions - The Wall Street Journal [5]
+
+6. Video New OpenAI lawsuit claims ChatGPT drove user into psychosis - abcnews.go.com [6]
+
+7. New lawsuits accuse OpenAI's ChatGPT of 'acting as a suicide coach' - The National Desk [7]
+
+8. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [8]
+
+9. Lawsuits accuse OpenAI's ChatGPT of encouraging suicide - Yahoo [9]
+
+10. Google in early talks to boost investment in Anthropic, Business Insider reports - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/277h2hzj [2] https://tinyurl.com/288qrjjc [3] https://tinyurl.com/2btrwqm4 [4] https://tinyurl.com/276lprdk [5] https://tinyurl.com/27r7rmxt [6] https://tinyurl.com/2cne3zb6 [7] https://tinyurl.com/2donskbw [8] https://tinyurl.com/2yl5sn63 [9] https://tinyurl.com/26v2rqtu [10] https://tinyurl.com/297f6vlu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 07, 2025
 News
 

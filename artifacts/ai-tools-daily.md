@@ -1,4 +1,65 @@
 
+## 2025-11-08 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://cloud.google.com/?hl=en"><u>Google Cloud</u></a> is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation <a hr...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal)**
+
+---
+
+### 2. Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Even as <a href="https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-in...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming)**
+
+---
+
+### 3. From prototype to production: What vibe coding tools must fix for enterprise adoption
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Salesforce </i></p><hr/><p>Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, and great for instant protot...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise)**
+
+---
+
+### 4. Why Google’s File Search could displace DIY RAG stacks in the enterprise
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information for queries. However, typical RAG setups could be...
+- **Pricing**: Freemium
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise)**
+
+---
+
+### 5. Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Across industries, rising compute expenses are often cited as a barrier to <a href="https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy">AI adoption</a...
+- **Pricing**: Paid
+- **Trending Score**: 170.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre)**
+
+---
+
+
 ## 2025-11-07 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
