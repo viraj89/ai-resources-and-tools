@@ -1,4 +1,65 @@
 
+## 2025-11-09 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://cloud.google.com/?hl=en"><u>Google Cloud</u></a> is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation <a hr...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal)**
+
+---
+
+### 2. Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Even as <a href="https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-in...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming)**
+
+---
+
+### 3. Why Google’s File Search could displace DIY RAG stacks in the enterprise
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information for queries. However, typical RAG setups could be...
+- **Pricing**: Freemium
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise)**
+
+---
+
+### 4. What could possibly go wrong if an enterprise replaces all its engineers with AI?
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>AI coding, <a href="https://x.com/karpathy/status/1886192184808149383?lang=en"><u>vibe coding</u></a> and <a href="https://venturebeat.com/ai/vibe-coding-is-dead-agentic-swarm-coding-is-the-new-ent...
+- **Pricing**: Freemium
+- **Trending Score**: 290.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers)**
+
+---
+
+### 5. Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Across industries, rising compute expenses are often cited as a barrier to <a href="https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy">AI adoption</a...
+- **Pricing**: Paid
+- **Trending Score**: 170.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre)**
+
+---
+
+
 ## 2025-11-08 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

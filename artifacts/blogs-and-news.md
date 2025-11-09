@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 09, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [1]
+
+2. An OpenAI Founder Discusses Anthropic Merger Talks, Internal Beefs in Deposition - The Information [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [3]
+
+4. Seven Lawsuits Allege OpenAI Encouraged Suicide and Harmful Delusions - The Wall Street Journal [4]
+
+5. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [5]
+
+6. Google in early talks to boost investment in Anthropic, Business Insider reports - Yahoo Finance [6]
+
+7. Google in early talks to increase investment in Anthropic - Business Insider By Investing.com - Investing.com [7]
+
+8. OpenAI Sees Heavy Losses while Rival Anthropic Projects $70B Sales by 2028 - International Business Times [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. OpenAI faces 7 lawsuits claiming ChatGPT drove people to suicide, delusions - nxsmediawire.com [10]
+
+Sources:
+[1] https://tinyurl.com/2dcsjo7g [2] https://tinyurl.com/2xv88llu [3] https://tinyurl.com/283jrtkd [4] https://tinyurl.com/2y887msd [5] https://tinyurl.com/2bqbjhx3 [6] https://tinyurl.com/2cagfzxg [7] https://tinyurl.com/2b96nfwn [8] https://tinyurl.com/242n9593 [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/26taxuhr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 08, 2025
 News
 
