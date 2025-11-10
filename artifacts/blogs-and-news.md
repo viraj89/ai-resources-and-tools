@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 10, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [2]
+
+3. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [3]
+
+4. Exclusive | Silkpunk creator Ken Liu takes on AI, modernity and what it means to be American - South China Morning Post [4]
+
+5. Seven Lawsuits Allege OpenAI Encouraged Suicide and Harmful Delusions - The Wall Street Journal [5]
+
+6. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [6]
+
+7. New Meta AI Features Makes Ray-Ban Glasses in India More Useful & Fun - Meta Store [7]
+
+8. New lawsuits accuse OpenAI's ChatGPT of 'acting as a suicide coach' - WBFF [8]
+
+9. OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week - WIRED [9]
+
+10. ChatGPT accused of acting as a suicide coach, lawsuits claim it drove users to self-harm - India Today [10]
+
+Sources:
+[1] https://tinyurl.com/28rggh2y [2] https://tinyurl.com/2d6htcbv [3] https://tinyurl.com/24u3lpem [4] https://tinyurl.com/267p3cx2 [5] https://tinyurl.com/26qkzqad [6] https://tinyurl.com/2856s94r [7] https://tinyurl.com/2d5ezj6c [8] https://tinyurl.com/2xvndve7 [9] https://tinyurl.com/23s7docx [10] https://tinyurl.com/26ypyev9
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 09, 2025
 News
 
