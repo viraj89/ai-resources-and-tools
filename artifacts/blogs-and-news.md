@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 11, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [3]
+
+4. OpenAI CEO Sam Altman says ‘Slack creates a lot of fake work’; Elon Musk responds: ‘As I was saying …’ - The Times of India [4]
+
+5. AI Breakthroughs: OpenAI, Meta & Anthropic’s Future for AI - AI Magazine [5]
+
+6. SoftBank's OpenAI wager in focus as analysts upgrade share price target - Reuters [6]
+
+7. SoftBank's OpenAI wager in focus as analysts upgrade share price target - MSN [7]
+
+8. Bank of America: Claiming an AI bubble over OpenAI's money situation is a “lazy/cherry-picked argument” - Sherwood News [8]
+
+9. SoftBank's OpenAI wager in focus as analysts upgrade share price target - MSN [9]
+
+10. EXCLUSIVE: Private Markets For Retail Investors—More Than 'Just OpenAI And SpaceX' - Benzinga [10]
+
+Sources:
+[1] https://tinyurl.com/2y4mj6y2 [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/2725k4c5 [4] https://tinyurl.com/27dbmm66 [5] https://tinyurl.com/25bj6re5 [6] https://tinyurl.com/2dblotqr [7] https://tinyurl.com/2bbl3t75 [8] https://tinyurl.com/22dmwzdj [9] https://tinyurl.com/24qjy38q [10] https://tinyurl.com/25xecnfz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 10, 2025
 News
 
