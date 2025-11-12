@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 12, 2025
+News
+
+1. SoftBank’s Record Profit Fueled by Nvidia Exit and OpenAI Investments - stupidDOPE [1]
+
+2. SoftBank’s Nvidia exit fuels OpenAI push despite mounting losses, stiff competition from Anthropic - MSN [2]
+
+3. AI Startups See $1.8B in Funding From Greenhouses to Gaming - Innovation & Tech Today [3]
+
+4. MENA AI startups garner record funding in H1 - Salaam Gateway [4]
+
+5. 8 Times AI Startups Turned into Acquisition Targets - Analytics India Magazine [5]
+
+6. Venture capital investments in staffing and workforce companies reach record level - Staffing Industry Analysts [6]
+
+7. SoftBank completes $30B bet on OpenAI: Does it clear path to IPO? - Tech Funding News [7]
+
+8. In an exclusive interview, France’s Special Envoy for AI, Anne Bouverot, speaks to AIM Network about how India and France are shaping the future of global AI governance. Fresh from high-level meetings in Delhi and Bangalore, Bouverot discusses France’s “t - LinkedIn [8]
+
+9. OpenAI faces several lawsuits after alleged link to suicides, questions mount over AI’s emotional limits - Campaign US [9]
+
+10. SoftBank offloads $5.8B stake in Nvidia to free up cash for OpenAI investment - SiliconANGLE [10]
+
+Sources:
+[1] https://tinyurl.com/29n97o5a [2] https://tinyurl.com/22xg72j9 [3] https://tinyurl.com/27h8hqgs [4] https://tinyurl.com/2bdsly3a [5] https://tinyurl.com/28wm4hy3 [6] https://tinyurl.com/2yvpkm9b [7] https://tinyurl.com/2dftb559 [8] https://tinyurl.com/23v8j49d [9] https://tinyurl.com/22tvr28k [10] https://tinyurl.com/28feo6g4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 11, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-11-12 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://www.baidu.com/"><u>Baidu Inc.</u></a>, China&#x27;s largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms comp...
+- **Pricing**: Freemium
+- **Trending Score**: 670.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5)**
+
+---
+
+### 2. Baseten takes on hyperscalers with new AI training platform that lets you own your model weights
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://www.baseten.co/"><u>Baseten</u></a>, the AI infrastructure company recently valued at $2.15 billion, is making its most significant product pivot yet: a full-scale push into model ...
+- **Pricing**: Freemium
+- **Trending Score**: 500.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you)**
+
+---
+
+### 3. Chronosphere takes on Datadog with AI that explains itself, not just outages
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://chronosphere.io/"><u>Chronosphere</u></a>, a New York-based observability startup <a href="https://chronosphere.io/news/chronosphere-marks-a-year-of-new-capabilities/"><u>valued at...
+- **Pricing**: Freemium
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages)**
+
+---
+
+### 4. Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Meta has just released a new <a href="https://ai.meta.com/blog/omnilingual-asr">multilingual automatic speech recognition (ASR) system</a> supporting 1,600+ languages — dwarfing OpenAI’s open sourc...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can)**
+
+---
+
+### 5. How context engineering can save your company from AI vibe code overload: lessons from Qodo and Monday.com
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>As cloud project tracking software <a href="https://monday.com/">monday.com</a>’s engineering organization scaled past 500 developers, the team began to feel the strain of its own success. Product ...
+- **Pricing**: Freemium
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload)**
+
+---
+
+
 ## 2025-11-11 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
