@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 13, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Anthropic joins the American AI infrastructure spending spree with a $50 billion investment - Business Insider [2]
+
+3. Exclusive: Industrial AI startup Litmus closes new funding to accelerate factory digitalisation — TFN - Tech Funding News [3]
+
+4. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [4]
+
+5. Anthropic announces $50B investment in new US data centers to meet AI demand - The Tri-City Record [5]
+
+6. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - WSJ - The Wall Street Journal [6]
+
+7. OpenAI accuses NY Times of wanting to invade millions of users' privacy in paper's lawsuit against tech giant - Fox News [7]
+
+8. SoftBank Just Sold Its Entire Nvidia Stake to Bet Big on OpenAI - inc.com [8]
+
+9. MUFG ties up with OpenAI to accelerate AI use in bank services - FinAi News [9]
+
+10. Anthropic announces $50B investment in new US data centers to meet AI demand - abcnews.go.com [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2cafmqq8 [3] https://tinyurl.com/249hsy8k [4] https://tinyurl.com/2xuofj4r [5] https://tinyurl.com/22mckhug [6] https://tinyurl.com/27zzte7q [7] https://tinyurl.com/2anok5hk [8] https://tinyurl.com/2blk6dvh [9] https://tinyurl.com/29aeo9d8 [10] https://tinyurl.com/27b9cvvz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 12, 2025
 News
 

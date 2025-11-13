@@ -1,4 +1,65 @@
 
+## 2025-11-13 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://www.baidu.com/"><u>Baidu Inc.</u></a>, China&#x27;s largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms comp...
+- **Pricing**: Freemium
+- **Trending Score**: 670.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5)**
+
+---
+
+### 2. Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.</p><p>Chinese social networking company <a href="https://huggingface.co/WeiboAI/Vi...
+- **Pricing**: Freemium
+- **Trending Score**: 460.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on)**
+
+---
+
+### 3. Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Meta has just released a new <a href="https://ai.meta.com/blog/omnilingual-asr">multilingual automatic speech recognition (ASR) system</a> supporting 1,600+ languages — dwarfing OpenAI’s open sourc...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can)**
+
+---
+
+### 4. How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>As software systems grow more complex and AI tools generate code faster than ever, a fundamental problem is getting worse: <a href="https://algocademy.com/blog/why-debugging-takes-longer-than-writi...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating)**
+
+---
+
+### 5. Only 9% of developers think AI code can be used without human oversight, BairesDev survey reveals
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Senior software developers are preparing for a major shift in how they work as artificial intelligence becomes central to their workflows, according to <a href="https://www.bairesdev.com/">BairesDe...
+- **Pricing**: Paid
+- **Trending Score**: 320.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight)**
+
+---
+
+
 ## 2025-11-12 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
