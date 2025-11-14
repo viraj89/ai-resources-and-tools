@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 14, 2025
+News
+
+1. AI Startup Anthropic Announces $50 Billion Data Center Investment - IndustryWeek [1]
+
+2. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [2]
+
+3. North America AI-based Electrical Switchgear Market Analysis Report 2025-2032: Growth Led by ABB, Siemens, Schneider Electric, Mitsubishi, and TE Connectivity through Acquisitions and R&D Investments - ResearchAndMarkets.com - Business Wire [3]
+
+4. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [4]
+
+5. VCs abandon old rules for a ‘funky time’ of investing in AI startups - TechCrunch [5]
+
+6. OpenAI’s colossal AI data center targets would consume as much electricity as entire nation of India — 250GW target would require 30 million GPUs annually to ensure continuous operation, emit twice as much carbon dioxide as ExxonMobil - Tom's Hardware [6]
+
+7. OpenAI says publisher's obscurity dooms ChatGPT lawsuit - Courthouse News [7]
+
+8. Apple and OpenAI must face X Corp's lawsuit for now, US judge rules - Reuters [8]
+
+9. Apple and OpenAI Must Face xAI Lawsuit Over Siri Integration - MacRumors [9]
+
+10. Apple and OpenAI fail to dismiss Elon Musk’s antitrust lawsuit - 9to5Mac [10]
+
+Sources:
+[1] https://tinyurl.com/29vyuryk [2] https://tinyurl.com/26ujrej4 [3] https://tinyurl.com/29nb9gmt [4] https://tinyurl.com/27af7vrm [5] https://tinyurl.com/27vy9qev [6] https://tinyurl.com/2brldyyd [7] https://tinyurl.com/2csv5326 [8] https://tinyurl.com/2djvco9b [9] https://tinyurl.com/24m5zfov [10] https://tinyurl.com/2646xp68
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 13, 2025
 News
 

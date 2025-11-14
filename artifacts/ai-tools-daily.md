@@ -1,4 +1,65 @@
 
+## 2025-11-14 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Mere hours after OpenAI updated its flagship foundation model <a href="https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5">GPT-5 to GPT-5.1</a>, ...
+- **Pricing**: Freemium
+- **Trending Score**: 490.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts)**
+
+---
+
+### 2. Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.</p><p>Chinese social networking company <a href="https://huggingface.co/WeiboAI/Vi...
+- **Pricing**: Freemium
+- **Trending Score**: 460.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on)**
+
+---
+
+### 3. Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world
+
+- **Category**: Business / Analytics
+- **What it does**: <p><a href="https://getalembic.com/"><u>Alembic Technologies</u></a> has raised <a href="https://www.wsj.com/articles/accenture-and-jeffrey-katzenbergs-wndrco-invest-in-ai-marketing-startup-0d128cdf?g...
+- **Pricing**: Freemium
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest)**
+
+---
+
+### 4. How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>As software systems grow more complex and AI tools generate code faster than ever, a fundamental problem is getting worse: <a href="https://algocademy.com/blog/why-debugging-takes-longer-than-writi...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating)**
+
+---
+
+### 5. Inside LinkedIn’s generative AI cookbook: How it scaled people search to 1.3 billion users
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>LinkedIn is launching its new AI-powered people search this week, after what seems like a very long wait for what should have been a natural offering for generative AI.</p><p>It comes a full three ...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3)**
+
+---
+
+
 ## 2025-11-13 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
