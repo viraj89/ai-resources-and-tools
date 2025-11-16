@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 16, 2025
+News
+
+1. This Week’s AI Startups Attract Major Funding - AIM Media House [1]
+
+2. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [2]
+
+3. India’s AI ecosystem is rapidly growing with the IndiaAI Mission, billions in IT investments, and global tech giants like OpenAI, Anthropic, Perplexity, and ElevenLabs setting up offices. Jaspreet Bindra, co-founder of AI&Beyond, noted that foreign companies are - LinkedIn [3]
+
+4. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [4]
+
+5. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [5]
+
+6. Chinese state hackers used Anthropic AI systems in dozens of attacks - The Record from Recorded Future News [6]
+
+7. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [7]
+
+8. Anthropic 'blames' Chinese hacker group of using Claude to spy on companies across the globe; says target - Times of India [8]
+
+9. An AI startup powering Meta and OpenAI cut thousands of workers — then offered them a similar project for less money - Business Insider [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/24x5sytk [2] https://tinyurl.com/2a7vdeyb [3] https://tinyurl.com/2cv3wcn6 [4] https://tinyurl.com/26c6jtjs [5] https://tinyurl.com/2ao7wotp [6] https://tinyurl.com/2aah9hg8 [7] https://tinyurl.com/295qblsj [8] https://tinyurl.com/228o5yql [9] https://tinyurl.com/2apvj56n [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 15, 2025
 News
 

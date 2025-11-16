@@ -1,4 +1,65 @@
 
+## 2025-11-16 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Mere hours after OpenAI updated its flagship foundation model <a href="https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5">GPT-5 to GPT-5.1</a>, ...
+- **Pricing**: Freemium
+- **Trending Score**: 490.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts)**
+
+---
+
+### 2. Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world
+
+- **Category**: Business / Analytics
+- **What it does**: <p><a href="https://getalembic.com/"><u>Alembic Technologies</u></a> has raised <a href="https://www.wsj.com/articles/accenture-and-jeffrey-katzenbergs-wndrco-invest-in-ai-marketing-startup-0d128cdf?g...
+- **Pricing**: Freemium
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest)**
+
+---
+
+### 3. ChatGPT Group Chats are here … but not for everyone (yet)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>It was originally found in <a href="https://x.com/btibor91/status/1988029080726630822?s=20">leaked code and publicized by AI influencers on X</a>, but OpenAI has made it official: <a href="https://...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet)**
+
+---
+
+### 4. Inside LinkedIn’s generative AI cookbook: How it scaled people search to 1.3 billion users
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>LinkedIn is launching its new AI-powered people search this week, after what seems like a very long wait for what should have been a natural offering for generative AI.</p><p>It comes a full three ...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3)**
+
+---
+
+### 5. Google’s new AI training method helps small models tackle complex reasoning
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Researchers at <a href="https://research.google/teams/cloud-ai-research/">Google Cloud</a> and <a href="https://www.ucla.edu/">UCLA</a> have proposed a new reinforcement learning framework that sig...
+- **Pricing**: Freemium
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning)**
+
+---
+
+
 ## 2025-11-15 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
