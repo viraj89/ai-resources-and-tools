@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 17, 2025
+News
+
+1. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [1]
+
+2. Investor who foresaw 2008 US home crisis closes hedge fund. Reason will surprise you - India Today [2]
+
+3. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [3]
+
+4. Alyssa Carson Mars Series Lands at Studio Blo, Disruptor Studios in India-U.S. AI Co-Production (EXCLUSIVE) - Variety [4]
+
+5. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [5]
+
+6. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [6]
+
+7. Anthropic AI used in state backed hacking - Insurance Business America [7]
+
+8. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2cul9ek5 [2] https://tinyurl.com/26upxzsc [3] https://tinyurl.com/2a2uoa56 [4] https://tinyurl.com/28akoju8 [5] https://tinyurl.com/2ce36enf [6] https://tinyurl.com/2bg7k69z [7] https://tinyurl.com/29n2aptl [8] https://tinyurl.com/2bylk8o2 [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/27zp78z4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 16, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-11-17 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Mere hours after OpenAI updated its flagship foundation model <a href="https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5">GPT-5 to GPT-5.1</a>, ...
+- **Pricing**: Freemium
+- **Trending Score**: 490.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts)**
+
+---
+
+### 2. ChatGPT Group Chats are here … but not for everyone (yet)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>It was originally found in <a href="https://x.com/btibor91/status/1988029080726630822?s=20">leaked code and publicized by AI influencers on X</a>, but OpenAI has made it official: <a href="https://...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet)**
+
+---
+
+### 3. From shiny object to sober reality: The vector database story, two years later
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>When I first wrote <i>“</i><a href="https://venturebeat.com/ai/vector-databases-shiny-object-syndrome-and-the-case-of-a-missing-unicorn"><i><u>Vector databases: Shiny object syndrome and the case o...
+- **Pricing**: Paid
+- **Trending Score**: 340.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later)**
+
+---
+
+### 4. Google’s new AI training method helps small models tackle complex reasoning
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Researchers at <a href="https://research.google/teams/cloud-ai-research/">Google Cloud</a> and <a href="https://www.ucla.edu/">UCLA</a> have proposed a new reinforcement learning framework that sig...
+- **Pricing**: Freemium
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning)**
+
+---
+
+### 5. Human-centric IAM is failing: Agentic AI requires a new identity control plane
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>The race to deploy <a href="https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled">agentic AI is on</a>. Across the enterprise, systems that can plan, take ...
+- **Pricing**: Paid
+- **Trending Score**: 220.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control)**
+
+---
+
+
 ## 2025-11-16 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
