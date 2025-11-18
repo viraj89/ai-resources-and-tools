@@ -1,4 +1,65 @@
 
+## 2025-11-18 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. In a sea of agents, AWS bets on structured adherence and spec fidelity
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Despite <a href="https://venturebeat.com/ai/vibe-coding-is-dead-agentic-swarm-coding-is-the-new-enterprise-moat"><u>new methods </u></a>emerging, enterprises continue to turn to autonomous coding a...
+- **Pricing**: Freemium
+- **Trending Score**: 440.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity)**
+
+---
+
+### 2. ChatGPT Group Chats are here … but not for everyone (yet)
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>It was originally found in <a href="https://x.com/btibor91/status/1988029080726630822?s=20">leaked code and publicized by AI influencers on X</a>, but OpenAI has made it official: <a href="https://...
+- **Pricing**: Freemium
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet)**
+
+---
+
+### 3. Phi-4 proves that a 'data-first' SFT methodology is the new differentiator
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>AI engineers often chase performance by scaling up LLM parameters and data, but the trend toward smaller, more efficient, and better-focused models has accelerated. </p><p>The <a href="https://arxi...
+- **Pricing**: Freemium
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator)**
+
+---
+
+### 4. From shiny object to sober reality: The vector database story, two years later
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>When I first wrote <i>“</i><a href="https://venturebeat.com/ai/vector-databases-shiny-object-syndrome-and-the-case-of-a-missing-unicorn"><i><u>Vector databases: Shiny object syndrome and the case o...
+- **Pricing**: Paid
+- **Trending Score**: 340.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later)**
+
+---
+
+### 5. Google’s new AI training method helps small models tackle complex reasoning
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Researchers at <a href="https://research.google/teams/cloud-ai-research/">Google Cloud</a> and <a href="https://www.ucla.edu/">UCLA</a> have proposed a new reinforcement learning framework that sig...
+- **Pricing**: Freemium
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning)**
+
+---
+
+
 ## 2025-11-17 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

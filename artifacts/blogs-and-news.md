@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 18, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [2]
+
+3. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [3]
+
+4. Elon Musk Warns ‘The Only Way to Get Us Out of the Debt Crisis’ and ‘Prevent America from Going Bankrupt is AI and Robotics’ - Yahoo Finance [4]
+
+5. Exclusive: Here's How Much OpenAI Spends On Inference and Its Revenue Share With Microsoft - Ed Zitron's Where's Your Ed At [5]
+
+6. Anthropic CEO Dario Amodei Just Made Another Call for AI Regulation - Inc.com [6]
+
+7. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [7]
+
+8. Google shares hit record after Buffett's Berkshire surprise investment - Fox Business [8]
+
+9. Meta's AI Eyewear Gamble: Pop-Ups Push Ray-Bans Amid Privacy Alarms and Language Breakthroughs - WebProNews [9]
+
+10. Jeff Bezos creates AI startup Project Prometheus; company comes with $6.2B funding: report - Seeking Alpha [10]
+
+Sources:
+[1] https://tinyurl.com/2c5cq72n [2] https://tinyurl.com/2y4s4p7z [3] https://tinyurl.com/24u3lpem [4] https://tinyurl.com/29wc39e8 [5] https://tinyurl.com/2b4us3ud [6] https://tinyurl.com/239589j2 [7] https://tinyurl.com/22pxc8zm [8] https://tinyurl.com/274yp3sj [9] https://tinyurl.com/2a3lzq63 [10] https://tinyurl.com/24qojmf9
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 17, 2025
 News
 
