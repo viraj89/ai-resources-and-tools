@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 19, 2025
+News
+
+1. Warren Presses Trump Administration on Plans to Prop Up OpenAI and Big Tech with Taxpayer Dollars at the Expense of Working Class Americans - Senate Committee on Banking, Housing, and Urban Affairs (.gov) [1]
+
+2. Exclusive | OpenAI, Intuit Strike Strategic Partnership - The Wall Street Journal [2]
+
+3. Exclusive: SpaceX could be more valuable than OpenAI, Sequoia's Roelof Botha says - Axios [3]
+
+4. Will Google's Gemini 3 Model Out-Perform OpenAI, Anthropic In AI Battle? - Investor's Business Daily [4]
+
+5. Google's New Gemini 3 AI Crushed OpenAI and Anthropic in a Benchmark Test for Business Operations - Inc.com [5]
+
+6. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [6]
+
+7. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [7]
+
+8. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [8]
+
+9. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [9]
+
+10. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/23zl9dpu [2] https://tinyurl.com/28gz4nd5 [3] https://tinyurl.com/2cp5bp36 [4] https://tinyurl.com/23y28hny [5] https://tinyurl.com/23vurq3v [6] https://tinyurl.com/2d8t2vy3 [7] https://tinyurl.com/29krunvb [8] https://tinyurl.com/2bbh6jw7 [9] https://tinyurl.com/28ygulde [10] https://tinyurl.com/2yl5sn63
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 18, 2025
 News
 

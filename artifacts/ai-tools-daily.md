@@ -1,4 +1,65 @@
 
+## 2025-11-19 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Google unveils Gemini 3 claiming the lead in math, science, multimodal and agentic AI benchmarks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>After more than a month of rumors and feverish speculation — including <a href="https://polymarket.com/event/gemini-3pt0-released-by">Polymarket wagering on the release date</a> — Google today <a h...
+- **Pricing**: Paid
+- **Trending Score**: 670.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and)**
+
+---
+
+### 2. Writer's AI agents can actually do your work—not just chat about it
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://writer.com/"><u>Writer</u></a>, a San Francisco-based artificial intelligence startup, is launching a unified AI agent platform designed to let any employee automate complex busine...
+- **Pricing**: Paid
+- **Trending Score**: 560.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it)**
+
+---
+
+### 3. Microsoft remakes Windows for an era of autonomous AI agents
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://www.microsoft.com/en-us/"><u>Microsoft</u></a> is fundamentally restructuring its Windows operating system to become what executives call the first &quot;agentic OS,&quot; embeddin...
+- **Pricing**: Paid
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents)**
+
+---
+
+### 4. How AI tax startup Blue J torched its entire business model for ChatGPT—and became a $300 million company
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>In the winter of 2022, as the tech world was becoming mesmerized by the sudden, explosive arrival of OpenAI’s ChatGPT, <a href="https://jackmanlaw.utoronto.ca/people/benjamin-alarie"><u>Benjamin Al...
+- **Pricing**: Paid
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and)**
+
+---
+
+### 5. Google Antigravity introduces agent-first architecture for asynchronous, verifiable coding workflows
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Google launched yet another coding agent platform Tuesday, this time focused on developer teams collaborating to create agents that can execute complex tasks automatically, in a way that moves agen...
+- **Pricing**: Freemium
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous)**
+
+---
+
+
 ## 2025-11-18 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
