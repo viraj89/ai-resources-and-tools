@@ -1,4 +1,65 @@
 
+## 2025-11-20 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Google unveils Gemini 3 claiming the lead in math, science, multimodal, and agentic AI benchmarks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>After more than a month of rumors and feverish speculation — including <a href="https://polymarket.com/event/gemini-3pt0-released-by">Polymarket wagering on the release date</a> — Google today <a h...
+- **Pricing**: Paid
+- **Trending Score**: 670.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and)**
+
+---
+
+### 2. OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>OpenAI has <a href="https://openai.com/index/gpt-5-1-codex-max/"><b>introduced GPT‑5.1-Codex-Max</b></a>, a new frontier agentic coding model now available in its Codex developer environment. The r...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24)**
+
+---
+
+### 3. Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs
+
+- **Category**: Search / Research
+- **What it does**: <p>Researchers at Meta, the University of Chicago, and UC Berkeley have developed a new framework that addresses the high costs, infrastructure complexity, and unreliable feedback associated with usin...
+- **Pricing**: Paid
+- **Trending Score**: 320.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut)**
+
+---
+
+### 4. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 5. How one AI startup is helping rice farmers battle climate change
+
+- **Category**: Design / Image Generation
+- **What it does**: Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions.
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/)**
+
+---
+
+
 ## 2025-11-19 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

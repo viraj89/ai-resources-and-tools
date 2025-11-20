@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 20, 2025
+News
+
+1. How Can Indian AI Startups Access Global VC Funds? - sify.com [1]
+
+2. Elon Musk’s Lawsuit Could Cost OpenAI More Than $1 Billion - The Information [2]
+
+3. Exclusive | OpenAI, Intuit Strike Strategic Partnership - The Wall Street Journal [3]
+
+4. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [4]
+
+5. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [5]
+
+6. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [6]
+
+7. Big 5 AI ‘hyperscalers’ have quadrupled their use of debt to fund operations, Bank of America says - Fortune [7]
+
+8. Saudi firm backs US AI startup’s $900 million fundraise, investment in Saudi Arabia - https-//www.semafor.com [8]
+
+9. Despite Being Sued by Nearly Every Record Label, This AI Startup Just Hit a $2.45 Billion Valuation - Inc.com [9]
+
+10. Jeff Bezos to be co-CEO of 'Project Prometheus,' an AI startup with $6.2bn in funding - Data Center Dynamics [10]
+
+Sources:
+[1] https://tinyurl.com/22cldwbs [2] https://tinyurl.com/28gkh9po [3] https://tinyurl.com/27btje52 [4] https://tinyurl.com/23r9kxm6 [5] https://tinyurl.com/2b4x4nve [6] https://tinyurl.com/2b4rbkth [7] https://tinyurl.com/2xztptqo [8] https://tinyurl.com/24uv5p3l [9] https://tinyurl.com/2y3ylur4 [10] https://tinyurl.com/29k93y76
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 19, 2025
 News
 
