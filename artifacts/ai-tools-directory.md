@@ -1,13 +1,13 @@
 # 🤖 AI Tools Directory
 
-*Last updated: November 20, 2025*
+*Last updated: November 21, 2025*
 
 This directory contains a curated collection of trending AI tools and applications, automatically discovered and categorized.
 
 ## 📊 Summary
 - **Total Tools**: 18
 - **Categories**: 10
-- **Last Updated**: November 20, 2025
+- **Last Updated**: November 21, 2025
 
 ## Text / Chat Assistants
 

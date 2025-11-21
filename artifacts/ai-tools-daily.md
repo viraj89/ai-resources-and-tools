@@ -1,4 +1,65 @@
 
+## 2025-11-21 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Elon Musk&#x27;s frontier generative AI startup xAI<a href="https://x.ai/news/grok-4-1-fast"> formally opened developer access to its Grok 4.1 Fast models</a> last night and introduced a new Agent ...
+- **Pricing**: Freemium
+- **Trending Score**: 500.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by)**
+
+---
+
+### 2. Tome's founders ditch viral presentation app with 20M users to build AI-native CRM Lightfield
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://lightfield.app/"><u>Lightfield</u></a>, a customer relationship management platform built entirely around artificial intelligence, officially launched to the public this week after...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai)**
+
+---
+
+### 3. OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>OpenAI has <a href="https://openai.com/index/gpt-5-1-codex-max/"><b>introduced GPT‑5.1-Codex-Max</b></a>, a new frontier agentic coding model now available in its Codex developer environment. The r...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24)**
+
+---
+
+### 4. ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://scaleops.com/">ScaleOps</a> has expanded its cloud resource management platform with a new product aimed at enterprises operating self-hosted large language models (LLMs) and GPU-b...
+- **Pricing**: Paid
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise)**
+
+---
+
+### 5. Ai2’s Olmo 3 family challenges Qwen and Llama with efficient, open reasoning and customization
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>The <a href="https://allenai.org/"><u>Allen Institute for AI (Ai2)</u></a> hopes to take advantage of an increased demand for customized models and enterprises seeking more transparency from AI mod...
+- **Pricing**: Freemium
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning)**
+
+---
+
+
 ## 2025-11-20 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

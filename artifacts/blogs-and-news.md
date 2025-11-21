@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 21, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. British Business Bank to launch venture capital initiative for pension funds - Investment & Pensions Europe [3]
+
+4. Exclusive | OpenAI, Intuit Strike Strategic Partnership - The Wall Street Journal [4]
+
+5. This $1 Billion AI Startup Backed By OpenAI, Khosla Ventures Just Hit $100M Revenue Racing To Beat Duolingo - Yahoo Finance [5]
+
+6. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [6]
+
+7. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [7]
+
+8. European AI Startup Mistral AI Secures $2B in Funding - AI Business [8]
+
+9. Forget money; Indian-American wellness author shares the best use of AI chatbots like ChatGPT: Meet AIIMS-trained physician Deepak Chopra - The Economic Times [9]
+
+10. Australian AI Startup Firmus Technologies in Debt Funding Talks - Bloomberg.com [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/294eb6ym [4] https://tinyurl.com/22cgtptz [5] https://tinyurl.com/2atoat9k [6] https://tinyurl.com/29lj7722 [7] https://tinyurl.com/25nj4noy [8] https://tinyurl.com/27v5q25b [9] https://tinyurl.com/2b7bfelk [10] https://tinyurl.com/232455c4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 20, 2025
 News
 
