@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 22, 2025
+News
+
+1. AI Insider's Week in Review: Bezos Joins Project Prometheus, OpenAI's Pressures, TikTok's Content Controls & Nvidia's Record Q3, Plus the Latest Funding Rounds - AI Insider [1]
+
+2. AI startups are raising millions to disrupt Hollywood. Read the pitch decks 8 used to get funding. - Business Insider [2]
+
+3. ‘Opportunity to reindustrialise America’: OpenAI CEO Sam Altman on partnering Apple’s largest supplier fo - Times of India [3]
+
+4. OpenAI teams up with Foxconn in game-changing move to rebuild America’s AI hardware powerhouse - Indiablooms [4]
+
+5. Exclusive | OpenAI, Intuit Strike Strategic Partnership - The Wall Street Journal [5]
+
+6. OpenAI CEO: Google’s AI Breakthrough Could Cause ‘Headwinds’ For OpenAI - The Information [6]
+
+7. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [7]
+
+8. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [8]
+
+9. Study claims mental-health help from AI chatbots ‘dangerous’ for teens: What Google, OpenAI, Meta and oth - Times of India [9]
+
+10. Google releases Gemini 3-powered Nano Banana Pro image model: Key features, how to use and how it differs - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2997pktx [2] https://tinyurl.com/236qnk8y [3] https://tinyurl.com/2byhpb3v [4] https://tinyurl.com/268pm8dh [5] https://tinyurl.com/2a5cpfww [6] https://tinyurl.com/2cszbelr [7] https://tinyurl.com/27pgnv4p [8] https://tinyurl.com/23dfb2rs [9] https://tinyurl.com/27juqt5f [10] https://tinyurl.com/27dn7926
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 21, 2025
 News
 

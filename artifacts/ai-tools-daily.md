@@ -1,4 +1,65 @@
 
+## 2025-11-22 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Elon Musk&#x27;s frontier generative AI startup xAI<a href="https://x.ai/news/grok-4-1-fast"> formally opened developer access to its Grok 4.1 Fast models</a> last night and introduced a new Agent ...
+- **Pricing**: Freemium
+- **Trending Score**: 500.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by)**
+
+---
+
+### 2. Tome's founders ditch viral presentation app with 20M users to build AI-native CRM Lightfield
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://lightfield.app/"><u>Lightfield</u></a>, a customer relationship management platform built entirely around artificial intelligence, officially launched to the public this week after...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai)**
+
+---
+
+### 3. Salesforce Agentforce Observability lets you watch your AI agents think in near-real time
+
+- **Category**: Business / Analytics
+- **What it does**: <p><a href="https://www.salesforce.com/"><u>Salesforce</u></a> launched a suite of monitoring tools on Thursday designed to solve what has become one of the thorniest problems in corporate artificial ...
+- **Pricing**: Freemium
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in)**
+
+---
+
+### 4. ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://scaleops.com/">ScaleOps</a> has expanded its cloud resource management platform with a new product aimed at enterprises operating self-hosted large language models (LLMs) and GPU-b...
+- **Pricing**: Paid
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise)**
+
+---
+
+### 5. OpenAI is ending API access to fan-favorite GPT-4o model in February 2026
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,. </p><p>Access to the model is scheduled to end...
+- **Pricing**: Freemium
+- **Trending Score**: 310.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026)**
+
+---
+
+
 ## 2025-11-21 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
