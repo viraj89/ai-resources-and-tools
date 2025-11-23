@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 23, 2025
+News
+
+1. Risk is two sided: Bank of America analyst warns AI giants rushing to sign deals with ChatGPT maker OpenA - Times of India [1]
+
+2. I was a hedge fund manager at Balyasny. Now I work at an AI startup helping bankers cut out the work they hate. - Business Insider [2]
+
+3. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [3]
+
+4. OpenAI Temporarily Blocked From Using ‘Cameo’ in Sora IP Lawsuit - news.bloomberglaw.com [4]
+
+5. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [5]
+
+6. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [6]
+
+7. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [7]
+
+8. Indian American student puts autonomous robots in the warehouse - The American Bazaar [8]
+
+9. Google’s Nano Banana Pro pushes AI image realism further with sharper control tools - Telegraph India [9]
+
+10. What is Project Prometheus, the new physical AI startup with Jeff Bezos as co-CEO? - The Indian Express [10]
+
+Sources:
+[1] https://tinyurl.com/2357r6ro [2] https://tinyurl.com/2678czkg [3] https://tinyurl.com/2d966tea [4] https://tinyurl.com/2cmydvvl [5] https://tinyurl.com/22q7nco5 [6] https://tinyurl.com/23x3ywuu [7] https://tinyurl.com/22q8dqbp [8] https://tinyurl.com/286tfek7 [9] https://tinyurl.com/279xt66a [10] https://tinyurl.com/26lerbjy
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 22, 2025
 News
 
