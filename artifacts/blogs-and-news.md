@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 24, 2025
+News
+
+1. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [1]
+
+2. Venture capital investments in staffing and workforce companies reach record level - Staffing Industry Analysts [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Yale Expert Raises Antitrust Concerns Over OpenAI, SoftBank, Oracle's $500 Billion Stargate Project: Report - Benzinga [4]
+
+5. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [5]
+
+6. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [6]
+
+7. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [7]
+
+8. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [8]
+
+9. Exclusive: French AI startup Mistral unveils fast, multilingual reasoning models - Axios [9]
+
+10. Japan makes startup progress as General Atlantic makes first investment and AI startup hits record valuation - asiatechreview.com [10]
+
+Sources:
+[1] https://tinyurl.com/2xuofj4r [2] https://tinyurl.com/2329o8bu [3] https://tinyurl.com/29uxcyey [4] https://tinyurl.com/2arsv9rv [5] https://tinyurl.com/24bheu6h [6] https://tinyurl.com/29s9pl43 [7] https://tinyurl.com/25g8cpr6 [8] https://tinyurl.com/296gu3sj [9] https://tinyurl.com/2a5tm7nf [10] https://tinyurl.com/2b7h9d28
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 23, 2025
 News
 
