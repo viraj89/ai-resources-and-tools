@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 25, 2025
+News
+
+1. Accel partners with Google to back Indian AI startups with $2 million co-investment - The Economic Times [1]
+
+2. Google, Accel Partner to Back Indian AI Startups - US News Money [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Google, Accel partner to back Indian AI startups - Reuters [4]
+
+5. OpenAI temporarily blocked from using 'Cameo' after trademark lawsuit - CNBC [5]
+
+6. OpenAI Must Disclose Attorney Messages in Copyright Lawsuit (2) - Bloomberg Law News [6]
+
+7. OpenAI blocked from using 'Cameo' name in Sora after lawsuit - The Tech Buzz [7]
+
+8. Cameo wins restraining order against OpenAI in trademark lawsuit - Crain's Chicago Business [8]
+
+9. Exclusive | Anthropic Lands Cognizant as Enterprise AI Customer - The Wall Street Journal [9]
+
+10. Google, Accel partner to back Indian AI startups By Reuters - Investing.com [10]
+
+Sources:
+[1] https://tinyurl.com/2xzymvwr [2] https://tinyurl.com/2cdxosmx [3] https://tinyurl.com/2bf55k83 [4] https://tinyurl.com/2b89rxyb [5] https://tinyurl.com/2awnswhl [6] https://tinyurl.com/293wnfmr [7] https://tinyurl.com/2yhksknm [8] https://tinyurl.com/2dqakoqc [9] https://tinyurl.com/2annq3vf [10] https://tinyurl.com/279hwh2f
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 24, 2025
 News
 
