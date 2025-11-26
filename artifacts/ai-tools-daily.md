@@ -1,4 +1,65 @@
 
+## 2025-11-26 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Lean4: How the theorem prover works and why it's the new competitive edge in AI
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confidently outputting incorrect information. In high...
+- **Pricing**: Freemium
+- **Trending Score**: 540.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)**
+
+---
+
+### 2. What enterprises should know about The White House's new AI 'Manhattan Project' the Genesis Mission
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>President Donald Trump’s new “<a href="https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/">Genesis Mission</a>” unveiled Monday, November 24, 2025, is billed as ...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project)**
+
+---
+
+### 3. Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://anthropic.com/">Anthropic</a> released its most capable artificial intelligence model yet on Monday, slashing prices by roughly two-thirds while claiming state-of-the-art performan...
+- **Pricing**: Paid
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding)**
+
+---
+
+### 4. How to avoid becoming an “AI-first” company with zero real AI usage
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Remember the first time you heard your company was going <i>AI-first</i>?</p><p>Maybe it came through an all-hands that felt different from the others. The CEO said, “By Q3, every team should have ...
+- **Pricing**: Freemium
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage)**
+
+---
+
+### 5. Microsoft’s Fara-7B is a computer-use AI agent that rivals GPT-4o and works directly on your PC
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Microsoft has introduced <a href="https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/">Fara-7B, a new 7-billion parameter model</a> designed to act as...
+- **Pricing**: Freemium
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/microsofts-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works)**
+
+---
+
+
 ## 2025-11-25 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

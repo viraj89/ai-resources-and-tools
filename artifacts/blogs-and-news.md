@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 26, 2025
+News
+
+1. As AI investments grow, young developers focusing AI startups on education, sustainability - WRGB [1]
+
+2. AI Startups Secure Major Funding To Drive Industry Change - Evrim Ağacı [2]
+
+3. Google and Accel Launch Joint Investment Initiative to Back India’s Earliest AI Startups - AI Insider [3]
+
+4. Google and Accel Launch Joint Funding Program to Back Early-Stage Indian AI Startups - varindia.com [4]
+
+5. Micro-needle Semiconductor Secures Tens of Millions of Yuan in Series A Financing, Wanchuang Investment Bank as Exclusive Financial Advisor - 36Kr [5]
+
+6. AI Startups See $1.8B in Funding From Greenhouses to Gaming - Innovation & Tech Today [6]
+
+7. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [7]
+
+8. Exclusive: AI Could Double U.S. Labor Productivity Growth, Anthropic Study Finds - Time Magazine [8]
+
+9. Anthropic Releases Opus 4.5, Delivering Breakthrough AI Performance and Enhanced Agentic Capabilities - AI Insider [9]
+
+10. Anthropic launches Claude Opus 4.5: Google, Microsoft and Amazon-backed company claims ‘it is best model - The Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2654ebbg [2] https://tinyurl.com/2578s2uj [3] https://tinyurl.com/2xjlh73w [4] https://tinyurl.com/2a3tzy8u [5] https://tinyurl.com/27p9lrmk [6] https://tinyurl.com/27h8hqgs [7] https://tinyurl.com/29poenbp [8] https://tinyurl.com/228368mz [9] https://tinyurl.com/22sm839r [10] https://tinyurl.com/23jmfogw
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 25, 2025
 News
 
