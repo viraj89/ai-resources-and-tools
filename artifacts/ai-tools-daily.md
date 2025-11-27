@@ -1,4 +1,65 @@
 
+## 2025-11-27 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. What enterprises should know about The White House's new AI 'Manhattan Project' the Genesis Mission
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>President Donald Trump’s new “<a href="https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/">Genesis Mission</a>” unveiled Monday, November 24, 2025, is billed as ...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project)**
+
+---
+
+### 2. Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://anthropic.com/">Anthropic</a> released its most capable artificial intelligence model yet on Monday, slashing prices by roughly two-thirds while claiming state-of-the-art performan...
+- **Pricing**: Paid
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding)**
+
+---
+
+### 3. A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>This weekend, <a href="https://x.com/karpathy/">Andrej Karpathy</a>, the former director of AI at Tesla and a founding member of OpenAI, decided he wanted to read a book. But he did not want to rea...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing)**
+
+---
+
+### 4. How to avoid becoming an 'AI-first' company with zero real AI usage
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Remember the first time you heard your company was going <i>AI-first</i>?</p><p>Maybe it came through an all-hands that felt different from the others. The CEO said, “By Q3, every team should have ...
+- **Pricing**: Freemium
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage)**
+
+---
+
+### 5. Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks
+
+- **Category**: Search / Research
+- **What it does**: <p>Researchers at Alibaba’s Tongyi Lab have developed a new framework for self-evolving agents that create their own training data by exploring their application environments. The framework, <a href="...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using)**
+
+---
+
+
 ## 2025-11-26 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

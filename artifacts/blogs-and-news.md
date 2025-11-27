@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 27, 2025
+News
+
+1. Mark Cuban to Perplexity, OpenAI, Anthropic, Google, Microsoft: You are overspending on AI, only one you - Times of India [1]
+
+2. US-based real estate investment firm Digital Realty to invest in India’s AI data capacity - The American Bazaar [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive: Anthropic CEO called to testify before Congress about Chinese AI cyberattack - Axios [4]
+
+5. Here are the 49 US AI startups that have raised $100M or more in 2025 - TechCrunch [5]
+
+6. OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT - The Verge [6]
+
+7. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [7]
+
+8. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [8]
+
+9. MI, other states push back on possible AI regulation ban - WLNS 6 News [9]
+
+10. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/236au6pj [2] https://tinyurl.com/2yqto838 [3] https://tinyurl.com/2b48oxpr [4] https://tinyurl.com/25auhgrq [5] https://tinyurl.com/2ctznoxp [6] https://tinyurl.com/2ckwpnh2 [7] https://tinyurl.com/2ydmemjs [8] https://tinyurl.com/28ygulde [9] https://tinyurl.com/22zanh2r [10] https://tinyurl.com/2yl5sn63
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 26, 2025
 News
 
