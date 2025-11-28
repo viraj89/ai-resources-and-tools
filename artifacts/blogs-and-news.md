@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 28, 2025
+News
+
+1. 49 US AI startups raised $100M+ in 2025, matching 2024's record year - The Tech Buzz [1]
+
+2. Revolutionary AI Startups: 49 US Companies That Secured $100M+ Funding in 2025 - CryptoRank [2]
+
+3. Venture capital targets India space tech; US banks lend more to private equity - S&P Global [3]
+
+4. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [4]
+
+5. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [5]
+
+6. OpenAI API user data exposed in Mixpanel security breach - dqindia.com [6]
+
+7. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [7]
+
+8. Read the pitch decks that 9 healthcare AI startups used to raise millions in 2025 - Business Insider [8]
+
+9. This top young VC reunited with his former colleague to deploy an unusually bold strategy for investing in AI startups - Business Insider [9]
+
+10. Google, Accel partner to back Indian AI startups - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/264had4d [2] https://tinyurl.com/2y36tp2y [3] https://tinyurl.com/2ctgskyp [4] https://tinyurl.com/29dzbq3j [5] https://tinyurl.com/24u3lpem [6] https://tinyurl.com/22p7wxzf [7] https://tinyurl.com/2b4rbkth [8] https://tinyurl.com/2btx9edn [9] https://tinyurl.com/23pgzze5 [10] https://tinyurl.com/244gmcho
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 27, 2025
 News
 
