@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 29, 2025
+News
+
+1. U.S. AI Startups Shatter Funding Records with Unprecedented $100M+ Rounds in 2025 - Zoom Bangla News [1]
+
+2. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [2]
+
+3. Banks in talks to back OpenAI for new $38B data centre pushes - Tech Funding News [3]
+
+4. It's not just OpenAI — These are the Bay Area's most valuable AI startups - San Francisco Business Times - The Business Journals [4]
+
+5. A Wave of AI Startups IPO in 2026, Including British Femtechs, Could Shake Global Markets - International Business Times UK [5]
+
+6. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [6]
+
+7. Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain—and it's outperformed models from OpenAI and Anthropic - Fortune [7]
+
+8. OpenAI and Google quietly limit free Sora, Nano Banana Pro and Gemini 3 Pro use – here’s what it means for you - TechRadar [8]
+
+9. Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain—and it’s outperformed models from OpenAI and Anthropic - Yahoo Finance [9]
+
+10. OpenAI Suspends Mixpanel Use After Analytics Data Breach - Bank Info Security [10]
+
+Sources:
+[1] https://tinyurl.com/2ac236jf [2] https://tinyurl.com/ylavzgzu [3] https://tinyurl.com/2xhhr5je [4] https://tinyurl.com/27qk4jov [5] https://tinyurl.com/23hwuzyu [6] https://tinyurl.com/232zkubf [7] https://tinyurl.com/2b62bqbx [8] https://tinyurl.com/24e4ud5t [9] https://tinyurl.com/24lx9xcl [10] https://tinyurl.com/2a3uay58
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 28, 2025
 News
 

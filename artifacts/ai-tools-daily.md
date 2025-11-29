@@ -1,4 +1,65 @@
 
+## 2025-11-29 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. What to be thankful for in AI in 2025
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Hello, dear readers. Happy belated Thanksgiving and Black Friday!</p><p>This year has felt like living inside a permanent DevDay. Every week, some lab drops a new model, a new agent framework, or a...
+- **Pricing**: Paid
+- **Trending Score**: 610.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025)**
+
+---
+
+### 2. What enterprises should know about The White House's new AI 'Manhattan Project' the Genesis Mission
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>President Donald Trump’s new “<a href="https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/">Genesis Mission</a>” unveiled Monday, November 24, 2025, is billed as ...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project)**
+
+---
+
+### 3. A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>This weekend, <a href="https://x.com/karpathy/">Andrej Karpathy</a>, the former director of AI at Tesla and a founding member of OpenAI, decided he wanted to read a book. But he did not want to rea...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing)**
+
+---
+
+### 4. Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks
+
+- **Category**: Search / Research
+- **What it does**: <p>Researchers at Alibaba’s Tongyi Lab have developed a new framework for self-evolving agents that create their own training data by exploring their application environments. The framework, <a href="...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using)**
+
+---
+
+### 5. Beyond math and coding: New RL framework helps train LLM agents for complex, real-world tasks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Researchers at the University of Science and Technology of China have developed a new <a href="https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1...
+- **Pricing**: Paid
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex)**
+
+---
+
+
 ## 2025-11-28 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
