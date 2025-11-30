@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News November 30, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Black Friday online spending hits record $11.8B as American shoppers embrace new AI technology - Fox Business [2]
+
+3. OpenAI API customer details, including user IDs, exposed in Mixpanel data breach - The Indian Express [3]
+
+4. Google limits AI photo generation with Nano Banana Pro, OpenAI restricts Sora video generation: Companies - The Times of India [4]
+
+5. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [5]
+
+6. Anthropic Claude 4.5 Opus Beats Gemini 3 Pro in Coding & Agentic Tasks - Analytics India Magazine [6]
+
+7. Anthropic introduces Claude Opus 4.5, says it’s their smartest AI model yet - The Times of India [7]
+
+8. European AI Startup Mistral AI Secures $2B in Funding - AI Business [8]
+
+9. Indian-origin xAI leader defends 36-hour shift claim at Elon Musk’s AI startup: ‘Let us cook’ - livemint.com [9]
+
+10. Indias Bold AI Future Unfolds: Kotak BizLabs Luminaries - FITT x Oxford AI Startup Summit 2025 Sets a New Benchmark for Innovation & Inclusion - Tribune India [10]
+
+Sources:
+[1] https://tinyurl.com/29gzlgpq [2] https://tinyurl.com/24dhyx8o [3] https://tinyurl.com/2blhbx7w [4] https://tinyurl.com/234yu2vs [5] https://tinyurl.com/22g2933w [6] https://tinyurl.com/2bhej7he [7] https://tinyurl.com/23dusbht [8] https://tinyurl.com/27v5q25b [9] https://tinyurl.com/2d6bntgy [10] https://tinyurl.com/2brpedlk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 29, 2025
 News
 
