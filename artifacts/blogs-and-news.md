@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 01, 2025
+News
+
+1. OpenAI to Anthropic — Do multiple funding rounds for top AI startups pose risks amid AI bubble concerns? - livemint.com [1]
+
+2. AI Startup Valuations Jump as Massive Funding Rounds Lift OpenAI and Anthropic - TipRanks [2]
+
+3. AI startups are raising millions to disrupt Hollywood. Read the pitch decks 8 used to get funding. - Business Insider [3]
+
+4. Venture Capital Investment in Women's Health Startups Reaching Record Highs; Silicon Valley Bank Releases Report - Silicon Valley Bank [4]
+
+5. I was a hedge fund manager at Balyasny. Now I work at an AI startup helping bankers cut out the work they hate. - Business Insider [5]
+
+6. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [6]
+
+7. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [7]
+
+8. Oracle Draws Bank Interest for $38 Billion in New Funding to Support OpenAI Sites - Yahoo Finance [8]
+
+9. Gen Z duo turns down Elon Musk’s multi-million dollar offer — now their AI is beating OpenAI, Anthropic, and DeepSeek - Gulf News [9]
+
+10. Exclusive | Chinese Hackers Used Anthropic’s AI to Automate Cyberattacks - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/24tdnnmh [2] https://tinyurl.com/26sj2y47 [3] https://tinyurl.com/236qnk8y [4] https://tinyurl.com/2cul9ek5 [5] https://tinyurl.com/2678czkg [6] https://tinyurl.com/28za5ku8 [7] https://tinyurl.com/2d966tea [8] https://tinyurl.com/2ceu8sgn [9] https://tinyurl.com/29s5sneo [10] https://tinyurl.com/2ba6awty
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News November 30, 2025
 News
 

@@ -1,4 +1,65 @@
 
+## 2025-12-01 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. What to be thankful for in AI in 2025
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Hello, dear readers. Happy belated Thanksgiving and Black Friday!</p><p>This year has felt like living inside a permanent DevDay. Every week, some lab drops a new model, a new agent framework, or a...
+- **Pricing**: Paid
+- **Trending Score**: 610.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025)**
+
+---
+
+### 2. A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>This weekend, <a href="https://x.com/karpathy/">Andrej Karpathy</a>, the former director of AI at Tesla and a founding member of OpenAI, decided he wanted to read a book. But he did not want to rea...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing)**
+
+---
+
+### 3. Beyond math and coding: New RL framework helps train LLM agents for complex, real-world tasks
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Researchers at the University of Science and Technology of China have developed a new <a href="https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1...
+- **Pricing**: Paid
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex)**
+
+---
+
+### 4. Anthropic says it solved the long-running AI agent problem with a new multi-session Claude SDK
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Agent memory remains a problem that enterprises want to fix, as agents forget some instructions or conversations the longer they run. </p><p><a href="https://www.anthropic.com/"><u>Anthropic</u></a...
+- **Pricing**: Freemium
+- **Trending Score**: 250.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi)**
+
+---
+
+### 5. Ontology is the real guardrail: How to stop AI agents from misunderstanding your business
+
+- **Category**: Search / Research
+- **What it does**: <p>Enterprises are investing billions of dollars in AI agents and infrastructure to transform business processes. However, we are seeing limited success in real-world applications, often due to the in...
+- **Pricing**: Paid
+- **Trending Score**: 220.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding)**
+
+---
+
+
 ## 2025-11-30 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
