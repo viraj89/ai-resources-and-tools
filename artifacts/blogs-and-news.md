@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 02, 2025
+News
+
+1. VC funding roundup: Boston's newest unicorn leads November investments - The Business Journals [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. OpenAGI emerges from stealth with an AI agent that it claims crushes OpenAI and Anthropic - VentureBeat [3]
+
+4. Elon Musk claims America's 'insanely high' $38T debt crisis can only be solved by AI, robotics - New York Post [4]
+
+5. As OpenAI's losses mount, partners including Oracle, SoftBank, CoreWeave amass $100 billion in debt, and - Times of India [5]
+
+6. Anthropic AI cites Grokipedia instead of Wikipedia, Elon Musk responds saying: We never … - Times of India [6]
+
+7. OpenAI CEO Sam Altman on ChatGPT’s breakthrough moment: We stumbled on this one giant secret and that … - Times of India [7]
+
+8. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [8]
+
+9. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [9]
+
+10. ETFs in Focus as AI Tools Boost Record Black Friday Spending - Zacks Investment Research [10]
+
+Sources:
+[1] https://tinyurl.com/2xt9jv74 [2] https://tinyurl.com/25jfqufl [3] https://tinyurl.com/27t8ks43 [4] https://tinyurl.com/2cbd8akp [5] https://tinyurl.com/24rxope5 [6] https://tinyurl.com/242akclu [7] https://tinyurl.com/2bvvwlen [8] https://tinyurl.com/296gu3sj [9] https://tinyurl.com/22q8dqbp [10] https://tinyurl.com/27ll66eo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 01, 2025
 News
 

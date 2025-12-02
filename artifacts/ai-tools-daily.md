@@ -1,4 +1,65 @@
 
+## 2025-12-02 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAGI emerges from stealth with an AI agent that it claims crushes OpenAI and Anthropic
+
+- **Category**: Voice / Audio Tools
+- **What it does**: <p>A stealth artificial intelligence startup founded by an MIT researcher emerged this morning with an ambitious claim: its new AI model can control computers better than systems built by <a href="htt...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai)**
+
+---
+
+### 2. DeepSeek just dropped two insanely powerful AI models that rival GPT-5 and they're totally free
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Chinese artificial intelligence startup <a href="https://www.deepseek.com/"><u>DeepSeek</u></a> released two powerful new AI models on Sunday that the company claims match or exceed the capabilitie...
+- **Pricing**: Freemium
+- **Trending Score**: 460.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and)**
+
+---
+
+### 3. Hybrid cloud security must be rebuilt for an AI war it was never designed to fight
+
+- **Category**: Design / Image Generation
+- **What it does**: <p>Hybrid cloud security was built before the current era of automated, machine-based cyberattacks that take just milliseconds to execute and minutes to deliver devastating impacts to infrastructure. ...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era)**
+
+---
+
+### 4. Agent coordination is the missing piece in AI commerce — new AWS and Visa blueprints target the gap
+
+- **Category**: Search / Research
+- **What it does**: <p>With necessary infrastructure now being developed for agentic commerce, enterprises must determine how to participate in this new form of buying and selling. But it remains a fragmented Wild West, ...
+- **Pricing**: Paid
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa)**
+
+---
+
+### 5. Ontology is the real guardrail: How to stop AI agents from misunderstanding your business
+
+- **Category**: Search / Research
+- **What it does**: <p>Enterprises are investing billions of dollars in AI agents and infrastructure to transform business processes. However, we are seeing limited success in real-world applications, often due to the in...
+- **Pricing**: Paid
+- **Trending Score**: 220.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding)**
+
+---
+
+
 ## 2025-12-01 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
