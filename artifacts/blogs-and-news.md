@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 03, 2025
+News
+
+1. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. “AI could erase America’s debt crisis in just 3 years…”: Elon Musk claims - The Times of India [3]
+
+4. Utah will push for ‘pro-human’ AI, Gov. Cox announces, as Trump backs ban on state regulations - The Salt Lake Tribune [4]
+
+5. Anthropic taps IPO lawyers as it races OpenAI to go public - Financial Times [5]
+
+6. Anthropic Plans an IPO as Early as 2026, FT Reports - Money US News.com [6]
+
+7. Anthropic Taps IPO Lawyers As It Races OpenAI To Go Public - FT - TradingView [7]
+
+8. Anthropic taps IPO lawyers as it races OpenAI to go public - FT - MarketScreener [8]
+
+9. Ray-Ban Meta Gen 2 AI glasses now available in India: Check price, features - Business Standard [9]
+
+10. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/26lswknd [2] https://tinyurl.com/2a47ovym [3] https://tinyurl.com/23wtccgr [4] https://tinyurl.com/2dbz6unu [5] https://tinyurl.com/2xvzw9tc [6] https://tinyurl.com/2ywsobu5 [7] https://tinyurl.com/25bk6a96 [8] https://tinyurl.com/2blr3aut [9] https://tinyurl.com/25qylpto [10] https://tinyurl.com/2bbh6jw7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 02, 2025
 News
 

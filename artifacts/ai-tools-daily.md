@@ -1,4 +1,66 @@
 
+## 2025-12-03 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Amazon's new AI can code for days without human help. What does that mean for software engineers?
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://aws.amazon.com/"><u>Amazon Web Services</u></a> on Tuesday announced a new class of artificial intelligence systems called &quot;<a href="https://www.aboutamazon.com/news/aws/amazo...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for)**
+
+---
+
+### 2. With Nova Forge, AWS gives companies a path to build foundation-class models without GPUs
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://aws.amazon.com/"><u>Amazon Web Services</u></a> (AWS) is leaning into the growing trend toward custom models with a new service that it says will let enterprises bring more persona...
+- **Pricing**: Paid
+- **Trending Score**: 410.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models)**
+
+---
+
+### 3. AWS goes beyond prompt-level safety with automated reasoning in AgentCore
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://aws.amazon.com/"><u>AWS</u></a> is leveraging <a href="https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-promises-safe-explainable-agent-automation"><u>auto...
+- **Pricing**: Paid
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore)**
+
+---
+
+### 4. Ascentra Labs raises $2 million to help consultants use AI instead of all-night Excel marathons
+
+- **Category**: Presentations
+- **What it does**: <p>
+</p><p>While artificial intelligence has stormed into law firms and accounting practices with billion-dollar startups like Harvey leading the charge, the global consulting industry—a $250 billion ...
+- **Pricing**: Paid
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all)**
+
+---
+
+### 5. With AI browsers creating fresh security and privacy concerns, Norton Neo is the first to enter with a safety-first approach
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The AI browser wars are heating up. OpenAI and other AI companies like Perplexity have gotten a lot of attention with their new AI-first and agentic browsers. They&#x27;re being positioned as direc...
+- **Pricing**: Freemium
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is)**
+
+---
+
+
 ## 2025-12-02 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
