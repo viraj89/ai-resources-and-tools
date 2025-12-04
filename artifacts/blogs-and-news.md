@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 04, 2025
+News
+
+1. Daily Digest: OpenAI declares 'code red,' Anthropic hires Wilson Sonsini ahead of possible 2026 IPO - The Business Journals [1]
+
+2. Anthropic prepares for a 2026 IPO, in a race with OpenAI - The American Bazaar [2]
+
+3. As AI investments grow, young developers focusing AI startups on education, sustainability - WRGB [3]
+
+4. OpenAI Faces Crisis Amid Massive Infrastructure Investments - Businesskorea [4]
+
+5. Why Anthropic’s IPO Might Just Be Juicier Than OpenAI’s - Stocktwits [5]
+
+6. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [6]
+
+7. Anthropic Initiates IPO Talks Targeting $300B Valuation Amid OpenAI Crisis - WinBuzzer [7]
+
+8. Anthropic taps IPO lawyers as it races towards listing ahead of OpenAI - Business Standard [8]
+
+9. Anthropic plots mega IPO as AI race with OpenAI ramps up - Business Post [9]
+
+10. Anthropic’s Dario Amodei Acknowledges Risks of Enormous Investment in A.I. - The New York Times [10]
+
+Sources:
+[1] https://tinyurl.com/273vhvcu [2] https://tinyurl.com/284dxa8o [3] https://tinyurl.com/2654ebbg [4] https://tinyurl.com/27bm68ol [5] https://tinyurl.com/2ayrp7dg [6] https://tinyurl.com/287dy8q4 [7] https://tinyurl.com/2ymavfrp [8] https://tinyurl.com/24olxye3 [9] https://tinyurl.com/29rz8p48 [10] https://tinyurl.com/2yctnp63
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 03, 2025
 News
 

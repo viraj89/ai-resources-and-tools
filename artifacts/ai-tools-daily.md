@@ -1,4 +1,66 @@
 
+## 2025-12-04 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Amazon's new AI can code for days without human help. What does that mean for software engineers?
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://aws.amazon.com/"><u>Amazon Web Services</u></a> on Tuesday announced a new class of artificial intelligence systems called &quot;<a href="https://www.aboutamazon.com/news/aws/amazo...
+- **Pricing**: Paid
+- **Trending Score**: 520.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for)**
+
+---
+
+### 2. Workspace Studio aims to solve the real agent problem: Getting employees to use them
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>One problem enterprises face is getting employees to actually <a href="https://venturebeat.com/ai/employee-ai-agent-adoption-maximizing-gains-while-navigating-challenges"><u>use the AI agents</u></...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to)**
+
+---
+
+### 3. AI has redefined the talent game. Here’s how leaders are responding.
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><i>Presented by Indeed</i></p><hr/><p>As AI continues to reshape how we work, organizations are rethinking what skills they need, how they hire, and how they retain talent. According to <a href="ht...
+- **Pricing**: Paid
+- **Trending Score**: 340.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding)**
+
+---
+
+### 4. Ascentra Labs raises $2 million to help consultants use AI instead of all-night Excel marathons
+
+- **Category**: Presentations
+- **What it does**: <p>
+</p><p>While artificial intelligence has stormed into law firms and accounting practices with billion-dollar startups like Harvey leading the charge, the global consulting industry—a $250 billion ...
+- **Pricing**: Paid
+- **Trending Score**: 330.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all)**
+
+---
+
+### 5. Tariff turbulence exposes costly blind spots in supply chains and AI
+
+- **Category**: Presentations
+- **What it does**: <p><i>Presented by Celonis</i></p><hr/><p>When tariff rates change overnight, companies have 48 hours to model alternatives and act before competitors secure the best options. At <a href="https://www....
+- **Pricing**: Freemium
+- **Trending Score**: 220.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai)**
+
+---
+
+
 ## 2025-12-03 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
