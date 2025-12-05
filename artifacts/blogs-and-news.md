@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 05, 2025
+News
+
+1. ChatGPT-maker OpenAI to acquire AI startup that has Samsung and HP as customers - Times of India [1]
+
+2. Exclusive: Sierra secures Softbank investment and Japan expansion - Axios [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. What are Google's plans for India? VP Preeti Lobana says THIS about AI push, investments - theweek.in [4]
+
+5. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [5]
+
+6. OpenAI to Acquire AI Startup Neptune, in Model Training Boost - AI Business [6]
+
+7. Anthropic reportedly preparing for one of the largest IPOs ever in race with OpenAI: FT - CNBC [7]
+
+8. Anthropic Explores IPO as It Makes First Acquisition - HPCwire [8]
+
+9. Anthropic CEO Warns of AI Investment Risks, Cyberattacks Ahead of 2026 IPO - WebProNews [9]
+
+10. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [10]
+
+Sources:
+[1] https://tinyurl.com/26dh94nr [2] https://tinyurl.com/2abrvpk7 [3] https://tinyurl.com/27p3zkz8 [4] https://tinyurl.com/2bne88el [5] https://tinyurl.com/2avznu2h [6] https://tinyurl.com/22xkjj8v [7] https://tinyurl.com/2cm9jwv6 [8] https://tinyurl.com/2bexxhpw [9] https://tinyurl.com/27tdy4a3 [10] https://tinyurl.com/2ydmemjs
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 04, 2025
 News
 

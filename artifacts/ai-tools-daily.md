@@ -1,4 +1,65 @@
 
+## 2025-12-05 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Inside NetSuite’s next act: Evan Goldberg on the future of AI-powered business systems
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Oracle NetSuite</i></p><hr/><p>When Evan Goldberg started NetSuite in 1998, his vision was radically simple: give entrepreneurs access to their business data anytime, anywhere. At t...
+- **Pricing**: Paid
+- **Trending Score**: 460.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business)**
+
+---
+
+### 2. GAM takes aim at “context rot”: A dual-agent memory architecture that outperforms long-context LLMs
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>For all their superhuman power, today’s AI models suffer from a surprisingly human flaw: They forget. Give an AI assistant a sprawling conversation, a multi-step reasoning task or a project spannin...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that)**
+
+---
+
+### 3. Anthropic vs. OpenAI red teaming methods reveal different security priorities for enterprise AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>M<!-- -->odel providers want to prove the security and robustness of their models, releasing system cards and conducting red-team exercises with each new release. But it can be difficult for enterp...
+- **Pricing**: Paid
+- **Trending Score**: 360.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities)**
+
+---
+
+### 4. The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes
+
+- **Category**: Search / Research
+- **What it does**: <p>OpenAI researchers have introduced a novel method that acts as a &quot;truth serum&quot; for large language models (LLMs), compelling them to self-report their own misbehavior, hallucinations and p...
+- **Pricing**: Paid
+- **Trending Score**: 210.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2025-12-04 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
