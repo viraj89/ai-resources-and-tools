@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 06, 2025
+News
+
+1. 49 US AI startups raised $100M+ in 2025, matching 2024's record year - The Tech Buzz [1]
+
+2. Anthropic could beat OpenAI to an IPO and NYT sues Perplexity: Week in AI - The Business Journals [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI CEO Sam Altman Has Explored Deal to Build Competitor to Elon Musk’s SpaceX - The Wall Street Journal [4]
+
+5. OpenAI must hand over 20 million ChatGPT logs in New York Times lawsuit - Windows Central [5]
+
+6. AI Insider's Week in Review: News from Apple, OpenAI, AWS, Meta & Google, Plus Funding Rounds, Upcoming Events - AI Insider [6]
+
+7. Exclusive | AI giant Anthropic hires ex-Schumer, Eric Adams staffer as it faces ‘woke’ accusations - nypost.com [7]
+
+8. Anthropic Challenges OpenAI with AI Safety and Reliability Focus - WebProNews [8]
+
+9. Anthropic CEO Dario Amodei drags OpenAI and Google: 'We don't have to do any code reds' - Business Insider [9]
+
+10. Anthropic CEO Dario Amodei makes fun of 'Code Red' at OpenAI and Google; says: Felt no need to ... - Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/264had4d [2] https://tinyurl.com/22qojlhm [3] https://tinyurl.com/2bxmgb43 [4] https://tinyurl.com/2bcmk57m [5] https://tinyurl.com/25myur3b [6] https://tinyurl.com/2742d3hl [7] https://tinyurl.com/2b4vvrsv [8] https://tinyurl.com/2c2rz39s [9] https://tinyurl.com/27f777g8 [10] https://tinyurl.com/26hbkw2b
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 05, 2025
 News
 
