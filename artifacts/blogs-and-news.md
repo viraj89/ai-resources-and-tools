@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 07, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Venture capital targets India space tech; US banks lend more to private equity - S&P Global [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI CEO Sam Altman Has Explored Deal to Build Competitor to Elon Musk’s SpaceX - The Wall Street Journal [4]
+
+5. Exclusive: Anthropic CEO called to testify before Congress about Chinese AI cyberattack - Axios [5]
+
+6. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [6]
+
+7. Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain—and it's outperformed models from OpenAI and Anthropic - Fortune [7]
+
+8. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [8]
+
+9. Exclusive | This AI Startup Wants to Remake the $800 Billion Chip Industry - The Wall Street Journal [9]
+
+10. Exclusive | An AI Startup Looks Toward the Post-Transformer Era - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2ctgskyp [3] https://tinyurl.com/2dp2gjz6 [4] https://tinyurl.com/267e84sw [5] https://tinyurl.com/25auhgrq [6] https://tinyurl.com/26zycn7w [7] https://tinyurl.com/2b62bqbx [8] https://tinyurl.com/243eop2r [9] https://tinyurl.com/22osf98d [10] https://tinyurl.com/276fo8x7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 06, 2025
 News
 
