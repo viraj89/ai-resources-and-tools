@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 08, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI CEO Sam Altman Has Explored Deal to Build Competitor to Elon Musk’s SpaceX - The Wall Street Journal [2]
+
+3. Exclusive: Google set to launch Gemini Nano Banana 2 Flash - TestingCatalog [3]
+
+4. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [4]
+
+5. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [5]
+
+6. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [6]
+
+7. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [7]
+
+8. Exclusive | This AI Startup Wants to Remake the $800 Billion Chip Industry - The Wall Street Journal [8]
+
+9. Exclusive | An AI Startup Looks Toward the Post-Transformer Era - The Wall Street Journal [9]
+
+10. Here are the 49 US AI startups that have raised $100M or more in 2025 - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/22fb8jqz [2] https://tinyurl.com/2yhfmbcl [3] https://tinyurl.com/2xh446x4 [4] https://tinyurl.com/28ygulde [5] https://tinyurl.com/2yl5sn63 [6] https://tinyurl.com/2b4rbkth [7] https://tinyurl.com/26lqod45 [8] https://tinyurl.com/2bg9dt4h [9] https://tinyurl.com/28q3rufm [10] https://tinyurl.com/2ctznoxp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 07, 2025
 News
 
