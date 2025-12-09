@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 09, 2025
+News
+
+1. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [2]
+
+3. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [3]
+
+4. Exclusive: SoftBank, Nvidia looking to invest in Skild AI at $14 billion valuation, sources say - Reuters [4]
+
+5. Research commissioned by OpenAI and Anthropic claims that workers are more efficient when using AI — Up to one hour saved on average, as companies make bid to maintain enterprise AI spending - Tom's Hardware [5]
+
+6. OpenAI Pushes Back at Anthropic. It’s an Enterprise AI Leader. - Barron's [6]
+
+7. OPENAI RELEASES GPT-5.2 THIS WEEK, BUT THE REAL PROBLEM ISN'T THE MODEL... OpenAI's emergency release of GPT-5.2 this week reveals a company in existential panic. Google's Gemini 3 just beat them on every benchmark, Anthropic stole their - x.com [7]
+
+8. Exclusive | OpenAI CEO Sam Altman Has Explored Deal to Build Competitor to Elon Musk’s SpaceX - The Wall Street Journal [8]
+
+9. Microsoft may follow partner OpenAI to team up with Broadcom for custom AI chips - The Times of India [9]
+
+10. OpenAI Pushes Back at Anthropic. It’s an Enterprise AI Leader. - Barron's [10]
+
+Sources:
+[1] https://tinyurl.com/2d966tea [2] https://tinyurl.com/2bt7f3p9 [3] https://tinyurl.com/24u3lpem [4] https://tinyurl.com/28japvqc [5] https://tinyurl.com/26hjtjoh [6] https://tinyurl.com/2afuj7ku [7] https://tinyurl.com/237gg2j4 [8] https://tinyurl.com/256lrdxr [9] https://tinyurl.com/2a4zmml2 [10] https://tinyurl.com/22p26esm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 08, 2025
 News
 

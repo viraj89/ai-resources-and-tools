@@ -1,4 +1,65 @@
 
+## 2025-12-09 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Anthropic's Claude Code can now read your Slack messages and write code for you
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> on Monday launched a beta integration that connects its fast-growing <a href="https://www.claude.com/product/claude-code"><u>Claude Code</u></a...
+- **Pricing**: Paid
+- **Trending Score**: 490.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for)**
+
+---
+
+### 2. Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Chinese AI startup Zhipu AI aka <a href="https://z.ai/blog/glm-4.6v"><b>Z.ai has released its GLM-4.6V series</b></a>, a new generation of open-source vision-language models (VLMs) optimized for mu...
+- **Pricing**: Freemium
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for)**
+
+---
+
+### 3. Why AI coding agents aren’t production-ready: Brittle context windows, broken refactors, missing operational awareness
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Remember this Quora comment (which also became a meme)?</p><p><i>(Source: </i><a href="https://www.quora.com/Why-should-I-hire-a-software-engineer-if-I-can-just-copy-and-paste-code-from-Stack-Overf...
+- **Pricing**: Paid
+- **Trending Score**: 390.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-ai-coding-agents-arent-production-ready-brittle-context-windows-broken)**
+
+---
+
+### 4. AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turn...
+- **Pricing**: Paid
+- **Trending Score**: 380.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real)**
+
+---
+
+### 5. Booking.com’s agent strategy: Disciplined, modular and already delivering 2× accuracy
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When many enterprises weren’t even thinking about agentic behaviors or infrastructures, <a href="http://Booking.com">Booking.com</a> had already “stumbled” into them with its homegrown conversation...
+- **Pricing**: Freemium
+- **Trending Score**: 340.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/booking-coms-agent-strategy-disciplined-modular-and-already-delivering-2)**
+
+---
+
+
 ## 2025-12-08 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
