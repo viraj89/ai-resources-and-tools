@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 10, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Microsoft Announces Record US$17.5 Billion Investment For India’s AI Revolution - Outlook India [2]
+
+3. Microsoft unveils $23 billion in new AI investments with big focus on India - Reuters [3]
+
+4. Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup - TechCrunch [4]
+
+5. OpenAI Hires Slack CEO As Google And Anthropic Intensify The Race Around Its $1.4T AI Push: Report - Stocktwits [5]
+
+6. Sam Altman says industry is wrong on OpenAI's competition, it is not from Google, but ... - Times of India [6]
+
+7. Class action claims OpenAI, Mixpanel exposed user information in 2025 data breach - Class Action Lawsuits [7]
+
+8. OpenAI, Anthropic and Block Set up Agentic AI Foundation Under Linux Foundation - Analytics India Magazine [8]
+
+9. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [9]
+
+10. Accenture struck a deal with Anthropic, 8 days after saying it would partner with OpenAI - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/2772te44 [2] https://tinyurl.com/2cswwbvh [3] https://tinyurl.com/28f3cc98 [4] https://tinyurl.com/26456geg [5] https://tinyurl.com/2ct2ktjk [6] https://tinyurl.com/2y68b6r8 [7] https://tinyurl.com/25sj8fuq [8] https://tinyurl.com/26bsrqq7 [9] https://tinyurl.com/22r8sdab [10] https://tinyurl.com/22uny6u7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 09, 2025
 News
 

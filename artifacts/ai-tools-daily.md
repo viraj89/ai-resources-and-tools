@@ -1,4 +1,65 @@
 
+## 2025-12-10 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Chinese AI startup Zhipu AI aka <a href="https://z.ai/blog/glm-4.6v"><b>Z.ai has released its GLM-4.6V series</b></a>, a new generation of open-source vision-language models (VLMs) optimized for mu...
+- **Pricing**: Freemium
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for)**
+
+---
+
+### 2. Anthropic's Claude Code can now read your Slack messages and write code for you
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://anthropic.com/"><u>Anthropic</u></a> has launched a beta integration that connects its fast-growing <a href="https://www.claude.com/product/claude-code"><u>Claude Code</u></a> prog...
+- **Pricing**: Paid
+- **Trending Score**: 470.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for)**
+
+---
+
+### 3. Booking.com built agentic AI before 'agents' existed: Here's how it scaled with small models for speed, big models for trust
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When many enterprises weren’t even thinking about agentic behaviors or infrastructures, <a href="http://Booking.com">Booking.com</a> had already “stumbled” into them with its homegrown conversation...
+- **Pricing**: Freemium
+- **Trending Score**: 340.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/booking-coms-agent-strategy-disciplined-modular-and-already-delivering-2)**
+
+---
+
+### 4. Brand-context AI: The missing requirement for marketing AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by BlueOcean</i></p><hr/><p>AI has become a central part of how marketing teams work, but the results often fall short. Models can generate content at scale and summarize information i...
+- **Pricing**: Paid
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai)**
+
+---
+
+### 5. Tracking every decision, dollar and delay: The new process intelligence engine driving public-sector progress
+
+- **Category**: Education / Learning
+- **What it does**: <p><i>Presented by Celonis</i></p><hr/><p>The State of Oklahoma discovered its blind spots the hard way. In April 2023, a legislative report revealed its agencies had spent $3 billion without proper o...
+- **Pricing**: Paid
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/tracking-every-decision-dollar-and-delay-the-new-process-intelligence-engine)**
+
+---
+
+
 ## 2025-12-09 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
