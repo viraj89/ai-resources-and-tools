@@ -1,4 +1,65 @@
 
+## 2025-12-11 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a ...
+- **Pricing**: Freemium
+- **Trending Score**: 480.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the)**
+
+---
+
+### 2. The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>There&#x27;s no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterprise tasks — from <a href="https://www.swe...
+- **Pricing**: Paid
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call)**
+
+---
+
+### 3. How Google’s TPUs are reshaping the economics of large-scale AI
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>For more than a decade, Nvidia’s GPUs have <a href="https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes">underpinned nearly every major advanc...
+- **Pricing**: Paid
+- **Trending Score**: 400.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai)**
+
+---
+
+### 4. How Hud's runtime sensor cut triage time from 3 hours to 10 minutes
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Engineering teams are generating more code with AI agents than ever before. But they&#x27;re hitting a wall when that code reaches production.</p><p>The problem isn&#x27;t necessarily the AI-genera...
+- **Pricing**: Paid
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes)**
+
+---
+
+### 5. The AI that scored 95% — until consultants learned it was AI
+
+- **Category**: Business / Analytics
+- **What it does**: <p><i>Presented by SAP</i></p><hr/><p>When SAP ran a quiet internal experiment to gauge consultant attitudes toward AI, the results were striking. Five teams were asked to validate answers to more tha...
+- **Pricing**: Paid
+- **Trending Score**: 150.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai)**
+
+---
+
+
 ## 2025-12-10 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 11, 2025
+News
+
+1. Microsoft AI Investment: Microsoft Pledges Record $17.5B To Build India’s AI Future - Business Viewpoint Magazine [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. Amazon pledges massive $35 billion worth of investments in India with focus on AI - cnbc.com [3]
+
+4. Exclusive: New OpenAI models likely pose "high" cybersecurity risk, company says - Axios [4]
+
+5. OpenAI's Mysterious Image - Generation AI Exposed: Fails to Compete with Google's Banana Meme AI in Tests, Netizens Question Its Capabilities - 36Kr [5]
+
+6. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [6]
+
+7. Anthropic's IPO: Get Set for It to Light Up an Already-Scorching AI Industry - Stansberry Research [7]
+
+8. Anthropic Eyes 2026 IPO as Valuation Soars Past US$300 Billion - Mexico Business News [8]
+
+9. Neural Dispatch: AI conversations with DeepMind’s Pushmeet Kohli and OpenAI’s Srinivas Narayanan | India News - Hindustan Times [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/2yrxfjbq [2] https://tinyurl.com/2xm9hno4 [3] https://tinyurl.com/2738q3um [4] https://tinyurl.com/269gy88j [5] https://tinyurl.com/2ccw43lf [6] https://tinyurl.com/295lm3w7 [7] https://tinyurl.com/26rg6wdv [8] https://tinyurl.com/2buhrfvx [9] https://tinyurl.com/2c4d634p [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 10, 2025
 News
 
