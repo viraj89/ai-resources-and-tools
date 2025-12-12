@@ -1,4 +1,65 @@
 
+## 2025-12-12 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI's GPT-5.2 is here: what enterprises need to know
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, <a href="https://openai.com/index/introducing-gpt-5-2/"><b>GPT-5.2</b></a>.</p>...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know)**
+
+---
+
+### 2. Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool
+
+- **Category**: Design / Image Generation
+- **What it does**: <p><a href="http://marble.ai/">Marble</a>, a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry grapples with a dee...
+- **Pricing**: Freemium
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a)**
+
+---
+
+### 3. The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>There&#x27;s no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterprise tasks — from <a href="https://www.swe...
+- **Pricing**: Paid
+- **Trending Score**: 420.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call)**
+
+---
+
+### 4. Cohere’s Rerank 4 quadruples the context window over 3.5 to cut agent errors and boost enterprise search accuracy
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Almost a year after releasing <a href="https://venturebeat.com/ai/cohere-rerank-3-5-is-here-and-its-about-to-change-enterprise-search-forever">Rerank 3.5</a>, Cohere launched the latest version of ...
+- **Pricing**: Paid
+- **Trending Score**: 310.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost)**
+
+---
+
+### 5. Creating a glass box: How NetSuite is engineering trust into AI
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><i>Presented by Oracle NetSuite</i></p><hr/><p>When any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the person saying it founded the wo...
+- **Pricing**: Freemium
+- **Trending Score**: 270.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai)**
+
+---
+
+
 ## 2025-12-11 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

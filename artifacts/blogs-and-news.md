@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 12, 2025
+News
+
+1. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. Bank sues OpenAI over murder-suicide tied to ChatGPT conversations - Courthouse News [3]
+
+4. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [4]
+
+5. OpenAI, Anthropic, and Block Launch Agentic AI Foundation - Mexico Business News [5]
+
+6. Anthropic taps IPO lawyers as it races OpenAI to go public - Financial Times [6]
+
+7. Is Microsoft’s Record India AI Spend and 365 Price Hike Altering The Investment Case For Microsoft (MSFT)? - simplywall.st [7]
+
+8. Heirs of mother strangled by son accuse ChatGPT of making him delusional in lawsuit against OpenAI, Microsoft - Fox News [8]
+
+9. OpenAI, Microsoft slammed with lawsuit after ChatGPT allegedly drives disturbing murder-suicide: 'Validated a user's paranoid delusions' - The Cool Down [9]
+
+10. Disney licences OpenAI for generative AI video content across its cast of characters, makes US$1bn equity investment - Mi-3.com.au [10]
+
+Sources:
+[1] https://tinyurl.com/26lswknd [2] https://tinyurl.com/2dknbgrl [3] https://tinyurl.com/26k6w35r [4] https://tinyurl.com/23cth3gj [5] https://tinyurl.com/2ycst2tu [6] https://tinyurl.com/2xvzw9tc [7] https://tinyurl.com/25sbeoqn [8] https://tinyurl.com/2bdrbty7 [9] https://tinyurl.com/27fgm84r [10] https://tinyurl.com/28k7k3pg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 11, 2025
 News
 
