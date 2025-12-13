@@ -1,4 +1,65 @@
 
+## 2025-12-13 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI's GPT-5.2 is here: what enterprises need to know
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, <a href="https://openai.com/index/introducing-gpt-5-2/"><b>GPT-5.2</b></a>.</p>...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know)**
+
+---
+
+### 2. Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool
+
+- **Category**: Design / Image Generation
+- **What it does**: <p><a href="http://marble.ai/">Marble</a>, a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry grapples with a dee...
+- **Pricing**: Freemium
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a)**
+
+---
+
+### 3. Cohere’s Rerank 4 quadruples the context window over 3.5 to cut agent errors and boost enterprise search accuracy
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Almost a year after releasing <a href="https://venturebeat.com/ai/cohere-rerank-3-5-is-here-and-its-about-to-change-enterprise-search-forever">Rerank 3.5</a>, Cohere launched the latest version of ...
+- **Pricing**: Paid
+- **Trending Score**: 310.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost)**
+
+---
+
+### 4. Google’s new framework helps AI agents spend their compute and tool budget more wisely
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>In a <a href="https://arxiv.org/abs/2511.17006"><u>new paper</u></a> that studies tool-use in large language model (LLM) agents, researchers at Google and UC Santa Barbara have developed a framewor...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget)**
+
+---
+
+### 5. Ai2's new Olmo 3.1 extends reinforcement learning training for stronger reasoning benchmarks
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>The Allen Institute for AI (Ai2) recently released what it calls its most powerful <a href="https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"><u...
+- **Pricing**: Freemium
+- **Trending Score**: 200.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger)**
+
+---
+
+
 ## 2025-12-12 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

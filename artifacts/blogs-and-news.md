@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 13, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. OpenAI lawsuit says ChatGPT pushed user to kill mother - The San Francisco Standard [2]
+
+3. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [3]
+
+4. Anthropic reportedly preparing for one of the largest IPOs ever in race with OpenAI: FT - CNBC [4]
+
+5. “2026: Blockbuster IPOs globally & in India —geopolitics delayed the rush, but CEOs are ready to seize their destiny” On Young Turks Reloaded, General Catalyst CEO Hemant Taneja talks to Shereen Bhan about 2026 being the next blockbuster year for IPOs - LinkedIn [5]
+
+6. Broadcom Reveals $21 Billion Google TPUs Order from Anthropic - Analytics India Magazine [6]
+
+7. AI Insider's Week in Review: Latest News from Perplexity, OpenAI, Meta, Google & Nvidia, Plus the Latest Funding Rounds - AI Insider [7]
+
+8. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [8]
+
+9. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [9]
+
+10. Exclusive | Joe Lonsdale Backs ‘Bob the Builder’ AI Startup for Contractors - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2dqe4yre [2] https://tinyurl.com/28hqjgb2 [3] https://tinyurl.com/2yqoeqau [4] https://tinyurl.com/2cm9jwv6 [5] https://tinyurl.com/294hbkqc [6] https://tinyurl.com/2atrbbya [7] https://tinyurl.com/25uc6nda [8] https://tinyurl.com/2ydmemjs [9] https://tinyurl.com/22q8dqbp [10] https://tinyurl.com/28nvvfmy
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 12, 2025
 News
 
