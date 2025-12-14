@@ -1,4 +1,65 @@
 
+## 2025-12-14 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. OpenAI's GPT-5.2 is here: what enterprises need to know
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, <a href="https://openai.com/index/introducing-gpt-5-2/"><b>GPT-5.2</b></a>.</p>...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know)**
+
+---
+
+### 2. Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool
+
+- **Category**: Design / Image Generation
+- **What it does**: <p><a href="http://marble.ai/">Marble</a>, a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry grapples with a dee...
+- **Pricing**: Freemium
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a)**
+
+---
+
+### 3. Why most enterprise AI coding pilots underperform (Hint: It's not the model)
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Gen AI in software engineering has moved well beyond autocomplete. The emerging frontier is <a href="https://venturebeat.com/ai/why-ai-coding-agents-arent-production-ready-brittle-context-windows-b...
+- **Pricing**: Paid
+- **Trending Score**: 350.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model)**
+
+---
+
+### 4. Google’s new framework helps AI agents spend their compute and tool budget more wisely
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>In a <a href="https://arxiv.org/abs/2511.17006"><u>new paper</u></a> that studies tool-use in large language model (LLM) agents, researchers at Google and UC Santa Barbara have developed a framewor...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget)**
+
+---
+
+### 5. Ai2's new Olmo 3.1 extends reinforcement learning training for stronger reasoning benchmarks
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>The Allen Institute for AI (Ai2) recently released what it calls its most powerful <a href="https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"><u...
+- **Pricing**: Freemium
+- **Trending Score**: 200.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger)**
+
+---
+
+
 ## 2025-12-13 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

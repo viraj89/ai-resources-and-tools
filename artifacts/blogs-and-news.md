@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 14, 2025
+News
+
+1. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. Anthropic could beat OpenAI to an IPO and NYT sues Perplexity: Week in AI - The Business Journals [3]
+
+4. Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change - The Wall Street Journal [4]
+
+5. Disney makes $1 billion investment in OpenAI, sends iconic characters to the slophouse - Polygon [5]
+
+6. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [6]
+
+7. Google may have just told Sam Altman's OpenAI what an AI browser is like and where ChatGPT Atlas browser - Times of India [7]
+
+8. How Microsoft’s Record India AI and Cloud Build-out (MSFT) Has Changed Its Investment Story - Yahoo Finance [8]
+
+9. Heirs of mother strangled by son accuse ChatGPT of making him delusional in lawsuit against OpenAI, Microsoft - Fox News [9]
+
+10. Intel (INTC) Stock: Chipmaker Nearing $1.6 Billion Acquisition of AI Startup SambaNova - CoinCentral [10]
+
+Sources:
+[1] https://tinyurl.com/2xuofj4r [2] https://tinyurl.com/25ytsx6u [3] https://tinyurl.com/22qojlhm [4] https://tinyurl.com/235acq74 [5] https://tinyurl.com/25ep8hff [6] https://tinyurl.com/2aqcryg7 [7] https://tinyurl.com/2dnn8hpm [8] https://tinyurl.com/2djwzqov [9] https://tinyurl.com/23rpb3dh [10] https://tinyurl.com/29y84dhf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 13, 2025
 News
 
