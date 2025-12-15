@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 15, 2025
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Venture capital targets India space tech; US banks lend more to private equity - S&P Global [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change - The Wall Street Journal [4]
+
+5. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [5]
+
+6. Anthropic Valuation 2025: Claude Maker’s $183B Price Tag Meets $300B+ Funding Talk as IPO Buzz Builds (Updated Dec. 14, 2025) - ts2.tech [6]
+
+7. OpenAI launches GPT-5 as the AI industry seeks a return on investment - Reuters [7]
+
+8. The woman who beat OpenAI's DALL-E and Midjourney: Meet Anna Veronika Dorogush of Recraft - Tech Funding News [8]
+
+9. Seed Funding In 2025 Broke Records Around Big Rounds And AI, With US Far In The Lead - Crunchbase News [9]
+
+10. Exclusive | Joe Lonsdale Backs ‘Bob the Builder’ AI Startup for Contractors - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2ctgskyp [3] https://tinyurl.com/2axb2e8m [4] https://tinyurl.com/2xjvlfol [5] https://tinyurl.com/28nfcbo6 [6] https://tinyurl.com/2a2ylrzk [7] https://tinyurl.com/2bbh6jw7 [8] https://tinyurl.com/2yt56phk [9] https://tinyurl.com/2xndcv8c [10] https://tinyurl.com/2cdsb87k
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 14, 2025
 News
 
