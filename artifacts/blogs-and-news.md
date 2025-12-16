@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 16, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. BofA’s AI-Driven CashPro Chat and Transaction Search Capabilities Reach Record Usage by Corporate Clients - Bank of America [2]
+
+3. Exclusive: Goldman Sachs reshapes TMT investment group to focus on digital infrastructure and AI deals, memo says - Reuters [3]
+
+4. VCs discuss why most consumer AI startups still lack staying power - TechCrunch [4]
+
+5. Exclusive: OpenAI Hires an Executive from Google to Lead M&A - The Information [5]
+
+6. Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change - The Wall Street Journal [6]
+
+7. Walter Isaacson on Disney's OpenAI investment, dueling WBD bids and SpaceX IPO - CNBC [7]
+
+8. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [8]
+
+9. Exclusive: Anthropic CEO called to testify before Congress about Chinese AI cyberattack - Axios [9]
+
+10. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2azgdnlu [2] https://tinyurl.com/2dfhb9hh [3] https://tinyurl.com/292pvbab [4] https://tinyurl.com/23cs9339 [5] https://tinyurl.com/2avbr7uf [6] https://tinyurl.com/28ltvgm4 [7] https://tinyurl.com/28wnaeqz [8] https://tinyurl.com/233eycek [9] https://tinyurl.com/25auhgrq [10] https://tinyurl.com/28ygulde
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 15, 2025
 News
 
