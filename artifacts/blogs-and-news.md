@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 17, 2025
+News
+
+1. MOL PLUS Makes First Investment In Indian VC Fund - Construction World [1]
+
+2. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Today in AI | India to not rush AI regulations | Disney-OpenAI partnership to last for a year - Storyboard18 [4]
+
+5. OpenAI Just Dropped a New AI Image Model in ChatGPT to Rival Google's Nano Banana - CNET [5]
+
+6. SpaceX, OpenAI, Anthropic and their giga-IPO dreams - The Economist [6]
+
+7. Disney’s OpenAI deal is exclusive for just one year — then it’s open season - TechCrunch [7]
+
+8. Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change - The Wall Street Journal [8]
+
+9. OpenAI just launched a Nano Banana competitor: ChatGPT Images - Mashable [9]
+
+10. OpenAI's answer to Google's viral Nano Banana Pro image model is here - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/26vuw9nx [2] https://tinyurl.com/2d966tea [3] https://tinyurl.com/22eor7g9 [4] https://tinyurl.com/2dznlfva [5] https://tinyurl.com/2yqafmoy [6] https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDhRMkJhVzl5WFZMZ2FCYldyNm1kUENKcGZnRWZaX2JYQ2djekowRkNCWUJpTVdoQ1VSR0oxWXpDRGxhV09ueFluSlhMTUFnb1BhZ3YzcFYzdDR5dnpSREQ0LWxscnhwZ0JjNTlhLU9DVEZWLVAwd1RWQlVuNy14MUNhc0hQNFdab1RiODQxTG9WS3lBdjZYWEJ2bw?oc=5 [7] https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzF4ajc2ZVh3ekNjRTFNMUpERkppbjdweEg0TjNJWHJveUNkbXZYNThHTXhEcGp0eVlXZlFoT0pWOTJMdkt0S3B5VUJjWmw2OVhDVV9pZkdJOS1lN2ZzNXItMGFOczlZeUt1OTAyRmd3NVBQOXdkWWc3cFRta0VhX1FuSzJCSU5VWlNRSDNzMnJaT0RFN0ViclgzSXpQN0lJdDFvSXdpdmJGUQ?oc=5 [8] https://tinyurl.com/25tpuhh8 [9] https://tinyurl.com/2yyt36ed [10] https://tinyurl.com/26dglnf5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 16, 2025
 News
 

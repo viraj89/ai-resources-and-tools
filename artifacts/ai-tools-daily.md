@@ -1,4 +1,65 @@
 
+## 2025-12-17 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.zoom.com/">Zoom Video Communications</a>, the company best known for keeping remote workers connected during the pandemic, announced last week that it had achieved the highest ...
+- **Pricing**: Paid
+- **Trending Score**: 510.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors)**
+
+---
+
+### 2. Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p><a href="https://zencoder.ai/">Zencoder</a>, the Silicon Valley startup that builds AI-powered coding agents, released a free desktop application on Monday that it says will fundamentally change ho...
+- **Pricing**: Freemium
+- **Trending Score**: 460.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against)**
+
+---
+
+### 3. Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs
+
+- **Category**: Education / Learning
+- **What it does**: <p>We&#x27;ve heard (and written, here at VentureBeat) lots about the generative AI race <a href="https://venturebeat.com/ai/kai-fu-lees-brutal-assessment-america-is-already-losing-the-ai-hardware-war...
+- **Pricing**: Paid
+- **Trending Score**: 300.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms)**
+
+---
+
+### 4. Black box AI isn’t enough: Why enterprise consulting is moving to grounded models
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by SAP</i></p><hr/><p>In an era where anyone can spin up an LLM, the real differentiator isn’t the AI technology itself, but the institutional knowledge it’s grounded in. Internal and ...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded)**
+
+---
+
+### 5. Why agentic AI needs a new category of customer data
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by Twilio</i></p><hr/><p>The customer data infrastructure powering most enterprises was architected for a world that no longer exists: one where marketing interactions could be capture...
+- **Pricing**: Paid
+- **Trending Score**: 230.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data)**
+
+---
+
+
 ## 2025-12-16 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
