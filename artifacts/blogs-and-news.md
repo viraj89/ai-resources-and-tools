@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 18, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Amazon and OpenAI are in early discussions over a potential partnership that could include an investment of more than $10 billion, value OpenAI at over $500 billion, and deepen OpenAI’s adoption of Amazon’s Trainium AI chips and AWS infrastructure. If fina - LinkedIn [2]
+
+3. OpenAI Gears Up For Bigger AI Battles, IPO Buzz In 2026 - Investor's Business Daily [3]
+
+4. With freebies, OpenAI, Google vie for Indian users and training data - Reuters [4]
+
+5. OpenAI Discussed Funding at $750 Billion Value, Report Says - Bloomberg.com [5]
+
+6. OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies - The Information [6]
+
+7. OpenAI Holds Talks With Amazon On Potential $10 Bln Investment And AI Chip Use - Nasdaq [7]
+
+8. OpenAI in talks with Amazon for an investment that could exceed $10 billion - The American Bazaar [8]
+
+9. OpenAI In Talks To Get $10 Billion Amazon Investment, Use Its Chips: The Information - Investor's Business Daily [9]
+
+10. Exclusive | OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2343kmxf [2] https://tinyurl.com/29nt9s8p [3] https://tinyurl.com/24dwaohv [4] https://tinyurl.com/24yo2ngt [5] https://tinyurl.com/27nslrm3 [6] https://tinyurl.com/27m52ec5 [7] https://tinyurl.com/2yhqmsra [8] https://tinyurl.com/25ts2o47 [9] https://tinyurl.com/2y4o6uhh [10] https://tinyurl.com/267preyj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 17, 2025
 News
 
