@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 19, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [2]
+
+3. OpenAI and Anthropic will start predicting when users are underage - The Verge [3]
+
+4. Anthropic CEO Amodei Must Face Deposition in Copyright Lawsuit - Bloomberg Law News [4]
+
+5. OpenAI, Anthropic Announce Multiple Job Openings in India - Analytics India Magazine [5]
+
+6. Exclusive: Early look at Claude Tasks Mode from Anthropic - TestingCatalog [6]
+
+7. Google DeepMind CEO Demis Hassabis says some AI startups are wildly overpriced — and a correction is coming - Business Insider [7]
+
+8. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [8]
+
+9. European AI Startup Mistral AI Secures $2B in Funding - AI Business [9]
+
+10. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/28xadmew [2] https://tinyurl.com/25a4rnq4 [3] https://tinyurl.com/2blbztho [4] https://tinyurl.com/22lms5e7 [5] https://tinyurl.com/29hyfc67 [6] https://tinyurl.com/269oxcgw [7] https://tinyurl.com/2d7lgmnt [8] https://tinyurl.com/296gu3sj [9] https://tinyurl.com/27v5q25b [10] https://tinyurl.com/2yl5sn63
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 18, 2025
 News
 
