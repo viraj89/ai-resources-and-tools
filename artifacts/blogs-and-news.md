@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 20, 2025
+News
+
+1. Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters [1]
+
+2. Exclusive-SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Yahoo Finance [2]
+
+3. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [3]
+
+4. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [4]
+
+5. Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say - Reuters [5]
+
+6. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [6]
+
+7. SoftBank races to fulfill $22.5 billion funding pledge to OpenAI by year-end - The Japan Times [7]
+
+8. AI Insider's Week in Review: News from Nvidia, Google, Amazon, Meta, OpenAI, Plus Research Looks at the AI Bubble, Plus the Latest in Funding rounds - AI Insider [8]
+
+9. Sam Altman says he has '0%' excitement about being CEO of a public company ahead of a potential OpenAI IPO - Business Insider [9]
+
+10. SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - TradingView — Track All Markets [10]
+
+Sources:
+[1] https://tinyurl.com/24nxkn4p [2] https://tinyurl.com/26tyakq7 [3] https://tinyurl.com/26lswknd [4] https://tinyurl.com/26kfck9h [5] https://tinyurl.com/2bed2kfo [6] https://tinyurl.com/27wym33v [7] https://tinyurl.com/24mjfs29 [8] https://tinyurl.com/2a9pwcjo [9] https://tinyurl.com/22gzpudr [10] https://tinyurl.com/29nugv9d
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 19, 2025
 News
 
