@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 21, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - wsj.com [1]
+
+2. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - wsj.com [2]
+
+3. Masa Son is pushing hard for SoftBank to meet its $22.5 billion OpenAI obligation - Cryptopolitan [3]
+
+4. SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end - MSN [4]
+
+5. Exclusive: Future OpenAI models likely to pose "high" cybersecurity risk, it says - Axios [5]
+
+6. Anthropic reportedly preparing for one of the largest IPOs ever in race with OpenAI: FT - CNBC [6]
+
+7. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - wsj.com [7]
+
+8. Anthropic taps IPO lawyers as it races OpenAI to go public - Financial Times [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. OpenAI & Anthropic Deploy New AI Tools to Identify Underage Users - Android Headlines [10]
+
+Sources:
+[1] https://tinyurl.com/2dbv937p [2] https://tinyurl.com/2av6us7j [3] https://tinyurl.com/284k62vs [4] https://tinyurl.com/23unzezp [5] https://tinyurl.com/269gy88j [6] https://tinyurl.com/2cm9jwv6 [7] https://tinyurl.com/2ddeq2gf [8] https://tinyurl.com/2xvzw9tc [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/2acwmnxw
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 20, 2025
 News
 
