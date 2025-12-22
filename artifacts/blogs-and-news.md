@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 22, 2025
+News
+
+1. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [1]
+
+2. Qiscus expands via acquisition 🤝. Superbank IPO frenzy 📈. AI adoption accelerates 🤖🇮🇩 - RISE by DailySocial [2]
+
+3. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [3]
+
+4. SoftBank Races to Fulfill $22.5 Billion OpenAI Funding Commitment by Year-End - BBN Times [4]
+
+5. SoftBank Leverages Arm Shares for OpenAI Funding - 조선일보 [5]
+
+6. SoftBank Offloads Nvidia, T-Mobile Stock to Back $22.5 Billion OpenAI Investment - TipRanks [6]
+
+7. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [7]
+
+8. Anthropic CEO Amodei Must Face Deposition in Copyright Lawsuit - Bloomberg Law News [8]
+
+9. OpenAI and Anthropic Launch New AI Tool to Detect Users Under Age 18 - VOI.id [9]
+
+10. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [10]
+
+Sources:
+[1] https://tinyurl.com/2xuofj4r [2] https://tinyurl.com/26auvt3m [3] https://tinyurl.com/2an2x9ym [4] https://tinyurl.com/29p6exkp [5] https://tinyurl.com/26la4rzd [6] https://tinyurl.com/2bq2bocd [7] https://tinyurl.com/2yghuuod [8] https://tinyurl.com/26tt2s23 [9] https://tinyurl.com/28s64fbr [10] https://tinyurl.com/22q8dqbp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 21, 2025
 News
 

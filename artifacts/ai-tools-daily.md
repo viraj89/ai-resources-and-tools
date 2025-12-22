@@ -1,4 +1,65 @@
 
+## 2025-12-22 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>Enterprises can now harness the power of a large language model that&#x27;s near that of the state-of-the-art<a href="https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-sc...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for)**
+
+---
+
+### 2. Black box AI isn’t enough: Why enterprise consulting is moving to grounded models
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Presented by SAP</i></p><hr/><p>In an era where anyone can spin up an LLM, the real differentiator isn’t the AI technology itself, but the institutional knowledge it’s grounded in. Internal and ...
+- **Pricing**: Paid
+- **Trending Score**: 280.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded)**
+
+---
+
+### 3. AI is moving to the edge – and network security needs to catch up
+
+- **Category**: Business / Analytics
+- **What it does**: <p><i>Presented by T-Mobile for Business</i></p><hr/><p>Small and mid-sized businesses are adopting AI at a pace that would have seemed unrealistic even a few years ago. Smart assistants that greet cu...
+- **Pricing**: Freemium
+- **Trending Score**: 260.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up)**
+
+---
+
+### 4. Hiring specialists made sense before AI — now generalists win
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><i>Tony Stoyanov is CTO and co-founder of </i><a href="https://eliseai.com/"><i>EliseAI</i></a></p><p>In the 2010s, tech companies chased staff-level specialists: Backend engineers, data scientists...
+- **Pricing**: Paid
+- **Trending Score**: 210.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win)**
+
+---
+
+### 5. Agent autonomy without guardrails is an SRE nightmare
+
+- **Category**: Design / Image Generation
+- **What it does**: <p><i>João Freitas is GM and VP of engineering for AI and automation at </i><a href="https://www.pagerduty.com/"><i>PagerDuty</i></a></p><p>As AI use continues to evolve in large organizations, leader...
+- **Pricing**: Freemium
+- **Trending Score**: 200.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare)**
+
+---
+
+
 ## 2025-12-21 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
