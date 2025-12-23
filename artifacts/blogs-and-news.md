@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 23, 2025
+News
+
+1. SoftBank rushes to close a $22.5 billion funding commitment to OpenAI - The American Bazaar [1]
+
+2. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Bank of America Says AI Increasingly Contributes to US Economic Growth - PYMNTS.com [4]
+
+5. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [5]
+
+6. SoftBank seeks capital for investment in OpenAI - Techzine Global [6]
+
+7. OpenAI, Anthropic, xAI Hit With Copyright Lawsuit from Writers - Bloomberg Law News [7]
+
+8. Andreessen Horowitz Just Backed an AI Startup That Wants to Fix America’s Construction Problem - Inc.com [8]
+
+9. Healthcare VCs predict more AI transparency investment, private equity M&A, and a quiet year for IPOs in 2026 - Business Insider [9]
+
+10. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2d4sebn6 [2] https://tinyurl.com/ylavzgzu [3] https://tinyurl.com/28gcqpok [4] https://tinyurl.com/2amdgnd2 [5] https://tinyurl.com/2bnn8pds [6] https://tinyurl.com/22k67ckw [7] https://tinyurl.com/2ak8pfxl [8] https://tinyurl.com/23zyqlyt [9] https://tinyurl.com/23mszpgj [10] https://tinyurl.com/29uw473e
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 22, 2025
 News
 
