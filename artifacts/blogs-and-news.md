@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 24, 2025
+News
+
+1. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [2]
+
+3. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [3]
+
+4. Falcon Technoprojects India Limited (FALCONTECH) Sees Unusual Trading Volume - Real Estate Investment Trusts & Don’t Miss These Undervalued Stocks - Bollywood Helpline [4]
+
+5. AI Tools Suggest Source Industries (India) Limited May Outperform This Week - Consumer Goods Stocks & Free Rapid Growing Investment Returns - Bollywood Helpline [5]
+
+6. Ex-Tesla AI chief Andrej Karpathy shares four tips for AI startups competing with OpenAI - the-decoder.com [6]
+
+7. Drone and Satellite Spatial Analysis AI Startup Meissa Secures $6.8M Pre-IPO Funding - Wowtale [7]
+
+8. AI startup raises $75 million to take junior bankers' grunt work - InvestmentNews [8]
+
+9. Here are the 49 US AI startups that have raised $100M or more in 2025 - TechCrunch [9]
+
+10. VCs discuss why most consumer AI startups still lack staying power - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/2btu4uyq [2] https://tinyurl.com/2544dqon [3] https://tinyurl.com/28ygulde [4] https://tinyurl.com/26tedgwl [5] https://tinyurl.com/2xjv8ohw [6] https://tinyurl.com/29htd2bz [7] https://tinyurl.com/2a2y93bv [8] https://tinyurl.com/2cc4c3ox [9] https://tinyurl.com/2ctznoxp [10] https://tinyurl.com/23cs9339
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 23, 2025
 News
 
