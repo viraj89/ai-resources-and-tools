@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 25, 2025
+News
+
+1. India VC funding falls 11% to $9.9 billion in 2025 amid market reset - BusinessLine [1]
+
+2. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record - CNBC [4]
+
+5. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [5]
+
+6. SpaceX, OpenAI, Anthropic and their giga-IPO dreams - The Economist [6]
+
+7. How to use Google Nano Banana, ChatGPT and other AI chatbots to transform family photo into personalised - Times of India [7]
+
+8. The AI startups founders and VCs say could be acquisition targets in 2026 - Fortune [8]
+
+9. Exclusive | This AI Startup Wants to Remake the $800 Billion Chip Industry - The Wall Street Journal [9]
+
+10. Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2y2plyyg [2] https://tinyurl.com/2d966tea [3] https://tinyurl.com/24phcle6 [4] https://tinyurl.com/28fkv9qm [5] https://tinyurl.com/25ncvts3 [6] https://tinyurl.com/27a2qdlk [7] https://tinyurl.com/275de69d [8] https://tinyurl.com/27oal36s [9] https://tinyurl.com/23kr3lvq [10] https://tinyurl.com/294jectc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 24, 2025
 News
 
