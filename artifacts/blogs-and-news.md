@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 26, 2025
+News
+
+1. Venture capital targets India space tech; US banks lend more to private equity - S&P Global [1]
+
+2. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [2]
+
+3. OpenAI funding round: US$100B raise at US$830B valuation - ContentGrip [3]
+
+4. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [4]
+
+5. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [5]
+
+6. OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies - The Information [6]
+
+7. Microsoft AI CEO Mustafa Suleyman may have just sent a message to OpenAI CEO Sam Altman on his ‘favourite - The Times of India [7]
+
+8. Research Reports using AI Tools - Merger & Acquisition Updates & Rapid Portfolio Appreciation - Bollywood Helpline [8]
+
+9. The AI startups founders and VCs say could be acquisition targets in 2026 - AOL.com [9]
+
+10. Endeavor Plans $300M Push for AI Startups Across Emerging Markets - cairoscene.com [10]
+
+Sources:
+[1] https://tinyurl.com/2ctgskyp [2] https://tinyurl.com/2d9uzufg [3] https://tinyurl.com/22ehmmh5 [4] https://tinyurl.com/2btknyb4 [5] https://tinyurl.com/2bbkha5p [6] https://tinyurl.com/27m52ec5 [7] https://tinyurl.com/24cro9qt [8] https://tinyurl.com/27lspmq2 [9] https://tinyurl.com/22bvqj28 [10] https://tinyurl.com/26ox6ec5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 25, 2025
 News
 
