@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 27, 2025
+News
+
+1. American billionaire Mark Cuban to new grads: You need to join small companies and teach them how to use - Times of India [1]
+
+2. 49 US AI startups raised $100M+ in 2025, matching 2024's record year - The Tech Buzz [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. AI Insider's Week in Review: OpenAI Expands ChatGPT, Yann LeCun Launches New Start-Up, Alphabet Moves to Secure Energy Supply, New York Enacts AI Safety Legislation, Plus the Latest Funding Rounds - AI Insider [4]
+
+5. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [5]
+
+6. OpenAI and Anthropic roll out holiday usage boosts for AI developers - Techloy [6]
+
+7. OpenAI and Anthropic double AI usage limits in holiday boost for developers: All you need to know - livemint.com [7]
+
+8. OpenAI, Anthropic Offer Double the Usage Limit to Select Users Till the New Year - Gadgets 360 [8]
+
+9. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [9]
+
+10. OpenAI and Anthropic will start predicting when users are underage - The Verge [10]
+
+Sources:
+[1] https://tinyurl.com/2cxyqrlc [2] https://tinyurl.com/264had4d [3] https://tinyurl.com/26n4rnuz [4] https://tinyurl.com/2ah6ys23 [5] https://tinyurl.com/2a3fbklj [6] https://tinyurl.com/2cqkujae [7] https://tinyurl.com/2cu23cua [8] https://tinyurl.com/255zgbyb [9] https://tinyurl.com/22t3kjqx [10] https://tinyurl.com/2blbztho
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 26, 2025
 News
 
