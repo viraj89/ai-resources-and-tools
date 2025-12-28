@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 28, 2025
+News
+
+1. Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters [1]
+
+2. As holiday boost for developers, OpenAI and Anthropic double AI usage limits - varindia.com [2]
+
+3. Nvidia Partners with AI Startup Groq, Avoiding Merger Regulations - Businesskorea [3]
+
+4. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [4]
+
+5. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [5]
+
+6. In fight for software engineers with OpenAI, Anthropic, Meta and others; Google hired 20% … - Times of India [6]
+
+7. Microsoft CTO: AI Startups Must Experiment Now, Not Wait for Better Models - WebProNews [7]
+
+8. Google DeepMind CEO Demis Hassabis says some AI startups are wildly overpriced — and a correction is coming - Business Insider [8]
+
+9. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [9]
+
+10. European AI Startup Mistral AI Secures $2B in Funding - AI Business [10]
+
+Sources:
+[1] https://tinyurl.com/24nxkn4p [2] https://tinyurl.com/2ysl8tcw [3] https://tinyurl.com/24zqrsyr [4] https://tinyurl.com/22lc2uu2 [5] https://tinyurl.com/28m99msy [6] https://tinyurl.com/2ctumoyd [7] https://tinyurl.com/23ccaj47 [8] https://news.google.com/rss/articles/CBMirgFBVV95cUxPLUdFV2s1VUktcFVjQklkUkNYOUZSdFJVSE5uLU13amlEVFpmbUplWFMxWTItZWlHalppUDFTM1hCcTd0cUpORU5jS3NwTGxNaklsdzNQWll0QWxBY3VyTFdGN2tJbXg0SjRheHd2YlY3UVZ5c1RaaDRuT25nREM1eTVReFlFY2xRd2thcmJkOE5nYXJvX1N0WXozb3VwWGxSZkd4NVFMeVllY2owNXc?oc=5 [9] https://tinyurl.com/296gu3sj [10] https://tinyurl.com/27v5q25b
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 27, 2025
 News
 
