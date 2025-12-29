@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 29, 2025
+News
+
+1. US AI startups raise $150b in 2025, led by OpenAI, Anthropic - Tech in Asia [1]
+
+2. OpenAI, SpaceX, Anthropic: The tech giants lining up blockbuster IPOs - MSN [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. AI Indicators Detect Buy Opportunity in India Home Loan Limited - Merger & Acquisition Updates & Low Entry Cost Investment - bollywoodhelpline.com [4]
+
+5. AI start-ups amass record $150bn funding cushion as bubble fears mount - Financial Times [5]
+
+6. OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a problem; says: AI models are b - Times of India [6]
+
+7. Exclusive: Future OpenAI models likely to pose "high" cybersecurity risk, it says - Axios [7]
+
+8. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [8]
+
+9. Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients - The Wall Street Journal [9]
+
+10. Anthropic reportedly preparing for one of the largest IPOs ever in race with OpenAI: FT - CNBC [10]
+
+Sources:
+[1] https://tinyurl.com/23h8nnbe [2] https://tinyurl.com/259zndjc [3] https://tinyurl.com/25gom5bg [4] https://tinyurl.com/29f2bq7t [5] https://tinyurl.com/2455cmh2 [6] https://tinyurl.com/27n26qq9 [7] https://tinyurl.com/269gy88j [8] https://tinyurl.com/25sopwf2 [9] https://tinyurl.com/2ao2p5kd [10] https://tinyurl.com/2cm9jwv6
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 28, 2025
 News
 
