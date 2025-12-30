@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 30, 2025
+News
+
+1. US AI startups raise $150 billion as OpenAI, Anthropic draw biggest investments - CHOSUNBIZ - Chosunbiz [1]
+
+2. SoftBank To Expand AI Investments With DigitalBridge Acquisition - Investor's Business Daily [2]
+
+3. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [3]
+
+4. AI Startups Attract Record $150 Billion Funding - 조선일보 [4]
+
+5. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [5]
+
+6. OpenAI’s $40 B Round Pushes AI Funding to a Record $150 B; Bubble Talk Grows - Analytics Insight [6]
+
+7. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [7]
+
+8. Exclusive | OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO - The Wall Street Journal [8]
+
+9. Exclusive: AI data analytics startup Dataiku picked banks for US IPO, sources say - Reuters [9]
+
+10. Meta Goes All-In On AI Agents With Manus Acquisition, Doubling Down After Scale AI Deal And Escalating Rivalry With OpenAI - Benzinga [10]
+
+Sources:
+[1] https://tinyurl.com/2cnykgah [2] https://tinyurl.com/268dngwy [3] https://tinyurl.com/26lswknd [4] https://tinyurl.com/2cxow8da [5] https://tinyurl.com/2xuofj4r [6] https://tinyurl.com/2267n7d9 [7] https://tinyurl.com/2ccav7ed [8] https://tinyurl.com/2yf7fj64 [9] https://tinyurl.com/24u3lpem [10] https://tinyurl.com/2xpurb8u
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 29, 2025
 News
 
