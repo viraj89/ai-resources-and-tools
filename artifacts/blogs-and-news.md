@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News December 31, 2025
+News
+
+1. Reports: SoftBank completes $40 billion investment in OpenAI - The American Bazaar [1]
+
+2. SoftBank reportedly finalizes OpenAI investment with $22.5B cash infusion - SiliconANGLE [2]
+
+3. SoftBank becomes OpenAI’s biggest backer after fully funding $40 billion investment - Sherwood News [3]
+
+4. SoftBank completes US$41 bil investment in OpenAI, deepening bet on AI - The Edge Malaysia [4]
+
+5. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [5]
+
+6. SoftBank completes $41 billion investment in OpenAI, deepening bet on AI - Reuters [6]
+
+7. Meta’s Manus Buy: The New Exit Playbook For AI Startups - Forbes [7]
+
+8. SoftBank has fully funded $40 billion investment in OpenAI, sources tell CNBC - CNBC [8]
+
+9. SoftBank Makes Good on $40 Billion OpenAI Investment - PYMNTS.com [9]
+
+10. SoftBank lifts OpenAI stake to 11% with $41 billion investment - The Japan Times [10]
+
+Sources:
+[1] https://tinyurl.com/275h8zqz [2] https://tinyurl.com/22jkh39t [3] https://tinyurl.com/26hv6o69 [4] https://tinyurl.com/283crr7f [5] https://tinyurl.com/28h3zykw [6] https://tinyurl.com/2xn6qpzy [7] https://tinyurl.com/28fcvlby [8] https://tinyurl.com/2b5zhjwt [9] https://tinyurl.com/2b24bqdx [10] https://tinyurl.com/2y9orxpd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 30, 2025
 News
 
