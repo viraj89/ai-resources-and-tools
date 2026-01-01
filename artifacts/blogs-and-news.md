@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 01, 2026
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Today in AI | Softbank completes OpenAI investment | Elon Musk’s xAI buys third building - Storyboard18 [2]
+
+3. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [3]
+
+4. OpenAI just launched a Nano Banana competitor: ChatGPT Images - Mashable [4]
+
+5. OpenAI secures massive funding round led by SoftBank - Digital Watch Observatory [5]
+
+6. Oracle stock slips as OpenAI funding update and insider sale filing keep AI spend in focus - ts2.tech [6]
+
+7. SoftBank Completes $40B OpenAI Investment, Securing 10% Stake in Landmark AI Deal - AI Insider [7]
+
+8. Inside the 2026 mega-IPO pipeline for OpenAI, SpaceX and Anthropic - MSN [8]
+
+9. SoftBank completes $40B investment in OpenAI: report - New York Post [9]
+
+10. SoftBank Reportedly Closes $40 Billion OpenAI Investment - Stocktwits [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/26gov36d [3] https://tinyurl.com/27zyn576 [4] https://tinyurl.com/2yyt36ed [5] https://tinyurl.com/2demedda [6] https://tinyurl.com/25lf7v7d [7] https://tinyurl.com/2arvy8bb [8] https://tinyurl.com/2ae7bxur [9] https://tinyurl.com/2c87u4fn [10] https://tinyurl.com/256xvagv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News December 31, 2025
 News
 
