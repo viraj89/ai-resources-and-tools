@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 02, 2026
+News
+
+1. 💵Meta's Manus Acquisition: A New Playbook for Chinese-Founded AI Startups - Recode China AI [1]
+
+2. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [2]
+
+3. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [3]
+
+4. SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs - Financial Times [4]
+
+5. SoftBank completes $41 billion investment in OpenAI, deepening bet on AI - Yahoo Finance [5]
+
+6. Tech Voices: Meta-Manus, SoftBank-OpenAI, China's new chipmaking rules - Seeking Alpha [6]
+
+7. 2026’s Biggest IPOs: SpaceX, OpenAI, and Anthropic Prepare to Go Public - TipRanks [7]
+
+8. 2026 set to be the historic “Year of the Mega-IPO” as SpaceX, OpenAI and Anthropic eye public debuts with - The Economic Times [8]
+
+9. Friday papers: SpaceX, OpenAI and Anthropic prepare to launch IPOs - Citywire [9]
+
+10. SpaceX, OpenAI, Anthropic eye IPOs in 2026 - Latest news from Azerbaijan [10]
+
+Sources:
+[1] https://tinyurl.com/2aahqws8 [2] https://tinyurl.com/2d966tea [3] https://tinyurl.com/29jhjbl3 [4] https://tinyurl.com/25vuuast [5] https://tinyurl.com/2cszkok9 [6] https://tinyurl.com/24epcer3 [7] https://tinyurl.com/225agnzp [8] https://tinyurl.com/27d2ozu5 [9] https://tinyurl.com/22ay42d3 [10] https://tinyurl.com/23z67okl
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 01, 2026
 News
 
