@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 03, 2026
+News
+
+1. US AI startups hit US$150B funding in 2025 - ContentGrip [1]
+
+2. AI Insider's Week in Review: Softbank Invests $40B in OpenAI, Meta Acquires Manus & Expert Predictions for 2026, Plus the Latest Funding Rounds - AI Insider [2]
+
+3. 2026 could be year of mega IPO: SpaceX, OpenAI, Anthropic eye public markets - The American Bazaar [3]
+
+4. AI Startups Raise Record $150B in 2025, Redefining Venture Capital - eWeek [4]
+
+5. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [5]
+
+6. AI Daily: Anthropic, OpenAI planning IPOs as early as this year - TipRanks [6]
+
+7. Potential Acquisition of Pinterest (PINS) by OpenAI in 2026 - GuruFocus [7]
+
+8. EXCLUSIVE: Inside the Cape Town gathering in January, where OpenAI, sports legends, and multi-billion dollar funds are betting on what's next - Business Insider Africa [8]
+
+9. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [9]
+
+10. Elon Musk Says xAI Purchased Third Building For Massive AI Expansion As Company Takes On OpenAI, Anthropic: Property Name Takes Dig At Microsoft - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/24ktzrgh [2] https://tinyurl.com/2cqw5quw [3] https://tinyurl.com/295vxjs7 [4] https://tinyurl.com/2clrdky5 [5] https://tinyurl.com/27buegab [6] https://tinyurl.com/29lca7zm [7] https://tinyurl.com/2ddfshcy [8] https://tinyurl.com/2dkb74zq [9] https://tinyurl.com/2bsy7eas [10] https://tinyurl.com/2xwlb6ch
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 02, 2026
 News
 
