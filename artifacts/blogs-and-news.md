@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 04, 2026
+News
+
+1. 49 US AI startups raised $100M+ in 2025, matching 2024's record year - The Tech Buzz [1]
+
+2. From OpenAI to Groq, 6 VC Trends That Captured AI Funding Gold Rush of 2025 - Analytics India Magazine [2]
+
+3. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [3]
+
+4. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [4]
+
+5. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [5]
+
+6. SpaceX, OpenAI, Anthropic and their giga-IPO dreams - The Economist [6]
+
+7. OpenAI and Anthropic will start predicting when users are underage - The Verge [7]
+
+8. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [8]
+
+9. Meta just bought one of the fastest-growing AI startups you’ve probably never heard of - Fast Company [9]
+
+10. Meta to acquire Singapore-based AI startup Manus - The American Bazaar [10]
+
+Sources:
+[1] https://tinyurl.com/264had4d [2] https://tinyurl.com/2yuujgv4 [3] https://tinyurl.com/25z3fxsu [4] https://tinyurl.com/27drkhno [5] https://tinyurl.com/2caxteyy [6] https://tinyurl.com/27a2qdlk [7] https://tinyurl.com/2blbztho [8] https://tinyurl.com/2bx56bgz [9] https://tinyurl.com/2aq9ro9q [10] https://tinyurl.com/2cyevdhb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 03, 2026
 News
 
