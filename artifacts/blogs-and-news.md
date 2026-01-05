@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 05, 2026
+News
+
+1. Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters [1]
+
+2. Nvidia Partners with AI Startup Groq, Avoiding Merger Regulations - Businesskorea [2]
+
+3. AI startups push 72-hour weeks, reviving China’s ‘996’ culture to stay ahead - Yahoo Finance [3]
+
+4. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [4]
+
+5. Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal [5]
+
+6. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [6]
+
+7. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [7]
+
+8. Google DeepMind CEO Demis Hassabis says some AI startups are wildly overpriced — and a correction is coming - Business Insider [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/24nxkn4p [2] https://tinyurl.com/24zqrsyr [3] https://tinyurl.com/2azacwb6 [4] https://tinyurl.com/22shcap5 [5] https://tinyurl.com/2chfo9pt [6] https://tinyurl.com/2dxpakla [7] https://tinyurl.com/26ws3snb [8] https://tinyurl.com/2d7lgmnt [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 04, 2026
 News
 
