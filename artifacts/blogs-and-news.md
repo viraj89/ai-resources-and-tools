@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 06, 2026
+News
+
+1. AI startups are raising millions to disrupt Hollywood. Read the pitch decks 8 used to get funding. - Business Insider [1]
+
+2. Exclusive-Elliott partner Jason Genrich has left hedge fund, sources say - Global Banking And Finance Awards® [2]
+
+3. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [3]
+
+4. SoftBank Completes $40 Billion Investment in OpenAI, Takes 11% Stake - TechAfrica News [4]
+
+5. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [5]
+
+6. Anthropic reportedly preparing for one of the largest IPOs ever in race with OpenAI: FT - CNBC [6]
+
+7. ‘Do more with less’: Anthropic’s Daniela Amodei outlines strategy to compete with OpenAI - The Indian Express [7]
+
+8. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [8]
+
+9. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [9]
+
+10. European AI Startup Mistral AI Secures $2B in Funding - AI Business [10]
+
+Sources:
+[1] https://tinyurl.com/236qnk8y [2] https://tinyurl.com/25onptoy [3] https://tinyurl.com/284jrej8 [4] https://tinyurl.com/2y9877r8 [5] https://tinyurl.com/228rctz3 [6] https://tinyurl.com/2cm9jwv6 [7] https://tinyurl.com/28nf9stj [8] https://tinyurl.com/25tsz3ks [9] https://tinyurl.com/28ygulde [10] https://tinyurl.com/27v5q25b
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 05, 2026
 News
 
