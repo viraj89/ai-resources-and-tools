@@ -1,4 +1,65 @@
 
+## 2026-01-07 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. The creator of Claude Code just revealed his workflow, and developers are losing their minds
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissect...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are)**
+
+---
+
+### 2. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 3. How one AI startup is helping rice farmers battle climate change
+
+- **Category**: Design / Image Generation
+- **What it does**: Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions.
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/)**
+
+---
+
+### 4. Meta to add 100MW of solar power from US gear
+
+- **Category**: Business / Analytics
+- **What it does**: The social media company is adding another tranche of solar to power a new AI data center in South Carolina.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/)**
+
+---
+
+### 5. Obvio’s stop sign cameras use AI to root out unsafe drivers
+
+- **Category**: Design / Image Generation
+- **What it does**: American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders ...
+- **Pricing**: Freemium
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)**
+
+---
+
+
 ## 2026-01-06 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

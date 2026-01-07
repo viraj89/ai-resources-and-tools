@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 07, 2026
+News
+
+1. From music to mind reading: AI startups bet on earbuds - Indiana Gazette Online [1]
+
+2. Chinese AI startups beat U.S. rivals to market with Hong Kong IPOs - Business News Nigeria [2]
+
+3. From music to mind reading: AI startups bet on earbuds - mykxlg.com [3]
+
+4. Watch Will OpenAI or Anthropic IPO in 2026? - Bloomberg.com [4]
+
+5. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [5]
+
+6. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [6]
+
+7. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal [7]
+
+8. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [8]
+
+9. From music to mind reading: AI startups bet on earbuds - Northeast Mississippi Daily Journal [9]
+
+10. From music to mind reading: AI startups bet on earbuds - wyomingnewsnow.tv [10]
+
+Sources:
+[1] https://tinyurl.com/242wezxt [2] https://tinyurl.com/22od526f [3] https://tinyurl.com/25ezoxsa [4] https://tinyurl.com/24w4ed4s [5] https://tinyurl.com/2cpbksap [6] https://tinyurl.com/2dqlcubz [7] https://tinyurl.com/29yhh3os [8] https://tinyurl.com/22q8dqbp [9] https://tinyurl.com/26llfztl [10] https://tinyurl.com/2avw9xtk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 06, 2026
 News
 
