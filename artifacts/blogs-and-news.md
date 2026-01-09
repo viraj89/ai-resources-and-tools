@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 09, 2026
+News
+
+1. US judge approves jury trial in Elon Musk’s OpenAI lawsuit - The American Bazaar [1]
+
+2. China’s Zhipu AI Makes Landmark IPO, Beating America's OpenAI and Anthropic - Techloy [2]
+
+3. PM pushes for regional content in roundtable with AI startups - Tribune India [3]
+
+4. Modi courts AI startups, pushes India-first models - The Economic Times [4]
+
+5. Musk, OpenAI lawyers trade barbs as lawsuit heads to trial - CNBC [5]
+
+6. Musk’s OpenAI lawsuit clears path to trial, putting Microsoft in the spotlight - Computerworld [6]
+
+7. OpenAI launches ChatGPT Health, encouraging users to connect their medical records - The Verge [7]
+
+8. Judge Clears Way for Jury Trial in Musk’s Lawsuit Against OpenAI - PYMNTS.com [8]
+
+9. Elon Musk’s lawsuit over OpenAI for-profit conversion can go to trial, U.S. judge says - MacDailyNews [9]
+
+10. Judge clears path for Elon Musk’s OpenAI lawsuit to go before a jury - Teslarati [10]
+
+Sources:
+[1] https://tinyurl.com/27x9gt8u [2] https://tinyurl.com/22om9rzt [3] https://tinyurl.com/2chyrk6g [4] https://tinyurl.com/2ahy6jjr [5] https://tinyurl.com/25v4f435 [6] https://tinyurl.com/24trn22c [7] https://tinyurl.com/26we763v [8] https://tinyurl.com/28hss954 [9] https://tinyurl.com/2dakvbsz [10] https://tinyurl.com/2c7kjthr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 08, 2026
 News
 
