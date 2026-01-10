@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 10, 2026
+News
+
+1. MCTech3 | PM’s missive to Indian AI startups, Govt sends second notice to Elon Musk’s X and more. - LinkedIn [1]
+
+2. Tech3 | PM’s missive to Indian AI startups, Govt sends second notice to Elon Musk’s X and more. - Moneycontrol [2]
+
+3. OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout - CNBC [3]
+
+4. Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says - The Guardian [4]
+
+5. OpenAI launches ChatGPT Health, allowing users to link medical records and apps - ABC10 [5]
+
+6. Elon Musk’s lawsuit against OpenAI will face a jury in March - TechCrunch [6]
+
+7. OpenAI Launches ChatGPT Health, Which Ingests Your Entire Medical Records, But Warns Not to Use It for "Diagnosis or Treatment" - Futurism [7]
+
+8. Elon Musk's Lawsuit Accusing ChatGPT-Maker OpenAI Of Betraying Its Nonprofit Mission Can Go To Trial, Judge Rules - Yahoo Finance UK [8]
+
+9. Elon Musk: I decided to start OpenAI after my chat with Google founder Larry Page where he called me ... - The Times of India [9]
+
+10. Judge Rejects OpenAI's Efforts to Cancel Elon Musk's Lawsuit - 80 Level [10]
+
+Sources:
+[1] https://tinyurl.com/273a8ubu [2] https://tinyurl.com/244zov6c [3] https://tinyurl.com/25nxdy7z [4] https://tinyurl.com/2y6vbofb [5] https://tinyurl.com/2ybk7fyc [6] https://tinyurl.com/2b3wp7lw [7] https://tinyurl.com/2cmedan5 [8] https://tinyurl.com/25dc2thl [9] https://tinyurl.com/23fuawct [10] https://tinyurl.com/2xmaj745
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 09, 2026
 News
 
