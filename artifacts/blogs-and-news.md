@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 11, 2026
+News
+
+1. OpenAI and SoftBank Power Up AI Future with $1B Investment in SB Energy — Fueling the Data Center Boom - abacusnews.com [1]
+
+2. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [2]
+
+3. OpenAI, Anthropic dominate Bay Area venture funding as small group of AI firms raise billions - The Business Journals [3]
+
+4. AI Startups Raise Record $150B in 2025, Redefining Venture Capital - eWeek [4]
+
+5. Coimbatore-based AI services startup Aivar Innovations has raised $4.6 million in a seed round led by Sorin Investments, with contributions from Bessemer Venture Partners, aiming to expand its presence in India, the US, and the Middle East. The funding will - LinkedIn [5]
+
+6. Judge gives all clear for Elon Musk's lawsuit against OpenAI to head to trial: 'We look forward to presenting all the evidence' - The Cool Down [6]
+
+7. SoftBank has fully funded $40 billion investment in OpenAI, sources tell CNBC - CNBC [7]
+
+8. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [8]
+
+9. Anthropic reportedly lining up $10B financing as AI funding race accelerates - InvestmentNews [9]
+
+10. IPOs 2026: Will Anthropic, SpaceX and OpenAI rock the stock market? - trendingtopics.eu [10]
+
+Sources:
+[1] https://tinyurl.com/2av277uc [2] https://tinyurl.com/26lswknd [3] https://tinyurl.com/25sxjoda [4] https://tinyurl.com/2clrdky5 [5] https://tinyurl.com/239wpwl9 [6] https://tinyurl.com/2y3w3ywr [7] https://tinyurl.com/2b5zhjwt [8] https://tinyurl.com/27dy2wcx [9] https://tinyurl.com/29pu4h77 [10] https://tinyurl.com/27t5jx8v
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 10, 2026
 News
 
