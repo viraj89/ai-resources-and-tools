@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 12, 2026
+News
+
+1. OpenAI, Anthropic dominate Bay Area venture funding as small group of AI firms raise billions - The Business Journals [1]
+
+2. Anthropic expands into healthcare a week after OpenAI launched a similar product - Business Insider [2]
+
+3. Anthropic joins OpenAI's push into health care with new Claude tools - NBC News [3]
+
+4. Elon Musk’s message to OpenAI CEO Sam Altman: Remember because of me, OpenAI … - Times of India [4]
+
+5. Does SoftBank’s US$1 Billion AI Data Center Bet With OpenAI Change The Bull Case For SoftBank Group (TSE:9984)? - simplywall.st [5]
+
+6. Macroeconomic Expert Recommends SpaceX, OpenAI IPOs as Must-Have Buys - 조선일보 [6]
+
+7. Anthropic pushes into healthcare to help patients understand their medical records - SiliconANGLE [7]
+
+8. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [8]
+
+9. Anthropic follows OpenAI in rolling out healthcare AI tools By Investing.com - Investing.com India [9]
+
+10. IPO Market Set for 2026 as SpaceX, Anthropic, and OpenAI Eye Public Listings - Barron's [10]
+
+Sources:
+[1] https://tinyurl.com/23nn55ua [2] https://tinyurl.com/2xu3ddlj [3] https://tinyurl.com/23xwc2uk [4] https://tinyurl.com/2cqbtsz7 [5] https://tinyurl.com/26sssu74 [6] https://tinyurl.com/23owjo4p [7] https://tinyurl.com/26r59gu6 [8] https://tinyurl.com/2abp8ud2 [9] https://tinyurl.com/26ujfah2 [10] https://tinyurl.com/24nnfmnl
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 11, 2026
 News
 
