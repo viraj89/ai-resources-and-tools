@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 13, 2026
+News
+
+1. Elon Musk's xAI cofounder Tony Wu sends email to employees, says: Anthropic has banned us, this is a.. - Times of India [1]
+
+2. Anthropic Extends Claude into Healthcare, Matching OpenAI’s Health Push with Record-Aware, HIPAA-Ready Tools - ERP Today [2]
+
+3. Just days after OpenAI entered healthcare, Anthropic launches similar product - Times of India [3]
+
+4. US AI startups hit US$150B funding in 2025 - ContentGrip [4]
+
+5. Nvidia Partners with AI Startup Groq, Avoiding Merger Regulations - Businesskorea [5]
+
+6. Chinese tech leaders admit US export controls are a problem; say chances of beating OpenAI, Anthropic and - Times of India [6]
+
+7. Exclusive | OpenAI Set to Run Another Super Bowl Ad as Chatbot Competition Heats Up - The Wall Street Journal [7]
+
+8. OpenAI, SoftBank Invest $1B in SB Energy as AI Buildout Continues - AI Business [8]
+
+9. ChatGPT Killed a Man After OpenAI Brought Back "Inherently Dangerous" GPT-4o, Lawsuit Claims - Futurism [9]
+
+10. Anthropic and OpenAI are crawling the web even more and not giving much back - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/25ngjvfm [2] https://tinyurl.com/26egrjmr [3] https://tinyurl.com/2b78umd8 [4] https://tinyurl.com/24ktzrgh [5] https://tinyurl.com/24zqrsyr [6] https://tinyurl.com/27v7t9e2 [7] https://tinyurl.com/2de4ua6m [8] https://tinyurl.com/2xla953j [9] https://tinyurl.com/25rq2f7h [10] https://tinyurl.com/28tvp7wv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 12, 2026
 News
 
