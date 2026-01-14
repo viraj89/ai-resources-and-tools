@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 14, 2026
+News
+
+1. SoftBank To Expand AI Investments With DigitalBridge Acquisition - Investor's Business Daily [1]
+
+2. Exclusive | OpenAI Set to Run Another Super Bowl Ad as Chatbot Competition Heats Up - The Wall Street Journal [2]
+
+3. Elon Musk's lawsuit against OpenAI scheduled for April 27 trial - Crypto Briefing [3]
+
+4. Anthropic, Google, OpenAI join Thomson Reuters’ Trust in AI Alliance - Artificial Lawyer [4]
+
+5. Anthropic enters healthcare space after OpenAI’s ChatGPT release - The American Bazaar [5]
+
+6. OpenAI’s Torch Acquisition Adds To A Busy M&A Push — Here’s What The ChatGPT Maker Has Snapped Up Recently - Stocktwits [6]
+
+7. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - The Wall Street Journal [7]
+
+8. China to Look Into Meta’s Acquisition of AI Startup Manus, Ministry Says - Yicai Global [8]
+
+9. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/268dngwy [2] https://tinyurl.com/26jsa9l6 [3] https://tinyurl.com/235mgmp6 [4] https://tinyurl.com/2y9vb5uc [5] https://tinyurl.com/26psc6mw [6] https://tinyurl.com/23w8kee8 [7] https://tinyurl.com/2ax5r6c7 [8] https://tinyurl.com/2acq6vfv [9] https://tinyurl.com/2ydmemjs [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 13, 2026
 News
 
