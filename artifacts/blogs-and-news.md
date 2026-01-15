@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 15, 2026
+News
+
+1. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Set to Run Another Super Bowl Ad as Chatbot Competition Heats Up - The Wall Street Journal [2]
+
+3. Anthropic and OpenAI join SpaceX in IPO preparations, NYT says - Investing.com [3]
+
+4. Despite OpenAI partnership, Microsoft is one of Anthropic's biggest customers - the-decoder.com [4]
+
+5. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - The Wall Street Journal [5]
+
+6. In Just 10 Days, Anthropic Built Cowork Enitrely Written by Claude Code - Analytics India Magazine [6]
+
+7. Anthropic launches Claude for Healthcare one week after OpenAI's hospital push - the-decoder.com [7]
+
+8. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [8]
+
+9. European AI Startup Mistral AI Secures $2B in Funding - AI Business [9]
+
+10. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/26ulfmy4 [2] https://tinyurl.com/274gr97t [3] https://tinyurl.com/2avzydce [4] https://tinyurl.com/288cfenj [5] https://tinyurl.com/23mfnw6u [6] https://tinyurl.com/262bph24 [7] https://tinyurl.com/2dbe2v7l [8] https://tinyurl.com/28ygulde [9] https://tinyurl.com/27v5q25b [10] https://tinyurl.com/2bkrml9l
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 14, 2026
 News
 
