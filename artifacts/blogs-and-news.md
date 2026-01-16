@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 16, 2026
+News
+
+1. AI startups must turn their pilots into scalable products: Google India VP Preeti Lobana - The Economic Times [1]
+
+2. AI startups to focus on turning pilots into scalable products: Google India country manager Lobana - The Economic Times [2]
+
+3. AI Impact summit signals Google’s deepening focus on scaling India’s AI startups from pilot to global impa - The Economic Times [3]
+
+4. Musk’s lawsuit against OpenAI, Microsoft heads to April jury trial - Investing.com [4]
+
+5. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - wsj.com [5]
+
+6. Business Spending on OpenAI Models Jumps to a Record, New Data Shows - businessinsider.com [6]
+
+7. Exclusive | OpenAI Set to Run Another Super Bowl Ad as Chatbot Competition Heats Up - wsj.com [7]
+
+8. OpenAI freaked out the software industry. Now, it's Anthropic's turn. - businessinsider.com [8]
+
+9. Exclusive: Former OpenAI policy chief creates nonprofit institute, calls for independent safety audits of frontier AI models - Fortune [9]
+
+10. Judge gives all clear for Elon Musk's lawsuit against OpenAI to head to trial: 'We look forward to presenting all the evidence' - Yahoo [10]
+
+Sources:
+[1] https://tinyurl.com/224uz8ar [2] https://tinyurl.com/2xwbamz6 [3] https://tinyurl.com/2cdjmbqs [4] https://tinyurl.com/25bcnhs3 [5] https://tinyurl.com/2b2xcswe [6] https://tinyurl.com/25shjzsg [7] https://tinyurl.com/2dp5vrl9 [8] https://tinyurl.com/28gwj47d [9] https://tinyurl.com/2bkssa9p [10] https://tinyurl.com/2yz6q3sh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 15, 2026
 News
 
