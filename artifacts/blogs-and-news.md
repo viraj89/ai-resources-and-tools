@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 17, 2026
+News
+
+1. New Google program to help Indian AI startups to go global - The American Bazaar [1]
+
+2. US Venture Capital Investments in Rare Earth Startups Hit Record | Annual investments from 2020 to 2025 - Mining.com [2]
+
+3. An OpenAI researcher turned venture capitalist says investors are 3 to 5 years behind the latest AI studies - Business Insider [3]
+
+4. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [4]
+
+5. It Looks Like Elon Musk's Suit Against OpenAI Over Abandoned Nonprofit Mission Is Headed to Trial - SFist [5]
+
+6. Elon Musk’s lawsuit against OpenAI and Microsoft is heading to jury trial - Teslarati [6]
+
+7. Exclusive / Defense Secretary Pete Hegseth jabs Anthropic over safety policies - Semafor [7]
+
+8. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - The Wall Street Journal [8]
+
+9. Anthropic appoints former Microsoft India chief Irina Ghose to lead India business - MSN [9]
+
+10. These AI startups just made a major bet on Boston's tech talent - MassLive [10]
+
+Sources:
+[1] https://tinyurl.com/2xusrk8z [2] https://tinyurl.com/2y4o67fa [3] https://tinyurl.com/23hk7pah [4] https://tinyurl.com/29nm6o5a [5] https://tinyurl.com/2y6epkp8 [6] https://tinyurl.com/262lyh2z [7] https://tinyurl.com/273uqj3b [8] https://tinyurl.com/287qeojy [9] https://tinyurl.com/2a6vq2xo [10] https://tinyurl.com/26dpsly5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 16, 2026
 News
 
