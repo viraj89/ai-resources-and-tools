@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 18, 2026
+News
+
+1. 🚨🇺🇸🇪🇺 AI BOOM CLUSTERS IN THE U.S. WHILE EUROPE DROWNS IN RULES The EU is straight-up missing the AI boom while the U.S. runs laps. Most major AI startups are American. Over half of the world’s AI unicorns are in the U.S.; Europe barely regist - x.com [1]
+
+2. 💵Meta's Manus Acquisition: A New Playbook for Chinese-Founded AI Startups - Recode China AI [2]
+
+3. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [3]
+
+4. Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune - TechCrunch [4]
+
+5. Elon Musk sues OpenAI, Microsoft for $134B over ‘wrongful gains’ - The American Bazaar [5]
+
+6. Musk seeks up to $134 billion from OpenAI and Microsoft in lawsuit - AnewZ [6]
+
+7. ‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI - The Verge [7]
+
+8. Jim Cramer Says Elon Musk's OpenAI Lawsuit Is 'The Real Deal' As Kalshi Bettors Raise Odds Of xAI CEO Winning - Yahoo Finance Singapore [8]
+
+9. Elon Musk seeks up to $134B from OpenAI and Microsoft as lawsuit puts OpenAI's nonprofit origins on trial - the-decoder.com [9]
+
+10. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/28hhcsf2 [2] https://tinyurl.com/2aahqws8 [3] https://tinyurl.com/2ap8m6df [4] https://tinyurl.com/24bghl8m [5] https://tinyurl.com/2a83q5d2 [6] https://tinyurl.com/29khoapq [7] https://tinyurl.com/23y9rpao [8] https://tinyurl.com/2yqf85eu [9] https://tinyurl.com/2cd96ctz [10] https://tinyurl.com/29g88rxv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 17, 2026
 News
 
