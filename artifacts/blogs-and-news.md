@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 19, 2026
+News
+
+1. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [1]
+
+2. OpenAI faces lawsuit over ChatGPT triggering user's 'delusional spiral' - Fox News [2]
+
+3. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [3]
+
+4. Anthropic Secures $25 Billion Investment, Second to OpenAI - 조선일보 [4]
+
+5. OpenAI to Start Testing ChatGPT Ads Ahead of IPO Push - waya.media [5]
+
+6. Elon Musk sends ‘open warning’ to OpenAI CEO Sam Altman; says: Can't wait to … - Times of India [6]
+
+7. OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout - CNBC [7]
+
+8. Sequoia to Join Funding Round for AI Startup Anthropic, FT Says - Bloomberg.com [8]
+
+9. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - The Wall Street Journal [9]
+
+10. OpenAI launches ChatGPT Health to connect user medical records, wellness apps - CNBC [10]
+
+Sources:
+[1] https://tinyurl.com/26lswknd [2] https://tinyurl.com/27vhrhn9 [3] https://tinyurl.com/23f6w5lh [4] https://tinyurl.com/2xlk7dcq [5] https://tinyurl.com/295rlgps [6] https://tinyurl.com/23vl96ch [7] https://tinyurl.com/25nxdy7z [8] https://tinyurl.com/2868fs2x [9] https://tinyurl.com/2yatslax [10] https://tinyurl.com/22hwz97e
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 18, 2026
 News
 

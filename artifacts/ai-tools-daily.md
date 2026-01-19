@@ -1,4 +1,65 @@
 
+## 2026-01-19 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.salesforce.com/">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href="https://slack.com/help/articles/202026038-An-introduction-to-Slackbot">Slackbot</a>,...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)**
+
+---
+
+### 2. The creator of Claude Code just revealed his workflow, and developers are losing their minds
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissect...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are)**
+
+---
+
+### 3. Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Alfred Wahlforss was running out of options. His startup, <a href="https://listenlabs.ai/">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href="...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)**
+
+---
+
+### 4. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+### 5. Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz
+
+- **Category**: Design / Image Generation
+- **What it does**: AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.
+- **Pricing**: Paid
+- **Trending Score**: 40.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/)**
+
+---
+
+
 ## 2026-01-18 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
