@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 20, 2026
+News
+
+1. Week Ahead in AI: GTM Challenges Killing Vertical AI Startups, OpenAI Addresses 'Capacity Overhang', Moxi Marlinspike's AI Privacy-First Chatbot, Plus Intel Earnings & AI at Davos - AI Insider [1]
+
+2. ASEAN's AI startups focus on profitability amid funding bubble fears - Nikkei Asia [2]
+
+3. US AI Startups Raise Over $100 Million in 2025 Funding Rounds - mezha.net [3]
+
+4. AI Startups 2025: The Stunning 55 US Companies That Secured $100M+ In Venture Funding - Bitcoin world [4]
+
+5. Terralayr AG announced that it has received ?112 million in funding from Creandum Advisor LLP, Earlybird Venture Capital GmbH & Co. KG, Norrsken VC, Picus Capital GmbH, Rive Private Investment, Eurazeo SE - marketscreener.com [5]
+
+6. Here are the 55 US AI startups that raised $100M or more in 2025 - TechCrunch [6]
+
+7. Exclusive: OpenAI aims to debut first device in 2026 - Axios [7]
+
+8. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal [8]
+
+9. Elon Musk's New Lawsuit Claims OpenAI Is Sitting on Illegal Profits - Android Headlines [9]
+
+10. Sequoia joins Anthropic funding round despite also investing in rivals - The American Bazaar [10]
+
+Sources:
+[1] https://tinyurl.com/25vpqfaj [2] https://tinyurl.com/29gcpsqf [3] https://tinyurl.com/2d4dv2t7 [4] https://tinyurl.com/22hjwsej [5] https://tinyurl.com/2bdrhpv7 [6] https://tinyurl.com/25qly8dp [7] https://tinyurl.com/23yollk9 [8] https://tinyurl.com/22jaj8oh [9] https://tinyurl.com/25gbgrk4 [10] https://tinyurl.com/26b3hdwh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 19, 2026
 News
 
