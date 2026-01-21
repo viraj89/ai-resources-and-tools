@@ -1,4 +1,65 @@
 
+## 2026-01-21 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Claude Code costs up to $200 a month. Goose does the same thing for free.
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href="https://claude.com/product/claude-code">Claude Code</a>, Anthropic&#x27;s terminal-based AI age...
+- **Pricing**: Freemium
+- **Trending Score**: 570.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)**
+
+---
+
+### 2. Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.salesforce.com/">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href="https://slack.com/help/articles/202026038-An-introduction-to-Slackbot">Slackbot</a>,...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)**
+
+---
+
+### 3. The creator of Claude Code just revealed his workflow, and developers are losing their minds
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissect...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are)**
+
+---
+
+### 4. Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Alfred Wahlforss was running out of options. His startup, <a href="https://listenlabs.ai/">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href="...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)**
+
+---
+
+### 5. Perplexity accused of scraping websites that explicitly blocked AI scraping
+
+- **Category**: Presentations
+- **What it does**: Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.
+- **Pricing**: Freemium
+- **Trending Score**: 50.0
+- **Source**: news
+- **🔗 [Try it here](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)**
+
+---
+
+
 ## 2026-01-20 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found

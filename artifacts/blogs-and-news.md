@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 21, 2026
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - WSJ - The Wall Street Journal [4]
+
+5. OpenAI finance chief says the company will focus on ‘practical adoption’ in 2026 - The American Bazaar [5]
+
+6. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [6]
+
+7. Anthropic joins OpenAI's push into health care with new Claude tools - NBC News [7]
+
+8. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - WSJ - The Wall Street Journal [8]
+
+9. Google DeepMind CEO Demis Hassabis may have just dropped 'bombshell' for OpenAI CEO Sam Altman - Times of India [9]
+
+10. A leading European AI startup says its edge over Silicon Valley isn't better tech — it's not being American - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2cg3ezzz [3] https://tinyurl.com/2dyvtwst [4] https://tinyurl.com/26kbxxhd [5] https://tinyurl.com/29rlfx6l [6] https://tinyurl.com/2bnckhyf [7] https://tinyurl.com/23xwc2uk [8] https://tinyurl.com/27rkqwjw [9] https://tinyurl.com/24nzqnkh [10] https://tinyurl.com/2dp3ruv2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 20, 2026
 News
 
