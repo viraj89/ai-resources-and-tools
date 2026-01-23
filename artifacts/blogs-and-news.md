@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 23, 2026
+News
+
+1. Bank of America CEO Expects AI Investments to Drive Returns in 2026, Bullish on India Growth - scanx.trade [1]
+
+2. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [2]
+
+3. Judge denies Musk’s bid to force OpenAI to hand over source code in Apple AI lawsuit - 9to5Mac [3]
+
+4. Elon Musk makes fun of Anthropic’s name, top exec responds; says: To break the curse ... - Times of India [4]
+
+5. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [5]
+
+6. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [6]
+
+7. European AI Startup Mistral AI Secures $2B in Funding - AI Business [7]
+
+8. AI Startups Merge to Launch First Full-Stack AI Cloud - AI Business [8]
+
+9. Exclusive: Genspark hits $100M in ARR, weighs new funding - Axios [9]
+
+10. Exclusive: OpenAI unveils blueprint for teen AI safety standards - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/27tr5m27 [2] https://tinyurl.com/2bqe8tlm [3] https://tinyurl.com/22yyo4y2 [4] https://tinyurl.com/296msojn [5] https://tinyurl.com/227yqy2s [6] https://tinyurl.com/28ygulde [7] https://tinyurl.com/27v5q25b [8] https://tinyurl.com/24bbtzec [9] https://tinyurl.com/25mv6y8q [10] https://tinyurl.com/2yl5sn63
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 22, 2026
 News
 
