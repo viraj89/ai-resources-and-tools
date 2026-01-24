@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 24, 2026
+News
+
+1. Alibaba plans IPO for chip-arm T-Head to help bankroll ambitious AI infrastructure investments — company to go up against Cambricon and Huawei to capture domestic accelerator market - Tom's Hardware [1]
+
+2. BofA’s AI-Driven CashPro Chat and Transaction Search Capabilities Reach Record Usage by Corporate Clients - Bank of America [2]
+
+3. The Musk-OpenAI Lawsuit Reveals Sam Altman’s Penchant for Lowercase - Bloomberg.com [3]
+
+4. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [4]
+
+5. Did Leidos’ OpenAI-Focused NorthStar 2030 Strategy Just Shift Leidos Holdings' (LDOS) Investment Narrative? - Yahoo Finance [5]
+
+6. OpenAI CFO: IPO is not off the table, it's a question of when - Fox Business [6]
+
+7. AI Insider's Week in Review: Apple Preps Siri Chatbot, OpenAI Hardware, xAI's Regulatory Pressure, Plus Latest Industry Insights & Funding - AI Insider [7]
+
+8. OpenAI in talks with Middle East for $50B funding - The American Bazaar [8]
+
+9. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [9]
+
+10. Sam Altman says OpenAI is no longer "compute-constrained" — after Microsoft lost its exclusive cloud provider status - Windows Central [10]
+
+Sources:
+[1] https://tinyurl.com/22q7wrra [2] https://tinyurl.com/2dfhb9hh [3] https://tinyurl.com/27cfbetb [4] https://tinyurl.com/23lxxe6n [5] https://tinyurl.com/2ysnxnvp [6] https://tinyurl.com/2b7bs95s [7] https://tinyurl.com/26cjn8r4 [8] https://tinyurl.com/24usngo6 [9] https://tinyurl.com/2cac6ogj [10] https://tinyurl.com/22q8dqbp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 23, 2026
 News
 
