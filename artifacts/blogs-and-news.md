@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 25, 2026
+News
+
+1. OpenAI Aims to Lure Businesses From Anthropic - The Information [1]
+
+2. Microsoft's private OpenAI emails, Satya's new AI catchphrase, and the rise of physical AI startups - geekwire.com [2]
+
+3. Sam Altman is not happy with what everyone thinks of OpenAI and ChatGPT, says: Don't think of us as only - The Times of India [3]
+
+4. OpenAI Fine-Tunes Pitch to Businesses as Anthropic Rivalry Heats Up - The Information [4]
+
+5. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - WSJ - The Wall Street Journal [5]
+
+6. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [6]
+
+7. Fortune Tech: Apple's AI pin; Anthropic consciousness; SpaceX IPO - Fortune [7]
+
+8. Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - WSJ - The Wall Street Journal [8]
+
+9. New Meta AI Features Makes Ray-Ban Glasses in India More Useful & Fun - Meta Store [9]
+
+10. Exclusive: Former OpenAI policy chief creates nonprofit institute, calls for independent safety audits of frontier AI models - Fortune [10]
+
+Sources:
+[1] https://tinyurl.com/245ra2tm [2] https://tinyurl.com/24aw29qg [3] https://tinyurl.com/2aohjpoc [4] https://tinyurl.com/2b9osa5c [5] https://tinyurl.com/24fmmlkr [6] https://tinyurl.com/2dfbdcob [7] https://tinyurl.com/2yulstsq [8] https://tinyurl.com/2c6bxxbr [9] https://tinyurl.com/2d5ezj6c [10] https://tinyurl.com/2bkssa9p
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 24, 2026
 News
 
