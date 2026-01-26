@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 26, 2026
+News
+
+1. What Does OpenAI and Anthropic’s Healthcare Push Means for the Industry? - MedCity News [1]
+
+2. OpenAI Stock vs. Anthropic Stock: Which Nvidia-Backed AI Start-up Would Be the Best IPO Stock to Buy in 2026? - The Motley Fool [2]
+
+3. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [3]
+
+4. OpenAI Stock vs. Anthropic Stock: Which Nvidia-Backed AI Start-up Would Be the Best IPO Stock to Buy in 2026? - Nasdaq [4]
+
+5. Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - WSJ - The Wall Street Journal [5]
+
+6. Exclusive | Anthropic Raising $10 Billion at $350 Billion Value - WSJ - The Wall Street Journal [6]
+
+7. How Americans are using AI at work, according to a new Gallup poll - indianagazette.com [7]
+
+8. Exclusive | OpenAI and ServiceNow Strike Deal to Put AI Agents in Business Software - The Wall Street Journal [8]
+
+9. OpenAI just launched a Nano Banana competitor: ChatGPT Images - Mashable [9]
+
+10. Indian AI startup Emergent raises $70 million in round led by SoftBank, Khosla Ventures - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2786sysl [2] https://tinyurl.com/26rg4rf4 [3] https://tinyurl.com/25cfmzxr [4] https://tinyurl.com/2yoehav2 [5] https://tinyurl.com/28ruun49 [6] https://tinyurl.com/22rxnv6a [7] https://tinyurl.com/2yyno7vc [8] https://tinyurl.com/2blhmfdx [9] https://tinyurl.com/2yyt36ed [10] https://tinyurl.com/2xq4q7em
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 25, 2026
 News
 
