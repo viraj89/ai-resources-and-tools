@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 28, 2026
+News
+
+1. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - The Wall Street Journal [1]
+
+2. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - The Wall Street Journal [2]
+
+3. NVIDIA sold the AI infrastructure, but Bank of America is struggling to use it - The Indian Express [3]
+
+4. Mozilla is building an AI ‘rebel alliance’ to take on industry heavyweights OpenAI, Anthropic - CNBC [4]
+
+5. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts - OpenAI [5]
+
+6. OpenAI and Anthropic Introduce Healthcare-Focused AI Platforms - infoq.com [6]
+
+7. SoftBank aims for additional $30B investment in AI expansion at OpenAI - Crypto Briefing [7]
+
+8. TD Cowen: US banks retreat from Oracle amid doubts the company can fund OpenAI commitments - Data Center Dynamics [8]
+
+9. Zoom’s Anthropic Investment Could Be Worth Billions as AI Firm Weighs IPO - Barron's [9]
+
+10. Zoom in focus as Wedbush ups price target on channel checks, Anthropic investment (ZM:NASDAQ) - Seeking Alpha [10]
+
+Sources:
+[1] https://tinyurl.com/24a4jdvz [2] https://tinyurl.com/23mzhjb9 [3] https://tinyurl.com/26tswjxh [4] https://tinyurl.com/29ernr8n [5] https://tinyurl.com/2ywrdwz8 [6] https://tinyurl.com/22yzdclx [7] https://tinyurl.com/23u95tnx [8] https://tinyurl.com/239n422o [9] https://tinyurl.com/29eygkkj [10] https://tinyurl.com/2dq2tfug
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 27, 2026
 News
 
