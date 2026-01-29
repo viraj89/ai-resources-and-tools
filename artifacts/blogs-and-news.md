@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 29, 2026
+News
+
+1. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - WSJ - The Wall Street Journal [1]
+
+2. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - WSJ - The Wall Street Journal [2]
+
+3. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - WSJ - The Wall Street Journal [3]
+
+4. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [4]
+
+5. Microsoft beats expectations, cloud tops $50B as OpenAI and Anthropic deals reshape its business - GeekWire [5]
+
+6. Breaking Down Elon Musk’s Ongoing Lawsuit Against OpenAI - The Wall Street Journal [6]
+
+7. TRUSTBANK uses AI agents to personalize Furusato Nozei gifts - OpenAI [7]
+
+8. OpenAI, Anthropic reportedly raising billions of dollars in new funding - SiliconANGLE [8]
+
+9. SoftBank Considers Adding $30 Billion to Investment in OpenAI - PYMNTS.com [9]
+
+10. SoftBank close to agreeing additional $30bn investment in OpenAI - Financial Times [10]
+
+Sources:
+[1] https://tinyurl.com/26xupy4y [2] https://tinyurl.com/2727h34r [3] https://tinyurl.com/2yk5pph6 [4] https://tinyurl.com/2d966tea [5] https://tinyurl.com/2aemo9nt [6] https://tinyurl.com/26577hst [7] https://tinyurl.com/2ytkxg5s [8] https://tinyurl.com/29jdy4ot [9] https://tinyurl.com/27f2ukdc [10] https://tinyurl.com/24sbhfbd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 28, 2026
 News
 
