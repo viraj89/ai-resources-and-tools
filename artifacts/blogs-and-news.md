@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News January 30, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [4]
+
+5. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [5]
+
+6. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - WSJ - The Wall Street Journal [6]
+
+7. 🚨🇺🇸 OPENAI PLANNING Q4 IPO, RACING ANTHROPIC TO BE FIRST GENERATIVE AI COMPANY TO GO PUBLIC The $500 billion startup is already talking to Wall Street banks and building out its finance team. Anthropic is also open to listing by year's end, - x.com [7]
+
+8. Exclusive: Pentagon clashes with Anthropic over military AI use, sources say - Reuters [8]
+
+9. OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic - MarketWatch [9]
+
+10. Exclusive | Amazon in Talks to Invest Up to $50 Billion in OpenAI - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2cdtove8 [2] https://tinyurl.com/235m36ry [3] https://tinyurl.com/25hmsyh9 [4] https://tinyurl.com/2658tt4z [5] https://tinyurl.com/2arjr583 [6] https://tinyurl.com/282nlq9a [7] https://tinyurl.com/24vrck6v [8] https://tinyurl.com/296ewaza [9] https://tinyurl.com/2257krv7 [10] https://tinyurl.com/298oy74e
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 29, 2026
 News
 
