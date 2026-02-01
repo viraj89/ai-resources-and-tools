@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 01, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [4]
+
+5. Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - The Wall Street Journal [5]
+
+6. Judge signals Musk's xAI may lose lawsuit accusing Altman's OpenAI of stealing trade secrets - CNBC [6]
+
+7. EXCLUSIVE: OpenAI Confirms $200,000 Minimum Commitment for ChatGPT Ads - ADWEEK [7]
+
+8. Nvidia CEO pushes back against report that his company's $100B OpenAI investment has stalled - TechCrunch [8]
+
+9. Exclusive | Amazon in Talks to Invest Up to $50 Billion in OpenAI - WSJ - The Wall Street Journal [9]
+
+10. OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic - MarketWatch [10]
+
+Sources:
+[1] https://tinyurl.com/29nkzgzr [2] https://tinyurl.com/25p9ssme [3] https://tinyurl.com/29ryoa5n [4] https://tinyurl.com/2dblnnlj [5] https://tinyurl.com/26pob7z8 [6] https://tinyurl.com/279t78zl [7] https://tinyurl.com/25rsow4b [8] https://tinyurl.com/23pwp79u [9] https://tinyurl.com/26kjjxle [10] https://tinyurl.com/29ruyxam
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News January 31, 2026
 News
 
