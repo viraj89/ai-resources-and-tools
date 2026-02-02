@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 02, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [3]
+
+4. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [4]
+
+5. Exclusive | SoftBank in Talks to Invest Up to $30 Billion More in OpenAI - The Wall Street Journal [5]
+
+6. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [6]
+
+7. ‘We’re not in a bubble yet’ because only 3 out of 4 conditions are met, top economist says. Cue the OpenAI IPO - Fortune [7]
+
+8. Exclusive | Amazon in Talks to Invest Up to $50 Billion in OpenAI - The Wall Street Journal [8]
+
+9. OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic - MarketWatch [9]
+
+10. US judge signals Musk's xAI may lose lawsuit accusing Altman's OpenAI of stealing trade secrets - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/22955mqu [2] https://tinyurl.com/2cf8dmsy [3] https://tinyurl.com/2bhcree4 [4] https://tinyurl.com/2cwd9nse [5] https://tinyurl.com/2atw2m3y [6] https://tinyurl.com/2xuofj4r [7] https://tinyurl.com/27avheqq [8] https://tinyurl.com/2d9s46v8 [9] https://tinyurl.com/2avmm2cw [10] https://tinyurl.com/2bc78xys
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 01, 2026
 News
 
