@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 03, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [3]
+
+4. Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO - CNBC [4]
+
+5. Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say - Reuters [5]
+
+6. Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - The Wall Street Journal [6]
+
+7. Nvidia Stock Dips On OpenAI Funding Issues - Investor's Business Daily [7]
+
+8. Exclusive | Amazon in Talks to Invest Up to $50 Billion in OpenAI - The Wall Street Journal [8]
+
+9. Nvidia stalls its $100 billion OpenAI investment - The American Bazaar [9]
+
+10. 'The prize is enormous. The dynamics are shifting.': OpenAI models are the top favorites for enterprise users right now - but Anthropic isn't far behind - TechRadar [10]
+
+Sources:
+[1] https://tinyurl.com/2xsvnyzu [2] https://tinyurl.com/26pje9py [3] https://tinyurl.com/2xl8yo76 [4] https://tinyurl.com/25odhlqp [5] https://tinyurl.com/2434fnhy [6] https://tinyurl.com/2xtqwont [7] https://tinyurl.com/2y4vpu53 [8] https://tinyurl.com/24o9bnuu [9] https://tinyurl.com/26kxh7po [10] https://tinyurl.com/23jzdsa8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 02, 2026
 News
 
