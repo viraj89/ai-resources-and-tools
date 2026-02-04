@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 04, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Why IPOs From Anthropic, OpenAI, SpaceX Could Hurt Stock Market - Business Insider [3]
+
+4. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg [4]
+
+5. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg [5]
+
+6. Venture capital investment in tech firms declined in 2025, TechPoint report says - Indianapolis Business Journal [6]
+
+7. Hedge fund sells stake in National Bank of Coxsackie, clearing path for $26M merger - The Business Journals [7]
+
+8. Morning briefing: SpaceX merges with xAI before "$1.25tn" IPO; DL Invest has €1.5bn pipeline to restart ASLI; Starling bank eyes US for Engine expansion; hedge funds buy LABS after British Land bid; plus GHV1, GHV2 - QuotedData [8]
+
+9. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [9]
+
+10. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg [10]
+
+Sources:
+[1] https://tinyurl.com/2ar7blg7 [2] https://tinyurl.com/28tpjobf [3] https://tinyurl.com/2ykn9a5v [4] https://tinyurl.com/2y3zd95z [5] https://tinyurl.com/26ay6j9g [6] https://tinyurl.com/23fj53sq [7] https://tinyurl.com/25baaknk [8] https://tinyurl.com/28bpex63 [9] https://tinyurl.com/233jy9p7 [10] https://tinyurl.com/28ayrjt5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 03, 2026
 News
 
