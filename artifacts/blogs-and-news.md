@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 05, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [3]
+
+4. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [4]
+
+5. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [5]
+
+6. How Anthropic achieved AI coding breakthroughs — and rattled business - Financial Times [6]
+
+7. Anthropic takes aim at OpenAI’s ad push in Super Bowl commercial - CNBC [7]
+
+8. OpenAI is reportedly seeing exit of senior-level employees after CEO Sam Altman makes it compulsory to us - Times of India [8]
+
+9. Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - The Wall Street Journal [9]
+
+10. Nvidia to invest $20 billion in OpenAI funding round - The American Bazaar [10]
+
+Sources:
+[1] https://tinyurl.com/2863ewme [2] https://tinyurl.com/26o2wn84 [3] https://tinyurl.com/28e8853l [4] https://tinyurl.com/28vd464y [5] https://tinyurl.com/26lv8esn [6] https://tinyurl.com/2da69fa4 [7] https://tinyurl.com/223f6jca [8] https://tinyurl.com/272fqnec [9] https://tinyurl.com/24324wvn [10] https://tinyurl.com/29qmrb3y
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 04, 2026
 News
 
