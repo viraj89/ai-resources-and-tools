@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 06, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [3]
+
+4. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [4]
+
+5. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [5]
+
+6. AI startups positioned to transform India's IT services, despite SaaS setbacks | Company Business News - Mint [6]
+
+7. SoftBank Taps on OpenAI Investment, While Japanese Automakers Drag - Bloomberg [7]
+
+8. Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users - AP News [8]
+
+9. Anthropic launches Claude Opus 4.6, OpenAI rolls out GPT-5.3-Codex - Constellation Research [9]
+
+10. Nvidia Reportedly Nears Record $20 Billion OpenAI Investment As Jensen Huang And Sam Altman Deny Reports Of Strained Partnership - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/28psmkza [2] https://tinyurl.com/2xoursxm [3] https://tinyurl.com/2xlgmydq [4] https://tinyurl.com/27gs985q [5] https://tinyurl.com/26lswknd [6] https://tinyurl.com/289j39mt [7] https://tinyurl.com/27pe78mg [8] https://tinyurl.com/2257no5y [9] https://tinyurl.com/298o43b8 [10] https://tinyurl.com/2dkpgvl5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 05, 2026
 News
 
