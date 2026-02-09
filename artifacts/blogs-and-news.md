@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 09, 2026
+News
+
+1. US AI startups see funding surge while more VC funds struggle to raise, data shows - Reuters [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [3]
+
+4. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [4]
+
+5. The Super Bowl AI ad showdown: Anthropic snarks, OpenAI goes earnest - Business Insider [5]
+
+6. Super Bowl Matchup: Anthropic vs OpenAI - Marcus on AI | Gary Marcus | Substack [6]
+
+7. Anthropic fires shot at OpenAI in Super Bowl commercial: Reactions to AI arms race - USA Today [7]
+
+8. Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex - VentureBeat [8]
+
+9. Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup - Fortune [9]
+
+10. Exclusive: DeepMind CEO "surprised" OpenAI moved so fast on ads - Axios [10]
+
+Sources:
+[1] https://tinyurl.com/ylavzgzu [2] https://tinyurl.com/2c9ckud3 [3] https://tinyurl.com/29j7yvo8 [4] https://tinyurl.com/23gj8qgb [5] https://tinyurl.com/2y3n78l4 [6] https://tinyurl.com/22wecpfv [7] https://tinyurl.com/2cj8xg48 [8] https://tinyurl.com/23dcps4e [9] https://tinyurl.com/2dnvvbou [10] https://tinyurl.com/28ga84sp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 08, 2026
 News
 
