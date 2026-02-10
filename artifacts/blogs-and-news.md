@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 10, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth in a16z ‘American Dynamism’ push - Fortune [2]
+
+3. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [3]
+
+4. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth in a16z ‘American Dynamism’ push - Yahoo Finance [4]
+
+5. Anthropic's ad skewering OpenAI was the big winner of the AI Super Bowl - Business Insider [5]
+
+6. Anthropic’s Claude Opus 4.6 Claims Top Spot in AI Rankings, Beating OpenAI and Google - trendingtopics.eu [6]
+
+7. 'Not what America stands for': Anthropic president says she's horrified over what happened in Minnesota - Times of India [7]
+
+8. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [8]
+
+9. What's Going On With ChatGPT Parent OpenAI - New Funding, User Growth And Ads - Benzinga [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/29c75fro [2] https://tinyurl.com/25jy8ys5 [3] https://tinyurl.com/2bjveqq4 [4] https://tinyurl.com/2comcmdq [5] https://tinyurl.com/26ayfn2a [6] https://tinyurl.com/2cdhzzf6 [7] https://tinyurl.com/2xssy2jl [8] https://tinyurl.com/2ydmemjs [9] https://tinyurl.com/22tnvqb9 [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 09, 2026
 News
 
