@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 11, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ - The Wall Street Journal [1]
+
+2. SoftBank earnings set for OpenAI boost, with focus on future funding - Reuters [2]
+
+3. Nasdaq president Nelson Griggs discusses competition for blockbuster IPOs like SpaceX, OpenAI, Anthropic - Fox Business [3]
+
+4. NASDAQ president Nelson Griggs discusses competition for blockbuster IPOs like SpaceX, OpenAI, Anthropic - MSN [4]
+
+5. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [5]
+
+6. Mideast’s AI startups capture record $858M in funding during 2025, doubling share - AL-Monitor [6]
+
+7. American hedge fund relaunches campaign against Scottish investment trust - MSN [7]
+
+8. PNC CFO talks acquisitions, AI implementation at Bank of America conference - The Business Journals [8]
+
+9. Anthropic Sues Anthropic? AI Startup’s India Ambitions Face Legal Challenge Over Brand Confusion: Repor... - Gadgets 360 [9]
+
+10. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/222h22jn [2] https://tinyurl.com/24deetwp [3] https://tinyurl.com/28zszf84 [4] https://tinyurl.com/2xvldu4x [5] https://tinyurl.com/2b4olu54 [6] https://tinyurl.com/23bhfew7 [7] https://tinyurl.com/2apoz3yz [8] https://tinyurl.com/29rsvrkl [9] https://tinyurl.com/28rslara [10] https://tinyurl.com/2yylesld
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 10, 2026
 News
 
