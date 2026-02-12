@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 12, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ - The Wall Street Journal [1]
+
+2. Exclusive: OpenAI disbanded its mission alignment team - Platformer [2]
+
+3. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [3]
+
+4. Nvidia Struck a $20 Billion Deal With an AI Startup. Kelly Loeffler Made a Massive Investment Weeks Earlier. - NOTUS — News of the United States [4]
+
+5. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg.com [5]
+
+6. Meta’s New Data Center in Lebanon, Indiana Marks a Milestone AI Investment - Meta Store [6]
+
+7. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - WSJ - The Wall Street Journal [7]
+
+8. Exclusive / How OpenAI got comfortable with the Pentagon using ChatGPT - Semafor [8]
+
+9. OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development - Yahoo Finance [9]
+
+10. OpenAI and Anthropic Funding: Shared Investors Fuel Historic AI Rounds - News and Statistics - IndexBox [10]
+
+Sources:
+[1] https://tinyurl.com/2a4wyv5g [2] https://tinyurl.com/23nb4vrx [3] https://tinyurl.com/2conf37f [4] https://tinyurl.com/24l6o77u [5] https://tinyurl.com/2y3zd95z [6] https://tinyurl.com/292rx5wo [7] https://tinyurl.com/235aw7ll [8] https://tinyurl.com/22vfkket [9] https://tinyurl.com/25qpvqxz [10] https://tinyurl.com/2a98heub
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 11, 2026
 News
 
