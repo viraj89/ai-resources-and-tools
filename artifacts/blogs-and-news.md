@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 13, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ - The Wall Street Journal [1]
+
+2. Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups - CNBC [2]
+
+3. Animal Husbandry Embodied AI Company Secures Tens of Millions of Yuan in Financing, Incubated by Sky Factory Venture Capital Fund - Exclusive Report by Yingke - 36 Kr [3]
+
+4. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ - The Wall Street Journal [4]
+
+5. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [5]
+
+6. Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections - CNBC [6]
+
+7. JPMorgan's commercial and investment bank gets an AI-driven reshuffle - Business Insider [7]
+
+8. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - WSJ - The Wall Street Journal [8]
+
+9. SoftBank says it made $4.2 billion from its OpenAI investment in the last quarter - MarketWatch [9]
+
+10. SoftBank posts fourth straight quarterly profit on OpenAI investment gain - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/257ldsz7 [2] https://tinyurl.com/282vpy3t [3] https://tinyurl.com/2csns3ra [4] https://tinyurl.com/2ba97xq4 [5] https://tinyurl.com/2d966tea [6] https://tinyurl.com/2ayegapn [7] https://tinyurl.com/2yuzxbcr [8] https://tinyurl.com/2dph282x [9] https://tinyurl.com/2cd2g22k [10] https://tinyurl.com/2a7yq4e5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 12, 2026
 News
 
