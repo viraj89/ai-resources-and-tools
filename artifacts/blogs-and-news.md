@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 14, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [3]
+
+4. Merger update: flyExclusive (NYSE: FLYX) drops Jet.AI funding condition - Stock Titan [4]
+
+5. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [5]
+
+6. Anthropic got an 11% user boost from its OpenAI-bashing Super Bowl ad, data shows - CNBC [6]
+
+7. Months after CEO Sam Altman called China's DeepSeek R1 model 'impressive', OpenAI sends memo to US govern - Times of India [7]
+
+8. OpenAI and Anthropic spark coding revolution as developers abandoned traditional programming - Fortune [8]
+
+9. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal [9]
+
+10. OpenAI accuses DeepSeek of “free-riding” on American R&D - Rest of World [10]
+
+Sources:
+[1] https://tinyurl.com/2arktkj6 [2] https://tinyurl.com/2735zjtz [3] https://tinyurl.com/28gfegxu [4] https://tinyurl.com/2d97hzob [5] https://tinyurl.com/233jy9p7 [6] https://tinyurl.com/2xw7wga2 [7] https://tinyurl.com/2aukuj3j [8] https://tinyurl.com/23vs4zon [9] https://tinyurl.com/245ng5vf [10] https://tinyurl.com/2do7mbca
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 13, 2026
 News
 
