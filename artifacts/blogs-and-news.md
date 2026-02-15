@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 15, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [3]
+
+4. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [4]
+
+5. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [5]
+
+6. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [6]
+
+7. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [7]
+
+8. Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute - Axios [8]
+
+9. Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid - The Wall Street Journal [9]
+
+10. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal [10]
+
+Sources:
+[1] https://tinyurl.com/2ahcw7mv [2] https://tinyurl.com/28eqf3lc [3] https://tinyurl.com/27r7d9y3 [4] https://tinyurl.com/28vvb4lp [5] https://tinyurl.com/26lswknd [6] https://tinyurl.com/2xuofj4r [7] https://tinyurl.com/27pgqso5 [8] https://tinyurl.com/252b7u2a [9] https://tinyurl.com/2bbd7reg [10] https://tinyurl.com/2bz8jel8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 14, 2026
 News
 
