@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 16, 2026
+News
+
+1. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [1]
+
+2. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [2]
+
+3. Fund of funds, round two: India’s $1.1 billion venture capital illusion - The American Bazaar [3]
+
+4. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [4]
+
+5. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [5]
+
+6. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal [6]
+
+7. Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid - The Wall Street Journal [7]
+
+8. US DoW Reportedly Considering Terminating Co-op with AI Startup Anthropic, Whose Model Said to Be Used in Capture of Nicolas Maduro - AASTOCKS.com [8]
+
+9. A very angry Pentagon to Anthropic: Don't lecture us, you can go and ... - Times of India [9]
+
+10. Anthropic Pushes Its Valuation to $380 Billion With New Funding Round - The New York Times [10]
+
+Sources:
+[1] https://tinyurl.com/2xqslgcs [2] https://tinyurl.com/27yl6shj [3] https://tinyurl.com/23kfd8lj [4] https://tinyurl.com/2xh7bbmv [5] https://tinyurl.com/28dubw7u [6] https://tinyurl.com/283j66m3 [7] https://tinyurl.com/24wmuxjo [8] https://tinyurl.com/23fvsasg [9] https://tinyurl.com/2b2an5rl [10] https://tinyurl.com/274xxhv8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 15, 2026
 News
 
