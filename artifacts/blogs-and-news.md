@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 17, 2026
+News
+
+1. How OpenAI's OpenClaw acquisition may be Sam Altman's biggest agentic AI push, and Anthropic's ‘biggest f - Times of India [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. India Expands AI Investment Push as OpenAI Highlights Rapid ChatGPT Adoption - AI Insider [3]
+
+4. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [4]
+
+5. Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut - The Wall Street Journal [5]
+
+6. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [6]
+
+7. Exclusive: Pentagon warns Anthropic will "pay a price" as feud escalates - Axios [7]
+
+8. OpenAI Snags OpenClaw Creator for Agent Push - Bank Information Security [8]
+
+9. Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal [9]
+
+10. India Hits 100M Weekly ChatGPT Users, Becoming OpenAI’s Second-Largest Market - TechRepublic [10]
+
+Sources:
+[1] https://tinyurl.com/2dlayjmd [2] https://tinyurl.com/2467y7se [3] https://tinyurl.com/25ec4u2w [4] https://tinyurl.com/29aw84me [5] https://tinyurl.com/24sgmfpl [6] https://tinyurl.com/26ah4p6v [7] https://tinyurl.com/253lfl6s [8] https://tinyurl.com/26f7p4y9 [9] https://tinyurl.com/29o8qhxf [10] https://tinyurl.com/24s2hkn5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 16, 2026
 News
 
