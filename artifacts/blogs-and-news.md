@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 18, 2026
+News
+
+1. India Deep Tech Alliance Issues Inaugural Report Showing 58% Jump in AI Funding, Fast-Tracks $1B USD Investment to AI Startups - AI Insider [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [3]
+
+4. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth with funding from a16z - Fortune [4]
+
+5. US AI Startups Secure Mega Funding Rounds in Early 2026 - Букви [5]
+
+6. Nvidia Says Co Partnering With Venture Capital Firms Including Peak XV, Elevation Capital, Accel India & Others To Identify & Fund AI Startups - TradingView [6]
+
+7. Peak XV Backs 5 Indian AI Startups With Rs. 120 Crore - Asia Business Outlook [7]
+
+8. IVCA consortium commits ₹500 crore to fund 31 India-built AI startups - Business Standard [8]
+
+9. OpenAI blocked from using 'Cameo' name amid trademark lawsuit - Reuters [9]
+
+10. OpenAI blocked from using 'Cameo' name amid trademark lawsuit - TradingView [10]
+
+Sources:
+[1] https://tinyurl.com/22cds47y [2] https://tinyurl.com/2babwfxk [3] https://tinyurl.com/2xo68gmn [4] https://tinyurl.com/25jy8ys5 [5] https://tinyurl.com/28yw5b55 [6] https://tinyurl.com/25ph9jtr [7] https://tinyurl.com/27hr9a4p [8] https://tinyurl.com/2xvttrye [9] https://tinyurl.com/2cqsvnnk [10] https://tinyurl.com/27nrb76z
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 17, 2026
 News
 
