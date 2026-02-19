@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 19, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [2]
+
+3. Exclusive: OpenAI ramps up brand push in India as ChatGPT scales rapidly, says marketing head - Storyboard18 [3]
+
+4. Qualcomm commits up to US$150 million to back AI startups in India - digitimes [4]
+
+5. Nvidia teams up with venture capital firms to find and fund India's next wave of AI startups - the-decoder.com [5]
+
+6. There are more consumer AI startups in India than in US: Meta's Alexandr Wang at AI Summit - Moneycontrol [6]
+
+7. Qualcomm to invest $150 million in Indian AI startups, partners Sarvam for sovereign AI push - BusinessLine [7]
+
+8. Guinness World Record, Microsoft’s $50 billion investment, Google’s America-India Connect and other major - Times of India [8]
+
+9. OpenAI, Google, and Perplexity near approval to host AI directly for the U.S. government (exclusive) - Fast Company [9]
+
+10. OpenAI deepens India push with Pine Labs fintech partnership - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/2a6nzrc3 [2] https://tinyurl.com/2ydu6nfb [3] https://tinyurl.com/2dfok7b9 [4] https://tinyurl.com/25c7tbbo [5] https://tinyurl.com/2974d5l8 [6] https://tinyurl.com/28swjyml [7] https://tinyurl.com/23mgpozn [8] https://tinyurl.com/2axnguaa [9] https://tinyurl.com/2ysg6lxr [10] https://tinyurl.com/2acnkodt
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 18, 2026
 News
 
