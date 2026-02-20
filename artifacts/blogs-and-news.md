@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 20, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Video: OpenAI and Anthropic CEOs refuse to hold hands at India AI summit - Al Jazeera [2]
+
+3. OpenAI, Anthropic CEOs refuse to hold hands at India AI Summit - Reuters [3]
+
+4. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal [4]
+
+5. OpenAI, Anthropic CEOs refuse to hold hands at India AI Summit - MSN [5]
+
+6. Nvidia Deepens Early Push Into India’s AI Startups - findarticles.com [6]
+
+7. ‘India may now have more consumer AI startups than US’: Meta AI Chief Alexandr Wang - The New Indian Express [7]
+
+8. We endorse the need for global AI regulation: OpenAI’s Chris Lehane | India News - Hindustan Times [8]
+
+9. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg.com [9]
+
+10. Nvidia deepens early-stage push into India’s AI startup ecosystem - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/26k3sy54 [2] https://tinyurl.com/2d55ur3g [3] https://tinyurl.com/2ya6suea [4] https://tinyurl.com/299e49mx [5] https://tinyurl.com/2aantbmq [6] https://tinyurl.com/23zqevhm [7] https://tinyurl.com/2cuf9gop [8] https://tinyurl.com/2yegbe65 [9] https://tinyurl.com/2y3zd95z [10] https://tinyurl.com/2b3end6t
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 19, 2026
 News
 
