@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 21, 2026
+News
+
+1. AI Insider's Week in Review: Apple Ramps Up Wearables, OpenAI Focuses on India, Infosys & Anthropic Partner for Enterprise AI Agents, Plus Latest Funding Rounds - AI Insider [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [2]
+
+3. US-based AI startup Quadric raising funding to expand India R&D facility - VCCircle [3]
+
+4. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [4]
+
+5. Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal [5]
+
+6. Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment - Financial Times [6]
+
+7. From a tense corporate split to a viral photo: A timeline of Anthropic and OpenAI's budding rivalry - Business Insider [7]
+
+8. Exclusive: OpenAI Has Poached Instagram’s Celebrity Whisperer - Vanity Fair [8]
+
+9. Nvidia Nears $30 Billion Stake in Record-Breaking OpenAI Funding Round - PYMNTS.com [9]
+
+10. India's Tata signs up OpenAI as customer for data centre business - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/2445hlhv [2] https://tinyurl.com/279rdf6m [3] https://tinyurl.com/2a6sby29 [4] https://tinyurl.com/2d966tea [5] https://tinyurl.com/2yrpm4jy [6] https://tinyurl.com/27hxe9kx [7] https://tinyurl.com/2yobgaw5 [8] https://tinyurl.com/26bhmbn9 [9] https://tinyurl.com/2d6t9zf9 [10] https://tinyurl.com/2chf86ho
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 20, 2026
 News
 

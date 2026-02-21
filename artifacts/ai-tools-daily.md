@@ -1,4 +1,65 @@
 
+## 2026-02-21 - Daily AI Tools Digest
+
+🎯 **Today's Discovery**: 5 trending AI tools found
+
+
+### 1. Claude Code costs up to $200 a month. Goose does the same thing for free.
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href="https://claude.com/product/claude-code">Claude Code</a>, Anthropic&#x27;s terminal-based AI age...
+- **Pricing**: Freemium
+- **Trending Score**: 570.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free)**
+
+---
+
+### 2. Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://www.salesforce.com/">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href="https://slack.com/help/articles/202026038-An-introduction-to-Slackbot">Slackbot</a>,...
+- **Pricing**: Paid
+- **Trending Score**: 530.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and)**
+
+---
+
+### 3. Railway secures $100 million to challenge AWS with AI-native cloud infrastructure
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p><a href="https://railway.com/">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it r...
+- **Pricing**: Paid
+- **Trending Score**: 440.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud)**
+
+---
+
+### 4. The creator of Claude Code just revealed his workflow, and developers are losing their minds
+
+- **Category**: Text / Chat Assistants
+- **What it does**: <p>When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.</p><p>For the past week, the engineering community has been dissect...
+- **Pricing**: Paid
+- **Trending Score**: 430.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are)**
+
+---
+
+### 5. Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+
+- **Category**: Code / Developer Tools
+- **What it does**: <p>Alfred Wahlforss was running out of options. His startup, <a href="https://listenlabs.ai/">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href="...
+- **Pricing**: Paid
+- **Trending Score**: 370.0
+- **Source**: news
+- **🔗 [Try it here](https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai)**
+
+---
+
+
 ## 2026-02-20 - Daily AI Tools Digest
 
 🎯 **Today's Discovery**: 5 trending AI tools found
