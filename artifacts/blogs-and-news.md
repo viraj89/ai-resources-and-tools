@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 22, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. OpenAI and Anthropic CEOs refuse to hold hands during India AI summit photo op - South China Morning Post [2]
+
+3. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [3]
+
+4. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [4]
+
+5. ‘An AlphaFold 4’—scientists marvel at DeepMind drug spin-off’s exclusive new AI - Scientific American [5]
+
+6. Anthropic’s safety-first AI collides with the Pentagon as Claude expands into autonomous agents - Scientific American [6]
+
+7. Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal [7]
+
+8. Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the "agent" relied upon by businesses to independently get jobs done - themercury.com [8]
+
+9. OpenAI's Sam Altman and Anthropic's Dario Amodei refuse to hold hands weeks after Super Bowl ad war - Fortune [9]
+
+10. Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the "agent" relied upon by businesses to independently get jobs done - IslanderNews.com [10]
+
+Sources:
+[1] https://tinyurl.com/2592buxq [2] https://tinyurl.com/2762vw32 [3] https://tinyurl.com/2cje3tdp [4] https://tinyurl.com/233jy9p7 [5] https://tinyurl.com/2bsdt86k [6] https://tinyurl.com/277qzcdx [7] https://tinyurl.com/29x3z2kv [8] https://tinyurl.com/2ayda4lo [9] https://tinyurl.com/2bg4yopz [10] https://tinyurl.com/243ywg5m
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 21, 2026
 News
 
