@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 23, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - The Wall Street Journal [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - The Wall Street Journal [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - The Wall Street Journal [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - The Wall Street Journal [4]
+
+5. Google VP warns that days for these AI startups are over; says: Industry doesn’t have patience for that a - The Times of India [5]
+
+6. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - The Wall Street Journal [6]
+
+7. AI startups lead global venture capital with $270 billion in 2025 - The Journal Record [7]
+
+8. Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups - CNBC [8]
+
+9. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - The Wall Street Journal [9]
+
+10. Merger update: flyExclusive (NYSE: FLYX) drops Jet.AI funding condition - Stock Titan [10]
+
+Sources:
+[1] https://tinyurl.com/268oec2h [2] https://tinyurl.com/2cllov42 [3] https://tinyurl.com/22yrqnme [4] https://tinyurl.com/2b373s2t [5] https://tinyurl.com/2529u34u [6] https://tinyurl.com/2c4gsu3m [7] https://tinyurl.com/2b5kozj2 [8] https://tinyurl.com/282vpy3t [9] https://tinyurl.com/25x55rpg [10] https://tinyurl.com/2d97hzob
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 22, 2026
 News
 
