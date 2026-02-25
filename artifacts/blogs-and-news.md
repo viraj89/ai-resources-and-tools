@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 25, 2026
+News
+
+1. OpenAI appoints first Solutions Architect in India to support AI startups - EdTech Innovation Hub [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards - Axios [4]
+
+5. Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms - CNBC [5]
+
+6. Jamie Dimon says AI euphoria, record stocks and banks doing ‘dumb things’ could lead to another financial crisis - CNN [6]
+
+7. US judge dismisses xAI trade-secrets lawsuit against rival OpenAI for now - Reuters [7]
+
+8. Workday CEO Says Anthropic and OpenAI Use His Company’s Software - Bloomberg.com [8]
+
+9. Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - WSJ [9]
+
+10. Who's in charge at one of the most powerful companies in the world? As OpenAI races toward an expected IPO, faces mounting pressure to justify its valuation, and tries to fend off its Big Tech rivals, a small circle of executives and researchers is steering the C - LinkedIn [10]
+
+Sources:
+[1] https://tinyurl.com/2c8v5m8t [2] https://tinyurl.com/26skxov6 [3] https://tinyurl.com/28ob68qx [4] https://tinyurl.com/2b3eeklx [5] https://tinyurl.com/2cg7eo28 [6] https://tinyurl.com/28sklphs [7] https://tinyurl.com/26d2aw5f [8] https://tinyurl.com/2arqx2wz [9] https://tinyurl.com/2yedj4fh [10] https://tinyurl.com/289p6b7h
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 24, 2026
 News
 
