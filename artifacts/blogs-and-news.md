@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 26, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Amazon's $50 Billion OpenAI Investment May Depend on IPO or AGI Milestone, the Information Reports - US News Money [2]
+
+3. Amazon’s $50 billion OpenAI investment may depend on IPO or AGI milestone: Report - BusinessLine [3]
+
+4. Amazon's US$50 bil OpenAI investment may depend on IPO or AGI, The Information reports - The Edge Malaysia [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [6]
+
+7. Anthropic accuses Chinese AI startups of illicit distillation - MLex [7]
+
+8. Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders - TechCrunch [8]
+
+9. Amazon's $50 billion OpenAI investment may depend on IPO or AGI, The Information reports - Reuters [9]
+
+10. Amazon’s $50 Billion Investment in OpenAI Could Hinge on IPO, AGI - The Information [10]
+
+Sources:
+[1] https://tinyurl.com/2xtwn5us [2] https://tinyurl.com/2254qs5d [3] https://tinyurl.com/27jpdanz [4] https://tinyurl.com/2bz32vjv [5] https://tinyurl.com/2cmrxr7k [6] https://tinyurl.com/26863rt4 [7] https://tinyurl.com/2bcvaon4 [8] https://tinyurl.com/239ejsnj [9] https://tinyurl.com/29h7wdu7 [10] https://tinyurl.com/2xtzzasc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 25, 2026
 News
 
