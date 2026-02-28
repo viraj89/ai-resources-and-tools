@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News February 28, 2026
+News
+
+1. OpenAI's record funding and Anthropic's battle with the Pentagon: Week in AI - The Business Journals [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [2]
+
+3. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [3]
+
+4. OpenAI's Record Funding Is All About Google Rivals Joining Forces - Business Insider [4]
+
+5. OpenAI just closed its biggest funding round, raising $110 billion from Amazon, Nvidia, and SoftBank - Business Insider [5]
+
+6. Nvidia, Amazon, SoftBank invest in OpenAI’s $110 billion funding round - The American Bazaar [6]
+
+7. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [7]
+
+8. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [8]
+
+9. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [9]
+
+10. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/27swjm43 [2] https://tinyurl.com/2y4258vw [3] https://tinyurl.com/297zt4vh [4] https://tinyurl.com/2cwy75l5 [5] https://tinyurl.com/24mvj7ma [6] https://tinyurl.com/22dgngdw [7] https://tinyurl.com/2cqfa3ls [8] https://tinyurl.com/2844crza [9] https://tinyurl.com/295e4tj3 [10] https://tinyurl.com/25dvqstf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News February 27, 2026
 News
 
