@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 02, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [2]
+
+3. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [3]
+
+4. ‘Grok hasn’t driven anyone to suicide, ChatGPT has’: Elon Musk in OpenAI lawsuit deposition - The Indian Express [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. US AI startups see record $100m rounds - MSN [6]
+
+7. Exclusive: QIA, Visa and ADIA set to anchor SoftBank's PayPay IPO, sources say - Reuters [7]
+
+8. OpenAI lands record $110 billion investment backed by Nvidia, Amazon, and SoftBank - TechSpot [8]
+
+9. OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic - CNN [9]
+
+10. OpenAI announces Pentagon deal after Trump bans Anthropic - NPR [10]
+
+Sources:
+[1] https://tinyurl.com/23m8advs [2] https://tinyurl.com/2353ecvf [3] https://tinyurl.com/2d2kocft [4] https://tinyurl.com/22thgcep [5] https://tinyurl.com/26hzljhh [6] https://tinyurl.com/24lrg2mn [7] https://tinyurl.com/29dvbfdn [8] https://tinyurl.com/294v9xn7 [9] https://tinyurl.com/23jwhs3d [10] https://tinyurl.com/26249gvf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 01, 2026
 News
 
