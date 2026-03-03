@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 03, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Reports claim US military used Anthropic’s Claude in Iran strikes despite Trump’s ban - The American Bazaar [2]
+
+3. Anthropic's Claude AI remains top free app on Apple US App Store 2 days after Donald Trump ‘bans’ company - The Times of India [3]
+
+4. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth with funding from a16z - Yahoo Finance [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups - CNBC [6]
+
+7. State Department switches to OpenAI as US agencies start phasing out Anthropic - Reuters [7]
+
+8. Anthropic’s Claude overtakes ChatGPT in App Store as users boycott over OpenAI’s $200 million Pentagon contract - Fortune [8]
+
+9. OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank - CNBC [9]
+
+10. OpenAI says its US defense deal is safer than Anthropic’s, but is it? - Computerworld [10]
+
+Sources:
+[1] https://tinyurl.com/29kum8j7 [2] https://tinyurl.com/2bb2uneo [3] https://tinyurl.com/2y4wmndk [4] https://tinyurl.com/2comcmdq [5] https://tinyurl.com/2dymbxco [6] https://tinyurl.com/282vpy3t [7] https://tinyurl.com/26l57kpv [8] https://tinyurl.com/22jq2zqm [9] https://tinyurl.com/2cljt6uu [10] https://tinyurl.com/2387e3zu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 02, 2026
 News
 
