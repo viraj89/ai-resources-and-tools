@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 04, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [2]
+
+3. US agencies switch from Anthropic to OpenAI for AI services - The Journal Record [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. Exclusive | Anthropic Adds New Board Member as It Eyes IPO - WSJ [5]
+
+6. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [6]
+
+7. CEO of America's largest bank Jamie Dimon outlines AI's integration at JP Morgan; notes 600-plus use case - The Times of India [7]
+
+8. Exclusive | OpenAI CEO Sam Altman Defends Pentagon Work to Staff, Calls Backlash ‘Really Painful’ - WSJ [8]
+
+9. OpenAI and Anthropic are turning to consultants to fight their battle over the enterprise market - Business Insider [9]
+
+10. OpenAI Says It Will Let Users Add Trusted Contacts to Alert If They Experience a Mental Health Crisis While Using ChatGPT - Futurism [10]
+
+Sources:
+[1] https://tinyurl.com/25soe3ds [2] https://tinyurl.com/2ah7ymce [3] https://tinyurl.com/2ao2d9j6 [4] https://tinyurl.com/2bw7gvqo [5] https://tinyurl.com/2bybuncr [6] https://tinyurl.com/28dubw7u [7] https://tinyurl.com/29aphder [8] https://tinyurl.com/289fpbey [9] https://tinyurl.com/236e4rtw [10] https://tinyurl.com/2at75ggx
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 03, 2026
 News
 
