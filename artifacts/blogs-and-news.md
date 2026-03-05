@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 05, 2026
+News
+
+1. Neural Notes: Australian AI startups may face the same defence dilemma as OpenAI, Anthropic - SmartCompany [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [2]
+
+3. Exclusive | Altman Says OpenAI Is Working on Pentagon Deal Amid Anthropic Standoff - WSJ [3]
+
+4. Anthropic investors grow frustrated with CEO after feds ban AI startup - New York Post [4]
+
+5. OpenAI, Anthropic, Waymo Hoover Up 83% Of February's Global Startup Funding Record - Benzinga [5]
+
+6. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [6]
+
+7. These eye-popping charts put OpenAI's record funding round in perspective - Business Insider [7]
+
+8. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ [8]
+
+9. Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation - Reuters [9]
+
+10. Exclusive | OpenAI’s Former Research Chief Aims to Automate Manufacturing With AI - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/2239lwa6 [2] https://tinyurl.com/2a52qewq [3] https://tinyurl.com/28n2b5zg [4] https://tinyurl.com/26hyl7uy [5] https://tinyurl.com/25tfjd9p [6] https://tinyurl.com/2dq3vm2z [7] https://tinyurl.com/27cpg7vh [8] https://tinyurl.com/29plhpqo [9] https://tinyurl.com/2d966tea [10] https://tinyurl.com/2aw32yob
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 04, 2026
 News
 
