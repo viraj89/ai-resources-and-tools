@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 06, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Nvidia likely to pull back from OpenAI and Anthropic investments - The American Bazaar [3]
+
+4. NVIDIA Signals End of Strategic Investments in OpenAI and Anthropic Ahead of Anticipated IPOs - AI Insider [4]
+
+5. OpenAI musters $110B in fresh investments from Softbank, Nvidia, Amazon - Frontier Enterprise [5]
+
+6. AI funding frenzy: Record $110 billion OpenAI round drives 2026 surge as Nvidia signals pullback - Fortune India [6]
+
+7. Exclusive | OpenAI’s Former Research Chief Aims to Automate Manufacturing With AI - WSJ [7]
+
+8. Nvidia CEO hints at end of investments in OpenAI, Anthropic - Reuters [8]
+
+9. B.C. premier says OpenAI CEO Sam Altman will apologize to Tumbler Ridge, push for stronger regulations - CBC [9]
+
+10. The Department of Defense’s Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act - Center for American Progress [10]
+
+Sources:
+[1] https://tinyurl.com/2byudf49 [2] https://tinyurl.com/28borgfe [3] https://tinyurl.com/23uws7sj [4] https://tinyurl.com/26xjcbu5 [5] https://tinyurl.com/24zzu2fs [6] https://tinyurl.com/26ho8cuz [7] https://tinyurl.com/2czlf4sh [8] https://tinyurl.com/225m25rk [9] https://tinyurl.com/22jo5tjh [10] https://tinyurl.com/24t6ykrs
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 05, 2026
 News
 
