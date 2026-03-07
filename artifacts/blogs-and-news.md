@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 07, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Nvidia pauses new AI startup bets after backing OpenAI, Anthropic - thestreet.com [2]
+
+3. Will SoftBank’s $40B gamble pay off in the OpenAI gold rush? - Tech Funding News [3]
+
+4. SoftBank seeks record $40 billion loan to fund OpenAI investment - Sherwood News [4]
+
+5. Defense tech companies to employees: Stop using Anthropic's Claude, and it likely also means 'ban' from L - The Times of India [5]
+
+6. From Idea to Investment: What Venture Capital Actually Sees in AI Startups - Ventureburn [6]
+
+7. Can AI startups skip the IPO? Decagon’s $4.5B tender tests the trend - Tech Funding News [7]
+
+8. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [8]
+
+9. Read Anthropic CEO’s Memo Attacking OpenAI’s ‘Mendacious’ Pentagon Announcement - The Information [9]
+
+10. Jensen Huang Says Nvidia's $30 Billion OpenAI Investment 'Might Be The Last' Before IPO - AOL.com [10]
+
+Sources:
+[1] https://tinyurl.com/2cl9572r [2] https://tinyurl.com/2bxae5ml [3] https://tinyurl.com/28svhg87 [4] https://tinyurl.com/2y4hzwxb [5] https://tinyurl.com/2a5tt3dq [6] https://tinyurl.com/2dngsgtm [7] https://tinyurl.com/2cdl5ec6 [8] https://tinyurl.com/285xvcm5 [9] https://tinyurl.com/2dzc39ws [10] https://tinyurl.com/27v5jpfd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 06, 2026
 News
 
