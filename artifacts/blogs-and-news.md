@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 08, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway - WIRED [3]
+
+4. Exclusive | OpenAI CEO Sam Altman Defends Pentagon Work to Staff, Calls Backlash ‘Really Painful’ - WSJ [4]
+
+5. SoftBank eyes up to $40 billion loan to fund OpenAI investment, Bloomberg News reports - Reuters [5]
+
+6. SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake - Bloomberg.com [6]
+
+7. U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ [7]
+
+8. Exclusive | Anthropic’s AI Hacked the Firefox Browser. It Found a Lot of Bugs. - WSJ [8]
+
+9. Microsoft becomes first company to say it is not 'abandoning' Anthropic; company says: Our lawyers have s - The Times of India [9]
+
+10. Exclusive: Big tech group supports Anthropic in Pentagon fight as investors push to de-escalate clash over AI safeguards - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/yqntkc33 [2] https://tinyurl.com/yuplfqjc [3] https://tinyurl.com/2bhgvpwf [4] https://tinyurl.com/yodjeumq [5] https://tinyurl.com/26efb9fd [6] https://tinyurl.com/ync9msmx [7] https://tinyurl.com/yo39ugt5 [8] https://tinyurl.com/ym7zpxyb [9] https://tinyurl.com/yu4748r4 [10] https://tinyurl.com/26xd8897
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 07, 2026
 News
 
