@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 09, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. After Microsoft and Amazon, Google tells users: Anthropic is available, even after Pentagon ban, as we un - The Times of India [2]
+
+3. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth with funding from a16z - Fortune [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. Exclusive: AI startups find a D.C. advocate in Obernolte - Axios [5]
+
+6. OpenAI's $110 billion funding round draws investment from Amazon, Nvidia, SoftBank - Reuters [6]
+
+7. OpenAI and Anthropic competition spills into IPO push as profitability race heats up - 디지털투데이 [7]
+
+8. Merger update: flyExclusive (NYSE: FLYX) drops Jet.AI funding condition - Stock Titan [8]
+
+9. Exclusive | OpenAI CEO Sam Altman Defends Pentagon Work to Staff, Calls Backlash ‘Really Painful’ - WSJ [9]
+
+10. Why Has OpenAI Replaced Anthropic as US federal AI Supplier? - Business Chief [10]
+
+Sources:
+[1] https://tinyurl.com/ywcpmhlj [2] https://tinyurl.com/25pdyjrp [3] https://tinyurl.com/25jy8ys5 [4] https://tinyurl.com/ymsw2phm [5] https://tinyurl.com/2xuofj4r [6] https://tinyurl.com/29lh2bwn [7] https://tinyurl.com/ymhr8lj2 [8] https://tinyurl.com/2d97hzob [9] https://tinyurl.com/yu463gz7 [10] https://tinyurl.com/yvzf5ev2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 08, 2026
 News
 
