@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 10, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit - TechCrunch [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government - WIRED [4]
+
+5. Tech stocks today: Anthropic sues Defense Department over ban, OpenAI's robotics leader resigns - Yahoo Finance [5]
+
+6. Google and OpenAI Just Filed a Legal Brief in Support of Anthropic - Gizmodo [6]
+
+7. Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon - The Verge [7]
+
+8. OpenAI, Google researchers warn Pentagon move against Anthropic risks US AI industry - Interesting Engineering [8]
+
+9. Exclusive | OpenAI CEO Sam Altman Defends Pentagon Work to Staff, Calls Backlash ‘Really Painful’ - WSJ [9]
+
+10. U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/27ptxa57 [2] https://tinyurl.com/2yze22zs [3] https://tinyurl.com/26xtkofl [4] https://tinyurl.com/24aa7ehl [5] https://tinyurl.com/27s7jj3x [6] https://tinyurl.com/2585qmvz [7] https://tinyurl.com/28ppq3ee [8] https://tinyurl.com/2yq4ncuj [9] https://tinyurl.com/22xx2x4b [10] https://tinyurl.com/22h4vy4o
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 09, 2026
 News
 
