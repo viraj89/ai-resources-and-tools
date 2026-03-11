@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 11, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Wall Street “Takes the Temperature” for OpenAI’s IPO—Are Investment Firms Unenthusiastic? - 深潮TechFlow [3]
+
+4. OpenAI Expands AI Security Capabilities With Promptfoo Acquisition as Industry Employees Back Anthropic in Pentagon Dispute - AI Insider [4]
+
+5. OpenAI and Google employees file Amicus brief in support of Anthropic; say: We are engineers, researchers - The Times of India [5]
+
+6. Anthropic and OpenAI just exposed SAST's structural blind spot with free tools - VentureBeat [6]
+
+7. Workers at OpenAI show support for Anthropic as the company says it could lose $5 billion in its feud with the Pentagon - Business Insider [7]
+
+8. OpenAI Secures $110B at $730B Valuation — Amazon, NVIDIA and SoftBank Lead Massive AI Funding Round - Cloud Wars [8]
+
+9. OpenAI and Google workers back Anthropic in legal battle with US government - Yahoo [9]
+
+10. U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/2ao88hlr [2] https://tinyurl.com/2bwdc6tc [3] https://tinyurl.com/24dyhbu7 [4] https://tinyurl.com/22habs2d [5] https://tinyurl.com/28p2u774 [6] https://tinyurl.com/29avclhf [7] https://tinyurl.com/2bx94zer [8] https://tinyurl.com/26hbkt8o [9] https://tinyurl.com/2atdxozl [10] https://tinyurl.com/2xhnsmz7
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 10, 2026
 News
 
