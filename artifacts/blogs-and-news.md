@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 12, 2026
+News
+
+1. Did SoftBank’s Massive OpenAI Loan Bid and PayPay IPO Plans Just Shift SoftBank Group's (TSE:9984) Investment Narrative? - simplywall.st [1]
+
+2. Microsoft Backs Anthropic in Pentagon Lawsuit Over Military AI Use and Supply Chain Ban - European Business Magazine [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [4]
+
+5. OpenAI and Google engineers back Anthropic lawsuit over Pentagon AI blacklist - Telegraph India [5]
+
+6. SpaceX, OpenAI Potential Blockbuster IPOs Lure Investors Into Murky Deals - Bloomberg.com [6]
+
+7. Google and OpenAI employees back Anthropic in a legal fight that could redefine military use of AI - Fortune [7]
+
+8. U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ [8]
+
+9. Microsoft filed a court brief supporting Anthropic’s lawsuit against the Pentagon, a momentous decision for one of the nation’s biggest companies that’s also one of the largest government contractors around. - facebook.com [9]
+
+10. Anthropic Lawsuit Raises Serious Questions of Government Power and First Amendment Rights - Cato Institute [10]
+
+Sources:
+[1] https://tinyurl.com/22ked77k [2] https://tinyurl.com/238xfyrt [3] https://tinyurl.com/2c9cp68b [4] https://tinyurl.com/28dubw7u [5] https://tinyurl.com/23gjd2bj [6] https://tinyurl.com/2ajcm875 [7] https://tinyurl.com/25foocq9 [8] https://tinyurl.com/237ja6pd [9] https://tinyurl.com/24wt9uxb [10] https://tinyurl.com/29uq56kj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 11, 2026
 News
 
