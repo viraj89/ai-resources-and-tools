@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 13, 2026
+News
+
+1. Pentagon reveals why US Military has banned Claude, labelled Anthropic as supply risk - India Today [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Anthropic, Google and OpenAI Bet Big on India - PYMNTS.com [3]
+
+4. SoftBank downgraded by Jefferies on rising risks tied to OpenAI investment - Proactive financial news [4]
+
+5. OpenAI CEO Sam Altman has a warning for all American technology companies; says: In America right now … - The Times of India [5]
+
+6. Exclusive: Anthropic Channel Exec Sees Channel Buildout As ‘Blueprint For The Future’ - crn.com [6]
+
+7. OpenAI must match Microsoft’s size to hit a $1 trillion IPO valuation - Windows Central [7]
+
+8. ‘An AlphaFold 4’—scientists marvel at DeepMind drug spin-off’s exclusive new AI - scientificamerican.com [8]
+
+9. Exclusive: DeepMind CEO "surprised" OpenAI moved so fast on ads - Axios [9]
+
+10. Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup - Fortune [10]
+
+Sources:
+[1] https://tinyurl.com/27wjt78d [2] https://tinyurl.com/24mgfn3x [3] https://tinyurl.com/25q8os3l [4] https://tinyurl.com/28kr5awd [5] https://tinyurl.com/24c6v99c [6] https://tinyurl.com/2ymycakh [7] https://tinyurl.com/272ch7v7 [8] https://tinyurl.com/2bsdt86k [9] https://tinyurl.com/28ga84sp [10] https://tinyurl.com/2dnvvbou
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 12, 2026
 News
 
