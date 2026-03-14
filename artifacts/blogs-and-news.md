@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 14, 2026
+News
+
+1. Exclusive | Pentagon AI chief Emil Michael says it’s ‘totally bananas’ that Anthropic won’t support America — and slams Microsoft for appeasing progressive employees - New York Post [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [2]
+
+3. Palantir CEO Alex Karp admits using Anthropic's Claude after Pentagon ban; says: Our products are integra - The Times of India [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. Days after Pentagon's fight with Anthropic, China warns America on AI use in military; says: Excessive us - The Times of India [5]
+
+6. The OpenAI-Anthropic Pentagon Divide and Its Impact on Agency AI Strategy - DesignRush [6]
+
+7. Why OpenAI and Anthropic are going after hedge fund talent - Financial News London [7]
+
+8. Judge to weigh $135 billion damages theory in Musk lawsuit against OpenAI - Washington Examiner [8]
+
+9. Businesses Are Choosing Anthropic’s Claude AI Over OpenAI's ChatGPT in 2026 - Android Headlines [9]
+
+10. Anthropic-Pentagon Dispute Reveals Limits of AI Self-Regulation, Expert Says - Syracuse University Today [10]
+
+Sources:
+[1] https://tinyurl.com/2aqme5hl [2] https://tinyurl.com/272734sx [3] https://tinyurl.com/2cknx92h [4] https://tinyurl.com/2b5mhwl7 [5] https://tinyurl.com/24xydc2j [6] https://tinyurl.com/22zxv2l9 [7] https://tinyurl.com/29k7ttky [8] https://tinyurl.com/29mqqxyv [9] https://tinyurl.com/2ccwbvnq [10] https://tinyurl.com/26wl7yd3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 13, 2026
 News
 
