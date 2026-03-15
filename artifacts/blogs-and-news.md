@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 15, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. Morgan Lewis Advises Demea Sustainable Investment and Oyster Bay Venture Capital on €6 Million Funding Round for Amatera Biosciences - Morgan Lewis [4]
+
+5. Exclusive: Anthropic Drops Flagship Safety Pledge - Time Magazine [5]
+
+6. OpenAI announces Pentagon deal after Trump bans Anthropic - NPR [6]
+
+7. Enterprise-Focused AI Startup Cohere Aims to Launch IPO ‘Soon’ - PYMNTS.com [7]
+
+8. US government departments switch to Gemini, ChatGPT, and Copilot and Anthropic ban takes effect - TechRadar [8]
+
+9. Anthropic’s Claude overtakes ChatGPT in App Store as users boycott over OpenAI’s $200 million Pentagon contract - Fortune [9]
+
+10. OpenAI says it could rebuild GPT-4 from scratch with just 5 to 10 people, thanks to breakthroughs from its latest model - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/22syg48o [2] https://tinyurl.com/24r6rene [3] https://tinyurl.com/2xst4qry [4] https://tinyurl.com/22vflusk [5] https://tinyurl.com/22wxwgje [6] https://tinyurl.com/26249gvf [7] https://tinyurl.com/2ydmemjs [8] https://tinyurl.com/2b3mw753 [9] https://tinyurl.com/22jq2zqm [10] https://tinyurl.com/296gu3sj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 14, 2026
 News
 
