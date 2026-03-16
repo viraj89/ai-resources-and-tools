@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 16, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Lovable exec says 'big boys and girls' like OpenAI and Anthropic worry her more than other vibe coding startups - Business Insider [3]
+
+4. Calling it irrelevant and offlimit, Judge makes it clear to OpenAI lawyers: You cannot ask Elon Musk abou - The Times of India [4]
+
+5. OpenAI, Anthropic Vie to Boost User Growth - 조선일보 [5]
+
+6. Exclusive: Luckey says Pentagon could have been "more forceful" against Anthropic - Axios [6]
+
+7. Google and Accel selected five Indian AI startups and rejected wrapper solutions - mezha.net [7]
+
+8. Exclusive: ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say - Reuters [8]
+
+9. European AI Startup Mistral AI Secures $2B in Funding - AI Business [9]
+
+10. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [10]
+
+Sources:
+[1] https://tinyurl.com/2dayzf4m [2] https://tinyurl.com/22lhxrd3 [3] https://tinyurl.com/2y6gzhvq [4] https://tinyurl.com/27yzhm6c [5] https://tinyurl.com/273wjg9t [6] https://tinyurl.com/2bzjsfyn [7] https://tinyurl.com/29q9soqp [8] https://tinyurl.com/28ygulde [9] https://tinyurl.com/27v5q25b [10] https://tinyurl.com/2b4rbkth
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 15, 2026
 News
 
