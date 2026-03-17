@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 17, 2026
+News
+
+1. After getting banned by Pentagon, Anthropic to customers: As a small thank you to everyone using Claude, - The Times of India [1]
+
+2. Elon Musk’s AI startup xAI is hiring bankers and private credit lenders to make Grok chatbot ... - The Times of India [2]
+
+3. Pilot to proof: India's agentic AI startups face a funding test - Mint [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. Accel and Google unveil first cohort of AI startups for India-focused accelerator programme - The Indian Express [5]
+
+6. Exclusive | Nvidia-Backed AI Startup to Spend Billions on Korea Data Center to Combat China - WSJ [6]
+
+7. Exclusive: OpenAI courts private equity to join enterprise AI venture, sources say - Reuters [7]
+
+8. Exclusive-OpenAI courts private equity to join enterprise AI venture, sources say - WKZO [8]
+
+9. Popular VC Bill Gurley on Anthropic and OpenAI: The way these companies are run is scary, as they are ... - The Times of India [9]
+
+10. Exclusive | ChatGPT Maker OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/22pfmunu [2] https://tinyurl.com/2669rqy8 [3] https://tinyurl.com/26fzojmb [4] https://tinyurl.com/27vjrg96 [5] https://tinyurl.com/26c9tn3y [6] https://tinyurl.com/25onrsfp [7] https://tinyurl.com/29ju8wls [8] https://tinyurl.com/25s5xm2l [9] https://tinyurl.com/24bdvwbd [10] https://tinyurl.com/27txvcr9
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 16, 2026
 News
 
