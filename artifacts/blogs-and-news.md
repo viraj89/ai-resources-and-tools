@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 18, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Is Your AI Startup Actually Just Unpaid GTM for OpenAI’s Next Release? - Analytics India Magazine [2]
+
+3. Venture Capital Tilts Toward AI as Non-AI Startups Face Funding Squeeze - HackerNoon [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. Exclusive | OpenAI Isn’t Yet Working Toward an IPO, CFO Says - WSJ [5]
+
+6. OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool' - CNBC [6]
+
+7. Exclusive | OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ [7]
+
+8. Exclusive | Jeremy O. Harris drunkenly called OpenAI's Sam Altman a Nazi at the Vanity Fair Oscar party - Page Six [8]
+
+9. Elon Musk makes a stunning pledge about his OpenAI lawsuit winnings - thestreet.com [9]
+
+10. Elon Musk vs. OpenAI: Musk Says He Will Donate Any OpenAI Lawsuit Winnings to Charity. The Trial Starts in 41 Days. - FinTech Weekly [10]
+
+Sources:
+[1] https://tinyurl.com/22ldblno [2] https://tinyurl.com/27rt4vrm [3] https://tinyurl.com/27qlw9os [4] https://tinyurl.com/2ah6e7bz [5] https://tinyurl.com/29tkcco9 [6] https://tinyurl.com/26f26d9w [7] https://tinyurl.com/25q4uhv2 [8] https://tinyurl.com/247n9ett [9] https://tinyurl.com/26bj845u [10] https://tinyurl.com/2cq753hd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 17, 2026
 News
 
