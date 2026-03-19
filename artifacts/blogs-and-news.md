@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 19, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. SuperSeed: £50 Million Fund III Launched For Physical AI Startups With British Business Bank Backing - Pulse 2.0 [3]
+
+4. Exclusive: France's late-payment crisis is creating a new AI category, with Cleavr raising €1M to lead it - Tech Funding News [4]
+
+5. Elon Musk Says Potential Proceeds Of OpenAI Lawsuit Will Go To Charity— 'I Will In No Way Enrich Myself' - Yahoo Finance [5]
+
+6. Exclusive | OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ [6]
+
+7. Exclusive: AI cybersecurity startup RunSybil, founded by OpenAI’s first security hire, raises $40 million led by Khosla Ventures - Yahoo Finance [7]
+
+8. BMG Files Massive Infringement Lawsuit Against Anthropic - Digital Music News [8]
+
+9. US govt says Anthropic AI an 'unacceptable risk' to military - Caledonian Record [9]
+
+10. Anthropic Just Shipped Its Own “OpenClaw” Faster Than OpenAI — Meet Dispatch for Claude Cowork - QUASA Connect [10]
+
+Sources:
+[1] https://tinyurl.com/2b379tae [2] https://tinyurl.com/29l6rjt4 [3] https://tinyurl.com/249547pt [4] https://tinyurl.com/2yzwz94y [5] https://tinyurl.com/2aa2awns [6] https://tinyurl.com/29c6oo9v [7] https://tinyurl.com/2bllkfz9 [8] https://tinyurl.com/232njvs9 [9] https://tinyurl.com/23gea68q [10] https://tinyurl.com/25c5fn3k
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 18, 2026
 News
 
