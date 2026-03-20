@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 20, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [3]
+
+4. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [4]
+
+5. Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJ [5]
+
+6. OpenAI Continues Coding Push With Astral Acquisition - PYMNTS.com [6]
+
+7. Exclusive | ChatGPT Maker OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ [7]
+
+8. Trump administration argues Pentagon’s Anthropic ban is justified, lawful - The Hill [8]
+
+9. BMG joins the lyrical lawsuits against AI company Anthropic - Music Ally [9]
+
+10. OpenAI’s Pivot To Enterprise Is Likely A Race Against Anthropic, And The IPO Clock - Forbes [10]
+
+Sources:
+[1] https://tinyurl.com/2xsmomjx [2] https://tinyurl.com/2ae6urws [3] https://tinyurl.com/233jy9p7 [4] https://tinyurl.com/28dubw7u [5] https://tinyurl.com/26hjrkdd [6] https://tinyurl.com/252jcaw3 [7] https://tinyurl.com/23xl2gy8 [8] https://tinyurl.com/2ane34k9 [9] https://tinyurl.com/2beeapre [10] https://tinyurl.com/26lm7n4x
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 19, 2026
 News
 
