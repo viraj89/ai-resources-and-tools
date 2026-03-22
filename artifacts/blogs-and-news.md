@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 22, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJ [3]
+
+4. OpenAI Is Now Worth More Than Ford, GM and Boeing Combined — And a $1 Trillion IPO Could Be Next - International Business Times [4]
+
+5. EXCLUSIVE: Former Google CEO Eric Schmidt Butts Heads With Former FTC CTO Over AI Regulation - ADWEEK [5]
+
+6. Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup - Fortune [6]
+
+7. Exclusive: DeepMind CEO "surprised" OpenAI moved so fast on ads - Axios [7]
+
+8. Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJ [8]
+
+9. Crypto Market Recap: BTC Slides on War Risk; Gemini Hit With IPO Lawsuit; Moody's Goes On-Chain; and More (Mar 15–21, 2026) - BanklessTimes [9]
+
+10. AI safety push sees Anthropic and OpenAI recruit explosives specialists - Digital Watch Observatory [10]
+
+Sources:
+[1] https://tinyurl.com/24de4uoq [2] https://tinyurl.com/22hmwdtw [3] https://tinyurl.com/2c375jar [4] https://tinyurl.com/2yxvuo5o [5] https://tinyurl.com/2y7r9bcg [6] https://tinyurl.com/2dnvvbou [7] https://tinyurl.com/28ga84sp [8] https://tinyurl.com/275kue8v [9] https://tinyurl.com/2yp9pgv8 [10] https://tinyurl.com/26zysjlm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 21, 2026
 News
 
