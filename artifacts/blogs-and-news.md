@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 23, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch [2]
+
+3. OpenAI to hire in thousands as the company takes on Anthropic and fights rising competition from Google - The Times of India [3]
+
+4. Exclusive: Peter Thiel–backed industrial AI startup emerges from stealth with funding from a16z - Fortune [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. Morgan Lewis Advises Demea Sustainable Investment and Oyster Bay Venture Capital on €6 Million Funding Round for Amatera Biosciences - Morgan Lewis [6]
+
+7. Japanese investment in Indian finance hits record as business ties tighten - Financial Times [7]
+
+8. SF protesters call for AI pause at Anthropic, OpenAI, xAI as White House pushes national framework, Trump seeks liability limits - ABC7 San Francisco [8]
+
+9. Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJ [9]
+
+10. Exclusive | ChatGPT Maker OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/294cnxjg [2] https://tinyurl.com/2dezbwk7 [3] https://tinyurl.com/27jbj4rs [4] https://tinyurl.com/25jy8ys5 [5] https://tinyurl.com/29bzlpbk [6] https://tinyurl.com/22vflusk [7] https://tinyurl.com/2acbz6ce [8] https://tinyurl.com/22b29bmq [9] https://tinyurl.com/2de5qtws [10] https://tinyurl.com/23zc3apc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 22, 2026
 News
 
