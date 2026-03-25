@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 25, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ [3]
+
+4. OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer - CNBC [4]
+
+5. OpenAI just killed Sora as company readies IPO and new 'Spud' model - Tom's Guide [5]
+
+6. OpenAI Abandons Its Sora Video Platform to Focus on Super App - PYMNTS.com [6]
+
+7. Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ [7]
+
+8. Hundreds of protesters march to OpenAI and Anthropic offices, say they want AI race to stop now - India Today [8]
+
+9. Anthropic challenges US Pentagon’s ban in San Francisco court showdown - Al Jazeera [9]
+
+10. Judge Calls US Government Ban on Anthropic AI ‘Troubling’ - Bloomberg [10]
+
+Sources:
+[1] https://tinyurl.com/292fo4m7 [2] https://tinyurl.com/2xlmfrty [3] https://tinyurl.com/2cngtbow [4] https://tinyurl.com/29jkk5mk [5] https://tinyurl.com/2c82joyh [6] https://tinyurl.com/2ys4x3ql [7] https://tinyurl.com/24z9j2fg [8] https://tinyurl.com/2ary4xx9 [9] https://tinyurl.com/27zomeuw [10] https://tinyurl.com/22wruwea
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 24, 2026
 News
 
