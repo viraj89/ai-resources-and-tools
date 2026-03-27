@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 27, 2026
+News
+
+1. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [1]
+
+2. US AI startup Anthropic battles government ban, eyeing US$60b IPO in high-stakes AI showdown - digitimes [2]
+
+3. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [3]
+
+4. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [4]
+
+5. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [5]
+
+6. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [6]
+
+7. Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database - Fortune [7]
+
+8. Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune [8]
+
+9. Judge blocks Pentagon from labeling Anthropic AI a "supply chain risk" and halts Trump's ban on federal use - CBS News [9]
+
+10. OpenAI's US ad pilot exceeds $100 million in annualised revenue in six weeks - Indiatimes [10]
+
+Sources:
+[1] https://tinyurl.com/2awm3mo2 [2] https://tinyurl.com/2cxvsoos [3] https://tinyurl.com/2b339gav [4] https://tinyurl.com/25ftpvqg [5] https://tinyurl.com/25utuoef [6] https://tinyurl.com/29t7kcas [7] https://tinyurl.com/279g778t [8] https://tinyurl.com/27js27kw [9] https://tinyurl.com/2cfwxhcr [10] https://tinyurl.com/25dpyne2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 26, 2026
 News
 
