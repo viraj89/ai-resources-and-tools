@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 29, 2026
+News
+
+1. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [1]
+
+2. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [2]
+
+3. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [3]
+
+4. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO - TechCrunch [6]
+
+7. SoftBank secures $40 billion loan to boost OpenAI investments - Reuters [7]
+
+8. SoftBank Takes US$40b Loan To Deepen OpenAI And Arm AI Bet - uk.finance.yahoo.com [8]
+
+9. Anthropic and OpenAI Just Gave Us a Glimpse Into the Future of Model Pricing - Gizmodo [9]
+
+10. Anthropic reportedly views itself as the antidote to OpenAI's "tobacco industry" approach to AI - the-decoder.com [10]
+
+Sources:
+[1] https://tinyurl.com/2xvd4xx3 [2] https://tinyurl.com/25o572nh [3] https://tinyurl.com/2bvupes8 [4] https://tinyurl.com/24czujt3 [5] https://tinyurl.com/22grp3y9 [6] https://tinyurl.com/2bz83tqk [7] https://tinyurl.com/26xubfun [8] https://tinyurl.com/24vedy6e [9] https://tinyurl.com/237jhjxz [10] https://tinyurl.com/28ck6l2e
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 28, 2026
 News
 
