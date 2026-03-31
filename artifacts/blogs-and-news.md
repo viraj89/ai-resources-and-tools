@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News March 31, 2026
+News
+
+1. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [2]
+
+3. ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way? - Zacks Investment Research [3]
+
+4. China Refuses to Let “Its” AI Startups Slip Away: Escalating Crackdown on Meta’s $2 Billion Manus Acquisition - QUASA Connect [4]
+
+5. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [5]
+
+6. American billionaire Mark Cuban strongly disagrees with Elon Musk's 'work optional' vision; says can’t wa - The Times of India [6]
+
+7. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [7]
+
+8. Musk’s xAI Merger Poses Bigger Threat to OpenAI, Anthropic - Bloomberg.com [8]
+
+9. Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ [9]
+
+10. OpenAI Strategic Shift Accelerates as SoftBank Financing Signals IPO Expectations and Sora Shutdown Frees AI Resources - theaiinsider.tech [10]
+
+Sources:
+[1] https://tinyurl.com/23cw89zy [2] https://tinyurl.com/25vsbofy [3] https://tinyurl.com/2ca22u6l [4] https://tinyurl.com/23c3vjd2 [5] https://tinyurl.com/26xzv4ow [6] https://tinyurl.com/293so8sf [7] https://tinyurl.com/233jy9p7 [8] https://tinyurl.com/26ay6j9g [9] https://tinyurl.com/2cwmb9m7 [10] https://tinyurl.com/2d6hmtsw
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News March 30, 2026
 News
 
