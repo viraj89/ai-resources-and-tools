@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 03, 2026
+News
+
+1. PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI dominate AI deals - SiliconANGLE [1]
+
+2. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [2]
+
+3. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [3]
+
+4. Anthropic’s Claude 4 just crushed OpenAI's GPT-4 and Google's Gemini — Here’s why developers ditch the rivals - Tech Funding News [4]
+
+5. Digest: OpenAI's Latest $122bn Funding Round; Anthropic to Sign Australia AI Safety Deal - exchangewire.com [5]
+
+6. I was a hedge fund manager at Balyasny. Now I work at an AI startup helping bankers cut out the work they hate. - Business Insider [6]
+
+7. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [7]
+
+8. West Asia's escalating crisis begins to stall capital flows into India-focused VC funds - Mint [8]
+
+9. China venture capital funding set to hit record in Q1 on state-led tech push - TradingView [9]
+
+10. OpenAI lands record $122 billion raise ahead of expected blockbuster IPO. $852bn valuation - TradingView [10]
+
+Sources:
+[1] https://tinyurl.com/27vm3488 [2] https://tinyurl.com/299d2tun [3] https://tinyurl.com/28lry2ae [4] https://tinyurl.com/26lswknd [5] https://tinyurl.com/273ccw98 [6] https://tinyurl.com/2678czkg [7] https://tinyurl.com/29xr4tex [8] https://tinyurl.com/2yoorf8g [9] https://tinyurl.com/2cwqyqe4 [10] https://tinyurl.com/25axy4s3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 02, 2026
 News
 
