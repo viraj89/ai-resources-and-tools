@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 09, 2026
+News
+
+1. American technology industry's biggest rivals Google, OpenAI and Anthropic come together to fight Silicon - The Times of India [1]
+
+2. After a decade of investing in SpaceX, with nearly US$100 billion in gains, Google's CEO announced plans to increase investment in AI startups. - 富途牛牛 [2]
+
+3. Elon Musk reportedly wants banks advising on SpaceX IPO to use Grok - Austin American-Statesman [3]
+
+4. AI Watch: Anthropic Pentagon case deepens, OpenAI IPO plans face concerns, Meta unveils Muse Spark - CNBC TV18 [4]
+
+5. Want to Own Stock in SpaceX, OpenAI, and Anthropic Pre-IPO? Here's How. - The Motley Fool [5]
+
+6. Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs - Reuters [6]
+
+7. An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs - WSJ [7]
+
+8. As Sam Altman pushes for IPO, the wheels are coming off OpenAI - Boing Boing [8]
+
+9. Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit - CNBC [9]
+
+10. Elon Musk's $100 Billion Lawsuit Could Cripple OpenAI's Nonprofit Mission, ChatGPT Parent Asks California, Delaware AGs To Investigate - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/22tcqt89 [2] https://tinyurl.com/27zno5br [3] https://tinyurl.com/257zknzo [4] https://tinyurl.com/29sqr5nt [5] https://tinyurl.com/26elxzrt [6] https://tinyurl.com/2d9wkpjt [7] https://tinyurl.com/2bkmklwl [8] https://tinyurl.com/2bjd7flt [9] https://tinyurl.com/2alhl77w [10] https://tinyurl.com/2btmotfh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 08, 2026
 News
 
