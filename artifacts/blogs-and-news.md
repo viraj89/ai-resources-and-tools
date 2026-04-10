@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 10, 2026
+News
+
+1. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [1]
+
+2. OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC [2]
+
+3. Exclusive: Anthropic weighs building its own AI chips, sources say - Reuters [3]
+
+4. OpenAI pauses UK data centre deal over energy costs and regulation - BBC [4]
+
+5. OpenAI pauses UK data centre project over regulation, costs - Reuters [5]
+
+6. Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pricing - SiliconANGLE [6]
+
+7. Exclusive: OpenAI ‘Stargate’ Exec Peter Hoeschele Leaves Company - The Information [7]
+
+8. OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google - the-decoder.com [8]
+
+9. OpenAI Pauses UK AI Tech Team-Up With Nvidia Over Energy Costs, Regulation - Decrypt [9]
+
+10. News | OpenAI pauses UK data centre project over regulation concerns - CoStar [10]
+
+Sources:
+[1] https://tinyurl.com/262fg2cu [2] https://tinyurl.com/2xhae6nd [3] https://tinyurl.com/26whrx4t [4] https://tinyurl.com/2xofxbkd [5] https://tinyurl.com/274kofa3 [6] https://tinyurl.com/28oar5zn [7] https://tinyurl.com/2bqggvb4 [8] https://tinyurl.com/2xmhmmt3 [9] https://tinyurl.com/2474m3bw [10] https://tinyurl.com/276ofpmg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 09, 2026
 News
 
