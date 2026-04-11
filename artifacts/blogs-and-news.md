@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 11, 2026
+News
+
+1. Exclusive / Anthropic is gaining on OpenAI’s revenue, but hasn’t yet eclipsed it - Semafor [1]
+
+2. OpenAI pauses Stargate UK over regulation and energy costs – report - Investment Monitor [2]
+
+3. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [3]
+
+4. India’s AI Startup Funding Jumps 277% In 2025 As Investors Write Bigger Cheques - BW Businessworld [4]
+
+5. Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks - CNBC [5]
+
+6. US summons bank bosses over cyber risks from Anthropic’s latest AI model - The Guardian [6]
+
+7. Anthropic closes in on OpenAI as US business use surges - Financial Times [7]
+
+8. OpenAI pauses Stargate UK, energy costs and regulation stall AI data centre plans - digitimes [8]
+
+9. Wall Street Banks Try Out Anthropic’s Mythos as US Urges Testing - Bloomberg.com [9]
+
+10. Why Anthropic met with bank CEOs about AI security risks - American Banker [10]
+
+Sources:
+[1] https://tinyurl.com/232g8qm6 [2] https://tinyurl.com/29h45qxm [3] https://tinyurl.com/2dazgsp5 [4] https://tinyurl.com/24f28ev9 [5] https://tinyurl.com/282gkg8d [6] https://tinyurl.com/2xtqgeo6 [7] https://tinyurl.com/29b43svt [8] https://tinyurl.com/27t3ljhj [9] https://tinyurl.com/26eqfb92 [10] https://tinyurl.com/25tva92t
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 10, 2026
 News
 
