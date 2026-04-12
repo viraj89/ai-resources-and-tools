@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 12, 2026
+News
+
+1. Anthropic is close to overtaking OpenAI on this measure of AI business spending - Business Insider [1]
+
+2. Anthropic closes in on OpenAI as US business use surges - Financial Times [2]
+
+3. Want to Invest in OpenAI Before Its Blockbuster IPO? Here's How to Do It. - The Motley Fool [3]
+
+4. Musk accused of 'ambush' ahead of $100bn OpenAI trial - The Times of India [4]
+
+5. Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks - Financial Times [5]
+
+6. Bank of England Set to Discuss Anthropic’s Mythos With Banks - Bloomberg.com [6]
+
+7. Banks Put On Alert As Powerful Anthropic AI Raises Cybersecurity Fears - Bank of America (NYSE:BAC), Citi - Benzinga [7]
+
+8. How 'fears' about Anthropic's AI model Mythos made CEOs of Google, OpenAI, Microsoft, CrowdStrike and others do a concall with the US government - MSN [8]
+
+9. How ‘fears’ about Anthropic's AI model Mythos made CEOs of Google, OpenAI, Microsoft, CrowdStrike and oth - The Times of India [9]
+
+10. Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup - Fortune [10]
+
+Sources:
+[1] https://tinyurl.com/2aue7xuo [2] https://tinyurl.com/2bkr3qee [3] https://tinyurl.com/22z3nddb [4] https://tinyurl.com/26xc7bfw [5] https://tinyurl.com/27tbausx [6] https://tinyurl.com/2xnf87p5 [7] https://tinyurl.com/26v7qjtt [8] https://tinyurl.com/2c4njuxr [9] https://tinyurl.com/2au6ngux [10] https://tinyurl.com/2dnvvbou
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 11, 2026
 News
 
