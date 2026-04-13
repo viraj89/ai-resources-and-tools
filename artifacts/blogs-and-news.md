@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 13, 2026
+News
+
+1. Exclusive: Antler invests £2.7M in 13 UK AI startups - Tech Funding News [1]
+
+2. BABA: Bank of America Downgrades Alibaba's Stock Target Amid AI Investments - GuruFocus [2]
+
+3. AI boom drives global VC funding to record $300bn - The Times of India [3]
+
+4. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [4]
+
+5. Microsoft's OpenAI Investment Value & Potential IPO Outlook | 2026 - News and Statistics - IndexBox [5]
+
+6. OpenAI CEO Sam Altman Faces Renewed Sexual Abuse Lawsuit Filed by Sister - Yahoo [6]
+
+7. OpenAI launches new ChatGPT Pro tier for Codex, changes Plus plan limits - The Indian Panorama [7]
+
+8. Fears of Anthropic's latest model reach UK, biggest British banks, insurers and exchanges warned that… - The Times of India [8]
+
+9. White House Tells Banks to Use Anthropic to Spot Vulnerabilities - PYMNTS.com [9]
+
+10. White House Directs Banks to Use Anthropic Mythos - Let's Data Science [10]
+
+Sources:
+[1] https://tinyurl.com/23n4lmdt [2] https://tinyurl.com/27zy5gnd [3] https://tinyurl.com/29kkmkow [4] https://tinyurl.com/28dubw7u [5] https://tinyurl.com/2yjmrs7b [6] https://tinyurl.com/25len9nk [7] https://tinyurl.com/246e8x9a [8] https://tinyurl.com/2d2lpupv [9] https://tinyurl.com/2y48z7gt [10] https://tinyurl.com/2bbxxglo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 12, 2026
 News
 
