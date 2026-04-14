@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 14, 2026
+News
+
+1. Trump administration may be pushing banks to trial Anthropic Mythos - The American Bazaar [1]
+
+2. AI startups capture 80% of record $300B venture funding - Communications Today [2]
+
+3. Donald Trump officials push banks to test Anthropic's Mythos AI model, here is why - India Today [3]
+
+4. Exclusive | Palo Alto Networks Founder Agrees to Buy California Bank for AI Revamp - WSJ [4]
+
+5. Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism - The Economic Times [5]
+
+6. OpenAI leaked memo slams Anthropic: ChatGPT maker accuses rival of ‘fear-based’ AI approach, reveals report - Mint [6]
+
+7. FBI Probes Anti AI Motive After Firebomb Attack On OpenAI CEO Altman, Charges Filed Against Suspect - The Times of India [7]
+
+8. US, UK regulators meet banks on Anthropic AI cyber risks to financial systems - Retail Banker International [8]
+
+9. Bank of England Set to Discuss Anthropic’s Mythos With Banks - Insurance Journal [9]
+
+10. The Trump administration blacklisted Anthropic – and is now telling banks to use its AI - The Next Web [10]
+
+Sources:
+[1] https://tinyurl.com/274zo3qy [2] https://tinyurl.com/24td9up5 [3] https://tinyurl.com/2343a7h7 [4] https://tinyurl.com/23avlrnw [5] https://tinyurl.com/2ckttwl4 [6] https://tinyurl.com/2cxas5xs [7] https://tinyurl.com/25hrlfhd [8] https://tinyurl.com/242r6633 [9] https://tinyurl.com/2c9p2smh [10] https://tinyurl.com/27gwwpw3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 13, 2026
 News
 
