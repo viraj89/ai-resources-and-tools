@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 15, 2026
+News
+
+1. What is AI Bill that Sam Altman's OpenAI and Dario Amodei's Anthropic are clashing over in one of America - The Times of India [1]
+
+2. OpenAI Alums Launch $100M VC Fund to Back Next-Gen AI Startups - National Today [2]
+
+3. Exclusive: One hedge fund is pitching a fix to SpaceX’s IPO deluge: Shorten employee lockup periods - Semafor [3]
+
+4. US IPO proceeds to quadruple to record USD 160 billion in 2026 as dealmaking rebounds, says Goldman - Metrobank [4]
+
+5. Attorney says suspect in attack on OpenAI CEO's home was in midst of 'mental health crisis' - PBS [5]
+
+6. Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies - The New York Times [6]
+
+7. OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance - Benzinga [7]
+
+8. OpenAI revenue chief accuses rival Anthropic of goosing revenue projections - Fortune [8]
+
+9. Texas man accused in attack targeting OpenAI CEO - Austin American-Statesman [9]
+
+10. Novo Nordisk partners with OpenAI to use AI for speeding up drug development - The American Bazaar [10]
+
+Sources:
+[1] https://tinyurl.com/2y44jwbc [2] https://tinyurl.com/22naw7gp [3] https://tinyurl.com/2262jaft [4] https://tinyurl.com/2bhodsmw [5] https://tinyurl.com/23hlsqaa [6] https://tinyurl.com/275d94kp [7] https://tinyurl.com/2dmyhdyg [8] https://tinyurl.com/2aeo2dc8 [9] https://tinyurl.com/27r4cz5a [10] https://tinyurl.com/22h7deeg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 14, 2026
 News
 
