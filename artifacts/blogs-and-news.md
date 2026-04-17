@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 17, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Bank of America's 18,000 financial advisors just got a new AI tool as the company posts a record quarter - Fortune [2]
+
+3. Austin startups raise record billions in Q1 funding - Austin American-Statesman [3]
+
+4. Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla? - InvestmentNews [4]
+
+5. 'Golden Ticket': VC company funds Indian AI startups' shift to US - Business Standard [5]
+
+6. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - AP News [6]
+
+7. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Northeast Mississippi Daily Journal [7]
+
+8. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - The Killeen Daily Herald [8]
+
+9. OpenAI Courts Banks in Trusted Access for Cyber Partner Push - BankInfoSecurity [9]
+
+10. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Star Beacon [10]
+
+Sources:
+[1] https://tinyurl.com/2626br9m [2] https://tinyurl.com/2d7vdb7y [3] https://tinyurl.com/2byundzj [4] https://tinyurl.com/233jy9p7 [5] https://tinyurl.com/2a5pnzek [6] https://tinyurl.com/2yz43lem [7] https://tinyurl.com/2ag27w88 [8] https://tinyurl.com/2d6d4x69 [9] https://tinyurl.com/245xqspr [10] https://tinyurl.com/2bq384yu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 16, 2026
 News
 
