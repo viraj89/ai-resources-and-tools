@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 18, 2026
+News
+
+1. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [1]
+
+2. AI Startups Capture $242B As Global Funding Hits $300B In Q1 2026 - GuruFocus [2]
+
+3. OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC [3]
+
+4. Illinois is OpenAI and Anthropic’s latest battleground as state tries to assess liability for catastrophes caused by AI - Fortune [4]
+
+5. Cerebras Revives IPO Push With OpenAI Equity Sweetener - The Tech Buzz [5]
+
+6. 😺 Anthropic shipped Opus 4.7. OpenAI countered. - The Neuron [6]
+
+7. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool | AI (artificial intelligence) - The Guardian [7]
+
+8. Steve Bannon sides with Anthropic in fight with Pentagon: ‘It’s almost too dangerous’ - The Hill [8]
+
+9. Steve Bannon says Anthropic 'had it right' in rejecting deal with the Pentagon - Business Insider [9]
+
+10. Lawsuit aside, White House holds talks with Anthropic over powerful AI tool Mythos - Firstpost [10]
+
+Sources:
+[1] https://tinyurl.com/262fg2cu [2] https://tinyurl.com/2d3a68bx [3] https://tinyurl.com/2xhae6nd [4] https://tinyurl.com/25ph9dsz [5] https://tinyurl.com/2cajc6qu [6] https://tinyurl.com/23cl7txb [7] https://tinyurl.com/22rkebds [8] https://tinyurl.com/2b5x4ly9 [9] https://tinyurl.com/26tcujb8 [10] https://tinyurl.com/28gz52mc
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 17, 2026
 News
 
