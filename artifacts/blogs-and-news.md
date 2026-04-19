@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 19, 2026
+News
+
+1. Barclays CEO CS Venkatakrishnan to everyone in the banking community: Anthropic Mythos is a serious threa - The Times of India [1]
+
+2. Anthropic’s Claude Opus 4.7, explained; Steep decline in VC funding - YourStory.com [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [4]
+
+5. Anthropic's Claude Opus 4.7, explained; Steep decline in VC funding - Dailyhunt [5]
+
+6. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Japan Today [6]
+
+7. Srinivas Narayanan quits OpenAI amid broader leadership exodus - The American Bazaar [7]
+
+8. Altman's fusion investment clouds IPO - Axios [8]
+
+9. Exclusive | Anthropic Adds Novartis CEO to Board - WSJ [9]
+
+10. These 2 Genius AI Stocks Are Your Best Way to Own Anthropic Before Its IPO - The Motley Fool [10]
+
+Sources:
+[1] https://tinyurl.com/24zuuyq6 [2] https://tinyurl.com/2yryomrd [3] https://tinyurl.com/2buvqcar [4] https://tinyurl.com/2dazgsp5 [5] https://tinyurl.com/25yc6mgl [6] https://tinyurl.com/226u572v [7] https://tinyurl.com/24gcxvb9 [8] https://tinyurl.com/27nmfvxh [9] https://tinyurl.com/233ddruq [10] https://tinyurl.com/23zpf9hs
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 18, 2026
 News
 
