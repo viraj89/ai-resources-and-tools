@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 20, 2026
+News
+
+1. Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups - TechCrunch [1]
+
+2. IPO Hopes: SoftBank Is Going All In on OpenAI, But at What Cost? - Bloomberg [2]
+
+3. NSA Already Uses Anthropic’s Most Powerful AI Model “Myhtos” Despite Pentagon Ban - trendingtopics.eu [3]
+
+4. China foreign overreach regulations; VLSI v Intel; Anthropic leak lessons; LNG long read; SEP Summit Asia; plus much more - IAM Patent [4]
+
+5. As the world’s largest bank JP Morgan tests Anthropic’s AI tool Mythos, CEO Jamie Dimon admits 'threat'; - The Times of India [5]
+
+6. Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup - Fortune [6]
+
+7. Exclusive: DeepMind CEO "surprised" OpenAI moved so fast on ads - Axios [7]
+
+8. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - WFMZ.com [8]
+
+9. ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Boston Herald [9]
+
+10. A leading European AI startup says its edge over Silicon Valley isn't better tech — it's not being American - Business Insider [10]
+
+Sources:
+[1] https://tinyurl.com/23nbqgaq [2] https://tinyurl.com/25hjax4s [3] https://tinyurl.com/24ux85hj [4] https://tinyurl.com/2579pjb7 [5] https://tinyurl.com/2xvhjx97 [6] https://tinyurl.com/2dnvvbou [7] https://tinyurl.com/28ga84sp [8] https://tinyurl.com/2dq7q3y7 [9] https://tinyurl.com/2ankvf6a [10] https://tinyurl.com/2dp3ruv2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 19, 2026
 News
 
