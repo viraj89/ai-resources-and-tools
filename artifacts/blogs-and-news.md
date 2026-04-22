@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 22, 2026
+News
+
+1. The AI Startups Promising a Sustainable Future for Fashion - Vogue [1]
+
+2. Amazon Stock: Anthropic And OpenAI Deals Highlight 'Growing Confidence' In Custom AI Chips - Investor's Business Daily [2]
+
+3. Exclusive | OpenAI Is Working With Consultants to Sell Codex - WSJ [3]
+
+4. Sam Altman opens up about attack on his home: 'The way Anthropic talks about OpenAI doesn't help' - Business Insider [4]
+
+5. Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims - TechCrunch [5]
+
+6. Anthropic seeks pivotal court win in music publisher lawsuit over AI training - Reuters [6]
+
+7. Reserve Bank of Australia monitoring Anthropic’s Mythos AI over cyberattack fears - The Japan Times [7]
+
+8. Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips - Ars Technica [8]
+
+9. Anthropic Argues for Fair Use in UMG’s AI Lawsuit: ‘Training on Lyrics Is Transformative’ - billboard.com [9]
+
+10. Did Amazon’s US$100 Billion Anthropic-AWS Pact Just Shift Amazon.com's (AMZN) AI Investment Narrative? - Yahoo Finance UK [10]
+
+Sources:
+[1] https://tinyurl.com/238rs2ql [2] https://tinyurl.com/25sj87sk [3] https://tinyurl.com/23veuwy4 [4] https://tinyurl.com/2ytd8tr8 [5] https://tinyurl.com/26hohl2s [6] https://tinyurl.com/2a9msjsv [7] https://tinyurl.com/27jjqct3 [8] https://tinyurl.com/26essh8e [9] https://tinyurl.com/2azbacyl [10] https://tinyurl.com/2d8gtang
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 21, 2026
 News
 
