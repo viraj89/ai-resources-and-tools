@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 23, 2026
+News
+
+1. Elon Musk is ramping up efforts to compete with AI giants Anthropic and OpenAI. Musk's AI startup, xAI, has held discussions in recent weeks with Mistral AI and AI coding startup Cursor about a potential three-way partnership, people familiar with the matter sai - LinkedIn [1]
+
+2. Elon Musk’s SpaceX Partners With AI Startup Cursor, Eyes $60 Billion Acquisition Option - The Logical Indian [2]
+
+3. Reserve Bank of India studies AI risks from Anthropic Mythos - Gulf Business [3]
+
+4. Exclusive: OpenAI briefs feds and Five Eyes on new cyber product - Axios [4]
+
+5. Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI. - Business Insider [5]
+
+6. OpenAI in talks to fund DeployCo with $1.5B to make AI easier for companies to use: report - Tech Funding News [6]
+
+7. Ready to Buy OpenAI Before a Potential IPO? Robinhood Just Made It Possible for Retail Investors - The Motley Fool [7]
+
+8. SoftBank Secures $10 Billion Loan Using OpenAI Shares as Collate - GuruFocus [8]
+
+9. OpenAI partners with Infosys to bring AI tools to businesses - The American Bazaar [9]
+
+10. OpenAI is burning billions — and an IPO won’t stave off bankruptcy - Asia Times [10]
+
+Sources:
+[1] https://tinyurl.com/227eagke [2] https://tinyurl.com/2cdhzglz [3] https://tinyurl.com/2ca3cnym [4] https://tinyurl.com/24kudvuj [5] https://tinyurl.com/2bdvcrun [6] https://tinyurl.com/24zjpl5n [7] https://tinyurl.com/26so6p4m [8] https://tinyurl.com/2c4vkg4s [9] https://tinyurl.com/2bod7bxh [10] https://tinyurl.com/2ajm9fcs
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 22, 2026
 News
 
