@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 25, 2026
+News
+
+1. Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ [1]
+
+2. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [2]
+
+3. China to restricts AI startups from taking U.S. funding, Bloomberg reports - Investing.com Australia [3]
+
+4. China to restricts AI startups from taking U.S. funding, Bloomberg reports - Investing.com India [4]
+
+5. Lincoln International targets rare investment bank IPO in US markets - Reuters [5]
+
+6. AI startups Cohere, Aleph Alpha to merge with $600M in new funding - SiliconANGLE [6]
+
+7. Elon Musk's lawsuit against Sam Altman and OpenAI heads to trial - Morning Brew [7]
+
+8. OpenAI CFO Sarah Friar on IPO timeline, Musk v. Altman case - CNBC [8]
+
+9. The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending - CNBC [9]
+
+10. Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies - The New York Times [10]
+
+Sources:
+[1] https://tinyurl.com/2avcknjw [2] https://tinyurl.com/2626br9m [3] https://tinyurl.com/2cgzh2zx [4] https://tinyurl.com/25jgafg2 [5] https://tinyurl.com/2d79gv6y [6] https://tinyurl.com/25mug92v [7] https://tinyurl.com/2atd9j6t [8] https://tinyurl.com/25g24lt6 [9] https://tinyurl.com/24236att [10] https://tinyurl.com/275d94kp
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 24, 2026
 News
 
