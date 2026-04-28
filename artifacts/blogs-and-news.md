@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 28, 2026
+News
+
+1. OpenAI will embed staff at Customers Bank under multiyear deal - American Banker [1]
+
+2. Google To Increase Anthropic Investment; OpenAI, Microsoft Shake Up Partnership - Investor's Business Daily [2]
+
+3. China blocks Meta’s AI startup Manus acquisition amid US investment crackdown - The News International [3]
+
+4. China blocks Meta’s acquisition of AI startup Manus - The American Bazaar [4]
+
+5. China blocks Meta’s $2B acquisition of agentic AI startup Manus: report - Tech Funding News [5]
+
+6. India Set For AI-Led Venture Capital Growth As Global Funding Hits Record $330.9 Billion - Ommcom News [6]
+
+7. Why Indian govt is warning banks against Anthropic's Claude Mythos AI - Business Standard [7]
+
+8. Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups - CNBC [8]
+
+9. OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ [9]
+
+10. OpenAI Breaks Free From Exclusive AI Pact With Microsoft - Bloomberg.com [10]
+
+Sources:
+[1] https://tinyurl.com/22krs7al [2] https://tinyurl.com/246nhkrz [3] https://tinyurl.com/25eejwjc [4] https://tinyurl.com/2bkgzve5 [5] https://tinyurl.com/2yvz6wde [6] https://tinyurl.com/23rujpbw [7] https://tinyurl.com/2a4lfyma [8] https://tinyurl.com/23qs7l5p [9] https://tinyurl.com/22lg2gec [10] https://tinyurl.com/2calxjlx
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 27, 2026
 News
 
