@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 29, 2026
+News
+
+1. Exclusive: OpenAI, Anthropic meet with House Homeland Security behind closed doors on cyber threats - Axios [1]
+
+2. What global banks said about Anthropic's new Mythos model that the company ‘refused’ to release publicly - The Times of India [2]
+
+3. Trump just fired board members who approve $8.8 billion in US science funding and AI startups could feel it first - Yahoo Finance [3]
+
+4. Trump just fired board members who approve $8.8 billion in US science funding and AI startups could feel it first - moneywise.com [4]
+
+5. Durham investment firm founded out of banking crisis scores first two exits - The Business Journals [5]
+
+6. OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC [6]
+
+7. Meta moves to unwind Manus acquisition following China ban - The American Bazaar [7]
+
+8. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [8]
+
+9. Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong - Financial Times [9]
+
+10. Musk says basis of charitable giving at stake in OpenAI lawsuit against Altman - BBC [10]
+
+Sources:
+[1] https://tinyurl.com/2acea32x [2] https://tinyurl.com/22n2g3cp [3] https://tinyurl.com/2boy49p9 [4] https://tinyurl.com/2ddz5fh2 [5] https://tinyurl.com/26yym7om [6] https://tinyurl.com/2c4opf4v [7] https://tinyurl.com/2xme3nnu [8] https://tinyurl.com/28dubw7u [9] https://tinyurl.com/2335evo3 [10] https://tinyurl.com/28bnht4n
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 28, 2026
 News
 
