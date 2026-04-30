@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News April 30, 2026
+News
+
+1. Indian VCs build 'bridges to America' as AI startups look westward - Business Standard [1]
+
+2. Three thoughts on the Musk-OpenAI lawsuit - Marcus on AI | Substack [2]
+
+3. Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding - The New York Times [3]
+
+4. Elon Musk tells court he was a "fool" for funding OpenAI - CBS News [4]
+
+5. Amazon launches new AI tools, as Microsoft and OpenAI end exclusive cloud deal - KUOW [5]
+
+6. Elon Musk Says Sam Altman Tricked Him Into Funding OpenAI - KQED [6]
+
+7. Musk continued his testimony from yesterday in lawsuit against OpenAI - KUOW [7]
+
+8. OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters [8]
+
+9. Anthropic Reportedly Plotting to Surpass OpenAI’s Valuation in Next Funding Round - Gizmodo [9]
+
+10. ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO - The Verge [10]
+
+Sources:
+[1] https://tinyurl.com/225n2otu [2] https://tinyurl.com/22cnoecs [3] https://tinyurl.com/29p77m58 [4] https://tinyurl.com/25d5rqsb [5] https://tinyurl.com/2aae2chz [6] https://tinyurl.com/2alc7h97 [7] https://tinyurl.com/2as7j4fw [8] https://tinyurl.com/24ybcd37 [9] https://tinyurl.com/298ulb9r [10] https://tinyurl.com/2akgur48
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 29, 2026
 News
 
