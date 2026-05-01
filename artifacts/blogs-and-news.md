@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 01, 2026
+News
+
+1. Bank of America Expands Use of Anthropic AI - Let's Data Science [1]
+
+2. SoftBank eyes $100B US IPO for Roze AI, its robotics-led infrastructure venture: report - Tech Funding News [2]
+
+3. Elon Musk Concludes Testimony in OpenAI Lawsuit - WSJ [3]
+
+4. S&P 500 considers fast-track entry rules as SpaceX, OpenAI and Anthropic eye IPOs - investingLive [4]
+
+5. Anthropic is eyeing a funding round that could make it bigger than OpenAI - qz.com [5]
+
+6. White House against Anthropic expanding Mythos model access: report - Caledonian Record [6]
+
+7. Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence - CNBC [7]
+
+8. Exclusive Interview with DeepMind Founder: AGI Architecture, Agent Status, and Scientific Breakthroughs in the Next Decade - 富途牛牛 [8]
+
+9. School-shooting lawsuits accuse OpenAI of hiding violent ChatGPT users - Ars Technica [9]
+
+10. Mark Cuban to engineers: Use these three Claude prompts to sharpen your skills - The Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2apuu25d [2] https://tinyurl.com/26hanxfc [3] https://tinyurl.com/23su5tkw [4] https://tinyurl.com/28eba2hl [5] https://tinyurl.com/25afxtf9 [6] https://tinyurl.com/2xrwf7zg [7] https://tinyurl.com/25mbp4tj [8] https://tinyurl.com/2apgp72u [9] https://tinyurl.com/22xx98vy [10] https://tinyurl.com/2yo4f2mf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News April 30, 2026
 News
 
