@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 02, 2026
+News
+
+1. Anthropic seeks $50 billion funding round ahead of planned IPO - Indiatimes [1]
+
+2. OpenAI Could Have Stopped Mass Shooting, 7 New Lawsuits Allege - Focus on the Family [2]
+
+3. Musk lawsuit shouldn't have major impact on OpenAI, says Wedbush - Seeking Alpha [3]
+
+4. SpaceX, Anthropic, and OpenAI Could Be Fast-Tracked Into the S&P 500 After Their IPOs. Here's How. - The Motley Fool [4]
+
+5. Pentagon Excludes Anthropic in Deal With OpenAI, Google, SpaceX and Others for Classified AI Work - International Business Times [5]
+
+6. Blender change the Anthropic AI funding deal, with discussions planned for AI Policies - GamingOnLinux [6]
+
+7. As ChatGPT and Claude remain banned in China, Goldman Sachs tells employees in Hong Kong: Do not use Anth - The Times of India [7]
+
+8. Elon Musk mulled Mistral deal to take on OpenAI and Anthropic, reports say - Sifted [8]
+
+9. Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud - The New Stack [9]
+
+10. Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes - theregister.com [10]
+
+Sources:
+[1] https://tinyurl.com/287kcys7 [2] https://tinyurl.com/2akgdjne [3] https://tinyurl.com/2dhhb5jy [4] https://tinyurl.com/2238wgac [5] https://tinyurl.com/2a523vww [6] https://tinyurl.com/22brugr2 [7] https://tinyurl.com/2xtrf7cp [8] https://tinyurl.com/29zoce8u [9] https://tinyurl.com/2539vxnc [10] https://tinyurl.com/2b474plb
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 01, 2026
 News
 
