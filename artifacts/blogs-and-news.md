@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 03, 2026
+News
+
+1. Anthropic's most powerful AI model just exposed a crisis in corporate governance. Here's the framework every CEO needs. - Fortune [1]
+
+2. Here’s how to listen to a live broadcast of Elon Musk’s lawsuit against OpenAI - San Francisco Chronicle [2]
+
+3. Doom Ban, Meme Coins and 7 More Highlights from Musk v. OpenAI - The Information [3]
+
+4. ‘Skywalker turned Darth Vader’: Galloway on Musk’s OpenAI lawsuit - CNN [4]
+
+5. OpenAI CEO Sam Altman’s Sister Seeks New Attorneys in Sexual Abuse Lawsuit - Yahoo [5]
+
+6. Anthropic’s most powerful AI model just exposed a crisis in corporate governance. Here’s the framework every CEO needs. - Yahoo Finance [6]
+
+7. The Pentagon just signed AI deals with OpenAI, Google, Microsoft, and Nvidia - and cut Anthropic out entirely - TechSpot [7]
+
+8. AI startups Cohere, Aleph Alpha to merge with $600M in new funding - SiliconANGLE [8]
+
+9. Google Follows OpenAI In Expanding Pentagon AI Access After Anthropic Refusal – Is AI Ethics Taking A Back Seat? - TechRound [9]
+
+10. Pentagon Enlists Google, OpenAI, Nvidia And SpaceX To Deploy AI In Classified Warfighting Systems; Anthropic Sues Over Ethics Clause - Republic World [10]
+
+Sources:
+[1] https://tinyurl.com/237le74r [2] https://tinyurl.com/27pbecfv [3] https://tinyurl.com/2525sdr3 [4] https://tinyurl.com/22k52kjf [5] https://tinyurl.com/29fgmrbf [6] https://tinyurl.com/26yat7ff [7] https://tinyurl.com/26867rm7 [8] https://tinyurl.com/25mug92v [9] https://tinyurl.com/2xmnanen [10] https://tinyurl.com/28cgbcxo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 02, 2026
 News
 
