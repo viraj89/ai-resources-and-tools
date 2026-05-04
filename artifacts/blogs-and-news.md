@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 04, 2026
+News
+
+1. Exclusive | OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market - WSJ [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [3]
+
+4. Altman Faces Test Ahead of OpenAI IPO as Musk’s $134 Billion Suit Adds Pressure - bloomingbit [4]
+
+5. Anthropic complained to US government about CEO of Chinese company who was key speaker at Nvidia's annual - The Times of India [5]
+
+6. DW News. . Claude Mythos broke out of its own digital cage during testing and found security flaws in every major operating system and browser. After rattling central banks, tech giants, and governments, the AI that Anthropic says is too dangerous to release h - facebook.com [6]
+
+7. Exclusive: Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation - TechCrunch [7]
+
+8. How a Spanish startup pivoted to video AI and built a $230 million ARR business with no VC funding - Fortune [8]
+
+9. EXCLUSIVE: Elon Musk Vs. OpenAI Is About Control, Not Safety, Says 'Father Of AGI' - Benzinga [9]
+
+10. Elon Musk OpenAI Lawsuit: Court Testimony Reveals Stunning Contradiction Over AGI and Tesla - MEXC [10]
+
+Sources:
+[1] https://tinyurl.com/2626br9m [2] https://tinyurl.com/2buvqcar [3] https://tinyurl.com/262fg2cu [4] https://tinyurl.com/2aodx7fe [5] https://tinyurl.com/23m6ydgm [6] https://tinyurl.com/2y2el8en [7] https://tinyurl.com/2b4rbkth [8] https://tinyurl.com/2axmu9ko [9] https://tinyurl.com/2awvv7w4 [10] https://tinyurl.com/2d9dqw7f
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 03, 2026
 News
 
