@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 05, 2026
+News
+
+1. Elon Musk pressured OpenAI’s Greg Brockman to settle lawsuit or become one of ‘most hated men in America’: filing - New York Post [1]
+
+2. FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes - Business Wire [2]
+
+3. OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO - TechCrunch [3]
+
+4. Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions - WSJ [4]
+
+5. Elon Musk’s odds of winning lawsuit against OpenAI are slim, Kalshi traders say - CNBC [5]
+
+6. Anthropic and OpenAI are following Palantir’s playbook as they seek to grow AI usage - MarketWatch [6]
+
+7. Anthropic’s $900 Billion Funding Round Set To Surpass OpenAI - Forbes [7]
+
+8. OpenAI, Anthropic ramp up enterprise push - Semafor [8]
+
+9. OpenAI IPO push sparks plans for robotics, hardware spinoff: report - TradingView [9]
+
+10. Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial - Ars Technica [10]
+
+Sources:
+[1] https://tinyurl.com/29mwm4m4 [2] https://tinyurl.com/265cmo68 [3] https://tinyurl.com/2ytpfmg7 [4] https://tinyurl.com/228pjgjq [5] https://tinyurl.com/29xnxtou [6] https://tinyurl.com/2yoknfjd [7] https://tinyurl.com/23y28nyd [8] https://tinyurl.com/27qrbpor [9] https://tinyurl.com/29c8wsqx [10] https://tinyurl.com/22kjt9x4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 04, 2026
 News
 
