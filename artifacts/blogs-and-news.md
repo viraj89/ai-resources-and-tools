@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 06, 2026
+News
+
+1. China blocks US funding for AI startups amid Meta acquisition tensions - Crypto Briefing [1]
+
+2. Peter Thiel’s Founders Fund raises record $6B to back late-stage AI startups: report - Tech Funding News [2]
+
+3. China blocks Meta’s $2B acquisition of agentic AI startup Manus: report - Tech Funding News [3]
+
+4. flyExclusive’s Jet.AI merger registration declared effective By Investing.com - Investing.com India [4]
+
+5. Anthropic rolls out financial services agents as arms race with OpenAI heats up - InvestmentNews [5]
+
+6. Exclusive: OpenAI Says This Is How Entrepreneurs Are Actually Using ChatGPT - inc.com [6]
+
+7. Anthropic CEO Dario Amodei, who Mythos AI model has sent shock waves across banks and financial instituti - The Times of India [7]
+
+8. Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue - the-decoder.com [8]
+
+9. Fresh Funding Could Make Anthropic The World’s Most Valuable AI Startup - Finimize [9]
+
+10. OpenAI, Anthropic JVs in discussions to acquire AI services firms, Reuters reports - Investing.com [10]
+
+Sources:
+[1] https://tinyurl.com/2bdyeaoa [2] https://tinyurl.com/26pmly35 [3] https://tinyurl.com/2yvz6wde [4] https://tinyurl.com/29naanv9 [5] https://tinyurl.com/265nbafd [6] https://tinyurl.com/2yn7plzk [7] https://tinyurl.com/27medx6l [8] https://tinyurl.com/22q843tb [9] https://tinyurl.com/2agbouxo [10] https://tinyurl.com/286tt5pd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 05, 2026
 News
 
