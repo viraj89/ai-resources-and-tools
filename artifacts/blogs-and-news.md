@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 07, 2026
+News
+
+1. SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit - Al Jazeera [1]
+
+2. Exclusive: OpenAI ropes in Raj Shamani for India creator-led ChatGPT campaign - Storyboard18 [2]
+
+3. The Trillion - Dollar IPO Wave: Epic Showdown of SpaceX, OpenAI, and Anthropic + "The Church and the Casino" Discussion - 36氪 [3]
+
+4. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [4]
+
+5. Exclusive: OpenAI turns to army of creators to drive AI adoption in India - Storyboard18 [5]
+
+6. OpenAI, Anthropic Take On India’s Tech Giants in High-Stakes AI Battle - outlookbusiness.com [6]
+
+7. United States Joins United Kingdom, Germany, And France As Worldwide Travel Industry Crisis Intensifies With Airline Cuts, AI Hotel Changes, And Sluggish Tourism Recovery: Exclusive - Travel And Tour World [7]
+
+8. AI could solve America's $39 trillion debt crisis—but only if U.S. abandons displaced workers: Yale - Fortune [8]
+
+9. Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think - CNBC [9]
+
+10. Anthropic Races OpenAI to Capture the Banking’s Services Core - PYMNTS.com [10]
+
+Sources:
+[1] https://tinyurl.com/2bccyyb3 [2] https://tinyurl.com/23wshqzn [3] https://tinyurl.com/23kbdwjh [4] https://tinyurl.com/28dubw7u [5] https://tinyurl.com/29tg9yor [6] https://tinyurl.com/2bslkc6h [7] https://tinyurl.com/2xjzxtrm [8] https://tinyurl.com/293pfx7o [9] https://tinyurl.com/29rpmlet [10] https://tinyurl.com/23qsftgu
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 06, 2026
 News
 
