@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 08, 2026
+News
+
+1. Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch [1]
+
+2. OpenAI And Anthropic’s Enterprise AI Push Challenges India’s Offshore IT Model - Open Source For You [2]
+
+3. EXCLUSIVE: The Trade Desk's Chief Strategy Officer Samantha Jacobson Is Heading to OpenAI - ADWEEK [3]
+
+4. Elon Musk is in court arguing that OpenAI abandoned its nonprofit model - marketplace.org [4]
+
+5. OpenAI, Anthropic, Musk Battle for AI Capital Edge - Gotrade [5]
+
+6. Anthropic deepens finance push with 10 new AI agents for banks, insurers - Yahoo Finance [6]
+
+7. Meta Pushes into Physical AI with Acquisition of Robotics AI Startup - THE Journal: Technological Horizons in Education [7]
+
+8. When Elon Musk wrote to his Neuralink associates: DeepMind is moving very fast, I am concerned OpenAI is - The Times of India [8]
+
+9. How ChatGPT and Sam Altman’s OpenAI have changed Silicon Valley’s housing market forever - The Times of India [9]
+
+10. Elon Musk's xAI discussed partnership with Mistral to try and rival OpenAI and Anthropic, report - Euronews.com [10]
+
+Sources:
+[1] https://tinyurl.com/23cmjzpg [2] https://tinyurl.com/2xqw2hzk [3] https://tinyurl.com/2yhwa5pp [4] https://tinyurl.com/25g9wqm5 [5] https://tinyurl.com/237gbbhz [6] https://tinyurl.com/25apvlwn [7] https://tinyurl.com/2xvrw3f7 [8] https://tinyurl.com/27ecvwul [9] https://tinyurl.com/24x75dyl [10] https://tinyurl.com/264ynb33
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 07, 2026
 News
 
