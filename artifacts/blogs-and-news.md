@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 09, 2026
+News
+
+1. SpaceX and Anthropic mega-IPOs could mark end of bull run, Bank of America suggests - CNBC [1]
+
+2. OpenAI and Anthropic just met with religious leaders at the ‘Faith-AI Covenant.’ Here’s why - Fast Company [2]
+
+3. Anthropic Valuation Could Eclipse OpenAI in $50 Billion Funding Round - PYMNTS.com [3]
+
+4. SoftBank cuts OpenAI-backed margin loan target from $10B to $6B - The American Bazaar [4]
+
+5. How a mother of Elon Musk’s children became a key witness in his lawsuit against OpenAI - CNN [5]
+
+6. Anthropic cozies up to Elon Musk, IBM makes its case to win in AI, and Cerebras has big IPO plans - SiliconANGLE [6]
+
+7. Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO - CoinDesk [7]
+
+8. Anthropic nears $1T valuation as Claude gains ground in enterprise race with OpenAI - Tech Funding News [8]
+
+9. Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence - CNBC [9]
+
+10. Anthropic increases Claude Code usage limits after SpaceX partnership - The Times of India [10]
+
+Sources:
+[1] https://tinyurl.com/2bg4gz7b [2] https://tinyurl.com/2aofqotj [3] https://tinyurl.com/26x4q6x9 [4] https://tinyurl.com/2axfj3me [5] https://tinyurl.com/26gv4jqd [6] https://tinyurl.com/22cd4sdb [7] https://tinyurl.com/29x8eyro [8] https://tinyurl.com/2bpg8ssv [9] https://tinyurl.com/25mbp4tj [10] https://tinyurl.com/25dgfgwz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 08, 2026
 News
 
