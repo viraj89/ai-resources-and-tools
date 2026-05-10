@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 10, 2026
+News
+
+1. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [1]
+
+2. Former OpenAI board members describe ‘extremely risky’ near-merger with Anthropic - New York Post [2]
+
+3. Elon Musk Calls Himself a Fool for Funding OpenAI at Trial - ColombiaOne.com [3]
+
+4. When OpenAI and Anthropic enter the market to 'grab business,' Palantir's true competitors have arrived. - Moomoo [4]
+
+5. OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today [5]
+
+6. xAI leases Colossus 1 supercomputer to Anthropic for $5B annually ahead of planned IPO - Crypto Briefing [6]
+
+7. Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups - CNBC [7]
+
+8. Elon Musk mulled Mistral deal to take on OpenAI and Anthropic, reports say - Sifted [8]
+
+9. Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud - The New Stack [9]
+
+10. OpenAI and Anthropic LLMs Used in Critical Infrastructure Cyber-Attack, Warns Dragos - Infosecurity Magazine [10]
+
+Sources:
+[1] https://tinyurl.com/2dazgsp5 [2] https://tinyurl.com/2xlelpq8 [3] https://tinyurl.com/2b88kx7t [4] https://tinyurl.com/22ff7tb4 [5] https://tinyurl.com/2anpbq4g [6] https://tinyurl.com/247p7jj2 [7] https://tinyurl.com/23qs7l5p [8] https://tinyurl.com/29zoce8u [9] https://tinyurl.com/2539vxnc [10] https://tinyurl.com/29pqwso3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 09, 2026
 News
 
