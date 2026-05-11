@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 11, 2026
+News
+
+1. Anthropic, OpenAI execs meet Hindu and Sikh religious leaders as they try to make ethical AI - India Today [1]
+
+2. OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC [2]
+
+3. American billionaire Mark Cuban says AI has fundamental problem and expertise is still valuable because … - The Times of India [3]
+
+4. Anthropic and OpenAI sit down with religious leaders to seek ethical advice - the-decoder.com [4]
+
+5. OpenAI president’s private journal entries read aloud in Elon Musk lawsuit - Crypto Briefing [5]
+
+6. OpenAI president’s journal entries emerge in Musk lawsuit, rattling Worldcoin - Crypto Briefing [6]
+
+7. OpenAI, Anthropic workers fuel S.F. rental market surge downtown - San Francisco Business Times - The Business Journals [7]
+
+8. Elon Musk lawsuit puts OpenAI's internal writings and AI prompt logs under spotlight - The News International [8]
+
+9. AI startups Cohere, Aleph Alpha to merge with $600M in new funding - SiliconANGLE [9]
+
+10. How Amazon may have pushed Microsoft into backing OpenAI years before ChatGPT - The Indian Express [10]
+
+Sources:
+[1] https://tinyurl.com/286owr8a [2] https://tinyurl.com/2xhae6nd [3] https://tinyurl.com/26qf3v3v [4] https://tinyurl.com/28wfqspd [5] https://tinyurl.com/2ccqapge [6] https://tinyurl.com/2d3qzdnj [7] https://tinyurl.com/2b82ctsp [8] https://tinyurl.com/2xqd6tav [9] https://tinyurl.com/25mug92v [10] https://tinyurl.com/2c47cowo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 10, 2026
 News
 
