@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 12, 2026
+News
+
+1. Investment bank Lincoln International eyes $2 billion valuation in US IPO - Reuters [1]
+
+2. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [2]
+
+3. AI money is pushing San Francisco housing prices way up — even before the OpenAI and Anthropic IPOs - Business Insider [3]
+
+4. OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters [4]
+
+5. SoftBank's OpenAI-related debt in focus as another strong quarter expected - Reuters [5]
+
+6. Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO - WSJ [6]
+
+7. OpenAI launches professional services business with $4B investment - SiliconANGLE [7]
+
+8. GOP lawmakers scrutinize Sam Altman’s business dealings ahead of OpenAI IPO - WSJ - Investing.com [8]
+
+9. Satya Nadella took the stand in the Musk-OpenAI trial over Microsoft's early role in funding OpenAI - qz.com [9]
+
+10. OpenAI takes lion’s share of NVIDIA’s $40B investment playbook. Here are the other startups it has backed - Tech Funding News [10]
+
+Sources:
+[1] https://tinyurl.com/28fg66q6 [2] https://tinyurl.com/262fg2cu [3] https://tinyurl.com/2bw7su43 [4] https://tinyurl.com/2a7tz4rk [5] https://tinyurl.com/27ybxkgs [6] https://tinyurl.com/28cua3b9 [7] https://tinyurl.com/26pauoum [8] https://tinyurl.com/22nj2aed [9] https://tinyurl.com/2284pmnv [10] https://tinyurl.com/24hjldw9
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 11, 2026
 News
 
