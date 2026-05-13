@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 13, 2026
+News
+
+1. Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google - The Information [1]
+
+2. Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless - Yahoo Finance [2]
+
+3. Microsoft CEO Takes the Stand in Musk's OpenAI Trial - BankInfoSecurity [3]
+
+4. OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment - CNBC [4]
+
+5. Anthropic's Mythos sends US banks rushing to plug cyber holes - Reuters [5]
+
+6. Japan's 3 megabanks set to use Anthropic's latest AI for cyber defense - Japan Wire by Kyodo News [6]
+
+7. Anthropic's Mythos AI is sending U.S. banks rushing to patch thousands of security holes - qz.com [7]
+
+8. Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless - Decrypt [8]
+
+9. BREAKING NEWS: Japan's 3 megabanks set to use Anthropic's Claude Mythos: sources - Japan Wire by Kyodo News [9]
+
+10. French startup White Circle secures $11M from OpenAI, Anthropic, DeepMind leaders to monitor and secure enterprise AI - Tech Funding News [10]
+
+Sources:
+[1] https://tinyurl.com/2xm8pdxf [2] https://tinyurl.com/26zy82lr [3] https://tinyurl.com/2dgry3xn [4] https://tinyurl.com/2y3vqnvx [5] https://tinyurl.com/286jyyks [6] https://tinyurl.com/246spv3z [7] https://tinyurl.com/25hjpnqx [8] https://tinyurl.com/2dogdmp2 [9] https://tinyurl.com/27ufr8l7 [10] https://tinyurl.com/2yljxwnj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 12, 2026
 News
 
