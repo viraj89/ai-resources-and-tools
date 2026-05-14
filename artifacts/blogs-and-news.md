@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 14, 2026
+News
+
+1. Microsoft (MSFT) Seeks AI Startup Acquisition to Reduce OpenAI D - GuruFocus [1]
+
+2. Americans are telling AI startups to slow down and earn trust - Startup Fortune [2]
+
+3. Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters [3]
+
+4. Anthropic now has more business customers than OpenAI, according to Ramp data - TechCrunch [4]
+
+5. Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead - Venturebeat [5]
+
+6. Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid - CoinDesk [6]
+
+7. OpenAI just lost its enterprise AI crown to Anthropic - Business Insider [7]
+
+8. Anthropic Just Overtook OpenAI in Enterprise Adoption — And Businesses Should Pay Attention - Times Square Chronicles [8]
+
+9. Microsoft exploring AI startup deals to reduce dependence on OpenAI: Report - Indiatimes [9]
+
+10. Microsoft Shops For AI Startups To Reduce Its OpenAI Reliance - Finimize [10]
+
+Sources:
+[1] https://tinyurl.com/27ad7aqa [2] https://tinyurl.com/2yekppp5 [3] https://tinyurl.com/259wpoc8 [4] https://tinyurl.com/26v4lpza [5] https://tinyurl.com/26zxxdrj [6] https://tinyurl.com/24wzcaqd [7] https://tinyurl.com/23fral25 [8] https://tinyurl.com/2dbly79l [9] https://tinyurl.com/22dm8std [10] https://tinyurl.com/28zxlee8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 13, 2026
 News
 
