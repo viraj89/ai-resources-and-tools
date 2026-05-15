@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 15, 2026
+News
+
+1. On Day 1 of Trump's China visit, Anthropic just 'reminded' America why it should not sell top-end chips t - The Times of India [1]
+
+2. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [2]
+
+3. Tech stocks today: Cerebras stages blockbuster IPO amid AI frenzy, Musk v. OpenAI closing arguments begin - Yahoo Finance [3]
+
+4. Fiserv has co-created AI agents with six banks and OpenAI - American Banker [4]
+
+5. Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI - Al Jazeera [5]
+
+6. OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount - Decrypt [6]
+
+7. OpenAI asks macOS users to update after TanStack npm supply chain attack - The Record from Recorded Future News [7]
+
+8. Elon Musk’s lawsuit over OpenAI continues at a federal courthouse in Oakland - Honolulu Star-Advertiser [8]
+
+9. Elon Musk tried to ‘tie OpenAI in knots’ with baseless lawsuit, start-up’s lawyer says - Financial Times [9]
+
+10. US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit - Reuters [10]
+
+Sources:
+[1] https://tinyurl.com/23xoqrcn [2] https://tinyurl.com/28dubw7u [3] https://tinyurl.com/27fpyaj6 [4] https://tinyurl.com/26qfd2lw [5] https://tinyurl.com/28buy5n5 [6] https://tinyurl.com/2xomtkjy [7] https://tinyurl.com/2y8rplje [8] https://tinyurl.com/2a52aj32 [9] https://tinyurl.com/2am76k3f [10] https://tinyurl.com/26que7ck
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 14, 2026
 News
 
