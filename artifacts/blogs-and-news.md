@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 16, 2026
+News
+
+1. Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding - WSJ [1]
+
+2. The 5 most unhinged revelations from Elon Musk’s lawsuit against OpenAI - vox.com [2]
+
+3. Nadella’s Courtroom Defense Highlights Microsoft’s Deep Stake in OpenAI Amid Musk Lawsuit - Redmond Channel Partner [3]
+
+4. Court grants Musk’s bid to add Craig Federighi to Apple/OpenAI lawsuit, spares Cook - 9to5Mac [4]
+
+5. Anthropic employees refused to sell their shares, here's the one number that explains why - The Times of India [5]
+
+6. Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America - Business Insider [6]
+
+7. Anthropic Warns US Risks Losing AI Edge to China Over Chips - BankInfoSecurity [7]
+
+8. Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO - Tom's Hardware [8]
+
+9. OpenAI now lets ChatGPT Pro users link their bank accounts - Cryptopolitan [9]
+
+10. Elon Musk's xAI discussed partnership with Mistral to try and rival OpenAI and Anthropic, report - Euronews.com [10]
+
+Sources:
+[1] https://tinyurl.com/24t5klv5 [2] https://tinyurl.com/24ydrogu [3] https://tinyurl.com/2cfhfgua [4] https://tinyurl.com/2bch4yjj [5] https://tinyurl.com/2bjcflqb [6] https://tinyurl.com/28wl2goc [7] https://tinyurl.com/26uyzcmq [8] https://tinyurl.com/276fq3bf [9] https://tinyurl.com/26pp2suv [10] https://tinyurl.com/264ynb33
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 15, 2026
 News
 
