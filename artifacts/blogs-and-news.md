@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 18, 2026
+News
+
+1. Anthropic and OpenAI’s Share of AI Startup Revenues Rises to 89% - The Information [1]
+
+2. OpenAI offers free ChatGPT plus access to all Maltese citizens - The American Bazaar [2]
+
+3. High-stakes Musk lawsuit against OpenAI reaches jury phase - Latest news from Azerbaijan [3]
+
+4. Jury Weighs Musk Lawsuit Against OpenAI and Microsoft - Let's Data Science [4]
+
+5. Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic - Taipei Times [5]
+
+6. OpenAI Faces New Valuation Hurdle in $1 Trillion IPO Push - TechStock² [6]
+
+7. OpenAI CEO Sam Altman says ChatGPT Images 2.0 ‘loves India’ as users create 1 billion images: Biggest tre - The Times of India [7]
+
+8. Three thoughts on the Musk-OpenAI lawsuit - Marcus on AI | Substack [8]
+
+9. Who is Krishna Rao? Meet the Indian-origin Anthropic CFO leading billion-dollar AI funding, compute deals - Storyboard18 [9]
+
+10. What Is Broadcom? The Unknown Company Building the AI Chips Powering Google, Anthropic, OpenAI and Meta - International Business Times [10]
+
+Sources:
+[1] https://tinyurl.com/27z3mk94 [2] https://tinyurl.com/26v7xj2z [3] https://tinyurl.com/23xhz79t [4] https://tinyurl.com/2c8p6vu3 [5] https://tinyurl.com/2c7ykzk5 [6] https://tinyurl.com/2csmq32m [7] https://tinyurl.com/2ynls4pd [8] https://tinyurl.com/22cnoecs [9] https://tinyurl.com/2c9kgm22 [10] https://tinyurl.com/28lgsqyf
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 17, 2026
 News
 
