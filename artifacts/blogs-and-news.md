@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 19, 2026
+News
+
+1. OpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO - Reuters [1]
+
+2. OpenAI launches Plaid integration for ChatGPT Pro users - American Banker [2]
+
+3. Top AI startups in Spain 2026: The companies attracting most investment - Tech Funding News [3]
+
+4. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [4]
+
+5. Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare - TechCrunch [5]
+
+6. Elon Musk Loses Landmark Lawsuit Against OpenAI - WIRED [6]
+
+7. Elon Musk loses US lawsuit against OpenAI - Al Jazeera [7]
+
+8. Federal court rejects Elon Musk’s claims against OpenAI, saying he filed his lawsuit too late - AP News [8]
+
+9. OpenAI trial: Jury tosses out Elon Musk's lawsuit against Sam Altman - NBC Bay Area [9]
+
+10. All of Musk’s claims in lawsuit against OpenAI dismissed in federal trial - The Washington Post [10]
+
+Sources:
+[1] https://tinyurl.com/28hecxq6 [2] https://tinyurl.com/23eln42g [3] https://tinyurl.com/227kcxoz [4] https://tinyurl.com/2dazgsp5 [5] https://tinyurl.com/24sjfkl8 [6] https://tinyurl.com/28fwo79k [7] https://tinyurl.com/29yxhot3 [8] https://tinyurl.com/2ywnqudm [9] https://tinyurl.com/2c4xtecc [10] https://tinyurl.com/2ar66xek
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 18, 2026
 News
 
