@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 22, 2026
+News
+
+1. As OpenAI and Anthropic soar, where do India’s AI startups stand? - Mint [1]
+
+2. Exclusive: OpenAI’s Altman Talks to Staff About IPO Timing - The Information [2]
+
+3. EXCLUSIVE: British Business Bank backs new UK-dedicated VC fund - UKTN [3]
+
+4. Exclusive: Starbucks scraps AI inventory tool across North America - Reuters [4]
+
+5. The AI-Native Enterprise Services Firm Backed by Anthropic, Blackstone, and Hellman & Friedman Announces Acquisition of Fractional AI - Business Wire [5]
+
+6. Checking the math behind OpenAI and Anthropic’s latest headlines - Marcus on AI | Substack [6]
+
+7. OpenAI makes breakthrough in 80-year-old math problem with ‘ingenious ideas’ - New York Post [7]
+
+8. Pre-IPO, Anthropic Shows Up OpenAI with Surprise Profit Projection - The Daily Upside [8]
+
+9. OpenAI will be pressed to IPO before Anthropic, says Big Technology's Kantrowitz - CNBC [9]
+
+10. OpenAI reportedly readying blockbuster IPO - KRON4 [10]
+
+Sources:
+[1] https://tinyurl.com/ynqt9bvj [2] https://tinyurl.com/yws8jgcy [3] https://tinyurl.com/yqrbcoe2 [4] https://tinyurl.com/ynhvuexy [5] https://tinyurl.com/ynlqbqy8 [6] https://tinyurl.com/yt2uvphe [7] https://tinyurl.com/yrkugg34 [8] https://tinyurl.com/yty7cc7g [9] https://tinyurl.com/ynexsrny [10] https://tinyurl.com/ynajny35
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 21, 2026
 News
 
