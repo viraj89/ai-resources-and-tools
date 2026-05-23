@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 23, 2026
+News
+
+1. Anthropic nears US$30 billion funding round to top OpenAI as most valuable AI startup - The Business Times [1]
+
+2. How OpenAI, SpaceX, Anthropic IPOs push tech forward: Dan Ives - Yahoo Finance [2]
+
+3. Weekly tech news: Musk lawsuit verdict, Anthropic acquisition, Meta layoffs and billions for quantum - TechTarget [3]
+
+4. SpaceX IPO Expansion: Why is Musk Rushing a $60B Acquisition of AI Startup Cursor? - TradingKey [4]
+
+5. APAC data centre investment reaches record USD 11.6 billion as AI demand drives expansion towards India, Malaysia and Australia - Prop News Time [5]
+
+6. How VCs and founders use inflated ‘ARR’ to crown AI startups - TechCrunch [6]
+
+7. Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats - CNBC [7]
+
+8. Anthropic looks 'more stable' to me than OpenAI, says New York University’s Gary Marcus - CNBC [8]
+
+9. SoftBank Stock Spikes as OpenAI Prepares for Historic IPO - Barchart.com [9]
+
+10. SpaceX, OpenAI, Anthropic: Investors are 'better off' waiting for IPOs - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/2b7rtt84 [2] https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjcxTnhxVmI2eGc2aFRrcmNGcFRZanFpS3NzeTdVbVFPRUhtZm90aWNjOTJabFgyWnZWSk9aT1RSZG5SMHFnV0tNaEdEYVM4T1VDdXdIREZ0TUtsMS1CcFE4dVBhWUhlTTI1eHpjLWFjQ3dVWDBsbWo3OGRMdFN2TkI3UVdJcDg?oc=5 [3] https://tinyurl.com/223tnlcp [4] https://tinyurl.com/2bx48ztd [5] https://tinyurl.com/2dgefubg [6] https://tinyurl.com/25em8ldx [7] https://tinyurl.com/ywa3qtb5 [8] https://tinyurl.com/2yp76vrz [9] https://tinyurl.com/2cposdmn [10] https://tinyurl.com/22n2q78f
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 22, 2026
 News
 
