@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 24, 2026
+News
+
+1. Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI as Most Valuable AI Startup - Tech Times [1]
+
+2. SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom - Financial Times [2]
+
+3. OpenAI faces IPO unknowns even after victory over Elon Musk - The Seattle Times [3]
+
+4. ‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall Street trading frenzy - Financial Times [4]
+
+5. Elon Musk has lost his lawsuit against Sam Altman and OpenAI - TechCrunch [5]
+
+6. Jury throws out Elon Musk’s lawsuit against OpenAI and Sam Altman in less than two hours - NBC News [6]
+
+7. Wall Street May Not Be Ready For What Happens If SpaceX, OpenAI And Anthropic Hit Public Markets Under Nasdaq's 'Fast Entry' Rules, Says Top Bank - Yahoo Finance [7]
+
+8. Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter - WSJ [8]
+
+9. Fears and frenzy mount as SpaceX, OpenAI and Anthropic prepare for a $4T AI IPO wave - TradingView [9]
+
+10. SpaceX IPO filing reveals Anthropic set to pay Musk's firm $1.25bn a month to rent xAI data center space - Data Center Dynamics [10]
+
+Sources:
+[1] https://tinyurl.com/2xmqxqw9 [2] https://tinyurl.com/23mrzonu [3] https://tinyurl.com/2ycuvpyf [4] https://tinyurl.com/yl8nrhrp [5] https://tinyurl.com/25b8lcus [6] https://tinyurl.com/2dzbtfhc [7] https://tinyurl.com/2c9kkk2x [8] https://tinyurl.com/yoa6k52h [9] https://tinyurl.com/25qmvxla [10] https://tinyurl.com/2xnlah48
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 23, 2026
 News
 
