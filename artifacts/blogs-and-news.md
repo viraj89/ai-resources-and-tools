@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 25, 2026
+News
+
+1. How Vibe Slop And Fragile Economics could impact Mega IPO for OpenAI and Anthropic - The American Bazaar [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age - Business Insider [3]
+
+4. SoftBank Group (TSE:9984) Is Up 17.6% After Earnings Beat And OpenAI IPO Buzz - Has The Bull Case Changed? - Yahoo Finance [4]
+
+5. Weekend Round-Up: Nvidia's Q1 Triumph, SpaceX's IPO Filing, Musk's OpenAI Controversy, Google's AI Leap A - Benzinga [5]
+
+6. Exclusive | Bristol-Myers Squibb Brings Anthropic’s Claude to 30,000 of Its Staff - WSJ [6]
+
+7. Exclusive | Vatican taps 'atheist' Anthropic cofounder to speak at AI event as tensions with Trump White House rise - New York Post [7]
+
+8. Anthropic likely in talks to use Microsoft's AI chips - varindia.com [8]
+
+9. Tech ETFs to Buy as Microsoft, Anthropic Eye Custom AI Chip Deal - Zacks Investment Research [9]
+
+10. Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence - CNBC [10]
+
+Sources:
+[1] https://tinyurl.com/28726gue [2] https://tinyurl.com/2buvqcar [3] https://tinyurl.com/24npsrgo [4] https://tinyurl.com/23todyuf [5] https://tinyurl.com/2df8j7ba [6] https://tinyurl.com/ytcv3xzn [7] https://tinyurl.com/2a7v47m2 [8] https://tinyurl.com/2xz4fzgc [9] https://tinyurl.com/29978936 [10] https://tinyurl.com/25mbp4tj
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 24, 2026
 News
 
