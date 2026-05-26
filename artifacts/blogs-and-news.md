@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 26, 2026
+News
+
+1. SoftBank Shares Hit Record With Lift From OpenAI IPO Hopes - Bloomberg.com [1]
+
+2. SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day - Yahoo Finance [2]
+
+3. SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the day - MSN [3]
+
+4. US Stock Market: SpaceX, OpenAI IPO excitement revives debate over lofty valuations - The Economic Times [4]
+
+5. AI startups Cohere, Aleph Alpha to merge with $600M in new funding - SiliconANGLE [5]
+
+6. Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud - The New Stack [6]
+
+7. Anthropic and OpenAI’s Share of AI Startup Revenues Rises to 89% - The Information [7]
+
+8. Exclusive: Martha Stewart’s new AI startup wants to manage your home before things break - Fortune [8]
+
+9. Billboards for AI startups lift outdoor industry in San Francisco - San Francisco Business Times - The Business Journals [9]
+
+10. UK AI startup Scope raises €17.3 million funding led by Index Ventures to speed up industrial inspection workflows - EU-Startups [10]
+
+Sources:
+[1] https://tinyurl.com/26qp7b26 [2] https://tinyurl.com/294orcng [3] https://tinyurl.com/2d4vvgqq [4] https://tinyurl.com/2bmvg7cg [5] https://tinyurl.com/25mug92v [6] https://tinyurl.com/2539vxnc [7] https://tinyurl.com/27z3mk94 [8] https://tinyurl.com/2aetw7e9 [9] https://tinyurl.com/23klmhs4 [10] https://tinyurl.com/yoeey3ry
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 25, 2026
 News
 
