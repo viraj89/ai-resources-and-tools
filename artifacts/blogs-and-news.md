@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 27, 2026
+News
+
+1. Exclusive research: Banks up AI investment to cut costs - American Banker [1]
+
+2. 36Kr Exclusive: Men's Beauty Brand "GREENLAB" Gets Strategic Investment from Baoding Venture Capital, ZHANG Yaodong Appointed as Company Director - 36Kr [2]
+
+3. SoftBank hires banks for US IPOs of SB Energy and AI robotics spinoff Roze, sources say - Reuters [3]
+
+4. Anthropic asks religious thinkers to help shape Claude as pope warns about AI - Scientific American [4]
+
+5. Who will win the AI IPO race between SpaceX, Anthropic and OpenAI? - The Week [5]
+
+6. AI Stocks: SpaceX, OpenAI IPO Buzz Fuel Next Leg Of Rally. Salesforce, Snowflake Earnings Due. - Investor's Business Daily [6]
+
+7. OpenAI's Historic US$1tn IPO Plan and the Looming AI Bubble - AI Magazine [7]
+
+8. SpaceX, OpenAI, and Anthropic IPOs: Can Wall Street Finance the AI Boom? - HPCwire [8]
+
+9. Space X, OpenAI, Anthropic IPOs Could Mark The Bull Market Top, Mike Novogratz Warns - Benzinga [9]
+
+10. OpenAI’s Breakthrough On Famed Math Problem Actually Proves That Using AI To Find Counterexamples Is A Smart Strategy For Everyone - Forbes [10]
+
+Sources:
+[1] https://tinyurl.com/266we7sm [2] https://tinyurl.com/22pqkkwm [3] https://tinyurl.com/2br5ybws [4] https://tinyurl.com/22b3dt7z [5] https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnhmSGtEWkI0Zm1EUUd1WS1YTDdtOV9Oa1dIaFZQd3ZkNnR3blpBdzVhVDZ4V2ZkRlB6M3JDbHZFRUxXUVE4OE5sSFVvYXhRLVlnLUg2OVBPXy14V0w1VGs5WW00OGxJVmJyaWpja1ZKVDgyQXBUT1dMdmZxcGUxdG1B?oc=5 [6] https://tinyurl.com/2dyttjz6 [7] https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNkNmdzBYQllTbEdYczhqTGlNaUVoOGZFOUFuR1RnT1ZFM0x3Q1NuTXpwMVlKS2VIR2hEYzMtVF9sWHFjQXk0RFV5cHpORVJNN3VXakFfZm9SeE1CYWlRdHZEOA?oc=5 [8] https://tinyurl.com/23fhdnwc [9] https://tinyurl.com/27rzqj99 [10] https://tinyurl.com/27aduz8t
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 26, 2026
 News
 
