@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 28, 2026
+News
+
+1. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [1]
+
+2. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [2]
+
+3. Exclusive: OpenAI readies cyber, misinformation defenses ahead of elections - Axios [3]
+
+4. SpaceX, OpenAI, and Anthropic IPOs: Can Wall Street Finance the AI Boom? - HPCwire [4]
+
+5. 75% of Americans say they would trust AI shopping recommendations less if results were sponsored — which means OpenAI just made a decision that could structurally damage the thing that makes it valuable - Space Daily [5]
+
+6. Bitcoin Falls Below $75K – SpaceX, OpenAI, Anthropic IPOs Are ‘Draining’ Liquidity From Crypto, Says Analyst - Stocktwits [6]
+
+7. Michael Burry Compares OpenAI, Anthropic, SpaceX IPO Hype To Dot-Com Bubble - Benzinga [7]
+
+8. Anthropic’s top 10 hires of 2026 as it lures talent from OpenAI, Google, xAI and Microsoft - Tech Funding News [8]
+
+9. Elon Musk mulled Mistral deal to take on OpenAI and Anthropic, reports say - Sifted [9]
+
+10. Investment firm accused of ‘surveilling’ AI startup founder - Courthouse News [10]
+
+Sources:
+[1] https://tinyurl.com/2dazgsp5 [2] https://tinyurl.com/262fg2cu [3] https://tinyurl.com/23kd9l89 [4] https://tinyurl.com/2barhzvy [5] https://tinyurl.com/283h2j8q [6] https://tinyurl.com/23tkeusn [7] https://tinyurl.com/29gqvfd5 [8] https://tinyurl.com/2yuak877 [9] https://tinyurl.com/29zoce8u [10] https://tinyurl.com/2657xvw2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 27, 2026
 News
 
