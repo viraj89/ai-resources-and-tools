@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 29, 2026
+News
+
+1. Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model - Business Insider [1]
+
+2. Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up - Yahoo Finance [2]
+
+3. Anthropic Surpasses OpenAI, Nears $1 Trillion Valuation With New Funding Round - Investor's Business Daily [3]
+
+4. Anthropic tops OpenAI to become the world’s most valuable AI startup - The Business Times [4]
+
+5. Anthropic becomes most valuable AI startup, beats OpenAI with near $1T valuation - India Today [5]
+
+6. Exclusive | OpenAI Is Preparing to File for an IPO Very Soon - WSJ [6]
+
+7. Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC [7]
+
+8. Anthropic overtakes OpenAI as the most valuable AI startup - Axios [8]
+
+9. The seller of a $2.9 million San Francisco home is accepting payment in Anthropic or OpenAI stock - Business Insider [9]
+
+10. Anthropic hits $965B valuation with latest funding round, overtaking OpenAI - The Hill [10]
+
+Sources:
+[1] https://tinyurl.com/2bp36tx9 [2] https://tinyurl.com/2axtwbgh [3] https://tinyurl.com/2dk9sdze [4] https://tinyurl.com/2daxawoq [5] https://tinyurl.com/2avrss6h [6] https://tinyurl.com/2burkvry [7] https://tinyurl.com/29zugu2a [8] https://tinyurl.com/2cqzb2xe [9] https://tinyurl.com/26pqhtvd [10] https://tinyurl.com/25aq2kh3
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 28, 2026
 News
 
