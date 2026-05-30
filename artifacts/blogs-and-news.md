@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 30, 2026
+News
+
+1. OpenAI Has Discussed Adding Citigroup, JPMorgan to Bank Lineup for IPO - Bloomberg.com [1]
+
+2. Anthropic just topped OpenAI on a major metric ahead of rival IPOs - Fast Company [2]
+
+3. OpenAI Has Discussed Adding Citigroup, JPmorgan To Bank Lineup For IPO - Bloomberg News - TradingView [3]
+
+4. Anthropic Overtakes OpenAI as Most Valuable AI Startup Following $65 Billion Funding Round - citybiz [4]
+
+5. Anthropic beats Sam Altman's OpenAI to become world's most valuable AI startup - The Times of India [5]
+
+6. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [6]
+
+7. How Anthropic used its AI ethicslop to play the pope and eclipse OpenAI - bloodinthemachine.com [7]
+
+8. Exclusive: OpenAI launches biodefense program - Axios [8]
+
+9. Anthropic just eclipsed OpenAI - The Rundown AI [9]
+
+10. Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know. - Investor's Business Daily [10]
+
+Sources:
+[1] https://tinyurl.com/2cmkdvqn [2] https://tinyurl.com/232cld2u [3] https://tinyurl.com/2ygvxayo [4] https://tinyurl.com/276ncvy3 [5] https://tinyurl.com/2by9b9ph [6] https://tinyurl.com/28dubw7u [7] https://tinyurl.com/25cmqrg7 [8] https://tinyurl.com/2yyblln5 [9] https://tinyurl.com/24maqfcq [10] https://tinyurl.com/29sqjpgo
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 29, 2026
 News
 
