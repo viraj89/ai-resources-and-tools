@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News May 31, 2026
+News
+
+1. OpenAI has discussed adding Citigroup, JPMorgan to bank lineup for IPO - Indiatimes [1]
+
+2. After OpenAI, SoftBank plans investment in French AI centers - The Times of India [2]
+
+3. Anthropic becomes world’s most valuable AI startup after $65bn funding boost - Arabian Business [3]
+
+4. Wall Street Wants You to Chase the SpaceX, Anthropic, and OpenAI IPO Hype. History Tells Us That’s a Dangerous Game. - Yahoo Finance [4]
+
+5. Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance [5]
+
+6. How Did Anthropic Become More Valuable Than OpenAI? Here’s the Answer, in Just 1 Word - inc.com [6]
+
+7. OpenAI and Anthropic unveil multi-agent autonomous features for enterprise use - Crypto Briefing [7]
+
+8. OpenAI, Anthropic CEOs walk back AI job warnings as IPOs loom - HR Executive [8]
+
+9. Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation - Financial Times [9]
+
+10. Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With $65B Funding Round - Crunchbase News [10]
+
+Sources:
+[1] https://tinyurl.com/24gf2pba [2] https://tinyurl.com/26fke2qx [3] https://tinyurl.com/2ax7dg8t [4] https://tinyurl.com/23356t6v [5] https://tinyurl.com/2yl4ojpl [6] https://tinyurl.com/2667qty8 [7] https://tinyurl.com/26o6c39n [8] https://tinyurl.com/24rhj2mo [9] https://tinyurl.com/27lr436f [10] https://tinyurl.com/2xl4e2wa
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 30, 2026
 News
 
