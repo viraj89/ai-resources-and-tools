@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 01, 2026
+News
+
+1. Anthropic overtakes OpenAI as the world's most valuable startup after latest funding round - India Today [1]
+
+2. US Morning News Call | Anthropic Overtakes OpenAI as World's Most Valuable AI Startup - Moomoo [2]
+
+3. My guide to the IPOs of SpaceX, OpenAI and Anthropic — including the one I really want to buy - CNBC [3]
+
+4. Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip - Bloomberg.com [4]
+
+5. Nvidia Delivers Vera CPUs to Anthropic and OpenAI - Let's Data Science [5]
+
+6. Anthropic overtakes OpenAI with $965 billion valuation after $65 billion funding round - Storyboard18 [6]
+
+7. Anthropic Overtakes OpenAI As World’s Most Valuable AI Startup At $965B - Yellow.com [7]
+
+8. After AI, Sam Altman and Elon Musk headed for a new battle as OpenAI Robotics hiring starts - The Times of India [8]
+
+9. Did Anthropic Just Say "Checkmate" to OpenAI? - The Motley Fool [9]
+
+10. Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon - Fortune [10]
+
+Sources:
+[1] https://tinyurl.com/2cragmj9 [2] https://tinyurl.com/25shnm7d [3] https://tinyurl.com/297lcvnc [4] https://tinyurl.com/295uwngw [5] https://tinyurl.com/2yz6u77e [6] https://tinyurl.com/2czozm2j [7] https://tinyurl.com/2bakpp5j [8] https://tinyurl.com/29y5uxu8 [9] https://tinyurl.com/2c8gcxjg [10] https://tinyurl.com/2ag5owtv
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News May 31, 2026
 News
 
