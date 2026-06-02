@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 02, 2026
+News
+
+1. Anthropic files for IPO as AI startup behind ‘Claude’ prepares historic US stock market debut - The Indian Express [1]
+
+2. Anthropic IPO: AI Startup Takes 'Major Step' In Race To Go Public Vs. OpenAI - Investor's Business Daily [2]
+
+3. Anthropic beats OpenAI to blockbuster IPO filing - Mashable [3]
+
+4. Anthropic confidentially files its S-1 first—but the IPO race with OpenAI is just beginning - Fortune [4]
+
+5. The AI IPO race is on: Anthropic confidentially files after surpassing OpenAI in valuation - San Francisco Business Times - The Business Journals [5]
+
+6. Anthropic confidentially files for US IPO, beating OpenAI - Yahoo Finance [6]
+
+7. Anthropic Just Beat OpenAI in the IPO Race - Gizmodo [7]
+
+8. Exclusive | Gavin Newsom’s AI insiders set for $250M payday from Anthropic’s blockbuster IPO - New York Post [8]
+
+9. Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal - CNBC [9]
+
+10. AI giant Anthropic files for US IPO as investors bet big on AI future - Al Jazeera [10]
+
+Sources:
+[1] https://tinyurl.com/25yfogxm [2] https://tinyurl.com/249k74lz [3] https://tinyurl.com/27a2ah4y [4] https://tinyurl.com/2b667wps [5] https://tinyurl.com/223jh7x3 [6] https://tinyurl.com/244feuoo [7] https://tinyurl.com/28nc6d8d [8] https://tinyurl.com/23kaztob [9] https://tinyurl.com/2aq3poyq [10] https://tinyurl.com/23eolrpy
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 01, 2026
 News
 
