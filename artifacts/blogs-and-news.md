@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 03, 2026
+News
+
+1. Genius Group Completes First Investments for its AI Treasury with Pre-IPO exposure to SpaceX, Anthropic and OpenAI - marketscreener.com [1]
+
+2. OpenAI and Anthropic battle for UK banks’ trust - eMarketer [2]
+
+3. AI startup Anthropic files for IPO after reaching $965 billion valuation - Business - France 24 [3]
+
+4. Exclusive: The maths teacher who bootstrapped an AI startup to £1.6M before taking a penny of VC just raised £2M to fix AI's broken data pipeline — TFN - Tech Funding News [4]
+
+5. Salesforce’s Anthropic Stake Reaches $5 Bn Ahead of AI Startup’s IPO Filing - Analytics India Magazine [5]
+
+6. Anthropic, OpenAI, and SpaceX eye market-moving IPOs. - Business Insider [6]
+
+7. Look Who Just Crashed OpenAI and SoftBank’s IPO Party - Bloomberg.com [7]
+
+8. Exclusive-SpaceX plans to price record-setting IPO at $135 per share, source says - The Mighty 790 KFGO [8]
+
+9. After Anthropic, OpenAI launches Codex plugins to automate banking, sales and other white-collar jobs - India Today [9]
+
+10. Overseas Research Selection | Bank of America Outlook on the Semiconductor Industry: AI Investment Continues to Expand, Potentially Reshaping the Memory Cycle Dynamics - Moomoo [10]
+
+Sources:
+[1] https://tinyurl.com/2aff8rdr [2] https://tinyurl.com/2ccfstg3 [3] https://tinyurl.com/2d3g3hn8 [4] https://tinyurl.com/22ucshm4 [5] https://tinyurl.com/2xwv3khc [6] https://tinyurl.com/239cwbpn [7] https://tinyurl.com/2xzqpsoq [8] https://tinyurl.com/2dekulls [9] https://tinyurl.com/29qjpej3 [10] https://tinyurl.com/2b8k7oxd
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 02, 2026
 News
 
