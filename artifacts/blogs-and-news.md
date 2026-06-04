@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 04, 2026
+News
+
+1. #MCExclusive 🚨| Should you bet on OpenAI, SpaceX and Anthropic, or bet on India? Sachee Trivedi , Founder and Director of Trident Capital Investments in conversation with Mahalakshmi Narayanaswamy #AI #IPO #Markets - LinkedIn [1]
+
+2. Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened - Crunchbase News [2]
+
+3. Exclusive: SpaceX plans to set IPO price at $135 per share, targeting record $75 billion raise, source says - Reuters [3]
+
+4. Why It Matters if OpenAI or Anthropic Wins the IPO Race - WSJ [4]
+
+5. Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public - NBC News [5]
+
+6. OpenAI and CEO Sam Altman Accused of Prioritizing Profit Over Safety in Lawsuit - Security Magazine [6]
+
+7. Anthropic files confidential IPO paperwork ahead of OpenAI - Yahoo Finance [7]
+
+8. Exclusive: Office workers embrace OpenAI's Codex - MSN [8]
+
+9. Microsoft tells engineers to stop using Anthropic's Claude, as canceling Claude Code licenses becomes an - The Times of India [9]
+
+10. Anthropic Files to Go Public in Blockbuster Year for IPOs - WSJ [10]
+
+Sources:
+[1] https://tinyurl.com/257uvqjt [2] https://tinyurl.com/28q3euq8 [3] https://tinyurl.com/297swawt [4] https://tinyurl.com/27rpn6xr [5] https://tinyurl.com/25j5h8ja [6] https://tinyurl.com/2y4z5gep [7] https://tinyurl.com/28hylo75 [8] https://tinyurl.com/2dnhfyb3 [9] https://tinyurl.com/2y7gxr8o [10] https://tinyurl.com/26uvvm6l
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 03, 2026
 News
 
