@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 05, 2026
+News
+
+1. Will they return? The future of US venture capital rests on SpaceX, OpenAI and Anthropic IPOs - Global Venturing [1]
+
+2. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [2]
+
+3. OliX Pharmaceuticals Secures KRW 110 Billion Investment from BOLD, L’Oréal Corporate Venture Capital Fund, and Weiss, U.S. Hedge Fund - Business Wire [3]
+
+4. $960 Billion: Anthropic Beats OpenAI to the IPO Filing in a Race That Could Reshape AI Investing - Yahoo Finance [4]
+
+5. This Cheap Foreign AI Is Stealing US Business from OpenAI and Anthropic - BeInCrypto [5]
+
+6. $960 Billion: Anthropic Beats OpenAI to the IPO Filing in a Race That Could Reshape AI Investing - 24/7 Wall St. [6]
+
+7. Should You Buy Leading AI Stocks Today -- Or Wait to Invest in SpaceX, Anthropic, and OpenAI's Supersized IPOs? - The Motley Fool [7]
+
+8. Sam Altman says OpenAI’s top user consumes 100 billion tokens a month - The American Bazaar [8]
+
+9. Mega-IPO Wave: How to Play SpaceX, OpenAI, Anthropic - Gotrade [9]
+
+10. What Anthropic and OpenAI IPOs spell for CIOs’ AI budgets - cio.com [10]
+
+Sources:
+[1] https://tinyurl.com/2yh3vhom [2] https://tinyurl.com/2dazgsp5 [3] https://tinyurl.com/2c3utp6a [4] https://tinyurl.com/27dompuq [5] https://tinyurl.com/2d4cc424 [6] https://tinyurl.com/25ejbfg3 [7] https://tinyurl.com/26rt7bkf [8] https://tinyurl.com/2yhw87tl [9] https://tinyurl.com/2c4q6fb9 [10] https://tinyurl.com/23eblxs6
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 04, 2026
 News
 
