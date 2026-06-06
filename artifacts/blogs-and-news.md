@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 06, 2026
+News
+
+1. Jet.AI sets June 15 record date for flyExclusive merger By Investing.com - Investing.com India [1]
+
+2. This AI startup says it saves $30,000 a month because of a quirk in OpenAI and Anthropic's pricing - Business Insider [2]
+
+3. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [3]
+
+4. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [4]
+
+5. Exclusive | OpenAI Is Preparing to File for an IPO Very Soon - WSJ [5]
+
+6. Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC [6]
+
+7. Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say - Reuters [7]
+
+8. Anthropic’s Daniela Amodei Charts Leaner A.I. Strategy as IPO Race With OpenAI Heats - observer.com [8]
+
+9. OpenAI and Anthropic's next lock-in play: Databases of coding intent - Business Insider [9]
+
+10. US officials discuss potential government equity stakes in OpenAI and Anthropic - Crypto Briefing [10]
+
+Sources:
+[1] https://tinyurl.com/27qetquf [2] https://tinyurl.com/22y5pytk [3] https://tinyurl.com/2buvqcar [4] https://tinyurl.com/262fg2cu [5] https://tinyurl.com/2burkvry [6] https://tinyurl.com/2cx44obs [7] https://tinyurl.com/2588kuwc [8] https://tinyurl.com/23swgt6y [9] https://tinyurl.com/22x8bcb7 [10] https://tinyurl.com/27ntxnfz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 05, 2026
 News
 
