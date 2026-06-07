@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 07, 2026
+News
+
+1. AI is designing OpenAI's next model, says SoftBank CEO amid Anthropic's call for AI slowdown - India Today [1]
+
+2. Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk - The Guardian [2]
+
+3. OpenAI and Anthropic share roughly 90 investors as both companies race toward IPOs - Crypto Briefing [3]
+
+4. Checking the math behind OpenAI and Anthropic’s latest headlines - Marcus on AI | Substack [4]
+
+5. Anthropic moves toward IPO, stepping up race with OpenAI - Reuters [5]
+
+6. Anthropic Just Gave Investors One More Reason To Avoid the SpaceX IPO - Yahoo Finance [6]
+
+7. Anthropic and White House ease tensions ahead of potential $1 trillion IPO - Crypto Briefing [7]
+
+8. Anthropic Pulls Ahead of OpenAI in High-Stakes Race for IPO Riches - Bloomberg [8]
+
+9. Anthropic confidentially files for IPO after raising $65 billion in a funding round at a $965 billion valuation - Fortune [9]
+
+10. Anthropic Files Confidentially for IPO in Race With OpenAI - Bloomberg [10]
+
+Sources:
+[1] https://tinyurl.com/2bxrutc6 [2] https://tinyurl.com/2doxgsyy [3] https://tinyurl.com/2dfezrhb [4] https://tinyurl.com/yt2uvphe [5] https://tinyurl.com/2dqnd67r [6] https://tinyurl.com/24d6vwvu [7] https://tinyurl.com/28bhlksa [8] https://tinyurl.com/28jx74rz [9] https://tinyurl.com/27ylvzar [10] https://tinyurl.com/2bgfpdjg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 06, 2026
 News
 
