@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 08, 2026
+News
+
+1. EXCLUSIVE: Anthropic, OpenAI, Databricks Or Canva? This Is The Most Anticipated IPO After SpaceX - Yahoo Finance [1]
+
+2. Jet.AI sets June 15 record date for flyExclusive merger By Investing.com - Investing.com Australia [2]
+
+3. Exclusive: Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says - Reuters [3]
+
+4. My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. - Business Insider [4]
+
+5. Meta's highest-paid employee Alexandr Wang sends 'health message' to Anthropic, OpenAI, Google and others - The Times of India [5]
+
+6. Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs - The Motley Fool [6]
+
+7. In Anthropic vs. OpenAI Race to IPO, First Doesn’t Necessarily Mean Best - The Information [7]
+
+8. This realtor is betting big on the AI IPO boom, but OpenAI and Anthropic have to approve first - Fortune [8]
+
+9. Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs - The Globe and Mail [9]
+
+10. Clive Chan Joins Anthropic After Helping Build Custom AI Chip Program At OpenAI - Pulse 2.0 [10]
+
+Sources:
+[1] https://tinyurl.com/2477zyyd [2] https://tinyurl.com/24ucfw3j [3] https://tinyurl.com/28dubw7u [4] https://tinyurl.com/25qhfr7z [5] https://tinyurl.com/2ax2egho [6] https://tinyurl.com/2ynn88z2 [7] https://tinyurl.com/2yjdpoq7 [8] https://tinyurl.com/24r7ntk5 [9] https://tinyurl.com/2dfm96ms [10] https://tinyurl.com/2xr43zbk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 07, 2026
 News
 
