@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 09, 2026
+News
+
+1. OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters [1]
+
+2. VIEW OpenAI joins Anthropic in IPO push - Reuters [2]
+
+3. OpenAI Files Confidentially For IPO A Week After AI Rival Anthropic - Investor's Business Daily [3]
+
+4. OpenAI not-so-confidentially submits for IPO filing just a week after Anthropic - 9to5Google [4]
+
+5. Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider [5]
+
+6. OpenAI and Anthropic File for IPOs in the Same Week. The AI Industry Just Changed. - Stark Insider [6]
+
+7. OpenAI follows Anthropic by filing for US IPO as AI companies aim to go public - The National [7]
+
+8. OpenAI plans to go public, intensifying investment race with Anthropic - Yahoo Finance Australia [8]
+
+9. OpenAI joins Anthropic in IPO push - TradingView [9]
+
+10. ChatGPT maker OpenAI files for US IPO days after Anthropic - Firstpost [10]
+
+Sources:
+[1] https://tinyurl.com/252y4ure [2] https://tinyurl.com/29tymf43 [3] https://tinyurl.com/2848rhns [4] https://tinyurl.com/295yeqtv [5] https://tinyurl.com/232dllmy [6] https://tinyurl.com/2ce2g6t4 [7] https://tinyurl.com/2bg6tvf7 [8] https://tinyurl.com/2chgmxgx [9] https://tinyurl.com/23yzbvh2 [10] https://tinyurl.com/238dnznr
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 08, 2026
 News
 
