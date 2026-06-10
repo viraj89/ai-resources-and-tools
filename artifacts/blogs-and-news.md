@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 10, 2026
+News
+
+1. OpenAI Just Filed for an IPO After Anthropic Beat It to the Punch. Here's What That Means for the AI Investing Race. - Yahoo Finance [1]
+
+2. OpenAI files for US IPO and AI giants rush to public markets - The American Bazaar [2]
+
+3. Will Price: The US onshore perpetual market is untapped, Lighter's zero-fee model revolutionizes trading, and engineering talent rivals top AI startups | Bankless - Crypto Briefing [3]
+
+4. OpenAI Just Filed for an IPO After Anthropic Beat It to the Punch. Here's What That Means for the AI Investing Race. - The Motley Fool [4]
+
+5. Exclusive | Hedge fund titan asks a record $152.5M for his oceanfront Hamptons estate on just 3.8 acres - New York Post [5]
+
+6. OpenAI files confidentially for IPO as Anthropic raises pressure in AI funding race - Crypto Briefing [6]
+
+7. OpenAI files for US IPO after Anthropic as AI giants head to public markets - Yahoo Finance [7]
+
+8. What OpenAI and Anthropic IPOs mean for the AI industry - AI Magazine [8]
+
+9. Jet.AI sets June 15 record date for flyExclusive merger - Investing.com [9]
+
+10. Prediction: SpaceX, Anthropic, and OpenAI Will Push the S&P 500 Dividend Yield to an All-Time Low. Here's What Income Investors Can Do About It. - The Motley Fool [10]
+
+Sources:
+[1] https://tinyurl.com/2alcv6ha [2] https://tinyurl.com/28bv2f8w [3] https://tinyurl.com/2bzd7oq8 [4] https://tinyurl.com/2b83nawk [5] https://tinyurl.com/2a53bslt [6] https://tinyurl.com/27p7aaqm [7] https://tinyurl.com/2dq4h2ol [8] https://tinyurl.com/27cqylkk [9] https://tinyurl.com/283q99rp [10] https://tinyurl.com/2953ybsz
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 09, 2026
 News
 
