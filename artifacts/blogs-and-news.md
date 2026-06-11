@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 11, 2026
+News
+
+1. Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ [1]
+
+2. Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos [2]
+
+3. OpenAI, Anthropic Cutting Token Prices? This War Could Dent Profits Just As Both Head For IPOs - Stocktwits [3]
+
+4. Here’s How To Invest In SpaceX, OpenAI and Anthropic IPOs—As Demand Could Shatter Records - Forbes [4]
+
+5. WSJ: OpenAI weighs major price cuts to compete with Anthropic before IPO push - investingLive [5]
+
+6. OpenAI, Anthropic Cutting Token Prices? This War Could Dent Profits Just As Both Head For IPOs - TradingView [6]
+
+7. OpenAI kicks off IPO process in test of investor appetite for top AI startups - MSN [7]
+
+8. How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider [8]
+
+9. Exclusive: Anthropic CEO calls for stronger regulation of AI - Yahoo [9]
+
+10. OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC [10]
+
+Sources:
+[1] https://tinyurl.com/28sel2oa [2] https://tinyurl.com/2xouu6op [3] https://tinyurl.com/23w8c6ex [4] https://tinyurl.com/2a7xuzzo [5] https://tinyurl.com/23pdxj78 [6] https://tinyurl.com/24vrhs4s [7] https://tinyurl.com/247ra6un [8] https://tinyurl.com/253z56w6 [9] https://tinyurl.com/2beotcnq [10] https://tinyurl.com/24byxc69
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 10, 2026
 News
 
