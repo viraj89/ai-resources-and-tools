@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 12, 2026
+News
+
+1. DW News. . OpenAI vs. Anthropic: the AI IPO race is on, and both are chasing public-market money. The difference is that one is selling mass adoption, the other is selling corporate margins. #dwbusiness - facebook.com [1]
+
+2. ‘We are helping US government to ...’, says Sam Altman's OpenAI as it bans hundreds of ChatGPT accounts - The Times of India [2]
+
+3. As Sam Altman's OpenAI bans hundreds of ChatGPT accounts, it warns Americans: China is trying to influenc - The Times of India [3]
+
+4. Anthropic urges US to not block state AI regulations till federal standards are set - The American Bazaar [4]
+
+5. Why Anthropic's S-1 is more important for European AI startups than any funding round this year — TFN - Tech Funding News [5]
+
+6. OpenAI Files to Go Public in Test of Investor Appetite for Top AI Startups - WSJ [6]
+
+7. ‘We expect it to leak so we’re just announcing it’: OpenAI files confidential SEC paperwork for IPO - Fortune [7]
+
+8. OpenAI files for IPO as AI investment race intensifies - NBC News [8]
+
+9. SpaceX, OpenAI and Anthropic: Funds Are Gaining Exposure to These Bumper IPOs - Morningstar [9]
+
+10. OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Yahoo Finance [10]
+
+Sources:
+[1] https://tinyurl.com/2dgkupkf [2] https://tinyurl.com/272xxq8w [3] https://tinyurl.com/2cdkja9o [4] https://tinyurl.com/285xc8jn [5] https://tinyurl.com/2b8tlem2 [6] https://tinyurl.com/23er59b6 [7] https://tinyurl.com/262mhwm6 [8] https://tinyurl.com/25v3a52r [9] https://tinyurl.com/28g56cza [10] https://tinyurl.com/24xmknlh
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 11, 2026
 News
 
