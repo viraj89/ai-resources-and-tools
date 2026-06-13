@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 13, 2026
+News
+
+1. OpenAI IPO: What Investors Must See From the Top AI Startup Before Buying Its Stock - MarketWise [1]
+
+2. As US bans Fable 5 and Mythos 5, Anthropic shares a 700-plus word statement; says ‘we believe the governm - The Times of India [2]
+
+3. AI startup quintuples its S.F. footprint as VC funding fuels space grab - The Business Journals [3]
+
+4. Anthropic Surpasses OpenAI as Most Valuable AI Startup Following $65 Billion Funding Round - Analyst Coverage Count - The League of Women Voters of Texas [4]
+
+5. SpaceX's record IPO, Bezos' Prometheus rising and Anthropic's controversial call for AI limits - SiliconANGLE [5]
+
+6. Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use - WSJ [6]
+
+7. Anthropic shuts down newest AI model after U.S. bans foreign use - The Washington Post [7]
+
+8. Exclusive | OpenAI Investigated by Coalition of State Attorneys General - WSJ [8]
+
+9. SpaceX IPO is a model for Anthropic and OpenAI - Axios [9]
+
+10. SpaceX’s gonzo IPO could be good news for OpenAI, Anthropic - San Francisco Examiner [10]
+
+Sources:
+[1] https://tinyurl.com/2dzqzrzj [2] https://tinyurl.com/2xn3wcod [3] https://tinyurl.com/2djcqbec [4] https://tinyurl.com/2afgh5cx [5] https://tinyurl.com/2bz2npk8 [6] https://tinyurl.com/2d36e8yu [7] https://tinyurl.com/2dc2377v [8] https://tinyurl.com/22p7kaqh [9] https://tinyurl.com/224n9r37 [10] https://tinyurl.com/27rfmf2j
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 12, 2026
 News
 
