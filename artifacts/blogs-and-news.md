@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 14, 2026
+News
+
+1. This AI startup says it saves $30,000 a month because of a quirk in OpenAI and Anthropic's pricing - Business Insider [1]
+
+2. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [2]
+
+3. Explained: Why US govt banned Indians, all foreigners from using Anthropic Claude Fable 5 & Mythos - India Today [3]
+
+4. US ban on Anthropic models sparks AI sovereignty concerns - The Times of India [4]
+
+5. Fable: US government bans Anthropic AI model for non-American nationals - Channel 4 [5]
+
+6. US ban on Anthropic's Fable 5 & Mythos 5 to put Indian IT services firms at competitive disadvantage - The Economic Times [6]
+
+7. Anthropic cuts top-tier AI access after US foreigner ban - dw.com [7]
+
+8. As Anthropic suspends access to new models, India debates its AI future - TechCrunch [8]
+
+9. Anthropic disables access to top-tier AI models after US ban on foreign use - France 24 [9]
+
+10. Anthropic says it has taken its latest AI models offline to comply with new export controls - Austin American-Statesman [10]
+
+Sources:
+[1] https://tinyurl.com/22y5pytk [2] https://tinyurl.com/2buvqcar [3] https://tinyurl.com/2bm9vqpf [4] https://tinyurl.com/22ml82lv [5] https://tinyurl.com/26kvunzb [6] https://tinyurl.com/2bmxtcwy [7] https://tinyurl.com/26jgepgb [8] https://tinyurl.com/28d8udq9 [9] https://tinyurl.com/26mxt954 [10] https://tinyurl.com/2ddhjcr6
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 13, 2026
 News
 
