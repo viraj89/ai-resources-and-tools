@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 15, 2026
+News
+
+1. Indian AI Startups Pitch to US Venture Capitalists - Let's Data Science [1]
+
+2. Indian AI startups pitch for funds from venture capitalists in US: Anirudh Arun - BusinessLine [2]
+
+3. Indian AI startups pitch for funds from venture capitalists in US: Anirudh Arun - The Economic Times [3]
+
+4. China venture capital funding set to hit record in Q1 on state-led tech push - Reuters [4]
+
+5. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [5]
+
+6. US ‘export ban’ on Anthropic models may weaken cyber defence: Experts - Indiatimes [6]
+
+7. Canadian PM Mark Carney on US ban on Anthropic's new AI models for all countries: We will have done somet - The Times of India [7]
+
+8. Odds of Anthropic, OpenAI going public dip after SpaceX IPO - Seeking Alpha [8]
+
+9. OpenAI hit with multistate probe into possible user harm as its IPO looms - ABC News - Breaking News, Latest News and Videos [9]
+
+10. OpenAI probed on possible user harm before IPO - Taipei Times [10]
+
+Sources:
+[1] https://tinyurl.com/22hj5y2t [2] https://tinyurl.com/28ugfk4e [3] https://tinyurl.com/22tj8s6f [4] https://tinyurl.com/2dazgsp5 [5] https://tinyurl.com/262fg2cu [6] https://tinyurl.com/23ecc5aj [7] https://tinyurl.com/283n9ee4 [8] https://tinyurl.com/2yk9mwf8 [9] https://tinyurl.com/2aez4y8k [10] https://tinyurl.com/28lcvtu8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 14, 2026
 News
 
