@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 16, 2026
+News
+
+1. Cohere is turning the Anthropic export ban into its fastest customer acquisition moment yet - Startup Fortune [1]
+
+2. Janus Henderson and General Catalyst’s Percepta Build AI-Native Investment and Client Tools, Powered by Anthropic’s Claude - Asian Wealth Management and Asian Private Banking - Hubbis [2]
+
+3. monday.com Launches $200 Million Venture Capital Arm Focused On AI Startups - Pulse 2.0 [3]
+
+4. #WATCH | 🦄 Sarvam AI’s Unicorn leap: India’s Biggest Sovereign AI moment? Sarvam AI has joined the unicorn club after raising $234 million in fresh funding, marking one of the largest investments in an Indian AI startup. The round was led by HCLTech. Why - LinkedIn [4]
+
+5. Indian VCs turn to US AI startups in search of bigger returns - The Economic Times [5]
+
+6. America's order to ban foreigners' access to Anthropic's latest models is a stark reminder for Europe and rest of the world that ... - The Times of India [6]
+
+7. The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch [7]
+
+8. US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters [8]
+
+9. Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit - Yahoo Finance [9]
+
+10. xAI's Lawsuit Accusing OpenAI Of Stealing Trade Secrets Has Been Thrown Out - Engadget [10]
+
+Sources:
+[1] https://tinyurl.com/28mxtqmx [2] https://tinyurl.com/28zjox24 [3] https://tinyurl.com/2y9t7jtd [4] https://tinyurl.com/233hwmeg [5] https://tinyurl.com/27ta2p4u [6] https://tinyurl.com/28kaadc2 [7] https://tinyurl.com/24vvujf9 [8] https://tinyurl.com/276bdv7x [9] https://tinyurl.com/2bhls3qy [10] https://tinyurl.com/23lxfsx8
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 15, 2026
 News
 
