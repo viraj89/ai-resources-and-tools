@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 17, 2026
+News
+
+1. Judge dismisses Musk’s xAI lawsuit against OpenAI - The American Bazaar [1]
+
+2. US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI - NY Daily Record [2]
+
+3. OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters [3]
+
+4. G7 Summit Evian Live: OpenAI, Anthropic Bosses to Discuss AI Risks With Leaders - Bloomberg [4]
+
+5. Anthropic incident leaves confusion about Trump administration's AI regulation - NPR [5]
+
+6. The 'Magnificent 7' is so last year. SpaceX, OpenAI, and Anthropic are ushering in the FAB 10. - Yahoo Finance [6]
+
+7. Anthropic Ban Stirs Concerns at OpenAI and Beyond of Crackdown on Foreign AI Talent - The Information [7]
+
+8. OpenAI Financials Leaked Ahead Of IPO? ChatGPT Maker Said To Have Lost $39B Last Year: Here's How That Compares To Anthropic, SpaceX - Yahoo Finance [8]
+
+9. Anthropic Tops OpenAI In Business AI Spending Despite Trump Feud - Yellow.com [9]
+
+10. US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI - Al Jazeera [10]
+
+Sources:
+[1] https://tinyurl.com/22htxuef [2] https://tinyurl.com/28s7fdy3 [3] https://tinyurl.com/252y4ure [4] https://tinyurl.com/29q3ylfx [5] https://tinyurl.com/29j7ny88 [6] https://tinyurl.com/2d243ye6 [7] https://tinyurl.com/29v39ebu [8] https://tinyurl.com/27zbpagk [9] https://tinyurl.com/23s5ssye [10] https://tinyurl.com/27vamfz4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 16, 2026
 News
 
