@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 18, 2026
+News
+
+1. Palantir CEO Alex Karp to Anthropic and OpenAI: It’s not just the man and woman on the street that is unhappy with you, but also ... - The Times of India [1]
+
+2. Republicans Block Pentagon Investment Ban Aimed at Trump Family - News of the United States - NOTUS [2]
+
+3. Jet.AI sets June 15 record date for flyExclusive merger - Investing.com [3]
+
+4. Trump says Anthropic talks are going fine after US banned India and other countries from accessing AI - India Today [4]
+
+5. Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today - Business Insider [5]
+
+6. SpaceX acquires Anthropic and OpenAI rival in $60B deal - Yahoo Finance Australia [6]
+
+7. Microsoft builds AI model business in China amid US concerns from OpenAI and Anthropic - Crypto Briefing [7]
+
+8. Microsoft expands AI model business in China amid OpenAI, Anthropic concerns - Crypto Briefing [8]
+
+9. Anthropic export ban sounds alarms for AI industry - Axios [9]
+
+10. HSBC targets AI gains with Google Cloud deal; EU antitrust chief urges member states to back cross-border bank mergers - thebanker.com [10]
+
+Sources:
+[1] https://tinyurl.com/2bw4g3fq [2] https://tinyurl.com/2ytfduyz [3] https://tinyurl.com/283q99rp [4] https://tinyurl.com/2dfshq7y [5] https://tinyurl.com/2cb4jujc [6] https://tinyurl.com/28cqu9mw [7] https://tinyurl.com/2c5zmsk2 [8] https://tinyurl.com/2878x7nm [9] https://tinyurl.com/27a8gflu [10] https://tinyurl.com/2bldqrjm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 17, 2026
 News
 
