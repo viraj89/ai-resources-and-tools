@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 19, 2026
+News
+
+1. Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ [1]
+
+2. Here's What SpaceX's Record Stock Market Debut Can Tell Us About OpenAI and Anthropic's Planned IPOs - The Motley Fool [2]
+
+3. SpaceX IPO boosted enthusiasm for OpenAI & Anthropic, but these 'key' tests still await - Yahoo Finance [3]
+
+4. Exclusive | Anthropic floats proposal to Lutnick to end US ban of powerful 'Mythos,' 'Fable' AI models: sources - New York Post [4]
+
+5. AI godfather Yann LeCun calls Elon Musk's xAI a failure, says it cannot match Anthropic and OpenAI - India Today [5]
+
+6. Exclusive: AI scholar Dean Ball says he's heading to OpenAI - Axios [6]
+
+7. OpenAI, Anthropic artificial intelligence IPO boom set to transform San Francisco, starting with soaring real estate prices - ABC7 Bay Area [7]
+
+8. Exclusive: Ha Thai departs Meta to lead comms for OpenAI devices - Axios [8]
+
+9. OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com [9]
+
+10. OpenAI, Anthropic secure room and money to grow in S.F. - San Francisco Business Times - The Business Journals [10]
+
+Sources:
+[1] https://tinyurl.com/2yqcz6tf [2] https://tinyurl.com/2yzmld6q [3] https://tinyurl.com/25kegrn2 [4] https://tinyurl.com/295yg85v [5] https://tinyurl.com/227w9l4x [6] https://tinyurl.com/28uv86h7 [7] https://tinyurl.com/22bdfent [8] https://tinyurl.com/2yxubdum [9] https://tinyurl.com/27djq82w [10] https://tinyurl.com/24d4mskg
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 18, 2026
 News
 
