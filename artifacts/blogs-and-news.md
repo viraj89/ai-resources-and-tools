@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 20, 2026
+News
+
+1. As OpenAI and Anthropic Race Toward IPOs, Trust Becomes the Real Product - observer.com [1]
+
+2. SpaceX, OpenAI And Anthropic: The S&P 500 Inclusion Question And Investment Consequences - Seeking Alpha [2]
+
+3. How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider [3]
+
+4. Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos [4]
+
+5. US export ban on Anthropic’s AI models further strains alliances - Al Jazeera [5]
+
+6. Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About. - The Motley Fool [6]
+
+7. Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About. - Yahoo Finance [7]
+
+8. Amazon Won't Release Sam Altman Biopic Focused On OpenAI's 2023 Leadership Crisis - Engadget [8]
+
+9. OpenAI and Anthropic Compete on AI Trust - Let's Data Science [9]
+
+10. OpenAI Hires Transformer Co-Author Noam Shazeer and Former White House AI Official Dean Ball Ahead of IPO - AI Insider [10]
+
+Sources:
+[1] https://tinyurl.com/2xm9yjss [2] https://tinyurl.com/2asc9jtw [3] https://tinyurl.com/253z56w6 [4] https://tinyurl.com/2xouu6op [5] https://tinyurl.com/2dqrh4xk [6] https://tinyurl.com/27qf29np [7] https://tinyurl.com/2yzmgujy [8] https://tinyurl.com/2xjn5gdv [9] https://tinyurl.com/28gbhp6o [10] https://tinyurl.com/2cxvh5mk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 19, 2026
 News
 
