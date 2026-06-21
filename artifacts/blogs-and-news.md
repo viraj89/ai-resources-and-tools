@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 21, 2026
+News
+
+1. Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ [1]
+
+2. Anthropic Surpasses OpenAI as Most Valuable AI Startup Following $65 Billion Funding Round - Analyst Coverage Count - lwvtexas.org [2]
+
+3. OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC [3]
+
+4. "It looked ridiculous": Vinod Khosla's early OpenAI investment - Yahoo [4]
+
+5. OpenAI hit with multistate probe into possible user harm as its IPO looms - AP News [5]
+
+6. Watch SpaceX IPO Sparks Anticipation for OpenAI and Anthropic - Bloomberg.com [6]
+
+7. Exclusive | OpenAI Investigated by Coalition of State Attorneys General - WSJ [7]
+
+8. OpenAI files for IPO as AI investment race intensifies - NBC News [8]
+
+9. Fable Flak: Anthropic disables global access to its latest AI model after US ban - Open Magazine [9]
+
+10. 'Stop prompting, start delegating': Anthropic exec to banks - American Banker [10]
+
+Sources:
+[1] https://tinyurl.com/28sel2oa [2] https://tinyurl.com/2afgh5cx [3] https://tinyurl.com/24byxc69 [4] https://tinyurl.com/27k6hoej [5] https://tinyurl.com/22kzhgke [6] https://tinyurl.com/2a8kky6a [7] https://tinyurl.com/22p7kaqh [8] https://tinyurl.com/25v3a52r [9] https://tinyurl.com/2b87mvhb [10] https://tinyurl.com/2azvynk4
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 20, 2026
 News
 
