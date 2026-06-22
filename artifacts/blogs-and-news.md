@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 22, 2026
+News
+
+1. SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public. - Yahoo Finance [1]
+
+2. SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public. - The Motley Fool [2]
+
+3. This AI startup says it saves $30,000 a month because of a quirk in OpenAI and Anthropic's pricing - Business Insider [3]
+
+4. Exclusive | The Fundraising Tactic AI Startups Are Using to Juice Valuations - WSJ [4]
+
+5. In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More - Broadband Breakfast [5]
+
+6. SpaceX’s 74-Day IPO Sets Pace for OpenAI, Anthropic - The Information [6]
+
+7. 3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market - Yahoo Finance [7]
+
+8. EXCLUSIVE: Google And Meta May Have The Most To Lose In The AI‑Agent Era, Says Founder Who Rejected OpenAI - Yahoo Finance [8]
+
+9. AI: OpenAI & Anthropic's tight IPO clock to match Elon's SpaceX/xAI. AI-RTZ #1125 - AI: Reset to Zero [9]
+
+10. 3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market - The Motley Fool [10]
+
+Sources:
+[1] https://tinyurl.com/28bl3vlc [2] https://tinyurl.com/2xk4gtpd [3] https://tinyurl.com/22y5pytk [4] https://tinyurl.com/2buvqcar [5] https://tinyurl.com/2y49cupq [6] https://tinyurl.com/2bqdgbp5 [7] https://tinyurl.com/2aua4wh4 [8] https://tinyurl.com/237h4av3 [9] https://tinyurl.com/2yyged9l [10] https://tinyurl.com/28azorf5
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 21, 2026
 News
 
