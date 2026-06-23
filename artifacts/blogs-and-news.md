@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 23, 2026
+News
+
+1. 1st half of 2026 breaks VC records thanks to OpenAI and Anthropic investments | NVCA/Pitchbook - GamesBeat [1]
+
+2. Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News [2]
+
+3. Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic - Investor's Business Daily [3]
+
+4. AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet - Reuters [4]
+
+5. How OpenAI’s Web of Business Relationships Could Complicate Its IPO - The Information [5]
+
+6. OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires - Business Insider [6]
+
+7. Coinbase launches pre-IPO perpetual futures tied to Anthropic, OpenAI after SpaceX (COIN:NASDAQ) - Seeking Alpha [7]
+
+8. US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI - Arizona Digital Free Press [8]
+
+9. Selling a House for OpenAI or Anthropic Shares—How Does That Even Work? - Investopedia [9]
+
+10. COIN Stock Breaks Three-Day Losing Streak: Coinbase Challenges Binance With OpenAI, Anthropic Pre-IPO Futures - Stocktwits [10]
+
+Sources:
+[1] https://tinyurl.com/229uhqf8 [2] https://tinyurl.com/262fg2cu [3] https://tinyurl.com/25dcwcwy [4] https://tinyurl.com/24jbj6xg [5] https://tinyurl.com/25pquql6 [6] https://tinyurl.com/2xmpaa44 [7] https://tinyurl.com/247c9nkx [8] https://tinyurl.com/2xzfrqc9 [9] https://tinyurl.com/2yqkvfjr [10] https://tinyurl.com/27rz57hq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 22, 2026
 News
 
