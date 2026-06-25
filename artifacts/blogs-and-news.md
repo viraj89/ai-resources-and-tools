@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 25, 2026
+News
+
+1. OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters [1]
+
+2. A New York primary winner has a defiant message for OpenAI and Anthropic - Business Insider [2]
+
+3. A Smarter Way to Bet on OpenAI, Anthropic, and Other Hot IPOs - Barron's [3]
+
+4. What do the IPOs for SpaceX, OpenAI and Anthropic mean for Microsoft? - Computerworld [4]
+
+5. Top Google DeepMind engineer to students entering college and wanting to join OpenAI, Anthropic and other - The Times of India [5]
+
+6. AI startups Cohere, Aleph Alpha to merge with $600M in new funding - SiliconANGLE [6]
+
+7. Anthropic's letter reveals alleged Alibaba effort to distill Claude AI as US restricts access to Mythos and Fable 5 - India Today [7]
+
+8. Anthropic's new models were restricted by the US. Europe's top AI startup has been waiting for this moment. - Business Insider [8]
+
+9. How Anthropic used AI ethics slop to play the pope and eclipse OpenAI - bloodinthemachine.com [9]
+
+10. Musk’s lawsuit against OpenAI seen as a ‘test case’ for AI ethics - The Christian Science Monitor [10]
+
+Sources:
+[1] https://tinyurl.com/252y4ure [2] https://tinyurl.com/23zroeba [3] https://tinyurl.com/2c86uol6 [4] https://tinyurl.com/25csaht6 [5] https://tinyurl.com/27ztxfhl [6] https://tinyurl.com/25mug92v [7] https://tinyurl.com/24tblpwh [8] https://tinyurl.com/2c8n9lek [9] https://tinyurl.com/25cmqrg7 [10] https://tinyurl.com/277h3uhq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 24, 2026
 News
 
