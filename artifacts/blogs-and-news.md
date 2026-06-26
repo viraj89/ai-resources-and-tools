@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 26, 2026
+News
+
+1. Why OpenAI and Anthropic may be rushing to IPO amid fears of AI premium fading - CNBC [1]
+
+2. OpenAI files for US IPO after Anthropic as AI giants head to public markets - Yahoo Finance [2]
+
+3. Exclusive | US assures India over AI ‘kill switch’ as ‘Pax Silica’ expands to counter China - South China Morning Post [3]
+
+4. Selling a house for OpenAI or Anthropic stock is legal. It's also harder than it sounds. - Yahoo Finance [4]
+
+5. Competition intensifies for Anthropic and OpenAI ahead of IPOs - Financial Times [5]
+
+6. SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay - Bloomberg.com [6]
+
+7. OpenAI Mulls Delaying IPO Until 2027: NYT - Investor's Business Daily [7]
+
+8. OpenAI may delay blockbuster IPO to 2027 - Investing.com [8]
+
+9. OpenAI, Anthropic, Microsoft, and Amazon are behind a new organization that aims to help prepare workers for AI - Business Insider [9]
+
+10. SoftBank shares slide after report OpenAI may delay IPO until next year - Investing.com [10]
+
+Sources:
+[1] https://tinyurl.com/22lm89gt [2] https://tinyurl.com/244922f7 [3] https://tinyurl.com/2yyqwgkb [4] https://tinyurl.com/23qwhllj [5] https://tinyurl.com/22qw74s8 [6] https://tinyurl.com/2955vajs [7] https://tinyurl.com/2825js94 [8] https://tinyurl.com/22smqz56 [9] https://tinyurl.com/23jny6cb [10] https://tinyurl.com/2cvbsoje
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 25, 2026
 News
 
