@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 27, 2026
+News
+
+1. Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ [1]
+
+2. After 'banning' Anthropic’s AI, US government now sends message to OpenAI CEO Sam Altman; says: Your new - The Times of India [2]
+
+3. OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review - Broadband Breakfast [3]
+
+4. OpenAI weighs IPO in 2027 after expected Anthropic public debut - Indiatimes [4]
+
+5. OpenAI Launches GPT-5.6 as US Government Clears Anthropic’s Mythos 5 Return - Analytics India Magazine [5]
+
+6. Exclusive: Goldman bankers say the next AI boom is in the physical economy - Axios [6]
+
+7. Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor [7]
+
+8. OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency - CNBC [8]
+
+9. OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review - AP News [9]
+
+10. OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review - The Seattle Times [10]
+
+Sources:
+[1] https://tinyurl.com/2yqcz6tf [2] https://tinyurl.com/2aamxk67 [3] https://tinyurl.com/2d3p334o [4] https://tinyurl.com/245qvpb5 [5] https://tinyurl.com/27u99qxq [6] https://tinyurl.com/23u8xorf [7] https://tinyurl.com/28zlohb8 [8] https://tinyurl.com/22uv4qkq [9] https://tinyurl.com/26gtwpo7 [10] https://tinyurl.com/2bgjsjqk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 26, 2026
 News
 
