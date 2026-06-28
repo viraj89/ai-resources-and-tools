@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 28, 2026
+News
+
+1. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch [1]
+
+2. India's AI problem: Funding gap for AI startups, research and development is the core constraint - WION [2]
+
+3. OpenAI IPO: What Investors Must See From the Top AI Startup Before Buying Its Stock - MarketWise [3]
+
+4. OpenAI and Anthropic may file IPO prospectuses soon after SpaceX’s historic filing - Crypto Briefing [4]
+
+5. How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider [5]
+
+6. Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos [6]
+
+7. OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review - Nonstop Local News [7]
+
+8. OpenAI Eyes 2027 IPO Delay As Washington Clears Anthropic's Mythos 5 - Forbes [8]
+
+9. OpenAI poaches Uber India chief to lead its biggest market outside the US - TechCrunch [9]
+
+10. OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut - Bloomberg.com [10]
+
+Sources:
+[1] https://tinyurl.com/26dq952e [2] https://tinyurl.com/2dgrdbcf [3] https://tinyurl.com/2dzqzrzj [4] https://tinyurl.com/29xhma4d [5] https://tinyurl.com/253z56w6 [6] https://tinyurl.com/2xouu6op [7] https://tinyurl.com/28qmamul [8] https://tinyurl.com/28rvp853 [9] https://tinyurl.com/24kzqyx6 [10] https://tinyurl.com/27cv9vnq
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 27, 2026
 News
 
