@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 29, 2026
+News
+
+1. Anthropic vs the Trump administration: Is the Fable and Mythos national security ban just political retaliation? - Tech Funding News [1]
+
+2. Anthropic Surpasses OpenAI as Most Valuable AI Startup Following $65 Billion Funding Round - Analyst Coverage Count - lwvtexas.org [2]
+
+3. Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China - The Economic Times [3]
+
+4. Only 3% of U.S. households pay for AI services despite billions in investment, Bank of America report finds - moneywise.com [4]
+
+5. SoftBank hits one-month low as OpenAI IPO uncertainty weighs on AI bet - Investing.com [5]
+
+6. Potential OpenAI IPO Delay Hits Oracle Stock - Investor's Business Daily [6]
+
+7. Anthropic’s Fable 5 to come back online after two-week ban by US government - report - The Jerusalem Post [7]
+
+8. Anthropic Restores Fable 5 After US Ban - Let's Data Science [8]
+
+9. US lifts ban on Anthropic’s AI model Claude Fable 5 after security concerns - Crypto Briefing [9]
+
+10. US export ban on Anthropic’s AI models further strains alliances - Al Jazeera [10]
+
+Sources:
+[1] https://tinyurl.com/2cv9kfz2 [2] https://tinyurl.com/2afgh5cx [3] https://tinyurl.com/2akwfy4p [4] https://tinyurl.com/22hfo557 [5] https://tinyurl.com/2c84mhft [6] https://tinyurl.com/26lpkf8c [7] https://tinyurl.com/27ylt7bv [8] https://tinyurl.com/28k3had4 [9] https://tinyurl.com/225fkbyl [10] https://tinyurl.com/2dqrh4xk
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 28, 2026
 News
 
