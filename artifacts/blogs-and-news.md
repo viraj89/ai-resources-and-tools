@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News June 30, 2026
+News
+
+1. Exclusive / US investors lead $30M funding for Gulf AI startup 1001 - Semafor [1]
+
+2. Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - Yahoo Finance [2]
+
+3. DW News. . OpenAI vs. Anthropic: the AI IPO race is on, and both are chasing public-market money. The difference is that one is selling mass adoption, the other is selling corporate margins. #dwbusiness - facebook.com [3]
+
+4. OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review - SecurityWeek [4]
+
+5. Austria Urges Anthropic to Move to EU to Avoid US Controls - BankInfoSecurity [5]
+
+6. US government partially lifts Anthropic AI export ban - Crypto Briefing [6]
+
+7. AI Watch: OpenAI names India MD, Google caps Meta AI model usage, Oracle slides on debt fears - CNBC TV18 - LinkedIn [7]
+
+8. Why Google Just Lost 4 Key Staffers to Anthropic and OpenAI - inc.com [8]
+
+9. OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review - InformNNY.com [9]
+
+10. OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval - Tom's Hardware [10]
+
+Sources:
+[1] https://tinyurl.com/2a5hmvpt [2] https://tinyurl.com/28nh7mbj [3] https://tinyurl.com/2dgkupkf [4] https://tinyurl.com/26obtbtt [5] https://tinyurl.com/23xhpkaw [6] https://tinyurl.com/2yzhaatm [7] https://tinyurl.com/294fhfsj [8] https://tinyurl.com/256zfhwe [9] https://tinyurl.com/222m6bu2 [10] https://tinyurl.com/2bkbbwxm
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 29, 2026
 News
 
