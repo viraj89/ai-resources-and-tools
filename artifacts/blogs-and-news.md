@@ -1,6 +1,37 @@
 # 🔗 Blog Posts / News Articles
 
 
+## Quick Daily AI News July 01, 2026
+News
+
+1. US lifts export ban on Anthropic's most powerful AI models after security review - India Today [1]
+
+2. White House drops restrictions on Anthropic AI models after two-week ban - The Washington Post [2]
+
+3. Lawsuit alleges OpenAI rushed chat bot to market, endangering FSU shooting victims - WCTV [3]
+
+4. Exclusive: Meta and OpenAI alumni seek $400m for new AI lab - Sifted [4]
+
+5. How to Avoid IPO FOMO With Simple Habits as OpenAI, Anthropic, and SpaceX Head to Market - The Motley Fool [5]
+
+6. Exclusive: Newsom, Anthropic ink deal to expand government use - Politico [6]
+
+7. US Lifts Export Curbs on Anthropic AI Models - BankInfoSecurity [7]
+
+8. White House lifts ban on Anthropic models - Financial Times [8]
+
+9. Anthropic Clears Major IPO Hurdle As US Lifts Export Controls On Claude AI Fable, Mythos Models - Stocktwits [9]
+
+10. News | Anthropic takes blockbuster leasing streak to Seattle ahead of IPO ambitions - CoStar [10]
+
+Sources:
+[1] https://tinyurl.com/287k2jkv [2] https://tinyurl.com/2akg44g5 [3] https://tinyurl.com/2ymhwqmj [4] https://tinyurl.com/2y3dsuq6 [5] https://tinyurl.com/289alwut [6] https://tinyurl.com/2xu69rkf [7] https://tinyurl.com/26ntxttn [8] https://tinyurl.com/2xv3kacv [9] https://tinyurl.com/2bhuzhrj [10] https://tinyurl.com/27nyynz2
+
+---
+
+🔗 Blog Posts / News Articles
+
+
 ## Quick Daily AI News June 30, 2026
 News
 
